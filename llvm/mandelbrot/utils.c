@@ -3,47 +3,38 @@
 #include <string.h>
 #include "bmpfile.h"
 
-void write_image(int **img, int width, int height) {
-  
-  int left = sizeof(**img)*width*height;
-  char *buf = (char*) img;
-  int fd = open("image.rgb", O_CREAT| O_WRONLY);
+#define PALETE_NUM_COLORS 256
 
-  do {
-    
-    int w = write(fd, buf, left);
-    
-    if (w == -1) {
-      printf("Could not write file");
-      exit(-1);
-    }
-    left -= w;
-    buf += w;
-  } while (left > 0);
-
-  close(fd);
-}
-
-void write_bmp(int *img, int width, int height) {
+void write_bmp(unsigned char *img, int width, int height) {
   bmpfile_t *bmp;
   int i, j;
+  rgb_pixel_t palette[PALETE_NUM_COLORS] = {0};
 
   if ((bmp = bmp_create(width, height, 32)) == NULL) {
     printf("Could not create bitmap");
     exit(-1);
   }
 
+  for (i=1;i<PALETE_NUM_COLORS/2;i++) {
+    rgb_pixel_t *p = &palette[i];
+    p->red = (int) (0XFF * (PALETE_NUM_COLORS/2.0+(double)i)/PALETE_NUM_COLORS);;
+    p->green = 0X99;
+    p->blue = 0X33;
+  }
+
+   for (;i<PALETE_NUM_COLORS;i++) {
+    rgb_pixel_t *p = &palette[i];
+    p->green = (int) (0XFF * (PALETE_NUM_COLORS/2.0+(double)i)/PALETE_NUM_COLORS);;
+    p->red = 0X99;
+    p->blue = 0X66;
+  }
+
   for (j = 0; j < height; ++j) {
     for (i = 0; i < width; ++i) {
       int index = j*width+i;
       int c = img[index];
-      rgb_pixel_t p = {0, 0, 0, 0};
-  
-      p.red = (c+64) % 256;
-      p.green = (c-47) % 200;
-      p.blue = (c-73) % 180;
-      	
-      bmp_set_pixel(bmp, i, j, p);
+
+      bmp_set_pixel(bmp, i, j, palette[c % PALETE_NUM_COLORS]);
     }
   }
   bmp_save(bmp, "image.bmp");

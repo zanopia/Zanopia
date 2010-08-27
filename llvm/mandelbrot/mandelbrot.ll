@@ -7,20 +7,20 @@
 @"print_point_color" = internal constant [14 x i8] c"(%lf,%lf,%d)\0A\00" 
 @"print_color_i8" = internal constant [2 x i8] c"%c" 
 
-@MAXITER = internal constant i32 3000
+@MAXITER = internal constant i32 200
 @ESCAPE = internal constant double 4.0
 @XC = internal constant double -0.10894500736830963
 @YC = internal constant double -0.8955496975621973
-@ZOOM = internal constant double 2.0
+@ZOOM = internal constant double 0.1
 @W  = internal constant i32 2048
 @H  = internal constant i32 2048
 
 ; Data
-@IMG = global [2048 x [2048 x i32]] zeroinitializer
+@IMG = global [2048 x [2048 x i8]] zeroinitializer
 
 ; Externals
 declare i32 @printf(i8*, ...)
-declare void @write_bmp(i32* %img, i32 %width, i32 %height) nounwind
+declare void @write_bmp(i8* %img, i32 %width, i32 %height) nounwind
 
 define double @mand(double %re0, double %im0, i32 %max) {
        ;  variable definition
@@ -136,12 +136,12 @@ loop_over_y:
        %2 = fdiv double %1, %maxiter.d
        %3 = fptoui double %2 to i32
        %4 = urem i32 %3, 256 ; % 256
-       %color = mul i32 %4, 1
+       %color = trunc i32 %4 to i8
 
        ; %print.res = call i32 (i8*, ...)* @printf(i8* getelementptr ([14 x i8]* @"print_point_color", i32 0, i32 0), double %x, double %y, i32 %4)
        
-       %pixel.a = getelementptr [2048 x [2048 x i32]]* @IMG, i32 0, i32 %i, i32 %j
-       store i32 %color, i32* %pixel.a
+       %pixel.a = getelementptr [2048 x [2048 x i8]]* @IMG, i32 0, i32 %i, i32 %j
+       store i8 %color, i8* %pixel.a
 
        %j1 = add i32 1, %j
        store i32 %j1, i32* %j.a 
@@ -171,7 +171,7 @@ define i32 @main() {
        %res = call i32 @mandelbrot(double %xc, double %yc)
 
        ; save img
-       call void @write_bmp(i32* bitcast ([2048 x [2048 x i32]]* @IMG to i32*), i32 %w, i32 %h)
+       call void @write_bmp(i8* bitcast ([2048 x [2048 x i8]]* @IMG to i8*), i32 %w, i32 %h)
        
        ret i32 0
 }
