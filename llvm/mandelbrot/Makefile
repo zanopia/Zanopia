@@ -8,9 +8,9 @@ image.bmp: mandelbrot_opt
 	./mandelbrot_opt
 
 clean:
-	rm utils.ll mandelbrot_opt.ll bmpfile.ll mandelbrot mandelbrot_opt
-	rm *.bc
-	rm image.bmp
+	rm -f utils.ll mandelbrot_opt.ll bmpfile.ll mandelbrot mandelbrot_opt
+	rm -f *.bc
+	rm -f image.bmp
 
 mandelbrot: mandelbrot.bc utils.bc bmpfile.bc
 	llvm-ld -native mandelbrot.bc utils.bc bmpfile.bc -o mandelbrot
