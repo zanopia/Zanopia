@@ -1,12 +1,15 @@
 ; ModuleID = 'mandelbrot'
 
 ; Constants
+
+; Various printf format for debugging purposes
 @"print_i32" = internal constant [4 x i8] c"%d\0A\00"
 @"print_double" = internal constant [5 x i8] c"%lf\0A\00" 
 @"print_point" = internal constant [11 x i8] c"(%lf,%lf)\0A\00" 
 @"print_point_color" = internal constant [14 x i8] c"(%lf,%lf,%d)\0A\00" 
 @"print_color_i8" = internal constant [2 x i8] c"%c" 
 
+; Mandelbrot fractal constant, play with it to generate new 
 @MAXITER = internal constant i32 200
 @ESCAPE = internal constant double 4.0
 @XC = internal constant double -0.10894500736830963
@@ -22,6 +25,10 @@
 declare i32 @printf(i8*, ...)
 declare void @write_bmp(i8* %img, i32 %width, i32 %height) nounwind
 
+; function mand
+; return # mandelbrot iterations for 1 point, (%re0, %im0), with %max iteration maximum
+; Here's the formula
+; ... TODO
 define double @mand(double %re0, double %im0, i32 %max) {
        ;  variable definition
        %t.addr = alloca i32
@@ -29,7 +36,7 @@ define double @mand(double %re0, double %im0, i32 %max) {
        %im.addr = alloca double
        %z.addr = alloca double
 
-       ; setup
+       ; setup initial values
        store double %re0, double* %re.addr
        store double %im0, double* %im.addr
  
@@ -39,7 +46,7 @@ define double @mand(double %re0, double %im0, i32 %max) {
 
 loop_over_t:
 	%t = load i32* %t.addr
-
+	; uncomment to debug t (loop counter)
 	;%1 = call i32 (i8*, ...)* @printf(i8* getelementptr ([4 x i8]* @"print_i32", i32 0, i32 0), i32 %t)
 
 	; compute re^2
@@ -48,6 +55,7 @@ loop_over_t:
 	%re_re = mul double %re, %re
 	%im_im = mul double %im, %im
 
+	; compute z & compare with ESCAPE
 	%z = add double %re_re, %im_im
 	%escape = load double* @ESCAPE
 	%conf_z_gt_escape = fcmp ogt double %z, %escape
@@ -55,7 +63,6 @@ loop_over_t:
 
 continue:
 	; increment t and loop
-	
 	%tp1 = add i32 1, %t
 	store i32 %tp1, i32* %t.addr
 	%cond_max_loop_reached = icmp eq i32 %tp1, %max
@@ -80,10 +87,14 @@ max_reached:
 
 escape_reached:
 	%td = uitofp i32 %t to double
+	; uncomment to debug when escape is reached
 	; %print.dres = call i32 (i8*, ...)* @printf(i8* getelementptr ([5 x i8]* @"print_double", i32 0, i32 0), double %td)
 	ret double %td
 }
 
+
+; main mandelbrot code
+; Fills UP IMG table
 define i32 @mandelbrot(double %xc, double %yc) {
 
        ; local variables
@@ -159,18 +170,16 @@ done:
 }
 
 define i32 @main() {
-       ; local variables
-
-       ; init
+       ; init local variables from constants defined at the top
        %xc = load double* @XC
        %yc = load double* @YC
        %w = load i32* @W
        %h = load i32* @H
 
-       ; calc
+       ; call mandelbrot code to fill up IMG pixels
        %res = call i32 @mandelbrot(double %xc, double %yc)
 
-       ; save img
+       ; save img as bitamp.bmp by calling an utility C function
        call void @write_bmp(i8* bitcast ([2048 x [2048 x i8]]* @IMG to i8*), i32 %w, i32 %h)
        
        ret i32 0
