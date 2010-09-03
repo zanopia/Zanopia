@@ -1,4 +1,6 @@
 ; ModuleID = 'mandelbrot'
+; Giorgio Regni
+; gr@scality.com
 
 ; Constants
 
