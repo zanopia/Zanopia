@@ -1,3 +1,6 @@
+; Giorgio Regni
+;
+
 .SUFFIXES: .ll .bc
 
 all: mandelbrot mandelbrot_opt
