@@ -1,5 +1,3 @@
-; Giorgio Regni
-;
 
 .SUFFIXES: .ll .bc
 

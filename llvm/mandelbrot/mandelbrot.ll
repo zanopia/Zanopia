@@ -18,7 +18,7 @@
 @W  = internal constant i32 2048
 @H  = internal constant i32 2048
 
-; Data
+; Entire image buffer in memory
 @IMG = global [2048 x [2048 x i8]] zeroinitializer
 
 ; Externals
@@ -95,7 +95,7 @@ escape_reached:
 
 ; main mandelbrot code
 ; Fills UP IMG table
-define i32 @mandelbrot(double %xc, double %yc) {
+define i32 @mandelbrot(double %xc, double %yc, i32 %max) {
 
        ; local variables
        %x.a = alloca double       
@@ -104,8 +104,7 @@ define i32 @mandelbrot(double %xc, double %yc) {
        %j.a = alloca i32
 
        ; init
-       %maxiter = load i32* @MAXITER
-       %maxiter.d = uitofp i32 %maxiter to double
+       %max.d = uitofp i32 %max to double ; convert to double for later calculations
        %w = load i32* @W
        %w.d = uitofp i32 %w to double
        %h = load i32* @H
@@ -140,11 +139,11 @@ loop_over_y:
        %yoffset = mul double %yinc, %j.d 
        %y = add double %ystart, %yoffset;
 
-       %res = call double @mand(double %x, double %y, i32 %maxiter)
+       %res = call double @mand(double %x, double %y, i32 %max)
 
        ; convert res to color
        %1 = fmul double %res, 255.
-       %2 = fdiv double %1, %maxiter.d
+       %2 = fdiv double %1, %max.d
        %3 = fptoui double %2 to i32
        %4 = urem i32 %3, 256 ; % 256
        %color = trunc i32 %4 to i8
@@ -175,9 +174,10 @@ define i32 @main() {
        %yc = load double* @YC
        %w = load i32* @W
        %h = load i32* @H
+       %max = load i32* @MAXITER
 
        ; call mandelbrot code to fill up IMG pixels
-       %res = call i32 @mandelbrot(double %xc, double %yc)
+       %res = call i32 @mandelbrot(double %xc, double %yc, i32 %max)
 
        ; save img as bitamp.bmp by calling an utility C function
        call void @write_bmp(i8* bitcast ([2048 x [2048 x i8]]* @IMG to i8*), i32 %w, i32 %h)
