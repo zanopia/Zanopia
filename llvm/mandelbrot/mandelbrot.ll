@@ -11,14 +11,14 @@
 @"print_point_color" = internal constant [14 x i8] c"(%lf,%lf,%d)\0A\00" 
 @"print_color_i8" = internal constant [2 x i8] c"%c" 
 
-; Mandelbrot fractal constant, play with it to generate new 
-@MAXITER = internal constant i32 200
+; Mandelbrot fractal constant, play with it to generate cool images
+@MAXITER = internal constant i32 200                
 @ESCAPE = internal constant double 4.0
-@XC = internal constant double -0.10894500736830963
-@YC = internal constant double -0.8955496975621973
-@ZOOM = internal constant double 0.1
-@W  = internal constant i32 2048
-@H  = internal constant i32 2048
+@XC = internal constant double -0.10894500736830963 ; center point x
+@YC = internal constant double -0.8955496975621973  ; center point y
+@ZOOM = internal constant double 0.1                ; zoom into the fractal
+@W  = internal constant i32 2048                    ; image width
+@H  = internal constant i32 2048                    ; image height
 
 ; Entire image buffer in memory
 @IMG = global [2048 x [2048 x i8]] zeroinitializer
