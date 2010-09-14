@@ -1,0 +1,33 @@
+Mandelbrot fractal generator
+See http://blog.zanopia.org/2010/09/understanding-llvm-assembly-with-fractals-part-i.html
+
+To play with the generator you need:
+ * LLVM http://www.llvm.org
+ * CLANG http://clang.llvm.org
+
+Type make to compile
+Use make run to generate image.bmp and then open it with your favorite image viewer.
+
+For example:
+
+Mumbai:mandelbrot giorgio$ make
+llvm-as -f mandelbrot.ll
+clang -g -S -emit-llvm -o utils.ll utils.c
+llvm-as -f utils.ll
+clang -g -S -emit-llvm -o bmpfile.ll bmpfile.c
+llvm-as -f bmpfile.ll
+llvm-ld -native mandelbrot.bc utils.bc bmpfile.bc -o mandelbrot
+opt -O3 mandelbrot.bc -f -o mandelbrot_opt.bc
+llvm-dis mandelbrot_opt.bc -f
+llvm-ld -native mandelbrot_opt.bc utils.bc bmpfile.bc -o mandelbrot_opt
+Mumbai:mandelbrot giorgio$ make run
+./mandelbrot_opt
+Mumbai:mandelbrot giorgio$ ls image.bmp 
+image.bmp
+Mumbai:mandelbrot giorgio$ 
+
+Have fun,
+
+Giorgio Regni
+http://twitter.com/GiorgioRegni
+@GiorgioRegni on twitter
