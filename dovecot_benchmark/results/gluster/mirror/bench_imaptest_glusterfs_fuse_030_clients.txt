@@ -1,0 +1,506 @@
+Logi List Stat Sele Fetc Fet2 Stor Dele Expu Appe Logo 
+100%  50%  50% 100% 100% 100%  50% 100% 100% 100% 100% 
+                          30%                  5%      
+  27    3    4    8    7    9    1    7    1    0    0  30/ 30
+  54   28   36   67   61   91    2   47   59   62  124  21/ 30
+  87   41   30   84   71  107    6   51   70   77  154  30/ 30
+  31   14   16   33   25   35    2   25   27   32   64  29/ 30
+  44   18   22   41   37   50    6   27   38   42   84  30/ 30
+  33   13   19   33   29   37    2   25   28   36   72  30/ 30
+  40   18   22   42   39   60    5   30   36   41   82  30/ 30
+  26   12   14   24   22   32    1   20   25   27   54  29/ 30
+  35   17   20   36   33   48    4   25   31   30   60  30/ 30
+  51   28   31   55   46   65    6   35   48   53  106  30/ 30
+Logi List Stat Sele Fetc Fet2 Stor Dele Expu Appe Logo 
+100%  50%  50% 100% 100% 100%  50% 100% 100% 100% 100% 
+                          30%                  5%      
+  38   20   25   38   37   51    5   30   28   36   72  30/ 30
+  40   13   15   35   33   50    3   28   41   43   86  30/ 30
+  36   20   19   37   36   56    3   30   35   36   72  30/ 30
+  40   31   20   47   45   66    7   36   40   38   76  30/ 30
+  28   14   14   28   25   38    2   22   26   32   64  30/ 30
+  16    5    5   14   12   18    2   10   13   11   22  30/ 30
+   0    0    0    0    0    0    0    0    0    0    0  30/ 30
+   0    0    1    1    1    1    0    0    5    6   12  30/ 30
+   0    0    0    0    0    0    0    0    0    0    0  30/ 30
+   0    0    0    0    0    0    0    0    0    0    0  30/ 30
+Logi List Stat Sele Fetc Fet2 Stor Dele Expu Appe Logo 
+100%  50%  50% 100% 100% 100%  50% 100% 100% 100% 100% 
+                          30%                  5%      
+   0    0    0    0    0    0    0    0    0    0    0  30/ 30
+   0    0    0    0    0    0    0    0    0    0    0  30/ 30
+   0    0    0    0    0    0    0    0    0    0    0  30/ 30
+   0    0    0    0    0    0    0    0    0    0    0  30/ 30
+   7    2    3    5    6    9    0    5    1    1    2  30/ 30
+   0    0    0    0    0    0    0    0    0    0    0  30/ 30
+   0    0    0    0    2    2    0    1    2    2    4  30/ 30
+   0    0    0    0    0    0    0    0    0    0    0  30/ 30
+   0    0    0    0    0    0    0    0    0    0    0  30/ 30
+   0    0    0    0    0    0    0    0    0    0    0  30/ 30
+Logi List Stat Sele Fetc Fet2 Stor Dele Expu Appe Logo 
+100%  50%  50% 100% 100% 100%  50% 100% 100% 100% 100% 
+                          30%                  5%      
+   0    0    0    0    0    0    0    0    0    0    0  30/ 30
+ - 586 stalled for 16 secs in command: 7 EXPUNGE
+   0    0    0    0    0    0    0    0    0    0    0  30/ 30
+ - 626 stalled for 16 secs in command: 2 SELECT "INBOX" (CONDSTORE)
+ - 617 stalled for 16 secs in command: 9 APPEND "INBOX" (\Answered \Flagged \Draft $Label1 $Label2 $Label4 $Label5) "23-Apr-2003 15:13:28 +0200" {2329+}
+ - 614 stalled for 16 secs in command: 9 APPEND "INBOX" (\Answered \Seen $Label3) "23-Apr-2003 14:13:10 +0200" {3504+}
+ - 618 stalled for 16 secs in command: 7 APPEND "INBOX" {1950+}
+ - 595 stalled for 16 secs in command: 4 APPEND "INBOX" (\Answered \Seen \Draft $Label3 $Label5) "23-Apr-2003 01:45:44 +0200" {2130+}
+ - 611 stalled for 16 secs in command: 4 APPEND "INBOX" (\Answered \Flagged \Seen $Label1 $Label2) "23-Apr-2003 18:03:23 +0200" {4004+}
+ - 616 stalled for 16 secs in command: 9 STORE 1 +FLAGS.SILENT \Deleted
+ - 624 stalled for 16 secs in command: 7 EXPUNGE
+ - 586 stalled for 17 secs in command: 7 EXPUNGE
+ - 621 stalled for 16 secs in command: 7 EXPUNGE
+ - 608 stalled for 16 secs in command: 8 FETCH 1 (UID BODY.PEEK[TEXT])
+ - 613 stalled for 16 secs in command: 6 EXPUNGE
+ - 620 stalled for 16 secs in command: 8 APPEND "INBOX" {1961+}
+ - 597 stalled for 16 secs in command: 8 EXPUNGE
+   2    0    0    1    1    2    1    0    1    2    4  30/ 30
+ - 626 stalled for 17 secs in command: 2 SELECT "INBOX" (CONDSTORE)
+ - 617 stalled for 17 secs in command: 9 APPEND "INBOX" (\Answered \Flagged \Draft $Label1 $Label2 $Label4 $Label5) "23-Apr-2003 15:13:28 +0200" {2329+}
+ - 614 stalled for 17 secs in command: 9 APPEND "INBOX" (\Answered \Seen $Label3) "23-Apr-2003 14:13:10 +0200" {3504+}
+ - 618 stalled for 17 secs in command: 7 APPEND "INBOX" {1950+}
+ - 611 stalled for 17 secs in command: 4 APPEND "INBOX" (\Answered \Flagged \Seen $Label1 $Label2) "23-Apr-2003 18:03:23 +0200" {4004+}
+ - 616 stalled for 17 secs in command: 9 STORE 1 +FLAGS.SILENT \Deleted
+ - 624 stalled for 17 secs in command: 7 EXPUNGE
+ - 621 stalled for 17 secs in command: 7 EXPUNGE
+ - 608 stalled for 17 secs in command: 8 FETCH 1 (UID BODY.PEEK[TEXT])
+ - 613 stalled for 17 secs in command: 6 EXPUNGE
+ - 620 stalled for 17 secs in command: 8 APPEND "INBOX" {1961+}
+ - 597 stalled for 17 secs in command: 8 EXPUNGE
+   1    0    0    0    0    0    0    0    0    1    2  30/ 30
+ - 626 stalled for 18 secs in command: 2 SELECT "INBOX" (CONDSTORE)
+ - 617 stalled for 18 secs in command: 9 APPEND "INBOX" (\Answered \Flagged \Draft $Label1 $Label2 $Label4 $Label5) "23-Apr-2003 15:13:28 +0200" {2329+}
+ - 614 stalled for 18 secs in command: 9 APPEND "INBOX" (\Answered \Seen $Label3) "23-Apr-2003 14:13:10 +0200" {3504+}
+ - 618 stalled for 18 secs in command: 7 APPEND "INBOX" {1950+}
+ - 611 stalled for 18 secs in command: 4 APPEND "INBOX" (\Answered \Flagged \Seen $Label1 $Label2) "23-Apr-2003 18:03:23 +0200" {4004+}
+ - 616 stalled for 18 secs in command: 9 STORE 1 +FLAGS.SILENT \Deleted
+ - 624 stalled for 18 secs in command: 7 EXPUNGE
+ - 621 stalled for 18 secs in command: 7 EXPUNGE
+ - 608 stalled for 18 secs in command: 8 FETCH 1 (UID BODY.PEEK[TEXT])
+ - 613 stalled for 18 secs in command: 6 EXPUNGE
+ - 607 stalled for 16 secs in command: 4 FETCH 1:2 (RFC822.SIZE)
+ - 597 stalled for 18 secs in command: 8 EXPUNGE
+   0    0    0    0    0    0    0    0    0    0    0  30/ 30
+ - 626 stalled for 19 secs in command: 2 SELECT "INBOX" (CONDSTORE)
+ - 617 stalled for 19 secs in command: 9 APPEND "INBOX" (\Answered \Flagged \Draft $Label1 $Label2 $Label4 $Label5) "23-Apr-2003 15:13:28 +0200" {2329+}
+ - 614 stalled for 19 secs in command: 9 APPEND "INBOX" (\Answered \Seen $Label3) "23-Apr-2003 14:13:10 +0200" {3504+}
+ - 618 stalled for 19 secs in command: 7 APPEND "INBOX" {1950+}
+ - 611 stalled for 19 secs in command: 4 APPEND "INBOX" (\Answered \Flagged \Seen $Label1 $Label2) "23-Apr-2003 18:03:23 +0200" {4004+}
+ - 616 stalled for 19 secs in command: 9 STORE 1 +FLAGS.SILENT \Deleted
+ - 624 stalled for 19 secs in command: 7 EXPUNGE
+ - 621 stalled for 19 secs in command: 7 EXPUNGE
+ - 608 stalled for 19 secs in command: 8 FETCH 1 (UID BODY.PEEK[TEXT])
+ - 613 stalled for 19 secs in command: 6 EXPUNGE
+ - 607 stalled for 17 secs in command: 4 FETCH 1:2 (RFC822.SIZE)
+ - 597 stalled for 19 secs in command: 8 EXPUNGE
+   0    0    0    0    0    0    0    0    0    0    0  30/ 30
+ - 626 stalled for 20 secs in command: 2 SELECT "INBOX" (CONDSTORE)
+ - 617 stalled for 20 secs in command: 9 APPEND "INBOX" (\Answered \Flagged \Draft $Label1 $Label2 $Label4 $Label5) "23-Apr-2003 15:13:28 +0200" {2329+}
+ - 614 stalled for 20 secs in command: 9 APPEND "INBOX" (\Answered \Seen $Label3) "23-Apr-2003 14:13:10 +0200" {3504+}
+ - 618 stalled for 20 secs in command: 7 APPEND "INBOX" {1950+}
+ - 611 stalled for 20 secs in command: 4 APPEND "INBOX" (\Answered \Flagged \Seen $Label1 $Label2) "23-Apr-2003 18:03:23 +0200" {4004+}
+ - 616 stalled for 20 secs in command: 9 STORE 1 +FLAGS.SILENT \Deleted
+ - 624 stalled for 20 secs in command: 7 EXPUNGE
+ - 621 stalled for 20 secs in command: 7 EXPUNGE
+ - 608 stalled for 20 secs in command: 8 FETCH 1 (UID BODY.PEEK[TEXT])
+ - 613 stalled for 20 secs in command: 6 EXPUNGE
+ - 607 stalled for 18 secs in command: 4 FETCH 1:2 (RFC822.SIZE)
+ - 597 stalled for 20 secs in command: 8 EXPUNGE
+   0    0    0    0    0    0    0    0    0    0    0  30/ 30
+ - 626 stalled for 21 secs in command: 2 SELECT "INBOX" (CONDSTORE)
+ - 617 stalled for 21 secs in command: 9 APPEND "INBOX" (\Answered \Flagged \Draft $Label1 $Label2 $Label4 $Label5) "23-Apr-2003 15:13:28 +0200" {2329+}
+ - 614 stalled for 21 secs in command: 9 APPEND "INBOX" (\Answered \Seen $Label3) "23-Apr-2003 14:13:10 +0200" {3504+}
+ - 618 stalled for 21 secs in command: 7 APPEND "INBOX" {1950+}
+ - 611 stalled for 21 secs in command: 4 APPEND "INBOX" (\Answered \Flagged \Seen $Label1 $Label2) "23-Apr-2003 18:03:23 +0200" {4004+}
+ - 616 stalled for 21 secs in command: 9 STORE 1 +FLAGS.SILENT \Deleted
+ - 624 stalled for 21 secs in command: 7 EXPUNGE
+ - 621 stalled for 21 secs in command: 7 EXPUNGE
+ - 608 stalled for 21 secs in command: 8 FETCH 1 (UID BODY.PEEK[TEXT])
+ - 613 stalled for 21 secs in command: 6 EXPUNGE
+ - 607 stalled for 19 secs in command: 4 FETCH 1:2 (RFC822.SIZE)
+ - 597 stalled for 21 secs in command: 8 EXPUNGE
+   0    0    0    0    0    0    0    0    0    0    0  30/ 30
+ - 626 stalled for 22 secs in command: 2 SELECT "INBOX" (CONDSTORE)
+ - 617 stalled for 22 secs in command: 9 APPEND "INBOX" (\Answered \Flagged \Draft $Label1 $Label2 $Label4 $Label5) "23-Apr-2003 15:13:28 +0200" {2329+}
+ - 614 stalled for 22 secs in command: 9 APPEND "INBOX" (\Answered \Seen $Label3) "23-Apr-2003 14:13:10 +0200" {3504+}
+ - 618 stalled for 22 secs in command: 7 APPEND "INBOX" {1950+}
+ - 611 stalled for 22 secs in command: 4 APPEND "INBOX" (\Answered \Flagged \Seen $Label1 $Label2) "23-Apr-2003 18:03:23 +0200" {4004+}
+ - 616 stalled for 22 secs in command: 9 STORE 1 +FLAGS.SILENT \Deleted
+ - 624 stalled for 22 secs in command: 7 EXPUNGE
+ - 621 stalled for 22 secs in command: 7 EXPUNGE
+ - 608 stalled for 22 secs in command: 8 FETCH 1 (UID BODY.PEEK[TEXT])
+ - 613 stalled for 22 secs in command: 6 EXPUNGE
+ - 607 stalled for 20 secs in command: 4 FETCH 1:2 (RFC822.SIZE)
+ - 597 stalled for 22 secs in command: 8 EXPUNGE
+   0    0    0    0    0    0    0    0    0    0    0  30/ 30
+ - 626 stalled for 23 secs in command: 2 SELECT "INBOX" (CONDSTORE)
+ - 617 stalled for 23 secs in command: 9 APPEND "INBOX" (\Answered \Flagged \Draft $Label1 $Label2 $Label4 $Label5) "23-Apr-2003 15:13:28 +0200" {2329+}
+ - 614 stalled for 23 secs in command: 9 APPEND "INBOX" (\Answered \Seen $Label3) "23-Apr-2003 14:13:10 +0200" {3504+}
+ - 618 stalled for 23 secs in command: 7 APPEND "INBOX" {1950+}
+ - 611 stalled for 23 secs in command: 4 APPEND "INBOX" (\Answered \Flagged \Seen $Label1 $Label2) "23-Apr-2003 18:03:23 +0200" {4004+}
+ - 616 stalled for 23 secs in command: 9 STORE 1 +FLAGS.SILENT \Deleted
+ - 624 stalled for 23 secs in command: 7 EXPUNGE
+ - 621 stalled for 23 secs in command: 7 EXPUNGE
+ - 608 stalled for 23 secs in command: 8 FETCH 1 (UID BODY.PEEK[TEXT])
+ - 613 stalled for 23 secs in command: 6 EXPUNGE
+ - 607 stalled for 21 secs in command: 4 FETCH 1:2 (RFC822.SIZE)
+ - 597 stalled for 23 secs in command: 8 EXPUNGE
+   4    4    2    4    3    4    1    4    1    3    6  30/ 30
+ - 626 stalled for 24 secs in command: 2 SELECT "INBOX" (CONDSTORE)
+ - 614 stalled for 24 secs in command: 9 APPEND "INBOX" (\Answered \Seen $Label3) "23-Apr-2003 14:13:10 +0200" {3504+}
+ - 618 stalled for 24 secs in command: 7 APPEND "INBOX" {1950+}
+ - 616 stalled for 24 secs in command: 9 STORE 1 +FLAGS.SILENT \Deleted
+ - 624 stalled for 24 secs in command: 7 EXPUNGE
+ - 621 stalled for 24 secs in command: 7 EXPUNGE
+ - 613 stalled for 24 secs in command: 6 EXPUNGE
+Logi List Stat Sele Fetc Fet2 Stor Dele Expu Appe Logo 
+100%  50%  50% 100% 100% 100%  50% 100% 100% 100% 100% 
+                          30%                  5%      
+   0    0    0    0    0    0    0    0    0    0    0  30/ 30
+ - 626 stalled for 25 secs in command: 2 SELECT "INBOX" (CONDSTORE)
+ - 630 stalled for 16 secs in command: 8 EXPUNGE
+ - 614 stalled for 25 secs in command: 9 APPEND "INBOX" (\Answered \Seen $Label3) "23-Apr-2003 14:13:10 +0200" {3504+}
+ - 618 stalled for 25 secs in command: 7 APPEND "INBOX" {1950+}
+ - 633 stalled for 16 secs in command: 8 APPEND "INBOX" "25-Apr-2003 13:19:51 +0200" {1732+}
+ - 616 stalled for 25 secs in command: 9 STORE 1 +FLAGS.SILENT \Deleted
+ - 624 stalled for 25 secs in command: 7 EXPUNGE
+ - 621 stalled for 25 secs in command: 7 EXPUNGE
+ - 632 stalled for 16 secs in command: 6 EXPUNGE
+ - 622 stalled for 16 secs in command: 6 EXPUNGE
+ - 613 stalled for 25 secs in command: 6 EXPUNGE
+ - 619 stalled for 16 secs in command: 7 EXPUNGE
+ - 612 stalled for 16 secs in command: 6 EXPUNGE
+   0    0    0    0    0    0    0    0    0    0    0  30/ 30
+ - 626 stalled for 26 secs in command: 2 SELECT "INBOX" (CONDSTORE)
+ - 630 stalled for 17 secs in command: 8 EXPUNGE
+ - 614 stalled for 26 secs in command: 9 APPEND "INBOX" (\Answered \Seen $Label3) "23-Apr-2003 14:13:10 +0200" {3504+}
+ - 618 stalled for 26 secs in command: 7 APPEND "INBOX" {1950+}
+ - 633 stalled for 17 secs in command: 8 APPEND "INBOX" "25-Apr-2003 13:19:51 +0200" {1732+}
+ - 616 stalled for 26 secs in command: 9 STORE 1 +FLAGS.SILENT \Deleted
+ - 624 stalled for 26 secs in command: 7 EXPUNGE
+ - 621 stalled for 26 secs in command: 7 EXPUNGE
+ - 632 stalled for 17 secs in command: 6 EXPUNGE
+ - 622 stalled for 17 secs in command: 6 EXPUNGE
+ - 613 stalled for 26 secs in command: 6 EXPUNGE
+ - 619 stalled for 17 secs in command: 7 EXPUNGE
+ - 612 stalled for 17 secs in command: 6 EXPUNGE
+   1    0    0    0    0    0    0    0    0    0    0  30/ 30
+ - 626 stalled for 27 secs in command: 2 SELECT "INBOX" (CONDSTORE)
+ - 630 stalled for 18 secs in command: 8 EXPUNGE
+ - 614 stalled for 27 secs in command: 9 APPEND "INBOX" (\Answered \Seen $Label3) "23-Apr-2003 14:13:10 +0200" {3504+}
+ - 618 stalled for 27 secs in command: 7 APPEND "INBOX" {1950+}
+ - 633 stalled for 18 secs in command: 8 APPEND "INBOX" "25-Apr-2003 13:19:51 +0200" {1732+}
+ - 616 stalled for 27 secs in command: 9 STORE 1 +FLAGS.SILENT \Deleted
+ - 624 stalled for 27 secs in command: 7 EXPUNGE
+ - 625 stalled for 16 secs in command: 8 EXPUNGE
+ - 621 stalled for 27 secs in command: 7 EXPUNGE
+ - 632 stalled for 18 secs in command: 6 EXPUNGE
+ - 622 stalled for 18 secs in command: 6 EXPUNGE
+ - 613 stalled for 27 secs in command: 6 EXPUNGE
+ - 619 stalled for 18 secs in command: 7 EXPUNGE
+ - 612 stalled for 18 secs in command: 6 EXPUNGE
+   0    0    0    0    0    0    0    0    0    0    0  30/ 30
+ - 626 stalled for 28 secs in command: 2 SELECT "INBOX" (CONDSTORE)
+ - 630 stalled for 19 secs in command: 8 EXPUNGE
+ - 614 stalled for 28 secs in command: 9 APPEND "INBOX" (\Answered \Seen $Label3) "23-Apr-2003 14:13:10 +0200" {3504+}
+ - 618 stalled for 28 secs in command: 7 APPEND "INBOX" {1950+}
+ - 633 stalled for 19 secs in command: 8 APPEND "INBOX" "25-Apr-2003 13:19:51 +0200" {1732+}
+ - 616 stalled for 28 secs in command: 9 STORE 1 +FLAGS.SILENT \Deleted
+ - 624 stalled for 28 secs in command: 7 EXPUNGE
+ - 625 stalled for 17 secs in command: 8 EXPUNGE
+ - 621 stalled for 28 secs in command: 7 EXPUNGE
+ - 632 stalled for 19 secs in command: 6 EXPUNGE
+ - 622 stalled for 19 secs in command: 6 EXPUNGE
+ - 613 stalled for 28 secs in command: 6 EXPUNGE
+ - 619 stalled for 19 secs in command: 7 EXPUNGE
+ - 612 stalled for 19 secs in command: 6 EXPUNGE
+   0    0    0    0    0    0    0    0    0    0    0  30/ 30
+ - 626 stalled for 29 secs in command: 2 SELECT "INBOX" (CONDSTORE)
+ - 630 stalled for 20 secs in command: 8 EXPUNGE
+ - 614 stalled for 29 secs in command: 9 APPEND "INBOX" (\Answered \Seen $Label3) "23-Apr-2003 14:13:10 +0200" {3504+}
+ - 618 stalled for 29 secs in command: 7 APPEND "INBOX" {1950+}
+ - 633 stalled for 20 secs in command: 8 APPEND "INBOX" "25-Apr-2003 13:19:51 +0200" {1732+}
+ - 616 stalled for 29 secs in command: 9 STORE 1 +FLAGS.SILENT \Deleted
+ - 624 stalled for 29 secs in command: 7 EXPUNGE
+ - 625 stalled for 18 secs in command: 8 EXPUNGE
+ - 621 stalled for 29 secs in command: 7 EXPUNGE
+ - 632 stalled for 20 secs in command: 6 EXPUNGE
+ - 622 stalled for 20 secs in command: 6 EXPUNGE
+ - 613 stalled for 29 secs in command: 6 EXPUNGE
+ - 619 stalled for 20 secs in command: 7 EXPUNGE
+ - 612 stalled for 20 secs in command: 6 EXPUNGE
+   1    0    0    1    2    3    0    2    2    3    6  30/ 30
+ - 630 stalled for 21 secs in command: 8 EXPUNGE
+ - 614 stalled for 30 secs in command: 9 APPEND "INBOX" (\Answered \Seen $Label3) "23-Apr-2003 14:13:10 +0200" {3504+}
+ - 633 stalled for 21 secs in command: 8 APPEND "INBOX" "25-Apr-2003 13:19:51 +0200" {1732+}
+ - 616 stalled for 30 secs in command: 9 STORE 1 +FLAGS.SILENT \Deleted
+ - 624 stalled for 30 secs in command: 7 EXPUNGE
+ - 625 stalled for 19 secs in command: 8 EXPUNGE
+ - 632 stalled for 21 secs in command: 6 EXPUNGE
+ - 622 stalled for 21 secs in command: 6 EXPUNGE
+ - 619 stalled for 21 secs in command: 7 EXPUNGE
+ - 612 stalled for 21 secs in command: 6 EXPUNGE
+   0    0    0    0    0    0    0    0    0    0    0  30/ 30
+ - 630 stalled for 22 secs in command: 8 EXPUNGE
+ - 614 stalled for 31 secs in command: 9 APPEND "INBOX" (\Answered \Seen $Label3) "23-Apr-2003 14:13:10 +0200" {3504+}
+ - 633 stalled for 22 secs in command: 8 APPEND "INBOX" "25-Apr-2003 13:19:51 +0200" {1732+}
+ - 616 stalled for 31 secs in command: 9 STORE 1 +FLAGS.SILENT \Deleted
+ - 624 stalled for 31 secs in command: 7 EXPUNGE
+ - 625 stalled for 20 secs in command: 8 EXPUNGE
+ - 632 stalled for 22 secs in command: 6 EXPUNGE
+ - 622 stalled for 22 secs in command: 6 EXPUNGE
+ - 619 stalled for 22 secs in command: 7 EXPUNGE
+ - 612 stalled for 22 secs in command: 6 EXPUNGE
+   0    0    0    0    0    0    0    0    0    0    0  30/ 30
+ - 634 stalled for 16 secs in command: 2 STATUS "INBOX" (MESSAGES UNSEEN RECENT)
+ - 630 stalled for 23 secs in command: 8 EXPUNGE
+ - 614 stalled for 32 secs in command: 9 APPEND "INBOX" (\Answered \Seen $Label3) "23-Apr-2003 14:13:10 +0200" {3504+}
+ - 633 stalled for 23 secs in command: 8 APPEND "INBOX" "25-Apr-2003 13:19:51 +0200" {1732+}
+ - 616 stalled for 32 secs in command: 9 STORE 1 +FLAGS.SILENT \Deleted
+ - 615 stalled for 16 secs in command: 7 STORE 1 +FLAGS.SILENT \Deleted
+ - 624 stalled for 32 secs in command: 7 EXPUNGE
+ - 625 stalled for 21 secs in command: 8 EXPUNGE
+ - 632 stalled for 23 secs in command: 6 EXPUNGE
+ - 622 stalled for 23 secs in command: 6 EXPUNGE
+ - 619 stalled for 23 secs in command: 7 EXPUNGE
+ - 612 stalled for 23 secs in command: 6 EXPUNGE
+   0    0    0    0    0    0    0    0    1    2    4  30/ 30
+ - 634 stalled for 17 secs in command: 2 STATUS "INBOX" (MESSAGES UNSEEN RECENT)
+ - 630 stalled for 24 secs in command: 8 EXPUNGE
+ - 633 stalled for 24 secs in command: 8 APPEND "INBOX" "25-Apr-2003 13:19:51 +0200" {1732+}
+ - 616 stalled for 33 secs in command: 9 STORE 1 +FLAGS.SILENT \Deleted
+ - 615 stalled for 17 secs in command: 7 STORE 1 +FLAGS.SILENT \Deleted
+ - 624 stalled for 33 secs in command: 7 EXPUNGE
+ - 625 stalled for 22 secs in command: 8 EXPUNGE
+ - 632 stalled for 24 secs in command: 6 EXPUNGE
+ - 622 stalled for 24 secs in command: 6 EXPUNGE
+ - 619 stalled for 24 secs in command: 7 EXPUNGE
+   0    0    0    0    0    0    0    0    0    0    0  30/ 30
+ - 634 stalled for 18 secs in command: 2 STATUS "INBOX" (MESSAGES UNSEEN RECENT)
+ - 630 stalled for 25 secs in command: 8 EXPUNGE
+ - 636 stalled for 16 secs in command: 2 LIST "" *
+ - 633 stalled for 25 secs in command: 8 APPEND "INBOX" "25-Apr-2003 13:19:51 +0200" {1732+}
+ - 616 stalled for 34 secs in command: 9 STORE 1 +FLAGS.SILENT \Deleted
+ - 615 stalled for 18 secs in command: 7 STORE 1 +FLAGS.SILENT \Deleted
+ - 624 stalled for 34 secs in command: 7 EXPUNGE
+ - 625 stalled for 23 secs in command: 8 EXPUNGE
+ - 632 stalled for 25 secs in command: 6 EXPUNGE
+ - 622 stalled for 25 secs in command: 6 EXPUNGE
+ - 619 stalled for 25 secs in command: 7 EXPUNGE
+Logi List Stat Sele Fetc Fet2 Stor Dele Expu Appe Logo 
+100%  50%  50% 100% 100% 100%  50% 100% 100% 100% 100% 
+                          30%                  5%      
+   0    0    0    0    0    0    0    0    0    0    0  30/ 30
+ - 634 stalled for 19 secs in command: 2 STATUS "INBOX" (MESSAGES UNSEEN RECENT)
+ - 630 stalled for 26 secs in command: 8 EXPUNGE
+ - 636 stalled for 17 secs in command: 2 LIST "" *
+ - 633 stalled for 26 secs in command: 8 APPEND "INBOX" "25-Apr-2003 13:19:51 +0200" {1732+}
+ - 616 stalled for 35 secs in command: 9 STORE 1 +FLAGS.SILENT \Deleted
+ - 615 stalled for 19 secs in command: 7 STORE 1 +FLAGS.SILENT \Deleted
+ - 624 stalled for 35 secs in command: 7 EXPUNGE
+ - 625 stalled for 24 secs in command: 8 EXPUNGE
+ - 632 stalled for 26 secs in command: 6 EXPUNGE
+ - 622 stalled for 26 secs in command: 6 EXPUNGE
+ - 619 stalled for 26 secs in command: 7 EXPUNGE
+   0    0    0    0    0    0    0    0    0    0    0  30/ 30
+ - 634 stalled for 20 secs in command: 2 STATUS "INBOX" (MESSAGES UNSEEN RECENT)
+ - 630 stalled for 27 secs in command: 8 EXPUNGE
+ - 636 stalled for 18 secs in command: 2 LIST "" *
+ - 633 stalled for 27 secs in command: 8 APPEND "INBOX" "25-Apr-2003 13:19:51 +0200" {1732+}
+ - 616 stalled for 36 secs in command: 9 STORE 1 +FLAGS.SILENT \Deleted
+ - 615 stalled for 20 secs in command: 7 STORE 1 +FLAGS.SILENT \Deleted
+ - 624 stalled for 36 secs in command: 7 EXPUNGE
+ - 625 stalled for 25 secs in command: 8 EXPUNGE
+ - 632 stalled for 27 secs in command: 6 EXPUNGE
+ - 622 stalled for 27 secs in command: 6 EXPUNGE
+ - 619 stalled for 27 secs in command: 7 EXPUNGE
+   0    0    0    0    0    0    0    0    0    0    0  30/ 30
+ - 634 stalled for 21 secs in command: 2 STATUS "INBOX" (MESSAGES UNSEEN RECENT)
+ - 630 stalled for 28 secs in command: 8 EXPUNGE
+ - 636 stalled for 19 secs in command: 2 LIST "" *
+ - 633 stalled for 28 secs in command: 8 APPEND "INBOX" "25-Apr-2003 13:19:51 +0200" {1732+}
+ - 616 stalled for 37 secs in command: 9 STORE 1 +FLAGS.SILENT \Deleted
+ - 615 stalled for 21 secs in command: 7 STORE 1 +FLAGS.SILENT \Deleted
+ - 624 stalled for 37 secs in command: 7 EXPUNGE
+ - 625 stalled for 26 secs in command: 8 EXPUNGE
+ - 632 stalled for 28 secs in command: 6 EXPUNGE
+ - 622 stalled for 28 secs in command: 6 EXPUNGE
+ - 619 stalled for 28 secs in command: 7 EXPUNGE
+   0    0    0    0    0    0    0    0    0    0    0  30/ 30
+ - 634 stalled for 22 secs in command: 2 STATUS "INBOX" (MESSAGES UNSEEN RECENT)
+ - 630 stalled for 29 secs in command: 8 EXPUNGE
+ - 636 stalled for 20 secs in command: 2 LIST "" *
+ - 633 stalled for 29 secs in command: 8 APPEND "INBOX" "25-Apr-2003 13:19:51 +0200" {1732+}
+ - 616 stalled for 38 secs in command: 9 STORE 1 +FLAGS.SILENT \Deleted
+ - 615 stalled for 22 secs in command: 7 STORE 1 +FLAGS.SILENT \Deleted
+ - 624 stalled for 38 secs in command: 7 EXPUNGE
+ - 625 stalled for 27 secs in command: 8 EXPUNGE
+ - 632 stalled for 29 secs in command: 6 EXPUNGE
+ - 622 stalled for 29 secs in command: 6 EXPUNGE
+ - 619 stalled for 29 secs in command: 7 EXPUNGE
+   4    2    4    5    1    1    0    1    0    0    0  30/ 30
+ - 630 stalled for 30 secs in command: 8 EXPUNGE
+ - 633 stalled for 30 secs in command: 8 APPEND "INBOX" "25-Apr-2003 13:19:51 +0200" {1732+}
+ - 616 stalled for 39 secs in command: 9 STORE 1 +FLAGS.SILENT \Deleted
+ - 615 stalled for 23 secs in command: 7 STORE 1 +FLAGS.SILENT \Deleted
+ - 624 stalled for 39 secs in command: 7 EXPUNGE
+ - 625 stalled for 28 secs in command: 8 EXPUNGE
+ - 632 stalled for 30 secs in command: 6 EXPUNGE
+ - 622 stalled for 30 secs in command: 6 EXPUNGE
+ - 619 stalled for 30 secs in command: 7 EXPUNGE
+   0    0    0    0    0    0    0    0    0    0    0  30/ 30
+ - 639 stalled for 16 secs in command: 2 LIST "" *
+ - 623 stalled for 16 secs in command: 7 EXPUNGE
+ - 630 stalled for 31 secs in command: 8 EXPUNGE
+ - 628 stalled for 16 secs in command: 5 FETCH 1 (BODY.PEEK[HEADER.FIELDS (To Subject Subject References)] BODY BODY)
+ - 633 stalled for 31 secs in command: 8 APPEND "INBOX" "25-Apr-2003 13:19:51 +0200" {1732+}
+ - 616 stalled for 40 secs in command: 9 STORE 1 +FLAGS.SILENT \Deleted
+ - 615 stalled for 24 secs in command: 7 STORE 1 +FLAGS.SILENT \Deleted
+ - 624 stalled for 40 secs in command: 7 EXPUNGE
+ - 625 stalled for 29 secs in command: 8 EXPUNGE
+ - 637 stalled for 16 secs in command: 2 STATUS "INBOX" (MESSAGES UNSEEN RECENT)
+ - 627 stalled for 16 secs in command: 7 EXPUNGE
+ - 632 stalled for 31 secs in command: 6 EXPUNGE
+ - 608 stalled for 16 secs in command: 11 EXPUNGE
+ - 622 stalled for 31 secs in command: 6 EXPUNGE
+ - 629 stalled for 16 secs in command: 4 FETCH 1 (UID ENVELOPE BODYSTRUCTURE RFC822.SIZE)
+ - 607 stalled for 16 secs in command: 7 EXPUNGE
+ - 638 stalled for 16 secs in command: 2 SELECT "INBOX" (CONDSTORE)
+ - 619 stalled for 31 secs in command: 7 EXPUNGE
+   0    0    0    0    0    0    0    0    0    0    0  30/ 30
+ - 639 stalled for 17 secs in command: 2 LIST "" *
+ - 623 stalled for 17 secs in command: 7 EXPUNGE
+ - 630 stalled for 32 secs in command: 8 EXPUNGE
+ - 628 stalled for 17 secs in command: 5 FETCH 1 (BODY.PEEK[HEADER.FIELDS (To Subject Subject References)] BODY BODY)
+ - 633 stalled for 32 secs in command: 8 APPEND "INBOX" "25-Apr-2003 13:19:51 +0200" {1732+}
+ - 616 stalled for 41 secs in command: 9 STORE 1 +FLAGS.SILENT \Deleted
+ - 615 stalled for 25 secs in command: 7 STORE 1 +FLAGS.SILENT \Deleted
+ - 624 stalled for 41 secs in command: 7 EXPUNGE
+ - 625 stalled for 30 secs in command: 8 EXPUNGE
+ - 637 stalled for 17 secs in command: 2 STATUS "INBOX" (MESSAGES UNSEEN RECENT)
+ - 627 stalled for 17 secs in command: 7 EXPUNGE
+ - 632 stalled for 32 secs in command: 6 EXPUNGE
+ - 608 stalled for 17 secs in command: 11 EXPUNGE
+ - 622 stalled for 32 secs in command: 6 EXPUNGE
+ - 629 stalled for 17 secs in command: 4 FETCH 1 (UID ENVELOPE BODYSTRUCTURE RFC822.SIZE)
+ - 607 stalled for 17 secs in command: 7 EXPUNGE
+ - 638 stalled for 17 secs in command: 2 SELECT "INBOX" (CONDSTORE)
+ - 619 stalled for 32 secs in command: 7 EXPUNGE
+   0    0    0    0    0    0    0    0    0    0    0  30/ 30
+ - 639 stalled for 18 secs in command: 2 LIST "" *
+ - 623 stalled for 18 secs in command: 7 EXPUNGE
+ - 630 stalled for 33 secs in command: 8 EXPUNGE
+ - 628 stalled for 18 secs in command: 5 FETCH 1 (BODY.PEEK[HEADER.FIELDS (To Subject Subject References)] BODY BODY)
+ - 633 stalled for 33 secs in command: 8 APPEND "INBOX" "25-Apr-2003 13:19:51 +0200" {1732+}
+ - 641 stalled for 16 secs in command: 2 LIST "" *
+ - 616 stalled for 42 secs in command: 9 STORE 1 +FLAGS.SILENT \Deleted
+ - 615 stalled for 26 secs in command: 7 STORE 1 +FLAGS.SILENT \Deleted
+ - 624 stalled for 42 secs in command: 7 EXPUNGE
+ - 625 stalled for 31 secs in command: 8 EXPUNGE
+ - 637 stalled for 18 secs in command: 2 STATUS "INBOX" (MESSAGES UNSEEN RECENT)
+ - 627 stalled for 18 secs in command: 7 EXPUNGE
+ - 632 stalled for 33 secs in command: 6 EXPUNGE
+ - 608 stalled for 18 secs in command: 11 EXPUNGE
+ - 622 stalled for 33 secs in command: 6 EXPUNGE
+ - 629 stalled for 18 secs in command: 4 FETCH 1 (UID ENVELOPE BODYSTRUCTURE RFC822.SIZE)
+ - 607 stalled for 18 secs in command: 7 EXPUNGE
+ - 638 stalled for 18 secs in command: 2 SELECT "INBOX" (CONDSTORE)
+ - 619 stalled for 33 secs in command: 7 EXPUNGE
+   0    0    0    0    0    0    0    0    0    0    0  30/ 30
+ - 639 stalled for 19 secs in command: 2 LIST "" *
+ - 623 stalled for 19 secs in command: 7 EXPUNGE
+ - 630 stalled for 34 secs in command: 8 EXPUNGE
+ - 628 stalled for 19 secs in command: 5 FETCH 1 (BODY.PEEK[HEADER.FIELDS (To Subject Subject References)] BODY BODY)
+ - 633 stalled for 34 secs in command: 8 APPEND "INBOX" "25-Apr-2003 13:19:51 +0200" {1732+}
+ - 641 stalled for 17 secs in command: 2 LIST "" *
+ - 616 stalled for 43 secs in command: 9 STORE 1 +FLAGS.SILENT \Deleted
+ - 615 stalled for 27 secs in command: 7 STORE 1 +FLAGS.SILENT \Deleted
+ - 624 stalled for 43 secs in command: 7 EXPUNGE
+ - 625 stalled for 32 secs in command: 8 EXPUNGE
+ - 637 stalled for 19 secs in command: 2 STATUS "INBOX" (MESSAGES UNSEEN RECENT)
+ - 627 stalled for 19 secs in command: 7 EXPUNGE
+ - 632 stalled for 34 secs in command: 6 EXPUNGE
+ - 608 stalled for 19 secs in command: 11 EXPUNGE
+ - 622 stalled for 34 secs in command: 6 EXPUNGE
+ - 629 stalled for 19 secs in command: 4 FETCH 1 (UID ENVELOPE BODYSTRUCTURE RFC822.SIZE)
+ - 607 stalled for 19 secs in command: 7 EXPUNGE
+ - 638 stalled for 19 secs in command: 2 SELECT "INBOX" (CONDSTORE)
+ - 619 stalled for 34 secs in command: 7 EXPUNGE
+   0    0    0    0    0    0    0    0    0    0    0  30/ 30
+ - 639 stalled for 20 secs in command: 2 LIST "" *
+ - 623 stalled for 20 secs in command: 7 EXPUNGE
+ - 630 stalled for 35 secs in command: 8 EXPUNGE
+ - 628 stalled for 20 secs in command: 5 FETCH 1 (BODY.PEEK[HEADER.FIELDS (To Subject Subject References)] BODY BODY)
+ - 633 stalled for 35 secs in command: 8 APPEND "INBOX" "25-Apr-2003 13:19:51 +0200" {1732+}
+ - 641 stalled for 18 secs in command: 2 LIST "" *
+ - 616 stalled for 44 secs in command: 9 STORE 1 +FLAGS.SILENT \Deleted
+ - 615 stalled for 28 secs in command: 7 STORE 1 +FLAGS.SILENT \Deleted
+ - 624 stalled for 44 secs in command: 7 EXPUNGE
+ - 625 stalled for 33 secs in command: 8 EXPUNGE
+ - 637 stalled for 20 secs in command: 2 STATUS "INBOX" (MESSAGES UNSEEN RECENT)
+ - 627 stalled for 20 secs in command: 7 EXPUNGE
+ - 632 stalled for 35 secs in command: 6 EXPUNGE
+ - 608 stalled for 20 secs in command: 11 EXPUNGE
+ - 622 stalled for 35 secs in command: 6 EXPUNGE
+ - 629 stalled for 20 secs in command: 4 FETCH 1 (UID ENVELOPE BODYSTRUCTURE RFC822.SIZE)
+ - 607 stalled for 20 secs in command: 7 EXPUNGE
+ - 638 stalled for 20 secs in command: 2 SELECT "INBOX" (CONDSTORE)
+ - 619 stalled for 35 secs in command: 7 EXPUNGE
+Logi List Stat Sele Fetc Fet2 Stor Dele Expu Appe Logo 
+100%  50%  50% 100% 100% 100%  50% 100% 100% 100% 100% 
+                          30%                  5%      
+   0    0    1    2    1    1    0    2    3    2    8  26/ 26
+ - 639 stalled for 21 secs in command: 2 LIST "" *
+ - 623 stalled for 21 secs in command: 7 EXPUNGE
+ - 630 stalled for 36 secs in command: 8 EXPUNGE
+ - 628 stalled for 21 secs in command: 5 FETCH 1 (BODY.PEEK[HEADER.FIELDS (To Subject Subject References)] BODY BODY)
+ - 633 stalled for 36 secs in command: 8 APPEND "INBOX" "25-Apr-2003 13:19:51 +0200" {1732+}
+ - 641 stalled for 19 secs in command: 2 LIST "" *
+ - 615 stalled for 29 secs in command: 7 STORE 1 +FLAGS.SILENT \Deleted
+ - 624 stalled for 45 secs in command: 7 EXPUNGE
+ - 625 stalled for 34 secs in command: 8 EXPUNGE
+ - 627 stalled for 21 secs in command: 7 EXPUNGE
+ - 632 stalled for 36 secs in command: 6 EXPUNGE
+ - 608 stalled for 21 secs in command: 11 EXPUNGE
+ - 607 stalled for 21 secs in command: 7 EXPUNGE
+ - 619 stalled for 36 secs in command: 7 EXPUNGE
+   0    0    0    0    0    0    0    0    0    0    0  26/ 26
+ - 626 stalled for 16 secs in command: 3 APPEND "INBOX" ($Label2) {6678+}
+ - 639 stalled for 22 secs in command: 2 LIST "" *
+ - 623 stalled for 22 secs in command: 7 EXPUNGE
+ - 630 stalled for 37 secs in command: 8 EXPUNGE
+ - 628 stalled for 22 secs in command: 5 FETCH 1 (BODY.PEEK[HEADER.FIELDS (To Subject Subject References)] BODY BODY)
+ - 635 stalled for 16 secs in command: 7 EXPUNGE
+ - 633 stalled for 37 secs in command: 8 APPEND "INBOX" "25-Apr-2003 13:19:51 +0200" {1732+}
+ - 641 stalled for 20 secs in command: 2 LIST "" *
+ - 615 stalled for 30 secs in command: 7 STORE 1 +FLAGS.SILENT \Deleted
+ - 624 stalled for 46 secs in command: 7 EXPUNGE
+ - 625 stalled for 35 secs in command: 8 EXPUNGE
+ - 627 stalled for 22 secs in command: 7 EXPUNGE
+ - 632 stalled for 37 secs in command: 6 EXPUNGE
+ - 608 stalled for 22 secs in command: 11 EXPUNGE
+ - 631 stalled for 16 secs in command: 8 EXPUNGE
+ - 607 stalled for 22 secs in command: 7 EXPUNGE
+ - 619 stalled for 37 secs in command: 7 EXPUNGE
+   0    4    1    4    2    2    0    2    5    5   18  17/ 17
+ - 626 stalled for 17 secs in command: 3 APPEND "INBOX" ($Label2) {6678+}
+ - 623 stalled for 23 secs in command: 7 EXPUNGE
+ - 630 stalled for 38 secs in command: 8 EXPUNGE
+ - 635 stalled for 17 secs in command: 7 EXPUNGE
+ - 615 stalled for 31 secs in command: 7 STORE 1 +FLAGS.SILENT \Deleted
+ - 625 stalled for 36 secs in command: 8 EXPUNGE
+ - 627 stalled for 23 secs in command: 7 EXPUNGE
+ - 631 stalled for 17 secs in command: 8 EXPUNGE
+ - 607 stalled for 23 secs in command: 7 EXPUNGE
+   0    1    0    1    3    3    0    2   10   12   26   4/  4
+ - 627 stalled for 24 secs in command: 7 EXPUNGE
+ - 631 stalled for 18 secs in command: 8 EXPUNGE
+
+Totals:
+Logi List Stat Sele Fetc Fet2 Stor Dele Expu Appe Logo 
+100%  50%  50% 100% 100% 100%  50% 100% 100% 100% 100% 
+                          30%                  5%      
+ 646  308  324  646  580  841   59  467  580  639 1292 

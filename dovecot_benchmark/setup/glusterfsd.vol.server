@@ -1,0 +1,40 @@
+volume posix1
+  type storage/posix
+  option directory /mnt/disk1
+end-volume
+
+volume locks1
+  type features/locks
+  subvolumes posix1
+end-volume
+
+volume brick1
+  type performance/io-threads
+  option thread-count 8
+  subvolumes locks1
+end-volume
+
+volume posix2
+  type storage/posix
+  option directory /mnt/disk2
+end-volume
+
+volume locks2
+  type features/locks
+  subvolumes posix2
+end-volume
+
+volume brick2
+  type performance/io-threads
+  option thread-count 8
+  subvolumes locks2
+end-volume
+
+volume server
+  type protocol/server
+  option transport-type tcp
+  subvolumes brick1 brick2
+  option auth.addr.brick1.allow 188.165.220.197
+  option auth.addr.brick2.allow 188.165.220.197
+end-volume
+
