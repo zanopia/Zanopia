@@ -1,0 +1,274 @@
+Logi List Stat Sele Fetc Fet2 Stor Dele Expu Appe Logo 
+100%  50%  50% 100% 100% 100%  50% 100% 100% 100% 100% 
+                          30%                  5%      
+ 211   52   46   87   62   96   23   43   17    0    0 211/240
+   0    7    0   12    6    8    4    5    0    0    0 211/240
+  29   34   33   55   64   96   19   41   25   29   58 211/240
+  27   39   28   68    9   10    0    4   25   27    0 238/240
+  20    4    6   13   12   14    6   10   19   23  100 239/240
+  60   16   11   29   71   97   41   58   33   28   56 240/240
+   3    0    0    0   18   24    2   15    9    7   14 240/240
+  12   40   37   84    8    8    3    7   55   62   70 213/240
+  76   17   13   27   81  113   37   65   40   23  100 239/240
+   4    0    0    2   11   14    2   12    9    4    6 240/240
+Logi List Stat Sele Fetc Fet2 Stor Dele Expu Appe Logo 
+100%  50%  50% 100% 100% 100%  50% 100% 100% 100% 100% 
+                          30%                  5%      
+   0    0    1    3    1    1    0    1    8   10   20 240/240
+ 111   52   61  108   87  131   34   70   94  101  202 240/240
+   4    0    1    1   12   16    0   10    5    5    8 240/240
+   4    2    4    7   18   21    3   20    7    8   16 240/240
+   0    0    0    0    0    0    0    1    2    1    4 240/240
+  94   54   49  100   98  149   37   74   90   88  176 240/240
+   2    2    2    2    7    9    3    4    5    1    4 240/240
+   1    2    1    3   12   15    3   13   10    6   16 240/240
+ 107   38   56  103   80  125   36   61   95  101  200 240/240
+   3    2    2    4    3    3    0    4    7    6   14 240/240
+Logi List Stat Sele Fetc Fet2 Stor Dele Expu Appe Logo 
+100%  50%  50% 100% 100% 100%  50% 100% 100% 100% 100% 
+                          30%                  5%      
+  16    4    5    9   15   21    5   11   16   11   24 240/240
+   0    0    0    0   17   20    2   17    7    0    0 240/240
+ - 134 stalled for 16 secs in command: 8 EXPUNGE
+ - 298 stalled for 16 secs in command: 7 EXPUNGE
+   4    3    3    5    0    1    1    2    2    4    8 240/240
+ - 134 stalled for 17 secs in command: 8 EXPUNGE
+ - 298 stalled for 17 secs in command: 7 EXPUNGE
+  86   64   76  139   91  130   42   78  105  110  218 240/240
+ - 134 stalled for 18 secs in command: 8 EXPUNGE
+ - 298 stalled for 18 secs in command: 7 EXPUNGE
+  19    8   13   22   65   82    8   55   43   29   58 240/240
+   0    0    0    0    0    0    0    0    0    0    0 240/240
+   0    0    0    0    0    0    0    0    0    0    0 240/240
+   0    0    0    0    0    0    0    0    0    0    0 240/240
+  42    4    4    7   11   14    4    9   11    8   18 240/240
+   0    1    1    1    2    4    0    1    0    0    0 240/240
+Logi List Stat Sele Fetc Fet2 Stor Dele Expu Appe Logo 
+100%  50%  50% 100% 100% 100%  50% 100% 100% 100% 100% 
+                          30%                  5%      
+   2    0    1    1    2    2    0    1    4    3    8 240/240
+ - 539 stalled for 16 secs in command: 4 FETCH 2 (RFC822.SIZE ENVELOPE INTERNALDATE UID)
+   0    0    0    0    0    0    0    0    0    0    0 240/240
+ - 539 stalled for 17 secs in command: 4 FETCH 2 (RFC822.SIZE ENVELOPE INTERNALDATE UID)
+  97   47   54  109   74  107   38   51   94  115  230 221/240
+  27   12   12   23   17   32    5    9    3    7   14 240/240
+ - 645 stalled for 16 secs in command: 4 FETCH 1:3 (INTERNALDATE BODY.PEEK[HEADER.FIELDS (Delivered-To References)])
+ - 703 stalled for 16 secs in command: 5 FETCH 1,2,4:5 (BODYSTRUCTURE BODYSTRUCTURE)
+   2    3    1    4   20   24    2   21   10    3    4 240/240
+ - 645 stalled for 17 secs in command: 4 FETCH 1:3 (INTERNALDATE BODY.PEEK[HEADER.FIELDS (Delivered-To References)])
+ - 703 stalled for 17 secs in command: 5 FETCH 1,2,4:5 (BODYSTRUCTURE BODYSTRUCTURE)
+   0    0    0    0    1    1    0    1    1    0    0 240/240
+ - 645 stalled for 18 secs in command: 4 FETCH 1:3 (INTERNALDATE BODY.PEEK[HEADER.FIELDS (Delivered-To References)])
+ - 703 stalled for 18 secs in command: 5 FETCH 1,2,4:5 (BODYSTRUCTURE BODYSTRUCTURE)
+   3    7    6   11   24   25    1   24   22   21   42 240/240
+ - 645 stalled for 19 secs in command: 4 FETCH 1:3 (INTERNALDATE BODY.PEEK[HEADER.FIELDS (Delivered-To References)])
+ - 669 stalled for 16 secs in command: 6 EXPUNGE
+  68   34   44   72   56   95   31   50  100  117  234 175/240
+ - 645 stalled for 20 secs in command: 4 FETCH 1:3 (INTERNALDATE BODY.PEEK[HEADER.FIELDS (Delivered-To References)])
+  81   29   27   63   30   53   15   17   14   15   30 240/240
+ - 645 stalled for 21 secs in command: 4 FETCH 1:3 (INTERNALDATE BODY.PEEK[HEADER.FIELDS (Delivered-To References)])
+   8    4    5    6   46   53    5   44   25    9   18 240/240
+ - 811 stalled for 16 secs in command: 8 EXPUNGE
+ - 780 stalled for 16 secs in command: 8 EXPUNGE
+ - 733 stalled for 16 secs in command: 8 EXPUNGE
+ - 864 stalled for 16 secs in command: 7 STORE 1:2 +FLAGS \Deleted
+ - 846 stalled for 16 secs in command: 7 EXPUNGE
+ - 833 stalled for 16 secs in command: 7 EXPUNGE
+ - 667 stalled for 16 secs in command: 8 STORE 1:2,5 +FLAGS.SILENT \Deleted
+ - 785 stalled for 16 secs in command: 7 EXPUNGE
+Logi List Stat Sele Fetc Fet2 Stor Dele Expu Appe Logo 
+100%  50%  50% 100% 100% 100%  50% 100% 100% 100% 100% 
+                          30%                  5%      
+   5    1    2    2   14   16    1   12   11    5   10 240/240
+ - 811 stalled for 17 secs in command: 8 EXPUNGE
+ - 780 stalled for 17 secs in command: 8 EXPUNGE
+ - 733 stalled for 17 secs in command: 8 EXPUNGE
+ - 864 stalled for 17 secs in command: 7 STORE 1:2 +FLAGS \Deleted
+ - 846 stalled for 17 secs in command: 7 EXPUNGE
+ - 833 stalled for 17 secs in command: 7 EXPUNGE
+ - 667 stalled for 17 secs in command: 8 STORE 1:2,5 +FLAGS.SILENT \Deleted
+ - 785 stalled for 17 secs in command: 7 EXPUNGE
+  19   17   16   32   29   42   11   25   58   62  124 197/240
+ - 811 stalled for 18 secs in command: 8 EXPUNGE
+ - 780 stalled for 18 secs in command: 8 EXPUNGE
+ - 864 stalled for 18 secs in command: 7 STORE 1:2 +FLAGS \Deleted
+ - 846 stalled for 18 secs in command: 7 EXPUNGE
+ - 833 stalled for 18 secs in command: 7 EXPUNGE
+ - 667 stalled for 18 secs in command: 8 STORE 1:2,5 +FLAGS.SILENT \Deleted
+ - 785 stalled for 18 secs in command: 7 EXPUNGE
+  45    9   13   29   17   25   10   11    3    0    0 240/240
+ - 811 stalled for 19 secs in command: 8 EXPUNGE
+ - 780 stalled for 19 secs in command: 8 EXPUNGE
+ - 864 stalled for 19 secs in command: 7 STORE 1:2 +FLAGS \Deleted
+ - 846 stalled for 19 secs in command: 7 EXPUNGE
+ - 833 stalled for 19 secs in command: 7 EXPUNGE
+ - 667 stalled for 19 secs in command: 8 STORE 1:2,5 +FLAGS.SILENT \Deleted
+ - 785 stalled for 19 secs in command: 7 EXPUNGE
+   0    0    0    0    3    3    0    3    1    0    0 240/240
+ - 811 stalled for 20 secs in command: 8 EXPUNGE
+ - 780 stalled for 20 secs in command: 8 EXPUNGE
+ - 864 stalled for 20 secs in command: 7 STORE 1:2 +FLAGS \Deleted
+ - 846 stalled for 20 secs in command: 7 EXPUNGE
+ - 833 stalled for 20 secs in command: 7 EXPUNGE
+ - 667 stalled for 20 secs in command: 8 STORE 1:2,5 +FLAGS.SILENT \Deleted
+ - 785 stalled for 20 secs in command: 7 EXPUNGE
+  46   37   34   66   61   91   19   49   44   47   96 240/240
+ - 811 stalled for 21 secs in command: 8 EXPUNGE
+ - 864 stalled for 21 secs in command: 7 STORE 1:2 +FLAGS \Deleted
+  69   31   33   68   79  103   20   66   78   76  152 240/240
+  12    4    3    4    4    6    1    3    3    5   10 240/240
+   1    2    3    5    4    5    0    4    1    0    0 240/240
+ - 882 stalled for 16 secs in command: 4 APPEND "INBOX" "18-Jun-2003 04:42:03 +0200" {1795+}
+  19   17   14   29   19   30    5   11   16   19   38 240/240
+  58   19   22   52   47   67   15   35   52   62  124 240/240
+ - 661 stalled for 16 secs in command: 9 EXPUNGE
+Logi List Stat Sele Fetc Fet2 Stor Dele Expu Appe Logo 
+100%  50%  50% 100% 100% 100%  50% 100% 100% 100% 100% 
+                          30%                  5%      
+  12    2    0    5   12   14    2   13   12    7   14 240/240
+ - 661 stalled for 17 secs in command: 9 EXPUNGE
+  22    9    9   17   27   37   13   25   24   24   46 240/240
+ - 661 stalled for 18 secs in command: 9 EXPUNGE
+   0    0    0    0    0    0    0    0    0    0    0 240/240
+ - 943 stalled for 16 secs in command: 9 EXPUNGE
+ - 856 stalled for 16 secs in command: 8 STORE 2,4 +FLAGS \Deleted
+ - 661 stalled for 19 secs in command: 9 EXPUNGE
+   4    0    1    3    2    2    1    1    2    2    6 240/240
+ - 1111 stalled for 16 secs in command: 4 FETCH 1:3,6,8,10:11 (ENVELOPE)
+ - 943 stalled for 17 secs in command: 9 EXPUNGE
+ - 1185 stalled for 16 secs in command: 2 LIST "" *
+ - 856 stalled for 17 secs in command: 8 STORE 2,4 +FLAGS \Deleted
+ - 1105 stalled for 16 secs in command: 3 FETCH 1 (FLAGS BODY)
+ - 1037 stalled for 16 secs in command: 8 STORE 1:2 +FLAGS \Deleted
+ - 661 stalled for 20 secs in command: 9 EXPUNGE
+ - 1079 stalled for 16 secs in command: 9 EXPUNGE
+   1    3    3    4    2    3    1    1    1    0    2 240/240
+ - 1111 stalled for 17 secs in command: 4 FETCH 1:3,6,8,10:11 (ENVELOPE)
+ - 947 stalled for 16 secs in command: 8 EXPUNGE
+ - 943 stalled for 18 secs in command: 9 EXPUNGE
+ - 1185 stalled for 17 secs in command: 2 LIST "" *
+ - 856 stalled for 18 secs in command: 8 STORE 2,4 +FLAGS \Deleted
+ - 1105 stalled for 17 secs in command: 3 FETCH 1 (FLAGS BODY)
+ - 1037 stalled for 17 secs in command: 8 STORE 1:2 +FLAGS \Deleted
+ - 661 stalled for 21 secs in command: 9 EXPUNGE
+ - 1079 stalled for 17 secs in command: 9 EXPUNGE
+   2    5    2    7    7    9    1   10   12   10   22 240/240
+ - 1111 stalled for 18 secs in command: 4 FETCH 1:3,6,8,10:11 (ENVELOPE)
+ - 1185 stalled for 18 secs in command: 2 LIST "" *
+ - 1105 stalled for 18 secs in command: 3 FETCH 1 (FLAGS BODY)
+ - 1037 stalled for 18 secs in command: 8 STORE 1:2 +FLAGS \Deleted
+ - 661 stalled for 22 secs in command: 9 EXPUNGE
+ - 1182 stalled for 16 secs in command: 7 EXPUNGE
+ - 1145 stalled for 16 secs in command: 7 STORE 1,6 +FLAGS ($Label5)
+ - 1079 stalled for 18 secs in command: 9 EXPUNGE
+ 100   55   59  108   80  128   35   58   86   98  192 237/240
+ - 1111 stalled for 19 secs in command: 4 FETCH 1:3,6,8,10:11 (ENVELOPE)
+ - 1037 stalled for 19 secs in command: 8 STORE 1:2 +FLAGS \Deleted
+ - 1182 stalled for 17 secs in command: 7 EXPUNGE
+ - 1145 stalled for 17 secs in command: 7 STORE 1,6 +FLAGS ($Label5)
+  12    4    3    6    9   13    7    8    8    7   14 240/240
+ - 1111 stalled for 20 secs in command: 4 FETCH 1:3,6,8,10:11 (ENVELOPE)
+ - 1037 stalled for 20 secs in command: 8 STORE 1:2 +FLAGS \Deleted
+ - 1182 stalled for 18 secs in command: 7 EXPUNGE
+ - 1285 stalled for 16 secs in command: 5 FETCH 1:2,4:5 (BODYSTRUCTURE UID)
+ - 1145 stalled for 18 secs in command: 7 STORE 1,6 +FLAGS ($Label5)
+  11    6    5    9   20   23    3   21   15   11   22 240/240
+ - 1111 stalled for 21 secs in command: 4 FETCH 1:3,6,8,10:11 (ENVELOPE)
+ - 1037 stalled for 21 secs in command: 8 STORE 1:2 +FLAGS \Deleted
+  67   37   29   70   59   88   26   47   63   67  134 240/240
+ - 1111 stalled for 22 secs in command: 4 FETCH 1:3,6,8,10:11 (ENVELOPE)
+ - 1294 stalled for 16 secs in command: 9 STORE 2,4 +FLAGS \Deleted
+ - 1233 stalled for 16 secs in command: 8 EXPUNGE
+ - 1037 stalled for 22 secs in command: 8 STORE 1:2 +FLAGS \Deleted
+ - 1295 stalled for 16 secs in command: 7 FETCH 1 (UID BODY.PEEK[])
+ - 1276 stalled for 16 secs in command: 6 EXPUNGE
+ - 1201 stalled for 16 secs in command: 8 STORE 1 +FLAGS (\Answered)
+Logi List Stat Sele Fetc Fet2 Stor Dele Expu Appe Logo 
+100%  50%  50% 100% 100% 100%  50% 100% 100% 100% 100% 
+                          30%                  5%      
+   0    0    3    3   35   37    2   35   32   22   50 215/215
+ - 1111 stalled for 23 secs in command: 4 FETCH 1:3,6,8,10:11 (ENVELOPE)
+ - 1294 stalled for 17 secs in command: 9 STORE 2,4 +FLAGS \Deleted
+ - 1233 stalled for 17 secs in command: 8 EXPUNGE
+ - 1037 stalled for 23 secs in command: 8 STORE 1:2 +FLAGS \Deleted
+ - 1312 stalled for 16 secs in command: 9 APPEND "INBOX" ($Label1 $Label3 $Label5) "17-Aug-2003 10:32:47 +0200" {2803+}
+ - 1295 stalled for 17 secs in command: 7 FETCH 1 (UID BODY.PEEK[])
+ - 1301 stalled for 16 secs in command: 8 EXPUNGE
+ - 1276 stalled for 17 secs in command: 6 EXPUNGE
+ - 1201 stalled for 17 secs in command: 8 STORE 1 +FLAGS (\Answered)
+   0    1    2    2    7   10    2   10   33   41   86 172/172
+ - 1111 stalled for 24 secs in command: 4 FETCH 1:3,6,8,10:11 (ENVELOPE)
+ - 1233 stalled for 18 secs in command: 8 EXPUNGE
+ - 1312 stalled for 17 secs in command: 9 APPEND "INBOX" ($Label1 $Label3 $Label5) "17-Aug-2003 10:32:47 +0200" {2803+}
+   0    0    0    0    0    0    0    0    0    0    0 172/172
+ - 1111 stalled for 25 secs in command: 4 FETCH 1:3,6,8,10:11 (ENVELOPE)
+ - 1233 stalled for 19 secs in command: 8 EXPUNGE
+ - 1312 stalled for 18 secs in command: 9 APPEND "INBOX" ($Label1 $Label3 $Label5) "17-Aug-2003 10:32:47 +0200" {2803+}
+   0    0    0    0    0    0    0    0    0    0    0 172/172
+ - 1111 stalled for 26 secs in command: 4 FETCH 1:3,6,8,10:11 (ENVELOPE)
+ - 1233 stalled for 20 secs in command: 8 EXPUNGE
+ - 1312 stalled for 19 secs in command: 9 APPEND "INBOX" ($Label1 $Label3 $Label5) "17-Aug-2003 10:32:47 +0200" {2803+}
+   0    0    0    0    0    0    0    0    0    0    0 172/172
+ - 1111 stalled for 27 secs in command: 4 FETCH 1:3,6,8,10:11 (ENVELOPE)
+ - 1419 stalled for 16 secs in command: 3 FETCH 1,2,4 (ENVELOPE BODY.PEEK[HEADER.FIELDS (Cc Message-ID References In-Reply-To)])
+ - 1350 stalled for 16 secs in command: 8 EXPUNGE
+ - 1411 stalled for 16 secs in command: 8 STORE 1 +FLAGS.SILENT \Deleted
+ - 1233 stalled for 21 secs in command: 8 EXPUNGE
+ - 1312 stalled for 20 secs in command: 9 APPEND "INBOX" ($Label1 $Label3 $Label5) "17-Aug-2003 10:32:47 +0200" {2803+}
+ - 1254 stalled for 16 secs in command: 5 FETCH 2:4 (FLAGS BODYSTRUCTURE RFC822.SIZE FLAGS)
+ - 1221 stalled for 16 secs in command: 6 EXPUNGE
+ - 1327 stalled for 16 secs in command: 7 EXPUNGE
+   0    1    0    2    4    6    1    2    5    6   18 163/163
+ - 1356 stalled for 16 secs in command: 8 APPEND "INBOX" {2438+}
+ - 1419 stalled for 17 secs in command: 3 FETCH 1,2,4 (ENVELOPE BODY.PEEK[HEADER.FIELDS (Cc Message-ID References In-Reply-To)])
+ - 1350 stalled for 17 secs in command: 8 EXPUNGE
+ - 1411 stalled for 17 secs in command: 8 STORE 1 +FLAGS.SILENT \Deleted
+ - 1312 stalled for 21 secs in command: 9 APPEND "INBOX" ($Label1 $Label3 $Label5) "17-Aug-2003 10:32:47 +0200" {2803+}
+ - 1465 stalled for 16 secs in command: 6 EXPUNGE
+ - 1254 stalled for 17 secs in command: 5 FETCH 2:4 (FLAGS BODYSTRUCTURE RFC822.SIZE FLAGS)
+ - 1221 stalled for 17 secs in command: 6 EXPUNGE
+ - 1327 stalled for 17 secs in command: 7 EXPUNGE
+   0    1    1    1    0    0    0    0    4    7   14 156/156
+ - 1356 stalled for 17 secs in command: 8 APPEND "INBOX" {2438+}
+ - 1419 stalled for 18 secs in command: 3 FETCH 1,2,4 (ENVELOPE BODY.PEEK[HEADER.FIELDS (Cc Message-ID References In-Reply-To)])
+ - 1350 stalled for 18 secs in command: 8 EXPUNGE
+ - 1411 stalled for 18 secs in command: 8 STORE 1 +FLAGS.SILENT \Deleted
+ - 1312 stalled for 22 secs in command: 9 APPEND "INBOX" ($Label1 $Label3 $Label5) "17-Aug-2003 10:32:47 +0200" {2803+}
+ - 1254 stalled for 18 secs in command: 5 FETCH 2:4 (FLAGS BODYSTRUCTURE RFC822.SIZE FLAGS)
+ - 1221 stalled for 18 secs in command: 6 EXPUNGE
+ - 1522 stalled for 16 secs in command: 2 SELECT "INBOX" (CONDSTORE)
+   0    2    1    2    1    1    1    2    2    1    8 152/152
+ - 1356 stalled for 18 secs in command: 8 APPEND "INBOX" {2438+}
+ - 1419 stalled for 19 secs in command: 3 FETCH 1,2,4 (ENVELOPE BODY.PEEK[HEADER.FIELDS (Cc Message-ID References In-Reply-To)])
+ - 1350 stalled for 19 secs in command: 8 EXPUNGE
+ - 1411 stalled for 19 secs in command: 8 STORE 1 +FLAGS.SILENT \Deleted
+ - 1312 stalled for 23 secs in command: 9 APPEND "INBOX" ($Label1 $Label3 $Label5) "17-Aug-2003 10:32:47 +0200" {2803+}
+ - 1254 stalled for 19 secs in command: 5 FETCH 2:4 (FLAGS BODYSTRUCTURE RFC822.SIZE FLAGS)
+ - 1221 stalled for 19 secs in command: 6 EXPUNGE
+ - 1522 stalled for 17 secs in command: 2 SELECT "INBOX" (CONDSTORE)
+   0    5    3    7    2    3    0    4   16   24   64 120/120
+ - 1419 stalled for 20 secs in command: 3 FETCH 1,2,4 (ENVELOPE BODY.PEEK[HEADER.FIELDS (Cc Message-ID References In-Reply-To)])
+ - 1350 stalled for 20 secs in command: 8 EXPUNGE
+ - 1411 stalled for 20 secs in command: 8 STORE 1 +FLAGS.SILENT \Deleted
+ - 1254 stalled for 20 secs in command: 5 FETCH 2:4 (FLAGS BODYSTRUCTURE RFC822.SIZE FLAGS)
+ - 1221 stalled for 20 secs in command: 6 EXPUNGE
+   0    0    0    0    0    0    0    1   11   13   26 107/107
+ - 1419 stalled for 21 secs in command: 3 FETCH 1,2,4 (ENVELOPE BODY.PEEK[HEADER.FIELDS (Cc Message-ID References In-Reply-To)])
+ - 1350 stalled for 21 secs in command: 8 EXPUNGE
+ - 1411 stalled for 21 secs in command: 8 STORE 1 +FLAGS.SILENT \Deleted
+ - 1254 stalled for 21 secs in command: 5 FETCH 2:4 (FLAGS BODYSTRUCTURE RFC822.SIZE FLAGS)
+ - 1221 stalled for 21 secs in command: 6 EXPUNGE
+Logi List Stat Sele Fetc Fet2 Stor Dele Expu Appe Logo 
+100%  50%  50% 100% 100% 100%  50% 100% 100% 100% 100% 
+                          30%                  5%      
+   0    3    5    8    7    8    1    9   65   83  182  16/ 16
+ - 1419 stalled for 22 secs in command: 3 FETCH 1,2,4 (ENVELOPE BODY.PEEK[HEADER.FIELDS (Cc Message-ID References In-Reply-To)])
+ - 1447 stalled for 16 secs in command: 7 EXPUNGE
+ - 1254 stalled for 22 secs in command: 5 FETCH 2:4 (FLAGS BODYSTRUCTURE RFC822.SIZE FLAGS)
+ - 1262 stalled for 16 secs in command: 7 EXPUNGE
+
+Totals:
+Logi List Stat Sele Fetc Fet2 Stor Dele Expu Appe Logo 
+100%  50%  50% 100% 100% 100%  50% 100% 100% 100% 100% 
+                          30%                  5%      
+1728  852  869 1721 1685 2387  590 1375 1685 1697 3456 
