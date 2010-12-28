@@ -1,0 +1,517 @@
+Logi List Stat Sele Fetc Fet2 Stor Dele Expu Appe Logo 
+100%  50%  50% 100% 100% 100%  50% 100% 100% 100% 100% 
+                          30%                  5%      
+  34   13   17   30   28   44    2   21   18    4    8  30/ 30
+  23   11   11   25   12   20    2    9   14   24   48  30/ 30
+  29    7    6   16   14   18    0   10   18   28   56  30/ 30
+  11    8   10   24   24   41    0   16   12   13   26  30/ 30
+  28    5    5   11    9   14    1    9   20   26   52  30/ 30
+  18   15   13   28   24   40    4   20   18   18   36  30/ 30
+   3    6    6   10    6    8    1    6    5    6   12  30/ 30
+   0    0    0    0    0    0    0    0    0    0    0  30/ 30
+   0    0    0    0    0    0    0    0    0    0    0  30/ 30
+   2    0    0    1    2    3    0    2    8   10   20  30/ 30
+Logi List Stat Sele Fetc Fet2 Stor Dele Expu Appe Logo 
+100%  50%  50% 100% 100% 100%  50% 100% 100% 100% 100% 
+                          30%                  5%      
+   0    0    0    0    0    0    0    0    0    0    0  30/ 30
+   0    0    0    0    0    0    0    0    0    0    0  30/ 30
+   0    0    0    0    0    0    0    0    0    0    0  30/ 30
+   0    0    0    0    0    0    0    0    0    0    0  30/ 30
+   0    0    0    0    0    0    0    0    0    0    0  30/ 30
+   0    0    0    0    0    0    0    0    0    0    0  30/ 30
+   4    0    0    0    1    1    0    1    2    3    6  30/ 30
+   3    0    0    0    0    0    0    0    0    0    0  30/ 30
+   3    0    0    0    1    1    0    1    2    1    2  30/ 30
+   5    2    3    5    3    3    0    2    2    1    2  30/ 30
+Logi List Stat Sele Fetc Fet2 Stor Dele Expu Appe Logo 
+100%  50%  50% 100% 100% 100%  50% 100% 100% 100% 100% 
+                          30%                  5%      
+   0    0    0    0    0    0    0    0    0    0    0  30/ 30
+   1    1    3    4    2    2    0    2    4    3    6  30/ 30
+   5    3    5    7    2    2    0    2    2    2    4  30/ 30
+ - 125 stalled for 16 secs in command: 8 EXPUNGE
+ - 141 stalled for 16 secs in command: 4 FETCH 1 (BODYSTRUCTURE BODY RFC822.SIZE)
+  11    9    5   11   15   28    0   10   10   11   22  30/ 30
+  20    8    9   15   12   20    3    7   10   20   40  30/ 30
+  12    9    9   16   13   16    2   11   15   12   24  30/ 30
+  18   12    9   25   21   34    0   13   15   18   36  30/ 30
+  27   10    7   22   18   29    4   18   19   27   54  30/ 30
+   7    6    9   11   12   14    0    8   17   17   34  21/ 30
+  27    8   13   23   18   26    2   15   18   17   34  30/ 30
+Logi List Stat Sele Fetc Fet2 Stor Dele Expu Appe Logo 
+100%  50%  50% 100% 100% 100%  50% 100% 100% 100% 100% 
+                          30%                  5%      
+   8    5    3    8    8   14    0    3    7    8   16  30/ 30
+  19    7    9   16   17   24    1   14   15   19   38  30/ 30
+  16   16   14   24   21   28    3   17   18   16   32  30/ 30
+  20    8    6   13   14   16    2   11   18   20   40  30/ 30
+  13   10    5   18   14   17    1   13   13   16   32  30/ 30
+  12    6    6   13   12   23    1    7   10    9   18  30/ 30
+  14    6    7   14   11   14    2    7   17   21   42  25/ 30
+  24   10   12   22   18   27    3   12   17   17   34  30/ 30
+  17    7    4   16   19   27    2   14   16   17   34  30/ 30
+   1    4    2    6    6    9    0    7    4    3    6  30/ 30
+Logi List Stat Sele Fetc Fet2 Stor Dele Expu Appe Logo 
+100%  50%  50% 100% 100% 100%  50% 100% 100% 100% 100% 
+                          30%                  5%      
+  22    9   10   20   22   33    3   16   17   20   40  30/ 30
+   9    2    1    5    6    8    1    4    7    9   18  30/ 30
+  24   10   16   24   22   33    3   19   26   24   48  30/ 30
+   5    4    3    8    4    6    0    2    6    6   12  30/ 30
+  13    2    5    6    8   14    2    7   11   13   26  30/ 30
+   0    1    0    1    1    1    0    1    0    0    0  30/ 30
+   0    0    0    0    0    0    0    0    0    0    0  30/ 30
+   0    0    0    0    0    0    0    0    0    0    0  30/ 30
+   1    0    0    0    0    0    0    0    0    2    4  30/ 30
+   0    0    0    0    0    0    0    0    0    0    0  30/ 30
+Logi List Stat Sele Fetc Fet2 Stor Dele Expu Appe Logo 
+100%  50%  50% 100% 100% 100%  50% 100% 100% 100% 100% 
+                          30%                  5%      
+   2    0    0    0    1    3    0    0    0    0    0  30/ 30
+   0    0    0    0    0    0    0    0    0    0    0  30/ 30
+   1    7    6    8    5    7    2    4    0    1    2  30/ 30
+   0    2    1    2    0    0    0    0    0    0    0  30/ 30
+   0    0    0    0    0    0    0    0    0    0    0  30/ 30
+   0    0    0    0    0    0    0    0    0    0    0  30/ 30
+   0    0    0    0    0    0    0    0    0    0    0  30/ 30
+   0    0    0    0    0    0    0    0    0    0    0  30/ 30
+   0    0    0    0    0    0    0    0    0    0    0  30/ 30
+   0    0    0    0    0    0    0    0    0    0    0  30/ 30
+ - 513 stalled for 16 secs in command: 9 APPEND "INBOX" (\Flagged \Seen \Draft $Label1 $Label2) "07-Apr-2003 01:15:48 +0200" {2671+}
+ - 501 stalled for 16 secs in command: 3 FETCH 1 (RFC822.SIZE UID INTERNALDATE FLAGS)
+ - 505 stalled for 16 secs in command: 7 EXPUNGE
+ - 509 stalled for 16 secs in command: 7 EXPUNGE
+Logi List Stat Sele Fetc Fet2 Stor Dele Expu Appe Logo 
+100%  50%  50% 100% 100% 100%  50% 100% 100% 100% 100% 
+                          30%                  5%      
+   0    0    0    0    0    0    0    0    0    0    0  30/ 30
+ - 513 stalled for 17 secs in command: 9 APPEND "INBOX" (\Flagged \Seen \Draft $Label1 $Label2) "07-Apr-2003 01:15:48 +0200" {2671+}
+ - 519 stalled for 16 secs in command: 8 STORE 1:2 +FLAGS \Deleted
+ - 502 stalled for 16 secs in command: 8 APPEND "INBOX" (\Answered \Seen) {2893+}
+ - 501 stalled for 17 secs in command: 3 FETCH 1 (RFC822.SIZE UID INTERNALDATE FLAGS)
+ - 498 stalled for 16 secs in command: 8 EXPUNGE
+ - 497 stalled for 16 secs in command: 7 EXPUNGE
+ - 505 stalled for 17 secs in command: 7 EXPUNGE
+ - 524 stalled for 16 secs in command: 8 EXPUNGE
+ - 509 stalled for 17 secs in command: 7 EXPUNGE
+ - 496 stalled for 16 secs in command: 9 APPEND "INBOX" "07-Apr-2003 12:46:30 +0200" {1669+}
+ - 521 stalled for 16 secs in command: 2 LIST "" *
+ - 499 stalled for 16 secs in command: 7 EXPUNGE
+ - 517 stalled for 16 secs in command: 2 LIST "" *
+ - 504 stalled for 16 secs in command: 8 STORE 1 +FLAGS.SILENT \Deleted
+   0    0    0    0    0    0    0    0    0    0    0  30/ 30
+ - 513 stalled for 18 secs in command: 9 APPEND "INBOX" (\Flagged \Seen \Draft $Label1 $Label2) "07-Apr-2003 01:15:48 +0200" {2671+}
+ - 519 stalled for 17 secs in command: 8 STORE 1:2 +FLAGS \Deleted
+ - 502 stalled for 17 secs in command: 8 APPEND "INBOX" (\Answered \Seen) {2893+}
+ - 501 stalled for 18 secs in command: 3 FETCH 1 (RFC822.SIZE UID INTERNALDATE FLAGS)
+ - 498 stalled for 17 secs in command: 8 EXPUNGE
+ - 497 stalled for 17 secs in command: 7 EXPUNGE
+ - 505 stalled for 18 secs in command: 7 EXPUNGE
+ - 524 stalled for 17 secs in command: 8 EXPUNGE
+ - 509 stalled for 18 secs in command: 7 EXPUNGE
+ - 510 stalled for 16 secs in command: 8 EXPUNGE
+ - 496 stalled for 17 secs in command: 9 APPEND "INBOX" "07-Apr-2003 12:46:30 +0200" {1669+}
+ - 521 stalled for 17 secs in command: 2 LIST "" *
+ - 499 stalled for 17 secs in command: 7 EXPUNGE
+ - 517 stalled for 17 secs in command: 2 LIST "" *
+ - 504 stalled for 17 secs in command: 8 STORE 1 +FLAGS.SILENT \Deleted
+   0    0    0    0    0    0    0    0    0    0    0  30/ 30
+ - 513 stalled for 19 secs in command: 9 APPEND "INBOX" (\Flagged \Seen \Draft $Label1 $Label2) "07-Apr-2003 01:15:48 +0200" {2671+}
+ - 519 stalled for 18 secs in command: 8 STORE 1:2 +FLAGS \Deleted
+ - 502 stalled for 18 secs in command: 8 APPEND "INBOX" (\Answered \Seen) {2893+}
+ - 501 stalled for 19 secs in command: 3 FETCH 1 (RFC822.SIZE UID INTERNALDATE FLAGS)
+ - 498 stalled for 18 secs in command: 8 EXPUNGE
+ - 497 stalled for 18 secs in command: 7 EXPUNGE
+ - 505 stalled for 19 secs in command: 7 EXPUNGE
+ - 524 stalled for 18 secs in command: 8 EXPUNGE
+ - 509 stalled for 19 secs in command: 7 EXPUNGE
+ - 510 stalled for 17 secs in command: 8 EXPUNGE
+ - 496 stalled for 18 secs in command: 9 APPEND "INBOX" "07-Apr-2003 12:46:30 +0200" {1669+}
+ - 521 stalled for 18 secs in command: 2 LIST "" *
+ - 499 stalled for 18 secs in command: 7 EXPUNGE
+ - 517 stalled for 18 secs in command: 2 LIST "" *
+ - 504 stalled for 18 secs in command: 8 STORE 1 +FLAGS.SILENT \Deleted
+   0    0    0    0    0    0    0    0    0    0    0  30/ 30
+ - 513 stalled for 20 secs in command: 9 APPEND "INBOX" (\Flagged \Seen \Draft $Label1 $Label2) "07-Apr-2003 01:15:48 +0200" {2671+}
+ - 519 stalled for 19 secs in command: 8 STORE 1:2 +FLAGS \Deleted
+ - 502 stalled for 19 secs in command: 8 APPEND "INBOX" (\Answered \Seen) {2893+}
+ - 501 stalled for 20 secs in command: 3 FETCH 1 (RFC822.SIZE UID INTERNALDATE FLAGS)
+ - 498 stalled for 19 secs in command: 8 EXPUNGE
+ - 497 stalled for 19 secs in command: 7 EXPUNGE
+ - 505 stalled for 20 secs in command: 7 EXPUNGE
+ - 524 stalled for 19 secs in command: 8 EXPUNGE
+ - 509 stalled for 20 secs in command: 7 EXPUNGE
+ - 510 stalled for 18 secs in command: 8 EXPUNGE
+ - 496 stalled for 19 secs in command: 9 APPEND "INBOX" "07-Apr-2003 12:46:30 +0200" {1669+}
+ - 521 stalled for 19 secs in command: 2 LIST "" *
+ - 499 stalled for 19 secs in command: 7 EXPUNGE
+ - 517 stalled for 19 secs in command: 2 LIST "" *
+ - 504 stalled for 19 secs in command: 8 STORE 1 +FLAGS.SILENT \Deleted
+   0    0    0    0    0    0    0    0    0    0    0  30/ 30
+ - 513 stalled for 21 secs in command: 9 APPEND "INBOX" (\Flagged \Seen \Draft $Label1 $Label2) "07-Apr-2003 01:15:48 +0200" {2671+}
+ - 519 stalled for 20 secs in command: 8 STORE 1:2 +FLAGS \Deleted
+ - 515 stalled for 16 secs in command: 2 LIST "" *
+ - 502 stalled for 20 secs in command: 8 APPEND "INBOX" (\Answered \Seen) {2893+}
+ - 501 stalled for 21 secs in command: 3 FETCH 1 (RFC822.SIZE UID INTERNALDATE FLAGS)
+ - 498 stalled for 20 secs in command: 8 EXPUNGE
+ - 497 stalled for 20 secs in command: 7 EXPUNGE
+ - 505 stalled for 21 secs in command: 7 EXPUNGE
+ - 524 stalled for 20 secs in command: 8 EXPUNGE
+ - 509 stalled for 21 secs in command: 7 EXPUNGE
+ - 510 stalled for 19 secs in command: 8 EXPUNGE
+ - 496 stalled for 20 secs in command: 9 APPEND "INBOX" "07-Apr-2003 12:46:30 +0200" {1669+}
+ - 521 stalled for 20 secs in command: 2 LIST "" *
+ - 499 stalled for 20 secs in command: 7 EXPUNGE
+ - 517 stalled for 20 secs in command: 2 LIST "" *
+ - 504 stalled for 20 secs in command: 8 STORE 1 +FLAGS.SILENT \Deleted
+   0    0    0    0    0    0    0    0    0    0    0  30/ 30
+ - 513 stalled for 22 secs in command: 9 APPEND "INBOX" (\Flagged \Seen \Draft $Label1 $Label2) "07-Apr-2003 01:15:48 +0200" {2671+}
+ - 519 stalled for 21 secs in command: 8 STORE 1:2 +FLAGS \Deleted
+ - 515 stalled for 17 secs in command: 2 LIST "" *
+ - 502 stalled for 21 secs in command: 8 APPEND "INBOX" (\Answered \Seen) {2893+}
+ - 501 stalled for 22 secs in command: 3 FETCH 1 (RFC822.SIZE UID INTERNALDATE FLAGS)
+ - 498 stalled for 21 secs in command: 8 EXPUNGE
+ - 497 stalled for 21 secs in command: 7 EXPUNGE
+ - 505 stalled for 22 secs in command: 7 EXPUNGE
+ - 524 stalled for 21 secs in command: 8 EXPUNGE
+ - 509 stalled for 22 secs in command: 7 EXPUNGE
+ - 510 stalled for 20 secs in command: 8 EXPUNGE
+ - 496 stalled for 21 secs in command: 9 APPEND "INBOX" "07-Apr-2003 12:46:30 +0200" {1669+}
+ - 521 stalled for 21 secs in command: 2 LIST "" *
+ - 499 stalled for 21 secs in command: 7 EXPUNGE
+ - 517 stalled for 21 secs in command: 2 LIST "" *
+ - 504 stalled for 21 secs in command: 8 STORE 1 +FLAGS.SILENT \Deleted
+   0    0    0    0    0    0    0    0    0    0    0  30/ 30
+ - 513 stalled for 23 secs in command: 9 APPEND "INBOX" (\Flagged \Seen \Draft $Label1 $Label2) "07-Apr-2003 01:15:48 +0200" {2671+}
+ - 519 stalled for 22 secs in command: 8 STORE 1:2 +FLAGS \Deleted
+ - 515 stalled for 18 secs in command: 2 LIST "" *
+ - 502 stalled for 22 secs in command: 8 APPEND "INBOX" (\Answered \Seen) {2893+}
+ - 501 stalled for 23 secs in command: 3 FETCH 1 (RFC822.SIZE UID INTERNALDATE FLAGS)
+ - 528 stalled for 16 secs in command: 2 LIST "" *
+ - 498 stalled for 22 secs in command: 8 EXPUNGE
+ - 497 stalled for 22 secs in command: 7 EXPUNGE
+ - 505 stalled for 23 secs in command: 7 EXPUNGE
+ - 524 stalled for 22 secs in command: 8 EXPUNGE
+ - 509 stalled for 23 secs in command: 7 EXPUNGE
+ - 510 stalled for 21 secs in command: 8 EXPUNGE
+ - 496 stalled for 22 secs in command: 9 APPEND "INBOX" "07-Apr-2003 12:46:30 +0200" {1669+}
+ - 521 stalled for 22 secs in command: 2 LIST "" *
+ - 499 stalled for 22 secs in command: 7 EXPUNGE
+ - 517 stalled for 22 secs in command: 2 LIST "" *
+ - 518 stalled for 16 secs in command: 7 STORE 2:3 +FLAGS.SILENT \Deleted
+ - 504 stalled for 22 secs in command: 8 STORE 1 +FLAGS.SILENT \Deleted
+   0    0    0    0    0    0    0    0    0    0    0  30/ 30
+ - 513 stalled for 24 secs in command: 9 APPEND "INBOX" (\Flagged \Seen \Draft $Label1 $Label2) "07-Apr-2003 01:15:48 +0200" {2671+}
+ - 519 stalled for 23 secs in command: 8 STORE 1:2 +FLAGS \Deleted
+ - 515 stalled for 19 secs in command: 2 LIST "" *
+ - 502 stalled for 23 secs in command: 8 APPEND "INBOX" (\Answered \Seen) {2893+}
+ - 501 stalled for 24 secs in command: 3 FETCH 1 (RFC822.SIZE UID INTERNALDATE FLAGS)
+ - 528 stalled for 17 secs in command: 2 LIST "" *
+ - 498 stalled for 23 secs in command: 8 EXPUNGE
+ - 497 stalled for 23 secs in command: 7 EXPUNGE
+ - 505 stalled for 24 secs in command: 7 EXPUNGE
+ - 524 stalled for 23 secs in command: 8 EXPUNGE
+ - 509 stalled for 24 secs in command: 7 EXPUNGE
+ - 510 stalled for 22 secs in command: 8 EXPUNGE
+ - 496 stalled for 23 secs in command: 9 APPEND "INBOX" "07-Apr-2003 12:46:30 +0200" {1669+}
+ - 521 stalled for 23 secs in command: 2 LIST "" *
+ - 499 stalled for 23 secs in command: 7 EXPUNGE
+ - 517 stalled for 23 secs in command: 2 LIST "" *
+ - 518 stalled for 17 secs in command: 7 STORE 2:3 +FLAGS.SILENT \Deleted
+ - 504 stalled for 23 secs in command: 8 STORE 1 +FLAGS.SILENT \Deleted
+   0    0    0    0    2    2    1    2    2    4    8  26/ 26
+ - 519 stalled for 24 secs in command: 8 STORE 1:2 +FLAGS \Deleted
+ - 515 stalled for 20 secs in command: 2 LIST "" *
+ - 501 stalled for 25 secs in command: 3 FETCH 1 (RFC822.SIZE UID INTERNALDATE FLAGS)
+ - 522 stalled for 16 secs in command: 8 EXPUNGE
+ - 508 stalled for 16 secs in command: 7 EXPUNGE
+ - 523 stalled for 16 secs in command: 8 EXPUNGE
+ - 516 stalled for 16 secs in command: 9 STORE 1:2 +FLAGS \Deleted
+ - 528 stalled for 18 secs in command: 2 LIST "" *
+ - 511 stalled for 16 secs in command: 7 EXPUNGE
+ - 497 stalled for 24 secs in command: 7 EXPUNGE
+ - 520 stalled for 16 secs in command: 5 FETCH 1 (BODY)
+ - 505 stalled for 25 secs in command: 7 EXPUNGE
+ - 525 stalled for 16 secs in command: 5 FETCH 2 (BODY.PEEK[HEADER.FIELDS (Cc From References)] BODY.PEEK[HEADER.FIELDS (Delivered-To Subject Delivered-To)])
+ - 524 stalled for 24 secs in command: 8 EXPUNGE
+ - 509 stalled for 25 secs in command: 7 EXPUNGE
+ - 496 stalled for 24 secs in command: 9 APPEND "INBOX" "07-Apr-2003 12:46:30 +0200" {1669+}
+ - 527 stalled for 16 secs in command: 5 FETCH 1 (ENVELOPE UID FLAGS)
+ - 521 stalled for 24 secs in command: 2 LIST "" *
+ - 499 stalled for 24 secs in command: 7 EXPUNGE
+ - 526 stalled for 16 secs in command: 5 FETCH 1:2 (BODY.PEEK[HEADER.FIELDS (Subject Message-ID In-Reply-To Cc)] INTERNALDATE)
+ - 517 stalled for 24 secs in command: 2 LIST "" *
+ - 518 stalled for 18 secs in command: 7 STORE 2:3 +FLAGS.SILENT \Deleted
+ - 504 stalled for 24 secs in command: 8 STORE 1 +FLAGS.SILENT \Deleted
+   0    0    0    0    0    0    0    0    0    0    0  26/ 26
+ - 519 stalled for 25 secs in command: 8 STORE 1:2 +FLAGS \Deleted
+ - 515 stalled for 21 secs in command: 2 LIST "" *
+ - 501 stalled for 26 secs in command: 3 FETCH 1 (RFC822.SIZE UID INTERNALDATE FLAGS)
+ - 522 stalled for 17 secs in command: 8 EXPUNGE
+ - 508 stalled for 17 secs in command: 7 EXPUNGE
+ - 523 stalled for 17 secs in command: 8 EXPUNGE
+ - 516 stalled for 17 secs in command: 9 STORE 1:2 +FLAGS \Deleted
+ - 528 stalled for 19 secs in command: 2 LIST "" *
+ - 511 stalled for 17 secs in command: 7 EXPUNGE
+ - 514 stalled for 16 secs in command: 4 FETCH 1:2 (ENVELOPE UID BODY.PEEK[HEADER.FIELDS (From Delivered-To)])
+ - 497 stalled for 25 secs in command: 7 EXPUNGE
+ - 520 stalled for 17 secs in command: 5 FETCH 1 (BODY)
+ - 505 stalled for 26 secs in command: 7 EXPUNGE
+ - 525 stalled for 17 secs in command: 5 FETCH 2 (BODY.PEEK[HEADER.FIELDS (Cc From References)] BODY.PEEK[HEADER.FIELDS (Delivered-To Subject Delivered-To)])
+ - 524 stalled for 25 secs in command: 8 EXPUNGE
+ - 509 stalled for 26 secs in command: 7 EXPUNGE
+ - 496 stalled for 25 secs in command: 9 APPEND "INBOX" "07-Apr-2003 12:46:30 +0200" {1669+}
+ - 527 stalled for 17 secs in command: 5 FETCH 1 (ENVELOPE UID FLAGS)
+ - 521 stalled for 25 secs in command: 2 LIST "" *
+ - 499 stalled for 25 secs in command: 7 EXPUNGE
+ - 526 stalled for 17 secs in command: 5 FETCH 1:2 (BODY.PEEK[HEADER.FIELDS (Subject Message-ID In-Reply-To Cc)] INTERNALDATE)
+ - 517 stalled for 25 secs in command: 2 LIST "" *
+ - 518 stalled for 19 secs in command: 7 STORE 2:3 +FLAGS.SILENT \Deleted
+ - 504 stalled for 25 secs in command: 8 STORE 1 +FLAGS.SILENT \Deleted
+Logi List Stat Sele Fetc Fet2 Stor Dele Expu Appe Logo 
+100%  50%  50% 100% 100% 100%  50% 100% 100% 100% 100% 
+                          30%                  5%      
+   0    0    0    0    0    0    0    0    0    0    0  26/ 26
+ - 519 stalled for 26 secs in command: 8 STORE 1:2 +FLAGS \Deleted
+ - 515 stalled for 22 secs in command: 2 LIST "" *
+ - 501 stalled for 27 secs in command: 3 FETCH 1 (RFC822.SIZE UID INTERNALDATE FLAGS)
+ - 522 stalled for 18 secs in command: 8 EXPUNGE
+ - 508 stalled for 18 secs in command: 7 EXPUNGE
+ - 523 stalled for 18 secs in command: 8 EXPUNGE
+ - 516 stalled for 18 secs in command: 9 STORE 1:2 +FLAGS \Deleted
+ - 528 stalled for 20 secs in command: 2 LIST "" *
+ - 511 stalled for 18 secs in command: 7 EXPUNGE
+ - 514 stalled for 17 secs in command: 4 FETCH 1:2 (ENVELOPE UID BODY.PEEK[HEADER.FIELDS (From Delivered-To)])
+ - 497 stalled for 26 secs in command: 7 EXPUNGE
+ - 520 stalled for 18 secs in command: 5 FETCH 1 (BODY)
+ - 505 stalled for 27 secs in command: 7 EXPUNGE
+ - 525 stalled for 18 secs in command: 5 FETCH 2 (BODY.PEEK[HEADER.FIELDS (Cc From References)] BODY.PEEK[HEADER.FIELDS (Delivered-To Subject Delivered-To)])
+ - 524 stalled for 26 secs in command: 8 EXPUNGE
+ - 509 stalled for 27 secs in command: 7 EXPUNGE
+ - 496 stalled for 26 secs in command: 9 APPEND "INBOX" "07-Apr-2003 12:46:30 +0200" {1669+}
+ - 527 stalled for 18 secs in command: 5 FETCH 1 (ENVELOPE UID FLAGS)
+ - 521 stalled for 26 secs in command: 2 LIST "" *
+ - 499 stalled for 26 secs in command: 7 EXPUNGE
+ - 526 stalled for 18 secs in command: 5 FETCH 1:2 (BODY.PEEK[HEADER.FIELDS (Subject Message-ID In-Reply-To Cc)] INTERNALDATE)
+ - 517 stalled for 26 secs in command: 2 LIST "" *
+ - 518 stalled for 20 secs in command: 7 STORE 2:3 +FLAGS.SILENT \Deleted
+ - 504 stalled for 26 secs in command: 8 STORE 1 +FLAGS.SILENT \Deleted
+   0    0    0    0    0    0    0    0    0    0    0  26/ 26
+ - 519 stalled for 27 secs in command: 8 STORE 1:2 +FLAGS \Deleted
+ - 515 stalled for 23 secs in command: 2 LIST "" *
+ - 501 stalled for 28 secs in command: 3 FETCH 1 (RFC822.SIZE UID INTERNALDATE FLAGS)
+ - 522 stalled for 19 secs in command: 8 EXPUNGE
+ - 508 stalled for 19 secs in command: 7 EXPUNGE
+ - 523 stalled for 19 secs in command: 8 EXPUNGE
+ - 516 stalled for 19 secs in command: 9 STORE 1:2 +FLAGS \Deleted
+ - 528 stalled for 21 secs in command: 2 LIST "" *
+ - 511 stalled for 19 secs in command: 7 EXPUNGE
+ - 514 stalled for 18 secs in command: 4 FETCH 1:2 (ENVELOPE UID BODY.PEEK[HEADER.FIELDS (From Delivered-To)])
+ - 497 stalled for 27 secs in command: 7 EXPUNGE
+ - 520 stalled for 19 secs in command: 5 FETCH 1 (BODY)
+ - 505 stalled for 28 secs in command: 7 EXPUNGE
+ - 525 stalled for 19 secs in command: 5 FETCH 2 (BODY.PEEK[HEADER.FIELDS (Cc From References)] BODY.PEEK[HEADER.FIELDS (Delivered-To Subject Delivered-To)])
+ - 524 stalled for 27 secs in command: 8 EXPUNGE
+ - 509 stalled for 28 secs in command: 7 EXPUNGE
+ - 496 stalled for 27 secs in command: 9 APPEND "INBOX" "07-Apr-2003 12:46:30 +0200" {1669+}
+ - 527 stalled for 19 secs in command: 5 FETCH 1 (ENVELOPE UID FLAGS)
+ - 521 stalled for 27 secs in command: 2 LIST "" *
+ - 499 stalled for 27 secs in command: 7 EXPUNGE
+ - 526 stalled for 19 secs in command: 5 FETCH 1:2 (BODY.PEEK[HEADER.FIELDS (Subject Message-ID In-Reply-To Cc)] INTERNALDATE)
+ - 517 stalled for 27 secs in command: 2 LIST "" *
+ - 518 stalled for 21 secs in command: 7 STORE 2:3 +FLAGS.SILENT \Deleted
+ - 504 stalled for 27 secs in command: 8 STORE 1 +FLAGS.SILENT \Deleted
+   0    0    0    0    0    0    0    0    0    0    0  26/ 26
+ - 519 stalled for 28 secs in command: 8 STORE 1:2 +FLAGS \Deleted
+ - 515 stalled for 24 secs in command: 2 LIST "" *
+ - 501 stalled for 29 secs in command: 3 FETCH 1 (RFC822.SIZE UID INTERNALDATE FLAGS)
+ - 522 stalled for 20 secs in command: 8 EXPUNGE
+ - 508 stalled for 20 secs in command: 7 EXPUNGE
+ - 523 stalled for 20 secs in command: 8 EXPUNGE
+ - 516 stalled for 20 secs in command: 9 STORE 1:2 +FLAGS \Deleted
+ - 528 stalled for 22 secs in command: 2 LIST "" *
+ - 511 stalled for 20 secs in command: 7 EXPUNGE
+ - 514 stalled for 19 secs in command: 4 FETCH 1:2 (ENVELOPE UID BODY.PEEK[HEADER.FIELDS (From Delivered-To)])
+ - 497 stalled for 28 secs in command: 7 EXPUNGE
+ - 520 stalled for 20 secs in command: 5 FETCH 1 (BODY)
+ - 505 stalled for 29 secs in command: 7 EXPUNGE
+ - 525 stalled for 20 secs in command: 5 FETCH 2 (BODY.PEEK[HEADER.FIELDS (Cc From References)] BODY.PEEK[HEADER.FIELDS (Delivered-To Subject Delivered-To)])
+ - 524 stalled for 28 secs in command: 8 EXPUNGE
+ - 509 stalled for 29 secs in command: 7 EXPUNGE
+ - 496 stalled for 28 secs in command: 9 APPEND "INBOX" "07-Apr-2003 12:46:30 +0200" {1669+}
+ - 527 stalled for 20 secs in command: 5 FETCH 1 (ENVELOPE UID FLAGS)
+ - 521 stalled for 28 secs in command: 2 LIST "" *
+ - 499 stalled for 28 secs in command: 7 EXPUNGE
+ - 526 stalled for 20 secs in command: 5 FETCH 1:2 (BODY.PEEK[HEADER.FIELDS (Subject Message-ID In-Reply-To Cc)] INTERNALDATE)
+ - 517 stalled for 28 secs in command: 2 LIST "" *
+ - 518 stalled for 22 secs in command: 7 STORE 2:3 +FLAGS.SILENT \Deleted
+ - 504 stalled for 28 secs in command: 8 STORE 1 +FLAGS.SILENT \Deleted
+   0    0    0    0    0    0    0    0    0    0    0  26/ 26
+ - 519 stalled for 29 secs in command: 8 STORE 1:2 +FLAGS \Deleted
+ - 515 stalled for 25 secs in command: 2 LIST "" *
+ - 501 stalled for 30 secs in command: 3 FETCH 1 (RFC822.SIZE UID INTERNALDATE FLAGS)
+ - 522 stalled for 21 secs in command: 8 EXPUNGE
+ - 508 stalled for 21 secs in command: 7 EXPUNGE
+ - 523 stalled for 21 secs in command: 8 EXPUNGE
+ - 516 stalled for 21 secs in command: 9 STORE 1:2 +FLAGS \Deleted
+ - 528 stalled for 23 secs in command: 2 LIST "" *
+ - 511 stalled for 21 secs in command: 7 EXPUNGE
+ - 514 stalled for 20 secs in command: 4 FETCH 1:2 (ENVELOPE UID BODY.PEEK[HEADER.FIELDS (From Delivered-To)])
+ - 497 stalled for 29 secs in command: 7 EXPUNGE
+ - 520 stalled for 21 secs in command: 5 FETCH 1 (BODY)
+ - 505 stalled for 30 secs in command: 7 EXPUNGE
+ - 525 stalled for 21 secs in command: 5 FETCH 2 (BODY.PEEK[HEADER.FIELDS (Cc From References)] BODY.PEEK[HEADER.FIELDS (Delivered-To Subject Delivered-To)])
+ - 524 stalled for 29 secs in command: 8 EXPUNGE
+ - 509 stalled for 30 secs in command: 7 EXPUNGE
+ - 496 stalled for 29 secs in command: 9 APPEND "INBOX" "07-Apr-2003 12:46:30 +0200" {1669+}
+ - 527 stalled for 21 secs in command: 5 FETCH 1 (ENVELOPE UID FLAGS)
+ - 521 stalled for 29 secs in command: 2 LIST "" *
+ - 499 stalled for 29 secs in command: 7 EXPUNGE
+ - 526 stalled for 21 secs in command: 5 FETCH 1:2 (BODY.PEEK[HEADER.FIELDS (Subject Message-ID In-Reply-To Cc)] INTERNALDATE)
+ - 517 stalled for 29 secs in command: 2 LIST "" *
+ - 518 stalled for 23 secs in command: 7 STORE 2:3 +FLAGS.SILENT \Deleted
+ - 504 stalled for 29 secs in command: 8 STORE 1 +FLAGS.SILENT \Deleted
+   0    0    0    0    0    0    0    0    0    0    0  26/ 26
+ - 519 stalled for 30 secs in command: 8 STORE 1:2 +FLAGS \Deleted
+ - 515 stalled for 26 secs in command: 2 LIST "" *
+ - 501 stalled for 31 secs in command: 3 FETCH 1 (RFC822.SIZE UID INTERNALDATE FLAGS)
+ - 522 stalled for 22 secs in command: 8 EXPUNGE
+ - 508 stalled for 22 secs in command: 7 EXPUNGE
+ - 523 stalled for 22 secs in command: 8 EXPUNGE
+ - 516 stalled for 22 secs in command: 9 STORE 1:2 +FLAGS \Deleted
+ - 528 stalled for 24 secs in command: 2 LIST "" *
+ - 511 stalled for 22 secs in command: 7 EXPUNGE
+ - 514 stalled for 21 secs in command: 4 FETCH 1:2 (ENVELOPE UID BODY.PEEK[HEADER.FIELDS (From Delivered-To)])
+ - 497 stalled for 30 secs in command: 7 EXPUNGE
+ - 520 stalled for 22 secs in command: 5 FETCH 1 (BODY)
+ - 505 stalled for 31 secs in command: 7 EXPUNGE
+ - 525 stalled for 22 secs in command: 5 FETCH 2 (BODY.PEEK[HEADER.FIELDS (Cc From References)] BODY.PEEK[HEADER.FIELDS (Delivered-To Subject Delivered-To)])
+ - 524 stalled for 30 secs in command: 8 EXPUNGE
+ - 509 stalled for 31 secs in command: 7 EXPUNGE
+ - 496 stalled for 30 secs in command: 9 APPEND "INBOX" "07-Apr-2003 12:46:30 +0200" {1669+}
+ - 527 stalled for 22 secs in command: 5 FETCH 1 (ENVELOPE UID FLAGS)
+ - 521 stalled for 30 secs in command: 2 LIST "" *
+ - 499 stalled for 30 secs in command: 7 EXPUNGE
+ - 526 stalled for 22 secs in command: 5 FETCH 1:2 (BODY.PEEK[HEADER.FIELDS (Subject Message-ID In-Reply-To Cc)] INTERNALDATE)
+ - 517 stalled for 30 secs in command: 2 LIST "" *
+ - 518 stalled for 24 secs in command: 7 STORE 2:3 +FLAGS.SILENT \Deleted
+ - 504 stalled for 30 secs in command: 8 STORE 1 +FLAGS.SILENT \Deleted
+   0    0    0    0    0    0    0    0    0    0    0  26/ 26
+ - 519 stalled for 31 secs in command: 8 STORE 1:2 +FLAGS \Deleted
+ - 515 stalled for 27 secs in command: 2 LIST "" *
+ - 501 stalled for 32 secs in command: 3 FETCH 1 (RFC822.SIZE UID INTERNALDATE FLAGS)
+ - 522 stalled for 23 secs in command: 8 EXPUNGE
+ - 508 stalled for 23 secs in command: 7 EXPUNGE
+ - 523 stalled for 23 secs in command: 8 EXPUNGE
+ - 516 stalled for 23 secs in command: 9 STORE 1:2 +FLAGS \Deleted
+ - 528 stalled for 25 secs in command: 2 LIST "" *
+ - 511 stalled for 23 secs in command: 7 EXPUNGE
+ - 514 stalled for 22 secs in command: 4 FETCH 1:2 (ENVELOPE UID BODY.PEEK[HEADER.FIELDS (From Delivered-To)])
+ - 497 stalled for 31 secs in command: 7 EXPUNGE
+ - 520 stalled for 23 secs in command: 5 FETCH 1 (BODY)
+ - 505 stalled for 32 secs in command: 7 EXPUNGE
+ - 525 stalled for 23 secs in command: 5 FETCH 2 (BODY.PEEK[HEADER.FIELDS (Cc From References)] BODY.PEEK[HEADER.FIELDS (Delivered-To Subject Delivered-To)])
+ - 524 stalled for 31 secs in command: 8 EXPUNGE
+ - 509 stalled for 32 secs in command: 7 EXPUNGE
+ - 496 stalled for 31 secs in command: 9 APPEND "INBOX" "07-Apr-2003 12:46:30 +0200" {1669+}
+ - 527 stalled for 23 secs in command: 5 FETCH 1 (ENVELOPE UID FLAGS)
+ - 521 stalled for 31 secs in command: 2 LIST "" *
+ - 499 stalled for 31 secs in command: 7 EXPUNGE
+ - 526 stalled for 23 secs in command: 5 FETCH 1:2 (BODY.PEEK[HEADER.FIELDS (Subject Message-ID In-Reply-To Cc)] INTERNALDATE)
+ - 517 stalled for 31 secs in command: 2 LIST "" *
+ - 518 stalled for 25 secs in command: 7 STORE 2:3 +FLAGS.SILENT \Deleted
+ - 504 stalled for 31 secs in command: 8 STORE 1 +FLAGS.SILENT \Deleted
+   0    0    0    0    0    0    0    0    0    0    0  26/ 26
+ - 519 stalled for 32 secs in command: 8 STORE 1:2 +FLAGS \Deleted
+ - 515 stalled for 28 secs in command: 2 LIST "" *
+ - 501 stalled for 33 secs in command: 3 FETCH 1 (RFC822.SIZE UID INTERNALDATE FLAGS)
+ - 522 stalled for 24 secs in command: 8 EXPUNGE
+ - 508 stalled for 24 secs in command: 7 EXPUNGE
+ - 523 stalled for 24 secs in command: 8 EXPUNGE
+ - 516 stalled for 24 secs in command: 9 STORE 1:2 +FLAGS \Deleted
+ - 528 stalled for 26 secs in command: 2 LIST "" *
+ - 511 stalled for 24 secs in command: 7 EXPUNGE
+ - 514 stalled for 23 secs in command: 4 FETCH 1:2 (ENVELOPE UID BODY.PEEK[HEADER.FIELDS (From Delivered-To)])
+ - 497 stalled for 32 secs in command: 7 EXPUNGE
+ - 520 stalled for 24 secs in command: 5 FETCH 1 (BODY)
+ - 505 stalled for 33 secs in command: 7 EXPUNGE
+ - 525 stalled for 24 secs in command: 5 FETCH 2 (BODY.PEEK[HEADER.FIELDS (Cc From References)] BODY.PEEK[HEADER.FIELDS (Delivered-To Subject Delivered-To)])
+ - 524 stalled for 32 secs in command: 8 EXPUNGE
+ - 509 stalled for 33 secs in command: 7 EXPUNGE
+ - 496 stalled for 32 secs in command: 9 APPEND "INBOX" "07-Apr-2003 12:46:30 +0200" {1669+}
+ - 527 stalled for 24 secs in command: 5 FETCH 1 (ENVELOPE UID FLAGS)
+ - 521 stalled for 32 secs in command: 2 LIST "" *
+ - 499 stalled for 32 secs in command: 7 EXPUNGE
+ - 526 stalled for 24 secs in command: 5 FETCH 1:2 (BODY.PEEK[HEADER.FIELDS (Subject Message-ID In-Reply-To Cc)] INTERNALDATE)
+ - 517 stalled for 32 secs in command: 2 LIST "" *
+ - 518 stalled for 26 secs in command: 7 STORE 2:3 +FLAGS.SILENT \Deleted
+ - 504 stalled for 32 secs in command: 8 STORE 1 +FLAGS.SILENT \Deleted
+   0    0    0    0    0    0    0    0    0    0    0  26/ 26
+ - 519 stalled for 33 secs in command: 8 STORE 1:2 +FLAGS \Deleted
+ - 515 stalled for 29 secs in command: 2 LIST "" *
+ - 501 stalled for 34 secs in command: 3 FETCH 1 (RFC822.SIZE UID INTERNALDATE FLAGS)
+ - 522 stalled for 25 secs in command: 8 EXPUNGE
+ - 508 stalled for 25 secs in command: 7 EXPUNGE
+ - 523 stalled for 25 secs in command: 8 EXPUNGE
+ - 516 stalled for 25 secs in command: 9 STORE 1:2 +FLAGS \Deleted
+ - 528 stalled for 27 secs in command: 2 LIST "" *
+ - 511 stalled for 25 secs in command: 7 EXPUNGE
+ - 514 stalled for 24 secs in command: 4 FETCH 1:2 (ENVELOPE UID BODY.PEEK[HEADER.FIELDS (From Delivered-To)])
+ - 497 stalled for 33 secs in command: 7 EXPUNGE
+ - 520 stalled for 25 secs in command: 5 FETCH 1 (BODY)
+ - 505 stalled for 34 secs in command: 7 EXPUNGE
+ - 525 stalled for 25 secs in command: 5 FETCH 2 (BODY.PEEK[HEADER.FIELDS (Cc From References)] BODY.PEEK[HEADER.FIELDS (Delivered-To Subject Delivered-To)])
+ - 524 stalled for 33 secs in command: 8 EXPUNGE
+ - 509 stalled for 34 secs in command: 7 EXPUNGE
+ - 496 stalled for 33 secs in command: 9 APPEND "INBOX" "07-Apr-2003 12:46:30 +0200" {1669+}
+ - 527 stalled for 25 secs in command: 5 FETCH 1 (ENVELOPE UID FLAGS)
+ - 521 stalled for 33 secs in command: 2 LIST "" *
+ - 499 stalled for 33 secs in command: 7 EXPUNGE
+ - 526 stalled for 25 secs in command: 5 FETCH 1:2 (BODY.PEEK[HEADER.FIELDS (Subject Message-ID In-Reply-To Cc)] INTERNALDATE)
+ - 517 stalled for 33 secs in command: 2 LIST "" *
+ - 518 stalled for 27 secs in command: 7 STORE 2:3 +FLAGS.SILENT \Deleted
+ - 504 stalled for 33 secs in command: 8 STORE 1 +FLAGS.SILENT \Deleted
+   0    1    1    1    2    3    0    2    2    2    6  23/ 23
+ - 519 stalled for 34 secs in command: 8 STORE 1:2 +FLAGS \Deleted
+ - 515 stalled for 30 secs in command: 2 LIST "" *
+ - 501 stalled for 35 secs in command: 3 FETCH 1 (RFC822.SIZE UID INTERNALDATE FLAGS)
+ - 522 stalled for 26 secs in command: 8 EXPUNGE
+ - 508 stalled for 26 secs in command: 7 EXPUNGE
+ - 523 stalled for 26 secs in command: 8 EXPUNGE
+ - 516 stalled for 26 secs in command: 9 STORE 1:2 +FLAGS \Deleted
+ - 511 stalled for 26 secs in command: 7 EXPUNGE
+ - 497 stalled for 34 secs in command: 7 EXPUNGE
+ - 520 stalled for 26 secs in command: 5 FETCH 1 (BODY)
+ - 505 stalled for 35 secs in command: 7 EXPUNGE
+ - 525 stalled for 26 secs in command: 5 FETCH 2 (BODY.PEEK[HEADER.FIELDS (Cc From References)] BODY.PEEK[HEADER.FIELDS (Delivered-To Subject Delivered-To)])
+ - 524 stalled for 34 secs in command: 8 EXPUNGE
+ - 509 stalled for 35 secs in command: 7 EXPUNGE
+ - 521 stalled for 34 secs in command: 2 LIST "" *
+ - 526 stalled for 26 secs in command: 5 FETCH 1:2 (BODY.PEEK[HEADER.FIELDS (Subject Message-ID In-Reply-To Cc)] INTERNALDATE)
+ - 517 stalled for 34 secs in command: 2 LIST "" *
+ - 518 stalled for 28 secs in command: 7 STORE 2:3 +FLAGS.SILENT \Deleted
+ - 504 stalled for 34 secs in command: 8 STORE 1 +FLAGS.SILENT \Deleted
+   0    1    0    1    1    1    0    0    2    2    6  20/ 20
+ - 519 stalled for 35 secs in command: 8 STORE 1:2 +FLAGS \Deleted
+ - 501 stalled for 36 secs in command: 3 FETCH 1 (RFC822.SIZE UID INTERNALDATE FLAGS)
+ - 522 stalled for 27 secs in command: 8 EXPUNGE
+ - 508 stalled for 27 secs in command: 7 EXPUNGE
+ - 523 stalled for 27 secs in command: 8 EXPUNGE
+ - 516 stalled for 27 secs in command: 9 STORE 1:2 +FLAGS \Deleted
+ - 511 stalled for 27 secs in command: 7 EXPUNGE
+ - 497 stalled for 35 secs in command: 7 EXPUNGE
+ - 525 stalled for 27 secs in command: 5 FETCH 2 (BODY.PEEK[HEADER.FIELDS (Cc From References)] BODY.PEEK[HEADER.FIELDS (Delivered-To Subject Delivered-To)])
+ - 524 stalled for 35 secs in command: 8 EXPUNGE
+ - 509 stalled for 36 secs in command: 7 EXPUNGE
+ - 521 stalled for 35 secs in command: 2 LIST "" *
+ - 526 stalled for 27 secs in command: 5 FETCH 1:2 (BODY.PEEK[HEADER.FIELDS (Subject Message-ID In-Reply-To Cc)] INTERNALDATE)
+ - 517 stalled for 35 secs in command: 2 LIST "" *
+ - 518 stalled for 29 secs in command: 7 STORE 2:3 +FLAGS.SILENT \Deleted
+ - 504 stalled for 35 secs in command: 8 STORE 1 +FLAGS.SILENT \Deleted
+
+Totals:
+Logi List Stat Sele Fetc Fet2 Stor Dele Expu Appe Logo 
+100%  50%  50% 100% 100% 100%  50% 100% 100% 100% 100% 
+                          30%                  5%      
+ 512  253  251  512  454  677   48  349  454  508 1024 

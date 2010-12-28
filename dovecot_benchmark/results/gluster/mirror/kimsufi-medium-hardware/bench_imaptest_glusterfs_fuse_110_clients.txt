@@ -1,0 +1,1766 @@
+Logi List Stat Sele Fetc Fet2 Stor Dele Expu Appe Logo 
+100%  50%  50% 100% 100% 100%  50% 100% 100% 100% 100% 
+                          30%                  5%      
+ 110   22   12   33   23   32    3   19    7    0    0 110/110
+   7   40   40   77   79  103   19   69   32   13   26 110/110
+   3    0    0    1    0    0    0    1    2    5   10 110/110
+  35    2    2    3    8    9    2    3   17   27   54 110/110
+  56   26   38   56   39   66    9   31   51   56  112 110/110
+  14   21   19   46   22   27    0   18   37   36   72  93/110
+  34    3    5    9   38   62    9   25   17   12   24 110/110
+  14    7    3   11   14   19    4   10   18   14   28 110/110
+  39   10    9   18    8   14    3    7   30   39   78 110/110
+  15   17   19   37   44   59   14   37   21   15   30 110/110
+Logi List Stat Sele Fetc Fet2 Stor Dele Expu Appe Logo 
+100%  50%  50% 100% 100% 100%  50% 100% 100% 100% 100% 
+                          30%                  5%      
+   5    0    1    1    4    5    0    4    3    5   10 110/110
+  17   19   22   45   36   50    5   30   53   53  106 110/110
+   0    1    0    1    4    6    0    3    3    0    0 110/110
+   0    0    0    0    0    0    0    0    0    0    0 110/110
+   8    0    0    0    0    0    0    0    1    1    2 110/110
+   0    0    0    0    0    0    0    0    0    0    0 110/110
+   0    0    0    0    0    0    0    0    0    0    0 110/110
+   0    0    0    0    0    0    0    0    0    0    0 110/110
+   0    0    0    0    0    0    0    0    0    0    0 110/110
+   0    0    0    0    0    0    0    0    0    0    0 110/110
+Logi List Stat Sele Fetc Fet2 Stor Dele Expu Appe Logo 
+100%  50%  50% 100% 100% 100%  50% 100% 100% 100% 100% 
+                          30%                  5%      
+   0    0    0    0    1    1    0    1    0    0    0 110/110
+   0    0    0    0    0    0    0    0    0    0    0 110/110
+ - 220 stalled for 16 secs in command: 8 APPEND "INBOX" "08-Jan-2003 23:45:04 +0100" {2054+}
+   1    0    0    1    0    0    0    0    3    3    6 110/110
+ - 220 stalled for 17 secs in command: 8 APPEND "INBOX" "08-Jan-2003 23:45:04 +0100" {2054+}
+   0    0    0    0    0    0    0    0    0    0    0 110/110
+ - 220 stalled for 18 secs in command: 8 APPEND "INBOX" "08-Jan-2003 23:45:04 +0100" {2054+}
+   1    0    0    0    0    0    0    0    0    0    0 110/110
+ - 220 stalled for 19 secs in command: 8 APPEND "INBOX" "08-Jan-2003 23:45:04 +0100" {2054+}
+ - 243 stalled for 16 secs in command: 7 EXPUNGE
+ - 301 stalled for 16 secs in command: 7 EXPUNGE
+ - 289 stalled for 16 secs in command: 9 APPEND "INBOX" (\Flagged \Seen \Draft) "03-Feb-2003 07:08:18 +0100" {2484+}
+   1    0    0    0    0    0    0    0    0    0    0 110/110
+ - 220 stalled for 20 secs in command: 8 APPEND "INBOX" "08-Jan-2003 23:45:04 +0100" {2054+}
+ - 243 stalled for 17 secs in command: 7 EXPUNGE
+ - 301 stalled for 17 secs in command: 7 EXPUNGE
+ - 289 stalled for 17 secs in command: 9 APPEND "INBOX" (\Flagged \Seen \Draft) "03-Feb-2003 07:08:18 +0100" {2484+}
+ - 302 stalled for 16 secs in command: 9 EXPUNGE
+ - 334 stalled for 16 secs in command: 7 STORE 1:2 +FLAGS \Deleted
+   2    0    0    0    0    0    0    1    5    7   14 110/110
+ - 336 stalled for 16 secs in command: 2 STATUS "INBOX" (MESSAGES UNSEEN RECENT)
+ - 337 stalled for 16 secs in command: 2 STATUS "INBOX" (MESSAGES UNSEEN RECENT)
+ - 335 stalled for 16 secs in command: 2 LIST "" *
+ - 220 stalled for 21 secs in command: 8 APPEND "INBOX" "08-Jan-2003 23:45:04 +0100" {2054+}
+ - 243 stalled for 18 secs in command: 7 EXPUNGE
+ - 302 stalled for 17 secs in command: 9 EXPUNGE
+   1    0    0    0    0    0    0    0    0    0    0 110/110
+ - 336 stalled for 17 secs in command: 2 STATUS "INBOX" (MESSAGES UNSEEN RECENT)
+ - 320 stalled for 16 secs in command: 8 APPEND "INBOX" (\Answered \Draft $Label3) {1602+}
+ - 380 stalled for 16 secs in BYE, waiting for disconnect
+ - 337 stalled for 17 secs in command: 2 STATUS "INBOX" (MESSAGES UNSEEN RECENT)
+ - 282 stalled for 16 secs in command: 6 EXPUNGE
+ - 314 stalled for 16 secs in command: 8 EXPUNGE
+ - 355 stalled for 16 secs in command: 7 APPEND "INBOX" {2707+}
+ - 391 stalled for 16 secs in BYE, waiting for disconnect
+ - 349 stalled for 16 secs in command: 2 LIST "" *
+ - 288 stalled for 16 secs in command: 9 EXPUNGE
+ - 340 stalled for 16 secs in BYE, waiting for disconnect
+ - 329 stalled for 16 secs in command: 7 APPEND "INBOX" (\Answered \Flagged \Draft $Label5) "24-Feb-2003 02:45:54 +0100" {3641+}
+ - 308 stalled for 16 secs in command: 9 FETCH 2 (UID BODY.PEEK[1])
+ - 347 stalled for 16 secs in command: 7 STORE 1:2 +FLAGS \Deleted
+ - 345 stalled for 16 secs in command: 4 FETCH 1:2 (FLAGS FLAGS)
+ - 365 stalled for 16 secs in BYE, waiting for disconnect
+ - 367 stalled for 16 secs in BYE, waiting for disconnect
+ - 326 stalled for 16 secs in command: 8 APPEND "INBOX" (\Draft) {4644+}
+ - 303 stalled for 16 secs in command: 8 EXPUNGE
+ - 284 stalled for 16 secs in command: 8 APPEND "INBOX" "23-Feb-2003 01:41:45 +0100" {1773+}
+ - 338 stalled for 16 secs in command: 8 APPEND "INBOX" (\Answered \Draft $Label1 $Label5) "25-Feb-2003 02:11:33 +0100" {2995+}
+ - 360 stalled for 16 secs in BYE, waiting for disconnect
+ - 335 stalled for 17 secs in command: 2 LIST "" *
+ - 311 stalled for 16 secs in command: 8 APPEND "INBOX" "27-Feb-2003 21:19:15 +0100" {1895+}
+ - 363 stalled for 16 secs in BYE, waiting for disconnect
+ - 361 stalled for 16 secs in BYE, waiting for disconnect
+ - 285 stalled for 16 secs in command: 4 FETCH 1,3 (BODY.PEEK[HEADER.FIELDS (References Delivered-To Delivered-To Cc)])
+ - 351 stalled for 16 secs in BYE, waiting for disconnect
+ - 377 stalled for 16 secs in BYE, waiting for disconnect
+ - 343 stalled for 16 secs in command: 2 LIST "" *
+ - 342 stalled for 16 secs in command: 4 FETCH 1:2 (BODY.PEEK[HEADER.FIELDS (Cc To To)] BODY RFC822.SIZE)
+ - 220 stalled for 22 secs in command: 8 APPEND "INBOX" "08-Jan-2003 23:45:04 +0100" {2054+}
+ - 333 stalled for 16 secs in command: 8 APPEND "INBOX" {2071+}
+ - 387 stalled for 16 secs in BYE, waiting for disconnect
+ - 316 stalled for 16 secs in command: 9 EXPUNGE
+ - 243 stalled for 19 secs in command: 7 EXPUNGE
+ - 372 stalled for 16 secs in BYE, waiting for disconnect
+ - 279 stalled for 16 secs in command: 9 APPEND "INBOX" (\Answered \Flagged \Seen $Label4 $Label5) "26-Feb-2003 23:29:39 +0100" {2832+}
+ - 318 stalled for 16 secs in command: 4 FETCH 1 (ENVELOPE UID BODY.PEEK[HEADER.FIELDS (Cc)])
+ - 378 stalled for 16 secs in command: 2 SELECT "INBOX" (CONDSTORE)
+ - 294 stalled for 16 secs in command: 8 STORE 1:2 +FLAGS (\Flagged)
+ - 331 stalled for 16 secs in command: 8 EXPUNGE
+ - 283 stalled for 16 secs in command: 4 FETCH 1 (RFC822.SIZE BODY.PEEK[HEADER.FIELDS (Cc Message-ID References In-Reply-To)] BODY.PEEK[HEADER.FIELDS (From References)] ENVELOPE)
+ - 305 stalled for 16 secs in command: 8 EXPUNGE
+ - 348 stalled for 16 secs in command: 3 FETCH 1 (RFC822.SIZE)
+ - 296 stalled for 16 secs in command: 9 APPEND "INBOX" (\Answered \Flagged \Seen $Label1 $Label5) {1891+}
+ - 322 stalled for 16 secs in command: 7 APPEND "INBOX" (\Seen $Label1) "18-Feb-2003 20:45:56 +0100" {3086+}
+ - 381 stalled for 16 secs in BYE, waiting for disconnect
+ - 281 stalled for 16 secs in command: 9 APPEND "INBOX" {1623+}
+ - 324 stalled for 16 secs in command: 4 FETCH 1:2,3,5:6 (UID BODY.PEEK[HEADER.FIELDS (Cc To)] ENVELOPE ENVELOPE)
+ - 362 stalled for 16 secs in BYE, waiting for disconnect
+ - 298 stalled for 16 secs in command: 4 FETCH 3:7 (BODYSTRUCTURE)
+ - 293 stalled for 16 secs in command: 4 FETCH 1 (BODY)
+ - 302 stalled for 18 secs in command: 9 EXPUNGE
+ - 295 stalled for 16 secs in command: 8 EXPUNGE
+ - 364 stalled for 16 secs in BYE, waiting for disconnect
+ - 376 stalled for 16 secs in BYE, waiting for disconnect
+ - 374 stalled for 16 secs in BYE, waiting for disconnect
+ - 327 stalled for 16 secs in command: 9 APPEND "INBOX" (\Answered) {3560+}
+ - 366 stalled for 16 secs in BYE, waiting for disconnect
+ - 306 stalled for 16 secs in command: 7 EXPUNGE
+ - 328 stalled for 16 secs in command: 4 FETCH 1 (BODY.PEEK[HEADER.FIELDS (Delivered-To)] FLAGS BODY)
+ - 357 stalled for 16 secs in BYE, waiting for disconnect
+ - 359 stalled for 16 secs in BYE, waiting for disconnect
+ - 370 stalled for 16 secs in command: 2 STATUS "INBOX" (MESSAGES UNSEEN RECENT)
+ - 315 stalled for 16 secs in command: 7 EXPUNGE
+ - 382 stalled for 16 secs in command: 2 LIST "" *
+ - 358 stalled for 16 secs in command: 3 FETCH 1 (BODYSTRUCTURE BODY BODY.PEEK[HEADER.FIELDS (To)] UID)
+ - 350 stalled for 16 secs in command: 2 LIST "" *
+ - 309 stalled for 16 secs in command: 9 EXPUNGE
+ - 369 stalled for 16 secs in BYE, waiting for disconnect
+ - 344 stalled for 16 secs in command: 2 LIST "" *
+ - 299 stalled for 16 secs in command: 7 EXPUNGE
+ - 346 stalled for 16 secs in command: 4 FETCH 1:2 (RFC822.SIZE FLAGS INTERNALDATE BODY)
+ - 310 stalled for 16 secs in command: 7 EXPUNGE
+ - 368 stalled for 16 secs in BYE, waiting for disconnect
+ - 389 stalled for 16 secs in BYE, waiting for disconnect
+ - 277 stalled for 16 secs in command: 8 APPEND "INBOX" "21-Feb-2003 03:08:53 +0100" {4577+}
+ - 371 stalled for 16 secs in BYE, waiting for disconnect
+ - 286 stalled for 16 secs in command: 8 APPEND "INBOX" (\Flagged \Draft $Label5) {2218+}
+ - 280 stalled for 16 secs in command: 7 EXPUNGE
+ - 278 stalled for 16 secs in command: 8 APPEND "INBOX" {5526+}
+ - 392 stalled for 16 secs in BYE, waiting for disconnect
+ - 304 stalled for 16 secs in command: 7 APPEND "INBOX" {1540+}
+   0    0    0    0    0    0    0    0    0    0    0 110/110
+ - 336 stalled for 18 secs in command: 2 STATUS "INBOX" (MESSAGES UNSEEN RECENT)
+ - 320 stalled for 17 secs in command: 8 APPEND "INBOX" (\Answered \Draft $Label3) {1602+}
+ - 380 stalled for 17 secs in BYE, waiting for disconnect
+ - 337 stalled for 18 secs in command: 2 STATUS "INBOX" (MESSAGES UNSEEN RECENT)
+ - 282 stalled for 17 secs in command: 6 EXPUNGE
+ - 314 stalled for 17 secs in command: 8 EXPUNGE
+ - 355 stalled for 17 secs in command: 7 APPEND "INBOX" {2707+}
+ - 391 stalled for 17 secs in BYE, waiting for disconnect
+ - 349 stalled for 17 secs in command: 2 LIST "" *
+ - 288 stalled for 17 secs in command: 9 EXPUNGE
+ - 340 stalled for 17 secs in BYE, waiting for disconnect
+ - 329 stalled for 17 secs in command: 7 APPEND "INBOX" (\Answered \Flagged \Draft $Label5) "24-Feb-2003 02:45:54 +0100" {3641+}
+ - 308 stalled for 17 secs in command: 9 FETCH 2 (UID BODY.PEEK[1])
+ - 347 stalled for 17 secs in command: 7 STORE 1:2 +FLAGS \Deleted
+ - 345 stalled for 17 secs in command: 4 FETCH 1:2 (FLAGS FLAGS)
+ - 365 stalled for 17 secs in BYE, waiting for disconnect
+ - 367 stalled for 17 secs in BYE, waiting for disconnect
+ - 326 stalled for 17 secs in command: 8 APPEND "INBOX" (\Draft) {4644+}
+ - 303 stalled for 17 secs in command: 8 EXPUNGE
+ - 284 stalled for 17 secs in command: 8 APPEND "INBOX" "23-Feb-2003 01:41:45 +0100" {1773+}
+ - 338 stalled for 17 secs in command: 8 APPEND "INBOX" (\Answered \Draft $Label1 $Label5) "25-Feb-2003 02:11:33 +0100" {2995+}
+ - 360 stalled for 17 secs in BYE, waiting for disconnect
+ - 335 stalled for 18 secs in command: 2 LIST "" *
+ - 311 stalled for 17 secs in command: 8 APPEND "INBOX" "27-Feb-2003 21:19:15 +0100" {1895+}
+ - 363 stalled for 17 secs in BYE, waiting for disconnect
+ - 361 stalled for 17 secs in BYE, waiting for disconnect
+ - 352 stalled for 16 secs in command: 8 APPEND "INBOX" (\Answered \Draft $Label1) "01-Mar-2003 20:42:43 +0100" {3056+}
+ - 285 stalled for 17 secs in command: 4 FETCH 1,3 (BODY.PEEK[HEADER.FIELDS (References Delivered-To Delivered-To Cc)])
+ - 351 stalled for 17 secs in BYE, waiting for disconnect
+ - 377 stalled for 17 secs in BYE, waiting for disconnect
+ - 343 stalled for 17 secs in command: 2 LIST "" *
+ - 342 stalled for 17 secs in command: 4 FETCH 1:2 (BODY.PEEK[HEADER.FIELDS (Cc To To)] BODY RFC822.SIZE)
+ - 220 stalled for 23 secs in command: 8 APPEND "INBOX" "08-Jan-2003 23:45:04 +0100" {2054+}
+ - 333 stalled for 17 secs in command: 8 APPEND "INBOX" {2071+}
+ - 387 stalled for 17 secs in BYE, waiting for disconnect
+ - 316 stalled for 17 secs in command: 9 EXPUNGE
+ - 243 stalled for 20 secs in command: 7 EXPUNGE
+ - 372 stalled for 17 secs in BYE, waiting for disconnect
+ - 279 stalled for 17 secs in command: 9 APPEND "INBOX" (\Answered \Flagged \Seen $Label4 $Label5) "26-Feb-2003 23:29:39 +0100" {2832+}
+ - 318 stalled for 17 secs in command: 4 FETCH 1 (ENVELOPE UID BODY.PEEK[HEADER.FIELDS (Cc)])
+ - 378 stalled for 17 secs in command: 2 SELECT "INBOX" (CONDSTORE)
+ - 294 stalled for 17 secs in command: 8 STORE 1:2 +FLAGS (\Flagged)
+ - 331 stalled for 17 secs in command: 8 EXPUNGE
+ - 283 stalled for 17 secs in command: 4 FETCH 1 (RFC822.SIZE BODY.PEEK[HEADER.FIELDS (Cc Message-ID References In-Reply-To)] BODY.PEEK[HEADER.FIELDS (From References)] ENVELOPE)
+ - 305 stalled for 17 secs in command: 8 EXPUNGE
+ - 348 stalled for 17 secs in command: 3 FETCH 1 (RFC822.SIZE)
+ - 296 stalled for 17 secs in command: 9 APPEND "INBOX" (\Answered \Flagged \Seen $Label1 $Label5) {1891+}
+ - 322 stalled for 17 secs in command: 7 APPEND "INBOX" (\Seen $Label1) "18-Feb-2003 20:45:56 +0100" {3086+}
+ - 381 stalled for 17 secs in BYE, waiting for disconnect
+ - 281 stalled for 17 secs in command: 9 APPEND "INBOX" {1623+}
+ - 324 stalled for 17 secs in command: 4 FETCH 1:2,3,5:6 (UID BODY.PEEK[HEADER.FIELDS (Cc To)] ENVELOPE ENVELOPE)
+ - 362 stalled for 17 secs in BYE, waiting for disconnect
+ - 298 stalled for 17 secs in command: 4 FETCH 3:7 (BODYSTRUCTURE)
+ - 293 stalled for 17 secs in command: 4 FETCH 1 (BODY)
+ - 302 stalled for 19 secs in command: 9 EXPUNGE
+ - 295 stalled for 17 secs in command: 8 EXPUNGE
+ - 339 stalled for 16 secs in command: 4 FETCH 2 (RFC822.SIZE RFC822.SIZE)
+ - 364 stalled for 17 secs in BYE, waiting for disconnect
+ - 376 stalled for 17 secs in BYE, waiting for disconnect
+ - 374 stalled for 17 secs in BYE, waiting for disconnect
+ - 327 stalled for 17 secs in command: 9 APPEND "INBOX" (\Answered) {3560+}
+ - 366 stalled for 17 secs in BYE, waiting for disconnect
+ - 306 stalled for 17 secs in command: 7 EXPUNGE
+ - 328 stalled for 17 secs in command: 4 FETCH 1 (BODY.PEEK[HEADER.FIELDS (Delivered-To)] FLAGS BODY)
+ - 357 stalled for 17 secs in BYE, waiting for disconnect
+ - 359 stalled for 17 secs in BYE, waiting for disconnect
+ - 370 stalled for 17 secs in command: 2 STATUS "INBOX" (MESSAGES UNSEEN RECENT)
+ - 315 stalled for 17 secs in command: 7 EXPUNGE
+ - 382 stalled for 17 secs in command: 2 LIST "" *
+ - 358 stalled for 17 secs in command: 3 FETCH 1 (BODYSTRUCTURE BODY BODY.PEEK[HEADER.FIELDS (To)] UID)
+ - 350 stalled for 17 secs in command: 2 LIST "" *
+ - 309 stalled for 17 secs in command: 9 EXPUNGE
+ - 369 stalled for 17 secs in BYE, waiting for disconnect
+ - 344 stalled for 17 secs in command: 2 LIST "" *
+ - 299 stalled for 17 secs in command: 7 EXPUNGE
+ - 346 stalled for 17 secs in command: 4 FETCH 1:2 (RFC822.SIZE FLAGS INTERNALDATE BODY)
+ - 310 stalled for 17 secs in command: 7 EXPUNGE
+ - 368 stalled for 17 secs in BYE, waiting for disconnect
+ - 389 stalled for 17 secs in BYE, waiting for disconnect
+ - 277 stalled for 17 secs in command: 8 APPEND "INBOX" "21-Feb-2003 03:08:53 +0100" {4577+}
+ - 371 stalled for 17 secs in BYE, waiting for disconnect
+ - 286 stalled for 17 secs in command: 8 APPEND "INBOX" (\Flagged \Draft $Label5) {2218+}
+ - 280 stalled for 17 secs in command: 7 EXPUNGE
+ - 278 stalled for 17 secs in command: 8 APPEND "INBOX" {5526+}
+ - 392 stalled for 17 secs in BYE, waiting for disconnect
+ - 304 stalled for 17 secs in command: 7 APPEND "INBOX" {1540+}
+   0    0    0    0    0    0    0    0    0    0    0 110/110
+ - 336 stalled for 19 secs in command: 2 STATUS "INBOX" (MESSAGES UNSEEN RECENT)
+ - 320 stalled for 18 secs in command: 8 APPEND "INBOX" (\Answered \Draft $Label3) {1602+}
+ - 380 stalled for 18 secs in BYE, waiting for disconnect
+ - 337 stalled for 19 secs in command: 2 STATUS "INBOX" (MESSAGES UNSEEN RECENT)
+ - 282 stalled for 18 secs in command: 6 EXPUNGE
+ - 314 stalled for 18 secs in command: 8 EXPUNGE
+ - 355 stalled for 18 secs in command: 7 APPEND "INBOX" {2707+}
+ - 391 stalled for 18 secs in BYE, waiting for disconnect
+ - 349 stalled for 18 secs in command: 2 LIST "" *
+ - 288 stalled for 18 secs in command: 9 EXPUNGE
+ - 340 stalled for 18 secs in BYE, waiting for disconnect
+ - 329 stalled for 18 secs in command: 7 APPEND "INBOX" (\Answered \Flagged \Draft $Label5) "24-Feb-2003 02:45:54 +0100" {3641+}
+ - 308 stalled for 18 secs in command: 9 FETCH 2 (UID BODY.PEEK[1])
+ - 347 stalled for 18 secs in command: 7 STORE 1:2 +FLAGS \Deleted
+ - 345 stalled for 18 secs in command: 4 FETCH 1:2 (FLAGS FLAGS)
+ - 365 stalled for 18 secs in BYE, waiting for disconnect
+ - 367 stalled for 18 secs in BYE, waiting for disconnect
+ - 326 stalled for 18 secs in command: 8 APPEND "INBOX" (\Draft) {4644+}
+ - 303 stalled for 18 secs in command: 8 EXPUNGE
+ - 284 stalled for 18 secs in command: 8 APPEND "INBOX" "23-Feb-2003 01:41:45 +0100" {1773+}
+ - 338 stalled for 18 secs in command: 8 APPEND "INBOX" (\Answered \Draft $Label1 $Label5) "25-Feb-2003 02:11:33 +0100" {2995+}
+ - 360 stalled for 18 secs in BYE, waiting for disconnect
+ - 335 stalled for 19 secs in command: 2 LIST "" *
+ - 311 stalled for 18 secs in command: 8 APPEND "INBOX" "27-Feb-2003 21:19:15 +0100" {1895+}
+ - 363 stalled for 18 secs in BYE, waiting for disconnect
+ - 361 stalled for 18 secs in BYE, waiting for disconnect
+ - 352 stalled for 17 secs in command: 8 APPEND "INBOX" (\Answered \Draft $Label1) "01-Mar-2003 20:42:43 +0100" {3056+}
+ - 285 stalled for 18 secs in command: 4 FETCH 1,3 (BODY.PEEK[HEADER.FIELDS (References Delivered-To Delivered-To Cc)])
+ - 351 stalled for 18 secs in BYE, waiting for disconnect
+ - 377 stalled for 18 secs in BYE, waiting for disconnect
+ - 343 stalled for 18 secs in command: 2 LIST "" *
+ - 342 stalled for 18 secs in command: 4 FETCH 1:2 (BODY.PEEK[HEADER.FIELDS (Cc To To)] BODY RFC822.SIZE)
+ - 220 stalled for 24 secs in command: 8 APPEND "INBOX" "08-Jan-2003 23:45:04 +0100" {2054+}
+ - 333 stalled for 18 secs in command: 8 APPEND "INBOX" {2071+}
+ - 387 stalled for 18 secs in BYE, waiting for disconnect
+ - 316 stalled for 18 secs in command: 9 EXPUNGE
+ - 243 stalled for 21 secs in command: 7 EXPUNGE
+ - 372 stalled for 18 secs in BYE, waiting for disconnect
+ - 279 stalled for 18 secs in command: 9 APPEND "INBOX" (\Answered \Flagged \Seen $Label4 $Label5) "26-Feb-2003 23:29:39 +0100" {2832+}
+ - 318 stalled for 18 secs in command: 4 FETCH 1 (ENVELOPE UID BODY.PEEK[HEADER.FIELDS (Cc)])
+ - 378 stalled for 18 secs in command: 2 SELECT "INBOX" (CONDSTORE)
+ - 294 stalled for 18 secs in command: 8 STORE 1:2 +FLAGS (\Flagged)
+ - 331 stalled for 18 secs in command: 8 EXPUNGE
+ - 283 stalled for 18 secs in command: 4 FETCH 1 (RFC822.SIZE BODY.PEEK[HEADER.FIELDS (Cc Message-ID References In-Reply-To)] BODY.PEEK[HEADER.FIELDS (From References)] ENVELOPE)
+ - 305 stalled for 18 secs in command: 8 EXPUNGE
+ - 348 stalled for 18 secs in command: 3 FETCH 1 (RFC822.SIZE)
+ - 296 stalled for 18 secs in command: 9 APPEND "INBOX" (\Answered \Flagged \Seen $Label1 $Label5) {1891+}
+ - 322 stalled for 18 secs in command: 7 APPEND "INBOX" (\Seen $Label1) "18-Feb-2003 20:45:56 +0100" {3086+}
+ - 381 stalled for 18 secs in BYE, waiting for disconnect
+ - 281 stalled for 18 secs in command: 9 APPEND "INBOX" {1623+}
+ - 324 stalled for 18 secs in command: 4 FETCH 1:2,3,5:6 (UID BODY.PEEK[HEADER.FIELDS (Cc To)] ENVELOPE ENVELOPE)
+ - 362 stalled for 18 secs in BYE, waiting for disconnect
+ - 298 stalled for 18 secs in command: 4 FETCH 3:7 (BODYSTRUCTURE)
+ - 293 stalled for 18 secs in command: 4 FETCH 1 (BODY)
+ - 302 stalled for 20 secs in command: 9 EXPUNGE
+ - 295 stalled for 18 secs in command: 8 EXPUNGE
+ - 339 stalled for 17 secs in command: 4 FETCH 2 (RFC822.SIZE RFC822.SIZE)
+ - 364 stalled for 18 secs in BYE, waiting for disconnect
+ - 376 stalled for 18 secs in BYE, waiting for disconnect
+ - 374 stalled for 18 secs in BYE, waiting for disconnect
+ - 327 stalled for 18 secs in command: 9 APPEND "INBOX" (\Answered) {3560+}
+ - 366 stalled for 18 secs in BYE, waiting for disconnect
+ - 306 stalled for 18 secs in command: 7 EXPUNGE
+ - 328 stalled for 18 secs in command: 4 FETCH 1 (BODY.PEEK[HEADER.FIELDS (Delivered-To)] FLAGS BODY)
+ - 357 stalled for 18 secs in BYE, waiting for disconnect
+ - 359 stalled for 18 secs in BYE, waiting for disconnect
+ - 370 stalled for 18 secs in command: 2 STATUS "INBOX" (MESSAGES UNSEEN RECENT)
+ - 315 stalled for 18 secs in command: 7 EXPUNGE
+ - 382 stalled for 18 secs in command: 2 LIST "" *
+ - 358 stalled for 18 secs in command: 3 FETCH 1 (BODYSTRUCTURE BODY BODY.PEEK[HEADER.FIELDS (To)] UID)
+ - 350 stalled for 18 secs in command: 2 LIST "" *
+ - 309 stalled for 18 secs in command: 9 EXPUNGE
+ - 369 stalled for 18 secs in BYE, waiting for disconnect
+ - 344 stalled for 18 secs in command: 2 LIST "" *
+ - 299 stalled for 18 secs in command: 7 EXPUNGE
+ - 346 stalled for 18 secs in command: 4 FETCH 1:2 (RFC822.SIZE FLAGS INTERNALDATE BODY)
+ - 310 stalled for 18 secs in command: 7 EXPUNGE
+ - 368 stalled for 18 secs in BYE, waiting for disconnect
+ - 389 stalled for 18 secs in BYE, waiting for disconnect
+ - 277 stalled for 18 secs in command: 8 APPEND "INBOX" "21-Feb-2003 03:08:53 +0100" {4577+}
+ - 371 stalled for 18 secs in BYE, waiting for disconnect
+ - 286 stalled for 18 secs in command: 8 APPEND "INBOX" (\Flagged \Draft $Label5) {2218+}
+ - 280 stalled for 18 secs in command: 7 EXPUNGE
+ - 278 stalled for 18 secs in command: 8 APPEND "INBOX" {5526+}
+ - 392 stalled for 18 secs in BYE, waiting for disconnect
+ - 304 stalled for 18 secs in command: 7 APPEND "INBOX" {1540+}
+Logi List Stat Sele Fetc Fet2 Stor Dele Expu Appe Logo 
+100%  50%  50% 100% 100% 100%  50% 100% 100% 100% 100% 
+                          30%                  5%      
+   0    0    0    0    0    0    0    0    0    0    0 110/110
+ - 390 stalled for 16 secs in command: 2 STATUS "INBOX" (MESSAGES UNSEEN RECENT)
+ - 336 stalled for 20 secs in command: 2 STATUS "INBOX" (MESSAGES UNSEEN RECENT)
+ - 320 stalled for 19 secs in command: 8 APPEND "INBOX" (\Answered \Draft $Label3) {1602+}
+ - 380 stalled for 19 secs in BYE, waiting for disconnect
+ - 337 stalled for 20 secs in command: 2 STATUS "INBOX" (MESSAGES UNSEEN RECENT)
+ - 282 stalled for 19 secs in command: 6 EXPUNGE
+ - 314 stalled for 19 secs in command: 8 EXPUNGE
+ - 355 stalled for 19 secs in command: 7 APPEND "INBOX" {2707+}
+ - 391 stalled for 19 secs in BYE, waiting for disconnect
+ - 349 stalled for 19 secs in command: 2 LIST "" *
+ - 288 stalled for 19 secs in command: 9 EXPUNGE
+ - 340 stalled for 19 secs in BYE, waiting for disconnect
+ - 329 stalled for 19 secs in command: 7 APPEND "INBOX" (\Answered \Flagged \Draft $Label5) "24-Feb-2003 02:45:54 +0100" {3641+}
+ - 308 stalled for 19 secs in command: 9 FETCH 2 (UID BODY.PEEK[1])
+ - 347 stalled for 19 secs in command: 7 STORE 1:2 +FLAGS \Deleted
+ - 345 stalled for 19 secs in command: 4 FETCH 1:2 (FLAGS FLAGS)
+ - 365 stalled for 19 secs in BYE, waiting for disconnect
+ - 367 stalled for 19 secs in BYE, waiting for disconnect
+ - 326 stalled for 19 secs in command: 8 APPEND "INBOX" (\Draft) {4644+}
+ - 303 stalled for 19 secs in command: 8 EXPUNGE
+ - 284 stalled for 19 secs in command: 8 APPEND "INBOX" "23-Feb-2003 01:41:45 +0100" {1773+}
+ - 338 stalled for 19 secs in command: 8 APPEND "INBOX" (\Answered \Draft $Label1 $Label5) "25-Feb-2003 02:11:33 +0100" {2995+}
+ - 360 stalled for 19 secs in BYE, waiting for disconnect
+ - 335 stalled for 20 secs in command: 2 LIST "" *
+ - 311 stalled for 19 secs in command: 8 APPEND "INBOX" "27-Feb-2003 21:19:15 +0100" {1895+}
+ - 363 stalled for 19 secs in BYE, waiting for disconnect
+ - 361 stalled for 19 secs in BYE, waiting for disconnect
+ - 352 stalled for 18 secs in command: 8 APPEND "INBOX" (\Answered \Draft $Label1) "01-Mar-2003 20:42:43 +0100" {3056+}
+ - 285 stalled for 19 secs in command: 4 FETCH 1,3 (BODY.PEEK[HEADER.FIELDS (References Delivered-To Delivered-To Cc)])
+ - 384 stalled for 16 secs in command: 2 LIST "" *
+ - 351 stalled for 19 secs in BYE, waiting for disconnect
+ - 377 stalled for 19 secs in BYE, waiting for disconnect
+ - 343 stalled for 19 secs in command: 2 LIST "" *
+ - 342 stalled for 19 secs in command: 4 FETCH 1:2 (BODY.PEEK[HEADER.FIELDS (Cc To To)] BODY RFC822.SIZE)
+ - 220 stalled for 25 secs in command: 8 APPEND "INBOX" "08-Jan-2003 23:45:04 +0100" {2054+}
+ - 333 stalled for 19 secs in command: 8 APPEND "INBOX" {2071+}
+ - 387 stalled for 19 secs in BYE, waiting for disconnect
+ - 375 stalled for 16 secs in command: 2 LIST "" *
+ - 316 stalled for 19 secs in command: 9 EXPUNGE
+ - 243 stalled for 22 secs in command: 7 EXPUNGE
+ - 372 stalled for 19 secs in BYE, waiting for disconnect
+ - 279 stalled for 19 secs in command: 9 APPEND "INBOX" (\Answered \Flagged \Seen $Label4 $Label5) "26-Feb-2003 23:29:39 +0100" {2832+}
+ - 318 stalled for 19 secs in command: 4 FETCH 1 (ENVELOPE UID BODY.PEEK[HEADER.FIELDS (Cc)])
+ - 378 stalled for 19 secs in command: 2 SELECT "INBOX" (CONDSTORE)
+ - 294 stalled for 19 secs in command: 8 STORE 1:2 +FLAGS (\Flagged)
+ - 331 stalled for 19 secs in command: 8 EXPUNGE
+ - 283 stalled for 19 secs in command: 4 FETCH 1 (RFC822.SIZE BODY.PEEK[HEADER.FIELDS (Cc Message-ID References In-Reply-To)] BODY.PEEK[HEADER.FIELDS (From References)] ENVELOPE)
+ - 305 stalled for 19 secs in command: 8 EXPUNGE
+ - 348 stalled for 19 secs in command: 3 FETCH 1 (RFC822.SIZE)
+ - 296 stalled for 19 secs in command: 9 APPEND "INBOX" (\Answered \Flagged \Seen $Label1 $Label5) {1891+}
+ - 379 stalled for 16 secs in command: 2 LIST "" *
+ - 322 stalled for 19 secs in command: 7 APPEND "INBOX" (\Seen $Label1) "18-Feb-2003 20:45:56 +0100" {3086+}
+ - 383 stalled for 16 secs in command: 2 LIST "" *
+ - 381 stalled for 19 secs in BYE, waiting for disconnect
+ - 281 stalled for 19 secs in command: 9 APPEND "INBOX" {1623+}
+ - 324 stalled for 19 secs in command: 4 FETCH 1:2,3,5:6 (UID BODY.PEEK[HEADER.FIELDS (Cc To)] ENVELOPE ENVELOPE)
+ - 362 stalled for 19 secs in BYE, waiting for disconnect
+ - 298 stalled for 19 secs in command: 4 FETCH 3:7 (BODYSTRUCTURE)
+ - 293 stalled for 19 secs in command: 4 FETCH 1 (BODY)
+ - 302 stalled for 21 secs in command: 9 EXPUNGE
+ - 295 stalled for 19 secs in command: 8 EXPUNGE
+ - 339 stalled for 18 secs in command: 4 FETCH 2 (RFC822.SIZE RFC822.SIZE)
+ - 364 stalled for 19 secs in BYE, waiting for disconnect
+ - 376 stalled for 19 secs in BYE, waiting for disconnect
+ - 374 stalled for 19 secs in BYE, waiting for disconnect
+ - 327 stalled for 19 secs in command: 9 APPEND "INBOX" (\Answered) {3560+}
+ - 366 stalled for 19 secs in BYE, waiting for disconnect
+ - 306 stalled for 19 secs in command: 7 EXPUNGE
+ - 328 stalled for 19 secs in command: 4 FETCH 1 (BODY.PEEK[HEADER.FIELDS (Delivered-To)] FLAGS BODY)
+ - 357 stalled for 19 secs in BYE, waiting for disconnect
+ - 359 stalled for 19 secs in BYE, waiting for disconnect
+ - 370 stalled for 19 secs in command: 2 STATUS "INBOX" (MESSAGES UNSEEN RECENT)
+ - 315 stalled for 19 secs in command: 7 EXPUNGE
+ - 382 stalled for 19 secs in command: 2 LIST "" *
+ - 358 stalled for 19 secs in command: 3 FETCH 1 (BODYSTRUCTURE BODY BODY.PEEK[HEADER.FIELDS (To)] UID)
+ - 350 stalled for 19 secs in command: 2 LIST "" *
+ - 309 stalled for 19 secs in command: 9 EXPUNGE
+ - 386 stalled for 16 secs in command: 2 STATUS "INBOX" (MESSAGES UNSEEN RECENT)
+ - 369 stalled for 19 secs in BYE, waiting for disconnect
+ - 344 stalled for 19 secs in command: 2 LIST "" *
+ - 299 stalled for 19 secs in command: 7 EXPUNGE
+ - 346 stalled for 19 secs in command: 4 FETCH 1:2 (RFC822.SIZE FLAGS INTERNALDATE BODY)
+ - 310 stalled for 19 secs in command: 7 EXPUNGE
+ - 368 stalled for 19 secs in BYE, waiting for disconnect
+ - 389 stalled for 19 secs in BYE, waiting for disconnect
+ - 277 stalled for 19 secs in command: 8 APPEND "INBOX" "21-Feb-2003 03:08:53 +0100" {4577+}
+ - 371 stalled for 19 secs in BYE, waiting for disconnect
+ - 385 stalled for 16 secs in command: 2 STATUS "INBOX" (MESSAGES UNSEEN RECENT)
+ - 286 stalled for 19 secs in command: 8 APPEND "INBOX" (\Flagged \Draft $Label5) {2218+}
+ - 280 stalled for 19 secs in command: 7 EXPUNGE
+ - 278 stalled for 19 secs in command: 8 APPEND "INBOX" {5526+}
+ - 392 stalled for 19 secs in BYE, waiting for disconnect
+ - 304 stalled for 19 secs in command: 7 APPEND "INBOX" {1540+}
+ - 388 stalled for 16 secs in command: 2 LIST "" *
+   0    0    0    0    0    0    0    0    0    0    0 110/110
+ - 390 stalled for 17 secs in command: 2 STATUS "INBOX" (MESSAGES UNSEEN RECENT)
+ - 336 stalled for 21 secs in command: 2 STATUS "INBOX" (MESSAGES UNSEEN RECENT)
+ - 320 stalled for 20 secs in command: 8 APPEND "INBOX" (\Answered \Draft $Label3) {1602+}
+ - 380 stalled for 20 secs in BYE, waiting for disconnect
+ - 337 stalled for 21 secs in command: 2 STATUS "INBOX" (MESSAGES UNSEEN RECENT)
+ - 282 stalled for 20 secs in command: 6 EXPUNGE
+ - 314 stalled for 20 secs in command: 8 EXPUNGE
+ - 355 stalled for 20 secs in command: 7 APPEND "INBOX" {2707+}
+ - 391 stalled for 20 secs in BYE, waiting for disconnect
+ - 349 stalled for 20 secs in command: 2 LIST "" *
+ - 288 stalled for 20 secs in command: 9 EXPUNGE
+ - 340 stalled for 20 secs in BYE, waiting for disconnect
+ - 329 stalled for 20 secs in command: 7 APPEND "INBOX" (\Answered \Flagged \Draft $Label5) "24-Feb-2003 02:45:54 +0100" {3641+}
+ - 308 stalled for 20 secs in command: 9 FETCH 2 (UID BODY.PEEK[1])
+ - 347 stalled for 20 secs in command: 7 STORE 1:2 +FLAGS \Deleted
+ - 345 stalled for 20 secs in command: 4 FETCH 1:2 (FLAGS FLAGS)
+ - 365 stalled for 20 secs in BYE, waiting for disconnect
+ - 367 stalled for 20 secs in BYE, waiting for disconnect
+ - 326 stalled for 20 secs in command: 8 APPEND "INBOX" (\Draft) {4644+}
+ - 303 stalled for 20 secs in command: 8 EXPUNGE
+ - 284 stalled for 20 secs in command: 8 APPEND "INBOX" "23-Feb-2003 01:41:45 +0100" {1773+}
+ - 338 stalled for 20 secs in command: 8 APPEND "INBOX" (\Answered \Draft $Label1 $Label5) "25-Feb-2003 02:11:33 +0100" {2995+}
+ - 360 stalled for 20 secs in BYE, waiting for disconnect
+ - 335 stalled for 21 secs in command: 2 LIST "" *
+ - 311 stalled for 20 secs in command: 8 APPEND "INBOX" "27-Feb-2003 21:19:15 +0100" {1895+}
+ - 363 stalled for 20 secs in BYE, waiting for disconnect
+ - 361 stalled for 20 secs in BYE, waiting for disconnect
+ - 352 stalled for 19 secs in command: 8 APPEND "INBOX" (\Answered \Draft $Label1) "01-Mar-2003 20:42:43 +0100" {3056+}
+ - 285 stalled for 20 secs in command: 4 FETCH 1,3 (BODY.PEEK[HEADER.FIELDS (References Delivered-To Delivered-To Cc)])
+ - 384 stalled for 17 secs in command: 2 LIST "" *
+ - 351 stalled for 20 secs in BYE, waiting for disconnect
+ - 377 stalled for 20 secs in BYE, waiting for disconnect
+ - 343 stalled for 20 secs in command: 2 LIST "" *
+ - 342 stalled for 20 secs in command: 4 FETCH 1:2 (BODY.PEEK[HEADER.FIELDS (Cc To To)] BODY RFC822.SIZE)
+ - 220 stalled for 26 secs in command: 8 APPEND "INBOX" "08-Jan-2003 23:45:04 +0100" {2054+}
+ - 333 stalled for 20 secs in command: 8 APPEND "INBOX" {2071+}
+ - 387 stalled for 20 secs in BYE, waiting for disconnect
+ - 375 stalled for 17 secs in command: 2 LIST "" *
+ - 316 stalled for 20 secs in command: 9 EXPUNGE
+ - 243 stalled for 23 secs in command: 7 EXPUNGE
+ - 372 stalled for 20 secs in BYE, waiting for disconnect
+ - 279 stalled for 20 secs in command: 9 APPEND "INBOX" (\Answered \Flagged \Seen $Label4 $Label5) "26-Feb-2003 23:29:39 +0100" {2832+}
+ - 318 stalled for 20 secs in command: 4 FETCH 1 (ENVELOPE UID BODY.PEEK[HEADER.FIELDS (Cc)])
+ - 378 stalled for 20 secs in command: 2 SELECT "INBOX" (CONDSTORE)
+ - 294 stalled for 20 secs in command: 8 STORE 1:2 +FLAGS (\Flagged)
+ - 331 stalled for 20 secs in command: 8 EXPUNGE
+ - 283 stalled for 20 secs in command: 4 FETCH 1 (RFC822.SIZE BODY.PEEK[HEADER.FIELDS (Cc Message-ID References In-Reply-To)] BODY.PEEK[HEADER.FIELDS (From References)] ENVELOPE)
+ - 305 stalled for 20 secs in command: 8 EXPUNGE
+ - 348 stalled for 20 secs in command: 3 FETCH 1 (RFC822.SIZE)
+ - 296 stalled for 20 secs in command: 9 APPEND "INBOX" (\Answered \Flagged \Seen $Label1 $Label5) {1891+}
+ - 379 stalled for 17 secs in command: 2 LIST "" *
+ - 322 stalled for 20 secs in command: 7 APPEND "INBOX" (\Seen $Label1) "18-Feb-2003 20:45:56 +0100" {3086+}
+ - 383 stalled for 17 secs in command: 2 LIST "" *
+ - 381 stalled for 20 secs in BYE, waiting for disconnect
+ - 281 stalled for 20 secs in command: 9 APPEND "INBOX" {1623+}
+ - 324 stalled for 20 secs in command: 4 FETCH 1:2,3,5:6 (UID BODY.PEEK[HEADER.FIELDS (Cc To)] ENVELOPE ENVELOPE)
+ - 362 stalled for 20 secs in BYE, waiting for disconnect
+ - 298 stalled for 20 secs in command: 4 FETCH 3:7 (BODYSTRUCTURE)
+ - 293 stalled for 20 secs in command: 4 FETCH 1 (BODY)
+ - 302 stalled for 22 secs in command: 9 EXPUNGE
+ - 295 stalled for 20 secs in command: 8 EXPUNGE
+ - 339 stalled for 19 secs in command: 4 FETCH 2 (RFC822.SIZE RFC822.SIZE)
+ - 364 stalled for 20 secs in BYE, waiting for disconnect
+ - 376 stalled for 20 secs in BYE, waiting for disconnect
+ - 374 stalled for 20 secs in BYE, waiting for disconnect
+ - 327 stalled for 20 secs in command: 9 APPEND "INBOX" (\Answered) {3560+}
+ - 366 stalled for 20 secs in BYE, waiting for disconnect
+ - 306 stalled for 20 secs in command: 7 EXPUNGE
+ - 328 stalled for 20 secs in command: 4 FETCH 1 (BODY.PEEK[HEADER.FIELDS (Delivered-To)] FLAGS BODY)
+ - 357 stalled for 20 secs in BYE, waiting for disconnect
+ - 359 stalled for 20 secs in BYE, waiting for disconnect
+ - 370 stalled for 20 secs in command: 2 STATUS "INBOX" (MESSAGES UNSEEN RECENT)
+ - 315 stalled for 20 secs in command: 7 EXPUNGE
+ - 382 stalled for 20 secs in command: 2 LIST "" *
+ - 358 stalled for 20 secs in command: 3 FETCH 1 (BODYSTRUCTURE BODY BODY.PEEK[HEADER.FIELDS (To)] UID)
+ - 350 stalled for 20 secs in command: 2 LIST "" *
+ - 309 stalled for 20 secs in command: 9 EXPUNGE
+ - 386 stalled for 17 secs in command: 2 STATUS "INBOX" (MESSAGES UNSEEN RECENT)
+ - 369 stalled for 20 secs in BYE, waiting for disconnect
+ - 344 stalled for 20 secs in command: 2 LIST "" *
+ - 299 stalled for 20 secs in command: 7 EXPUNGE
+ - 346 stalled for 20 secs in command: 4 FETCH 1:2 (RFC822.SIZE FLAGS INTERNALDATE BODY)
+ - 310 stalled for 20 secs in command: 7 EXPUNGE
+ - 368 stalled for 20 secs in BYE, waiting for disconnect
+ - 389 stalled for 20 secs in BYE, waiting for disconnect
+ - 277 stalled for 20 secs in command: 8 APPEND "INBOX" "21-Feb-2003 03:08:53 +0100" {4577+}
+ - 371 stalled for 20 secs in BYE, waiting for disconnect
+ - 385 stalled for 17 secs in command: 2 STATUS "INBOX" (MESSAGES UNSEEN RECENT)
+ - 286 stalled for 20 secs in command: 8 APPEND "INBOX" (\Flagged \Draft $Label5) {2218+}
+ - 280 stalled for 20 secs in command: 7 EXPUNGE
+ - 278 stalled for 20 secs in command: 8 APPEND "INBOX" {5526+}
+ - 392 stalled for 20 secs in BYE, waiting for disconnect
+ - 304 stalled for 20 secs in command: 7 APPEND "INBOX" {1540+}
+ - 388 stalled for 17 secs in command: 2 LIST "" *
+   5    0    0    0    1    2    0    0    0    0    0 110/110
+ - 390 stalled for 18 secs in command: 2 STATUS "INBOX" (MESSAGES UNSEEN RECENT)
+ - 336 stalled for 22 secs in command: 2 STATUS "INBOX" (MESSAGES UNSEEN RECENT)
+ - 320 stalled for 21 secs in command: 8 APPEND "INBOX" (\Answered \Draft $Label3) {1602+}
+ - 380 stalled for 21 secs in BYE, waiting for disconnect
+ - 337 stalled for 22 secs in command: 2 STATUS "INBOX" (MESSAGES UNSEEN RECENT)
+ - 282 stalled for 21 secs in command: 6 EXPUNGE
+ - 314 stalled for 21 secs in command: 8 EXPUNGE
+ - 355 stalled for 21 secs in command: 7 APPEND "INBOX" {2707+}
+ - 391 stalled for 21 secs in BYE, waiting for disconnect
+ - 349 stalled for 21 secs in command: 2 LIST "" *
+ - 288 stalled for 21 secs in command: 9 EXPUNGE
+ - 340 stalled for 21 secs in BYE, waiting for disconnect
+ - 329 stalled for 21 secs in command: 7 APPEND "INBOX" (\Answered \Flagged \Draft $Label5) "24-Feb-2003 02:45:54 +0100" {3641+}
+ - 308 stalled for 21 secs in command: 9 FETCH 2 (UID BODY.PEEK[1])
+ - 347 stalled for 21 secs in command: 7 STORE 1:2 +FLAGS \Deleted
+ - 345 stalled for 21 secs in command: 4 FETCH 1:2 (FLAGS FLAGS)
+ - 365 stalled for 21 secs in BYE, waiting for disconnect
+ - 367 stalled for 21 secs in BYE, waiting for disconnect
+ - 326 stalled for 21 secs in command: 8 APPEND "INBOX" (\Draft) {4644+}
+ - 303 stalled for 21 secs in command: 8 EXPUNGE
+ - 284 stalled for 21 secs in command: 8 APPEND "INBOX" "23-Feb-2003 01:41:45 +0100" {1773+}
+ - 338 stalled for 21 secs in command: 8 APPEND "INBOX" (\Answered \Draft $Label1 $Label5) "25-Feb-2003 02:11:33 +0100" {2995+}
+ - 360 stalled for 21 secs in BYE, waiting for disconnect
+ - 335 stalled for 22 secs in command: 2 LIST "" *
+ - 311 stalled for 21 secs in command: 8 APPEND "INBOX" "27-Feb-2003 21:19:15 +0100" {1895+}
+ - 363 stalled for 21 secs in BYE, waiting for disconnect
+ - 361 stalled for 21 secs in BYE, waiting for disconnect
+ - 352 stalled for 20 secs in command: 8 APPEND "INBOX" (\Answered \Draft $Label1) "01-Mar-2003 20:42:43 +0100" {3056+}
+ - 285 stalled for 21 secs in command: 4 FETCH 1,3 (BODY.PEEK[HEADER.FIELDS (References Delivered-To Delivered-To Cc)])
+ - 384 stalled for 18 secs in command: 2 LIST "" *
+ - 351 stalled for 21 secs in BYE, waiting for disconnect
+ - 377 stalled for 21 secs in BYE, waiting for disconnect
+ - 343 stalled for 21 secs in command: 2 LIST "" *
+ - 342 stalled for 21 secs in command: 4 FETCH 1:2 (BODY.PEEK[HEADER.FIELDS (Cc To To)] BODY RFC822.SIZE)
+ - 220 stalled for 27 secs in command: 8 APPEND "INBOX" "08-Jan-2003 23:45:04 +0100" {2054+}
+ - 333 stalled for 21 secs in command: 8 APPEND "INBOX" {2071+}
+ - 387 stalled for 21 secs in BYE, waiting for disconnect
+ - 375 stalled for 18 secs in command: 2 LIST "" *
+ - 316 stalled for 21 secs in command: 9 EXPUNGE
+ - 243 stalled for 24 secs in command: 7 EXPUNGE
+ - 372 stalled for 21 secs in BYE, waiting for disconnect
+ - 279 stalled for 21 secs in command: 9 APPEND "INBOX" (\Answered \Flagged \Seen $Label4 $Label5) "26-Feb-2003 23:29:39 +0100" {2832+}
+ - 318 stalled for 21 secs in command: 4 FETCH 1 (ENVELOPE UID BODY.PEEK[HEADER.FIELDS (Cc)])
+ - 378 stalled for 21 secs in command: 2 SELECT "INBOX" (CONDSTORE)
+ - 294 stalled for 21 secs in command: 8 STORE 1:2 +FLAGS (\Flagged)
+ - 331 stalled for 21 secs in command: 8 EXPUNGE
+ - 283 stalled for 21 secs in command: 4 FETCH 1 (RFC822.SIZE BODY.PEEK[HEADER.FIELDS (Cc Message-ID References In-Reply-To)] BODY.PEEK[HEADER.FIELDS (From References)] ENVELOPE)
+ - 305 stalled for 21 secs in command: 8 EXPUNGE
+ - 348 stalled for 21 secs in command: 3 FETCH 1 (RFC822.SIZE)
+ - 296 stalled for 21 secs in command: 9 APPEND "INBOX" (\Answered \Flagged \Seen $Label1 $Label5) {1891+}
+ - 379 stalled for 18 secs in command: 2 LIST "" *
+ - 322 stalled for 21 secs in command: 7 APPEND "INBOX" (\Seen $Label1) "18-Feb-2003 20:45:56 +0100" {3086+}
+ - 383 stalled for 18 secs in command: 2 LIST "" *
+ - 381 stalled for 21 secs in BYE, waiting for disconnect
+ - 281 stalled for 21 secs in command: 9 APPEND "INBOX" {1623+}
+ - 324 stalled for 21 secs in command: 4 FETCH 1:2,3,5:6 (UID BODY.PEEK[HEADER.FIELDS (Cc To)] ENVELOPE ENVELOPE)
+ - 362 stalled for 21 secs in BYE, waiting for disconnect
+ - 298 stalled for 21 secs in command: 4 FETCH 3:7 (BODYSTRUCTURE)
+ - 293 stalled for 21 secs in command: 4 FETCH 1 (BODY)
+ - 302 stalled for 23 secs in command: 9 EXPUNGE
+ - 295 stalled for 21 secs in command: 8 EXPUNGE
+ - 339 stalled for 20 secs in command: 4 FETCH 2 (RFC822.SIZE RFC822.SIZE)
+ - 364 stalled for 21 secs in BYE, waiting for disconnect
+ - 376 stalled for 21 secs in BYE, waiting for disconnect
+ - 374 stalled for 21 secs in BYE, waiting for disconnect
+ - 327 stalled for 21 secs in command: 9 APPEND "INBOX" (\Answered) {3560+}
+ - 366 stalled for 21 secs in BYE, waiting for disconnect
+ - 306 stalled for 21 secs in command: 7 EXPUNGE
+ - 328 stalled for 21 secs in command: 4 FETCH 1 (BODY.PEEK[HEADER.FIELDS (Delivered-To)] FLAGS BODY)
+ - 370 stalled for 21 secs in command: 2 STATUS "INBOX" (MESSAGES UNSEEN RECENT)
+ - 315 stalled for 21 secs in command: 7 EXPUNGE
+ - 382 stalled for 21 secs in command: 2 LIST "" *
+ - 350 stalled for 21 secs in command: 2 LIST "" *
+ - 309 stalled for 21 secs in command: 9 EXPUNGE
+ - 386 stalled for 18 secs in command: 2 STATUS "INBOX" (MESSAGES UNSEEN RECENT)
+ - 369 stalled for 21 secs in BYE, waiting for disconnect
+ - 344 stalled for 21 secs in command: 2 LIST "" *
+ - 299 stalled for 21 secs in command: 7 EXPUNGE
+ - 346 stalled for 21 secs in command: 4 FETCH 1:2 (RFC822.SIZE FLAGS INTERNALDATE BODY)
+ - 310 stalled for 21 secs in command: 7 EXPUNGE
+ - 368 stalled for 21 secs in BYE, waiting for disconnect
+ - 389 stalled for 21 secs in BYE, waiting for disconnect
+ - 277 stalled for 21 secs in command: 8 APPEND "INBOX" "21-Feb-2003 03:08:53 +0100" {4577+}
+ - 371 stalled for 21 secs in BYE, waiting for disconnect
+ - 385 stalled for 18 secs in command: 2 STATUS "INBOX" (MESSAGES UNSEEN RECENT)
+ - 286 stalled for 21 secs in command: 8 APPEND "INBOX" (\Flagged \Draft $Label5) {2218+}
+ - 280 stalled for 21 secs in command: 7 EXPUNGE
+ - 278 stalled for 21 secs in command: 8 APPEND "INBOX" {5526+}
+ - 392 stalled for 21 secs in BYE, waiting for disconnect
+ - 304 stalled for 21 secs in command: 7 APPEND "INBOX" {1540+}
+ - 388 stalled for 18 secs in command: 2 LIST "" *
+  10   11   13   18   15   27    4   10    6    1    2 110/110
+ - 336 stalled for 23 secs in command: 2 STATUS "INBOX" (MESSAGES UNSEEN RECENT)
+ - 320 stalled for 22 secs in command: 8 APPEND "INBOX" (\Answered \Draft $Label3) {1602+}
+ - 380 stalled for 22 secs in BYE, waiting for disconnect
+ - 337 stalled for 23 secs in command: 2 STATUS "INBOX" (MESSAGES UNSEEN RECENT)
+ - 282 stalled for 22 secs in command: 6 EXPUNGE
+ - 314 stalled for 22 secs in command: 8 EXPUNGE
+ - 355 stalled for 22 secs in command: 7 APPEND "INBOX" {2707+}
+ - 391 stalled for 22 secs in BYE, waiting for disconnect
+ - 288 stalled for 22 secs in command: 9 EXPUNGE
+ - 340 stalled for 22 secs in BYE, waiting for disconnect
+ - 329 stalled for 22 secs in command: 7 APPEND "INBOX" (\Answered \Flagged \Draft $Label5) "24-Feb-2003 02:45:54 +0100" {3641+}
+ - 347 stalled for 22 secs in command: 7 STORE 1:2 +FLAGS \Deleted
+ - 326 stalled for 22 secs in command: 8 APPEND "INBOX" (\Draft) {4644+}
+ - 303 stalled for 22 secs in command: 8 EXPUNGE
+ - 284 stalled for 22 secs in command: 8 APPEND "INBOX" "23-Feb-2003 01:41:45 +0100" {1773+}
+ - 338 stalled for 22 secs in command: 8 APPEND "INBOX" (\Answered \Draft $Label1 $Label5) "25-Feb-2003 02:11:33 +0100" {2995+}
+ - 311 stalled for 22 secs in command: 8 APPEND "INBOX" "27-Feb-2003 21:19:15 +0100" {1895+}
+ - 352 stalled for 21 secs in command: 8 APPEND "INBOX" (\Answered \Draft $Label1) "01-Mar-2003 20:42:43 +0100" {3056+}
+ - 351 stalled for 22 secs in BYE, waiting for disconnect
+ - 377 stalled for 22 secs in BYE, waiting for disconnect
+ - 343 stalled for 22 secs in command: 2 LIST "" *
+ - 333 stalled for 22 secs in command: 8 APPEND "INBOX" {2071+}
+ - 387 stalled for 22 secs in BYE, waiting for disconnect
+ - 316 stalled for 22 secs in command: 9 EXPUNGE
+ - 243 stalled for 25 secs in command: 7 EXPUNGE
+ - 372 stalled for 22 secs in BYE, waiting for disconnect
+ - 279 stalled for 22 secs in command: 9 APPEND "INBOX" (\Answered \Flagged \Seen $Label4 $Label5) "26-Feb-2003 23:29:39 +0100" {2832+}
+ - 318 stalled for 22 secs in command: 4 FETCH 1 (ENVELOPE UID BODY.PEEK[HEADER.FIELDS (Cc)])
+ - 378 stalled for 22 secs in command: 2 SELECT "INBOX" (CONDSTORE)
+ - 294 stalled for 22 secs in command: 8 STORE 1:2 +FLAGS (\Flagged)
+ - 331 stalled for 22 secs in command: 8 EXPUNGE
+ - 305 stalled for 22 secs in command: 8 EXPUNGE
+ - 348 stalled for 22 secs in command: 3 FETCH 1 (RFC822.SIZE)
+ - 296 stalled for 22 secs in command: 9 APPEND "INBOX" (\Answered \Flagged \Seen $Label1 $Label5) {1891+}
+ - 322 stalled for 22 secs in command: 7 APPEND "INBOX" (\Seen $Label1) "18-Feb-2003 20:45:56 +0100" {3086+}
+ - 381 stalled for 22 secs in BYE, waiting for disconnect
+ - 281 stalled for 22 secs in command: 9 APPEND "INBOX" {1623+}
+ - 362 stalled for 22 secs in BYE, waiting for disconnect
+ - 293 stalled for 22 secs in command: 4 FETCH 1 (BODY)
+ - 302 stalled for 24 secs in command: 9 EXPUNGE
+ - 295 stalled for 22 secs in command: 8 EXPUNGE
+ - 339 stalled for 21 secs in command: 4 FETCH 2 (RFC822.SIZE RFC822.SIZE)
+ - 364 stalled for 22 secs in BYE, waiting for disconnect
+ - 376 stalled for 22 secs in BYE, waiting for disconnect
+ - 374 stalled for 22 secs in BYE, waiting for disconnect
+ - 327 stalled for 22 secs in command: 9 APPEND "INBOX" (\Answered) {3560+}
+ - 306 stalled for 22 secs in command: 7 EXPUNGE
+ - 328 stalled for 22 secs in command: 4 FETCH 1 (BODY.PEEK[HEADER.FIELDS (Delivered-To)] FLAGS BODY)
+ - 315 stalled for 22 secs in command: 7 EXPUNGE
+ - 382 stalled for 22 secs in command: 2 LIST "" *
+ - 350 stalled for 22 secs in command: 2 LIST "" *
+ - 309 stalled for 22 secs in command: 9 EXPUNGE
+ - 344 stalled for 22 secs in command: 2 LIST "" *
+ - 299 stalled for 22 secs in command: 7 EXPUNGE
+ - 310 stalled for 22 secs in command: 7 EXPUNGE
+ - 389 stalled for 22 secs in BYE, waiting for disconnect
+ - 277 stalled for 22 secs in command: 8 APPEND "INBOX" "21-Feb-2003 03:08:53 +0100" {4577+}
+ - 371 stalled for 22 secs in BYE, waiting for disconnect
+ - 286 stalled for 22 secs in command: 8 APPEND "INBOX" (\Flagged \Draft $Label5) {2218+}
+ - 280 stalled for 22 secs in command: 7 EXPUNGE
+ - 278 stalled for 22 secs in command: 8 APPEND "INBOX" {5526+}
+ - 392 stalled for 22 secs in BYE, waiting for disconnect
+ - 304 stalled for 22 secs in command: 7 APPEND "INBOX" {1540+}
+  37    7    9   17   13   20    4   11    9   18   36 110/110
+ - 282 stalled for 23 secs in command: 6 EXPUNGE
+ - 314 stalled for 23 secs in command: 8 EXPUNGE
+ - 355 stalled for 23 secs in command: 7 APPEND "INBOX" {2707+}
+ - 288 stalled for 23 secs in command: 9 EXPUNGE
+ - 347 stalled for 23 secs in command: 7 STORE 1:2 +FLAGS \Deleted
+ - 303 stalled for 23 secs in command: 8 EXPUNGE
+ - 338 stalled for 23 secs in command: 8 APPEND "INBOX" (\Answered \Draft $Label1 $Label5) "25-Feb-2003 02:11:33 +0100" {2995+}
+ - 352 stalled for 22 secs in command: 8 APPEND "INBOX" (\Answered \Draft $Label1) "01-Mar-2003 20:42:43 +0100" {3056+}
+ - 343 stalled for 23 secs in command: 2 LIST "" *
+ - 333 stalled for 23 secs in command: 8 APPEND "INBOX" {2071+}
+ - 316 stalled for 23 secs in command: 9 EXPUNGE
+ - 318 stalled for 23 secs in command: 4 FETCH 1 (ENVELOPE UID BODY.PEEK[HEADER.FIELDS (Cc)])
+ - 294 stalled for 23 secs in command: 8 STORE 1:2 +FLAGS (\Flagged)
+ - 331 stalled for 23 secs in command: 8 EXPUNGE
+ - 305 stalled for 23 secs in command: 8 EXPUNGE
+ - 348 stalled for 23 secs in command: 3 FETCH 1 (RFC822.SIZE)
+ - 296 stalled for 23 secs in command: 9 APPEND "INBOX" (\Answered \Flagged \Seen $Label1 $Label5) {1891+}
+ - 281 stalled for 23 secs in command: 9 APPEND "INBOX" {1623+}
+ - 293 stalled for 23 secs in command: 4 FETCH 1 (BODY)
+ - 339 stalled for 22 secs in command: 4 FETCH 2 (RFC822.SIZE RFC822.SIZE)
+ - 306 stalled for 23 secs in command: 7 EXPUNGE
+ - 328 stalled for 23 secs in command: 4 FETCH 1 (BODY.PEEK[HEADER.FIELDS (Delivered-To)] FLAGS BODY)
+ - 309 stalled for 23 secs in command: 9 EXPUNGE
+ - 344 stalled for 23 secs in command: 2 LIST "" *
+ - 299 stalled for 23 secs in command: 7 EXPUNGE
+ - 310 stalled for 23 secs in command: 7 EXPUNGE
+   0    0    0    1    2    2    0    2    2    0    0 110/110
+ - 282 stalled for 24 secs in command: 6 EXPUNGE
+ - 314 stalled for 24 secs in command: 8 EXPUNGE
+ - 355 stalled for 24 secs in command: 7 APPEND "INBOX" {2707+}
+ - 288 stalled for 24 secs in command: 9 EXPUNGE
+ - 347 stalled for 24 secs in command: 7 STORE 1:2 +FLAGS \Deleted
+ - 303 stalled for 24 secs in command: 8 EXPUNGE
+ - 338 stalled for 24 secs in command: 8 APPEND "INBOX" (\Answered \Draft $Label1 $Label5) "25-Feb-2003 02:11:33 +0100" {2995+}
+ - 352 stalled for 23 secs in command: 8 APPEND "INBOX" (\Answered \Draft $Label1) "01-Mar-2003 20:42:43 +0100" {3056+}
+ - 343 stalled for 24 secs in command: 2 LIST "" *
+ - 333 stalled for 24 secs in command: 8 APPEND "INBOX" {2071+}
+ - 316 stalled for 24 secs in command: 9 EXPUNGE
+ - 318 stalled for 24 secs in command: 4 FETCH 1 (ENVELOPE UID BODY.PEEK[HEADER.FIELDS (Cc)])
+ - 294 stalled for 24 secs in command: 8 STORE 1:2 +FLAGS (\Flagged)
+ - 331 stalled for 24 secs in command: 8 EXPUNGE
+ - 305 stalled for 24 secs in command: 8 EXPUNGE
+ - 348 stalled for 24 secs in command: 3 FETCH 1 (RFC822.SIZE)
+ - 296 stalled for 24 secs in command: 9 APPEND "INBOX" (\Answered \Flagged \Seen $Label1 $Label5) {1891+}
+ - 281 stalled for 24 secs in command: 9 APPEND "INBOX" {1623+}
+ - 293 stalled for 24 secs in command: 4 FETCH 1 (BODY)
+ - 339 stalled for 23 secs in command: 4 FETCH 2 (RFC822.SIZE RFC822.SIZE)
+ - 306 stalled for 24 secs in command: 7 EXPUNGE
+ - 328 stalled for 24 secs in command: 4 FETCH 1 (BODY.PEEK[HEADER.FIELDS (Delivered-To)] FLAGS BODY)
+ - 309 stalled for 24 secs in command: 9 EXPUNGE
+ - 344 stalled for 24 secs in command: 2 LIST "" *
+ - 299 stalled for 24 secs in command: 7 EXPUNGE
+ - 310 stalled for 24 secs in command: 7 EXPUNGE
+   0    9    0   19    2    2    0    2    3    1    2 110/110
+ - 282 stalled for 25 secs in command: 6 EXPUNGE
+ - 314 stalled for 25 secs in command: 8 EXPUNGE
+ - 355 stalled for 25 secs in command: 7 APPEND "INBOX" {2707+}
+ - 288 stalled for 25 secs in command: 9 EXPUNGE
+ - 347 stalled for 25 secs in command: 7 STORE 1:2 +FLAGS \Deleted
+ - 303 stalled for 25 secs in command: 8 EXPUNGE
+ - 338 stalled for 25 secs in command: 8 APPEND "INBOX" (\Answered \Draft $Label1 $Label5) "25-Feb-2003 02:11:33 +0100" {2995+}
+ - 352 stalled for 24 secs in command: 8 APPEND "INBOX" (\Answered \Draft $Label1) "01-Mar-2003 20:42:43 +0100" {3056+}
+ - 343 stalled for 25 secs in command: 2 LIST "" *
+ - 341 stalled for 16 secs in command: 6 EXPUNGE
+ - 333 stalled for 25 secs in command: 8 APPEND "INBOX" {2071+}
+ - 316 stalled for 25 secs in command: 9 EXPUNGE
+ - 318 stalled for 25 secs in command: 4 FETCH 1 (ENVELOPE UID BODY.PEEK[HEADER.FIELDS (Cc)])
+ - 294 stalled for 25 secs in command: 8 STORE 1:2 +FLAGS (\Flagged)
+ - 331 stalled for 25 secs in command: 8 EXPUNGE
+ - 305 stalled for 25 secs in command: 8 EXPUNGE
+ - 348 stalled for 25 secs in command: 3 FETCH 1 (RFC822.SIZE)
+ - 296 stalled for 25 secs in command: 9 APPEND "INBOX" (\Answered \Flagged \Seen $Label1 $Label5) {1891+}
+ - 281 stalled for 25 secs in command: 9 APPEND "INBOX" {1623+}
+ - 293 stalled for 25 secs in command: 4 FETCH 1 (BODY)
+ - 339 stalled for 24 secs in command: 4 FETCH 2 (RFC822.SIZE RFC822.SIZE)
+ - 306 stalled for 25 secs in command: 7 EXPUNGE
+ - 328 stalled for 25 secs in command: 4 FETCH 1 (BODY.PEEK[HEADER.FIELDS (Delivered-To)] FLAGS BODY)
+ - 309 stalled for 25 secs in command: 9 EXPUNGE
+ - 299 stalled for 25 secs in command: 7 EXPUNGE
+   2    7   11   12   13   18    2    8    7    9   18 110/110
+ - 314 stalled for 26 secs in command: 8 EXPUNGE
+ - 355 stalled for 26 secs in command: 7 APPEND "INBOX" {2707+}
+ - 288 stalled for 26 secs in command: 9 EXPUNGE
+ - 347 stalled for 26 secs in command: 7 STORE 1:2 +FLAGS \Deleted
+ - 303 stalled for 26 secs in command: 8 EXPUNGE
+ - 338 stalled for 26 secs in command: 8 APPEND "INBOX" (\Answered \Draft $Label1 $Label5) "25-Feb-2003 02:11:33 +0100" {2995+}
+ - 352 stalled for 25 secs in command: 8 APPEND "INBOX" (\Answered \Draft $Label1) "01-Mar-2003 20:42:43 +0100" {3056+}
+ - 341 stalled for 17 secs in command: 6 EXPUNGE
+ - 294 stalled for 26 secs in command: 8 STORE 1:2 +FLAGS (\Flagged)
+ - 331 stalled for 26 secs in command: 8 EXPUNGE
+ - 305 stalled for 26 secs in command: 8 EXPUNGE
+ - 281 stalled for 26 secs in command: 9 APPEND "INBOX" {1623+}
+ - 339 stalled for 25 secs in command: 4 FETCH 2 (RFC822.SIZE RFC822.SIZE)
+ - 306 stalled for 26 secs in command: 7 EXPUNGE
+ - 309 stalled for 26 secs in command: 9 EXPUNGE
+ - 299 stalled for 26 secs in command: 7 EXPUNGE
+   0    0    0    0    0    0    0    0    0    0    0 110/110
+ - 314 stalled for 27 secs in command: 8 EXPUNGE
+ - 355 stalled for 27 secs in command: 7 APPEND "INBOX" {2707+}
+ - 288 stalled for 27 secs in command: 9 EXPUNGE
+ - 347 stalled for 27 secs in command: 7 STORE 1:2 +FLAGS \Deleted
+ - 303 stalled for 27 secs in command: 8 EXPUNGE
+ - 338 stalled for 27 secs in command: 8 APPEND "INBOX" (\Answered \Draft $Label1 $Label5) "25-Feb-2003 02:11:33 +0100" {2995+}
+ - 373 stalled for 16 secs in command: 3 APPEND "INBOX" "06-Mar-2003 02:00:17 +0100" {2282+}
+ - 352 stalled for 26 secs in command: 8 APPEND "INBOX" (\Answered \Draft $Label1) "01-Mar-2003 20:42:43 +0100" {3056+}
+ - 341 stalled for 18 secs in command: 6 EXPUNGE
+ - 294 stalled for 27 secs in command: 8 STORE 1:2 +FLAGS (\Flagged)
+ - 331 stalled for 27 secs in command: 8 EXPUNGE
+ - 305 stalled for 27 secs in command: 8 EXPUNGE
+ - 281 stalled for 27 secs in command: 9 APPEND "INBOX" {1623+}
+ - 339 stalled for 26 secs in command: 4 FETCH 2 (RFC822.SIZE RFC822.SIZE)
+ - 306 stalled for 27 secs in command: 7 EXPUNGE
+ - 309 stalled for 27 secs in command: 9 EXPUNGE
+ - 299 stalled for 27 secs in command: 7 EXPUNGE
+   0    0    0    0    0    0    0    0    0    0    0 110/110
+ - 314 stalled for 28 secs in command: 8 EXPUNGE
+ - 355 stalled for 28 secs in command: 7 APPEND "INBOX" {2707+}
+ - 288 stalled for 28 secs in command: 9 EXPUNGE
+ - 347 stalled for 28 secs in command: 7 STORE 1:2 +FLAGS \Deleted
+ - 303 stalled for 28 secs in command: 8 EXPUNGE
+ - 338 stalled for 28 secs in command: 8 APPEND "INBOX" (\Answered \Draft $Label1 $Label5) "25-Feb-2003 02:11:33 +0100" {2995+}
+ - 373 stalled for 17 secs in command: 3 APPEND "INBOX" "06-Mar-2003 02:00:17 +0100" {2282+}
+ - 352 stalled for 27 secs in command: 8 APPEND "INBOX" (\Answered \Draft $Label1) "01-Mar-2003 20:42:43 +0100" {3056+}
+ - 341 stalled for 19 secs in command: 6 EXPUNGE
+ - 294 stalled for 28 secs in command: 8 STORE 1:2 +FLAGS (\Flagged)
+ - 331 stalled for 28 secs in command: 8 EXPUNGE
+ - 305 stalled for 28 secs in command: 8 EXPUNGE
+ - 281 stalled for 28 secs in command: 9 APPEND "INBOX" {1623+}
+ - 339 stalled for 27 secs in command: 4 FETCH 2 (RFC822.SIZE RFC822.SIZE)
+ - 306 stalled for 28 secs in command: 7 EXPUNGE
+ - 309 stalled for 28 secs in command: 9 EXPUNGE
+ - 299 stalled for 28 secs in command: 7 EXPUNGE
+Logi List Stat Sele Fetc Fet2 Stor Dele Expu Appe Logo 
+100%  50%  50% 100% 100% 100%  50% 100% 100% 100% 100% 
+                          30%                  5%      
+   1    1    0    1    4    5    1    7   21   31   62 110/110
+ - 288 stalled for 29 secs in command: 9 EXPUNGE
+ - 303 stalled for 29 secs in command: 8 EXPUNGE
+ - 309 stalled for 29 secs in command: 9 EXPUNGE
+ - 299 stalled for 29 secs in command: 7 EXPUNGE
+   0    0    0    0    0    0    0    0    0    1    2 110/110
+ - 288 stalled for 30 secs in command: 9 EXPUNGE
+ - 303 stalled for 30 secs in command: 8 EXPUNGE
+ - 309 stalled for 30 secs in command: 9 EXPUNGE
+ - 299 stalled for 30 secs in command: 7 EXPUNGE
+  24    0    7   15    4    5    0    4    2    2    4 110/110
+ - 288 stalled for 31 secs in command: 9 EXPUNGE
+ - 303 stalled for 31 secs in command: 8 EXPUNGE
+ - 309 stalled for 31 secs in command: 9 EXPUNGE
+ - 299 stalled for 31 secs in command: 7 EXPUNGE
+   0    0    0    0    1    3    0    0    1    1    2 110/110
+ - 288 stalled for 32 secs in command: 9 EXPUNGE
+ - 303 stalled for 32 secs in command: 8 EXPUNGE
+ - 309 stalled for 32 secs in command: 9 EXPUNGE
+  25    8    7   12   26   41    5   21   11    7   14 110/110
+ - 288 stalled for 33 secs in command: 9 EXPUNGE
+ - 303 stalled for 33 secs in command: 8 EXPUNGE
+  13   10    9   14   20   27    6   12   20   13   26 110/110
+  14    5    6   12   10   10    3    7   14   14   28 110/110
+  40   32   34   53   47   71    6   33   40   40   80 110/110
+   8    0    1    3    7    9    0    7    6    8   16 110/110
+  26   26   21   39   31   41    2   27   33   27   54 110/110
+Logi List Stat Sele Fetc Fet2 Stor Dele Expu Appe Logo 
+100%  50%  50% 100% 100% 100%  50% 100% 100% 100% 100% 
+                          30%                  5%      
+  10    5    1    7   19   30    6   15    8    9   18 110/110
+  34   23   23   33   24   35    6   19   29   35   68 110/110
+  31   10    9   16   20   24    3   20   36   32   66 110/110
+  21   12   10   29   17   18    1   18   17   19   38 110/110
+  18   12   24   29   34   48    8   30   18   18   36 110/110
+   3    1    1    1    3    3    1    2    3    3    6 110/110
+  67   33   30   57   52   77   12   35   66   68  134 110/110
+   6    1    1    1    6    6    0    7    7    5   12 110/110
+  14   13   12   27   15   15    0   13   19   31   62 110/110
+   7    1    1    2   15   18    3   14   10    1    2 110/110
+Logi List Stat Sele Fetc Fet2 Stor Dele Expu Appe Logo 
+100%  50%  50% 100% 100% 100%  50% 100% 100% 100% 100% 
+                          30%                  5%      
+  11    0    0    0    1    1    0    0    4    4   30  95/ 95
+   0    0    0    0    0    0    0    0    0    0    0  95/ 95
+   0    1    0    1    1    2    1    0    0    0    2  94/ 94
+   0    0    0    0    0    0    0    0    0    0    0  94/ 94
+   0    0    0    0    0    0    0    0    0    0    0  94/ 94
+   0    0    0    0    0    0    0    0    0    0    0  94/ 94
+   0    0    0    0    0    0    0    0    0    0    0  94/ 94
+   0    0    0    0    0    0    0    0    0    0    0  94/ 94
+   0    0    0    0    0    0    0    0    0    0    0  94/ 94
+   0    0    0    0    0    0    0    0    0    0    0  94/ 94
+ - 643 stalled for 16 secs in command: 8 EXPUNGE
+ - 606 stalled for 16 secs in command: 7 EXPUNGE
+Logi List Stat Sele Fetc Fet2 Stor Dele Expu Appe Logo 
+100%  50%  50% 100% 100% 100%  50% 100% 100% 100% 100% 
+                          30%                  5%      
+   0    0    0    0    0    0    0    0    0    0    0  94/ 94
+ - 643 stalled for 17 secs in command: 8 EXPUNGE
+ - 606 stalled for 17 secs in command: 7 EXPUNGE
+   0    0    0    0    0    0    0    0    0    0    0  94/ 94
+ - 597 stalled for 16 secs in command: 7 EXPUNGE
+ - 643 stalled for 18 secs in command: 8 EXPUNGE
+ - 684 stalled for 16 secs in command: 8 EXPUNGE
+ - 676 stalled for 16 secs in command: 8 EXPUNGE
+ - 606 stalled for 18 secs in command: 7 EXPUNGE
+ - 744 stalled for 16 secs in command: 7 STORE 3 +FLAGS.SILENT \Deleted
+ - 734 stalled for 16 secs in command: 3 FETCH 1:2,4 (BODY.PEEK[HEADER.FIELDS (Subject Delivered-To)] RFC822.SIZE)
+ - 686 stalled for 16 secs in command: 7 EXPUNGE
+ - 729 stalled for 16 secs in command: 8 STORE 1 +FLAGS (\Answered $Label3)
+ - 716 stalled for 16 secs in command: 2 LIST "" *
+ - 681 stalled for 16 secs in command: 9 APPEND "INBOX" {2116+}
+ - 725 stalled for 16 secs in command: 2 STATUS "INBOX" (MESSAGES UNSEEN RECENT)
+ - 672 stalled for 16 secs in command: 6 EXPUNGE
+   0    0    0    0    0    0    0    0    0    0    0  94/ 94
+ - 597 stalled for 17 secs in command: 7 EXPUNGE
+ - 643 stalled for 19 secs in command: 8 EXPUNGE
+ - 684 stalled for 17 secs in command: 8 EXPUNGE
+ - 676 stalled for 17 secs in command: 8 EXPUNGE
+ - 689 stalled for 16 secs in command: 8 EXPUNGE
+ - 606 stalled for 19 secs in command: 7 EXPUNGE
+ - 763 stalled for 16 secs in command: 5 FETCH 1 (INTERNALDATE BODY)
+ - 623 stalled for 16 secs in command: 9 APPEND "INBOX" (\Answered \Seen \Draft $Label1) {1810+}
+ - 733 stalled for 16 secs in command: 8 EXPUNGE
+ - 744 stalled for 17 secs in command: 7 STORE 3 +FLAGS.SILENT \Deleted
+ - 764 stalled for 16 secs in command: 2 STATUS "INBOX" (MESSAGES UNSEEN RECENT)
+ - 773 stalled for 16 secs in command: 4 APPEND "INBOX" "16-May-2003 20:19:12 +0200" {7834+}
+ - 771 stalled for 16 secs in command: 2 SELECT "INBOX" (CONDSTORE)
+ - 734 stalled for 17 secs in command: 3 FETCH 1:2,4 (BODY.PEEK[HEADER.FIELDS (Subject Delivered-To)] RFC822.SIZE)
+ - 715 stalled for 16 secs in command: 4 FETCH 1 (UID FLAGS ENVELOPE BODYSTRUCTURE)
+ - 706 stalled for 16 secs in command: 8 EXPUNGE
+ - 686 stalled for 17 secs in command: 7 EXPUNGE
+ - 729 stalled for 17 secs in command: 8 STORE 1 +FLAGS (\Answered $Label3)
+ - 760 stalled for 16 secs in command: 9 EXPUNGE
+ - 698 stalled for 16 secs in command: 4 FETCH 1:2 (BODY)
+ - 716 stalled for 17 secs in command: 2 LIST "" *
+ - 681 stalled for 17 secs in command: 9 APPEND "INBOX" {2116+}
+ - 725 stalled for 17 secs in command: 2 STATUS "INBOX" (MESSAGES UNSEEN RECENT)
+ - 769 stalled for 16 secs in command: 8 STORE 3 FLAGS (\Answered \Flagged \Draft $Label1)
+ - 762 stalled for 16 secs in command: 5 FETCH 1:2 (BODY)
+ - 672 stalled for 17 secs in command: 6 EXPUNGE
+ - 770 stalled for 16 secs in command: 9 EXPUNGE
+ - 738 stalled for 16 secs in command: 5 FETCH 2:3 (BODY.PEEK[HEADER.FIELDS (Message-ID)] ENVELOPE)
+ - 728 stalled for 16 secs in command: 8 EXPUNGE
+ - 708 stalled for 16 secs in command: 4 FETCH 1:3 (BODY ENVELOPE BODY.PEEK[HEADER.FIELDS (Cc References To)] BODY.PEEK[HEADER.FIELDS (Message-ID Message-ID)])
+   0    0    0    0    0    0    0    0    0    0    0  94/ 94
+ - 597 stalled for 18 secs in command: 7 EXPUNGE
+ - 643 stalled for 20 secs in command: 8 EXPUNGE
+ - 777 stalled for 16 secs in command: 2 STATUS "INBOX" (MESSAGES UNSEEN RECENT)
+ - 684 stalled for 18 secs in command: 8 EXPUNGE
+ - 676 stalled for 18 secs in command: 8 EXPUNGE
+ - 689 stalled for 17 secs in command: 8 EXPUNGE
+ - 710 stalled for 16 secs in command: 8 APPEND "INBOX" {1926+}
+ - 606 stalled for 20 secs in command: 7 EXPUNGE
+ - 753 stalled for 16 secs in command: 8 APPEND "INBOX" {2512+}
+ - 763 stalled for 17 secs in command: 5 FETCH 1 (INTERNALDATE BODY)
+ - 623 stalled for 17 secs in command: 9 APPEND "INBOX" (\Answered \Seen \Draft $Label1) {1810+}
+ - 733 stalled for 17 secs in command: 8 EXPUNGE
+ - 744 stalled for 18 secs in command: 7 STORE 3 +FLAGS.SILENT \Deleted
+ - 764 stalled for 17 secs in command: 2 STATUS "INBOX" (MESSAGES UNSEEN RECENT)
+ - 773 stalled for 17 secs in command: 4 APPEND "INBOX" "16-May-2003 20:19:12 +0200" {7834+}
+ - 771 stalled for 17 secs in command: 2 SELECT "INBOX" (CONDSTORE)
+ - 734 stalled for 18 secs in command: 3 FETCH 1:2,4 (BODY.PEEK[HEADER.FIELDS (Subject Delivered-To)] RFC822.SIZE)
+ - 715 stalled for 17 secs in command: 4 FETCH 1 (UID FLAGS ENVELOPE BODYSTRUCTURE)
+ - 742 stalled for 16 secs in command: 7 EXPUNGE
+ - 706 stalled for 17 secs in command: 8 EXPUNGE
+ - 607 stalled for 16 secs in command: 8 EXPUNGE
+ - 686 stalled for 18 secs in command: 7 EXPUNGE
+ - 729 stalled for 18 secs in command: 8 STORE 1 +FLAGS (\Answered $Label3)
+ - 760 stalled for 17 secs in command: 9 EXPUNGE
+ - 780 stalled for 16 secs in command: 2 SELECT "INBOX" (CONDSTORE)
+ - 698 stalled for 17 secs in command: 4 FETCH 1:2 (BODY)
+ - 716 stalled for 18 secs in command: 2 LIST "" *
+ - 681 stalled for 18 secs in command: 9 APPEND "INBOX" {2116+}
+ - 725 stalled for 18 secs in command: 2 STATUS "INBOX" (MESSAGES UNSEEN RECENT)
+ - 732 stalled for 16 secs in command: 7 APPEND "INBOX" {1624+}
+ - 769 stalled for 17 secs in command: 8 STORE 3 FLAGS (\Answered \Flagged \Draft $Label1)
+ - 762 stalled for 17 secs in command: 5 FETCH 1:2 (BODY)
+ - 672 stalled for 18 secs in command: 6 EXPUNGE
+ - 770 stalled for 17 secs in command: 9 EXPUNGE
+ - 738 stalled for 17 secs in command: 5 FETCH 2:3 (BODY.PEEK[HEADER.FIELDS (Message-ID)] ENVELOPE)
+ - 728 stalled for 17 secs in command: 8 EXPUNGE
+ - 708 stalled for 17 secs in command: 4 FETCH 1:3 (BODY ENVELOPE BODY.PEEK[HEADER.FIELDS (Cc References To)] BODY.PEEK[HEADER.FIELDS (Message-ID Message-ID)])
+   0    0    0    0    0    0    0    0    0    0    0  94/ 94
+ - 785 stalled for 16 secs in command: 4 FETCH 1 (UID FLAGS BODY.PEEK[HEADER.FIELDS (Delivered-To From From)])
+ - 793 stalled for 16 secs in command: 2 LIST "" *
+ - 597 stalled for 19 secs in command: 7 EXPUNGE
+ - 792 stalled for 16 secs in command: 2 LIST "" *
+ - 755 stalled for 16 secs in command: 4 FETCH 1 (ENVELOPE BODYSTRUCTURE ENVELOPE)
+ - 643 stalled for 21 secs in command: 8 EXPUNGE
+ - 777 stalled for 17 secs in command: 2 STATUS "INBOX" (MESSAGES UNSEEN RECENT)
+ - 787 stalled for 16 secs in command: 2 LIST "" *
+ - 684 stalled for 19 secs in command: 8 EXPUNGE
+ - 796 stalled for 16 secs in command: 4 FETCH 1 (ENVELOPE BODYSTRUCTURE)
+ - 756 stalled for 16 secs in command: 7 EXPUNGE
+ - 714 stalled for 16 secs in command: 8 APPEND "INBOX" "07-May-2003 13:11:33 +0200" {1554+}
+ - 749 stalled for 16 secs in command: 4 FETCH 1:3 (INTERNALDATE ENVELOPE FLAGS)
+ - 676 stalled for 19 secs in command: 8 EXPUNGE
+ - 767 stalled for 16 secs in command: 8 APPEND "INBOX" (\Flagged \Seen $Label4) {3570+}
+ - 754 stalled for 16 secs in command: 9 APPEND "INBOX" (\Seen \Draft $Label3 $Label4) "19-May-2003 16:54:35 +0200" {3135+}
+ - 730 stalled for 16 secs in command: 5 FETCH 1,3 (INTERNALDATE RFC822.SIZE FLAGS)
+ - 689 stalled for 18 secs in command: 8 EXPUNGE
+ - 784 stalled for 16 secs in command: 4 FETCH 1 (BODY RFC822.SIZE FLAGS)
+ - 710 stalled for 17 secs in command: 8 APPEND "INBOX" {1926+}
+ - 606 stalled for 21 secs in command: 7 EXPUNGE
+ - 753 stalled for 17 secs in command: 8 APPEND "INBOX" {2512+}
+ - 748 stalled for 16 secs in command: 4 FETCH 1:2 (INTERNALDATE BODY.PEEK[HEADER.FIELDS (Subject Delivered-To In-Reply-To In-Reply-To)] INTERNALDATE)
+ - 763 stalled for 18 secs in command: 5 FETCH 1 (INTERNALDATE BODY)
+ - 718 stalled for 16 secs in command: 8 APPEND "INBOX" "20-May-2003 04:12:23 +0200" {2707+}
+ - 623 stalled for 18 secs in command: 9 APPEND "INBOX" (\Answered \Seen \Draft $Label1) {1810+}
+ - 765 stalled for 16 secs in command: 8 APPEND "INBOX" "16-May-2003 13:52:24 +0200" {2770+}
+ - 794 stalled for 16 secs in command: 2 LIST "" *
+ - 801 stalled for 16 secs in command: 2 LIST "" *
+ - 733 stalled for 18 secs in command: 8 EXPUNGE
+ - 744 stalled for 19 secs in command: 7 STORE 3 +FLAGS.SILENT \Deleted
+ - 764 stalled for 18 secs in command: 2 STATUS "INBOX" (MESSAGES UNSEEN RECENT)
+ - 776 stalled for 16 secs in command: 8 APPEND "INBOX" (\Answered $Label3 $Label4) {3043+}
+ - 773 stalled for 18 secs in command: 4 APPEND "INBOX" "16-May-2003 20:19:12 +0200" {7834+}
+ - 771 stalled for 18 secs in command: 2 SELECT "INBOX" (CONDSTORE)
+ - 814 stalled for 16 secs in command: 2 STATUS "INBOX" (MESSAGES UNSEEN RECENT)
+ - 747 stalled for 16 secs in command: 8 EXPUNGE
+ - 734 stalled for 19 secs in command: 3 FETCH 1:2,4 (BODY.PEEK[HEADER.FIELDS (Subject Delivered-To)] RFC822.SIZE)
+ - 715 stalled for 18 secs in command: 4 FETCH 1 (UID FLAGS ENVELOPE BODYSTRUCTURE)
+ - 742 stalled for 17 secs in command: 7 EXPUNGE
+ - 706 stalled for 18 secs in command: 8 EXPUNGE
+ - 607 stalled for 17 secs in command: 8 EXPUNGE
+ - 775 stalled for 16 secs in command: 4 FETCH 1:2 (FLAGS BODY.PEEK[HEADER.FIELDS (References)] BODY.PEEK[HEADER.FIELDS (From Subject In-Reply-To)])
+ - 791 stalled for 16 secs in command: 2 LIST "" *
+ - 686 stalled for 19 secs in command: 7 EXPUNGE
+ - 729 stalled for 19 secs in command: 8 STORE 1 +FLAGS (\Answered $Label3)
+ - 759 stalled for 16 secs in command: 3 FETCH 1:2 (INTERNALDATE BODY.PEEK[HEADER.FIELDS (Cc Cc)])
+ - 760 stalled for 18 secs in command: 9 EXPUNGE
+ - 720 stalled for 16 secs in command: 8 EXPUNGE
+ - 780 stalled for 17 secs in command: 2 SELECT "INBOX" (CONDSTORE)
+ - 698 stalled for 18 secs in command: 4 FETCH 1:2 (BODY)
+ - 751 stalled for 16 secs in command: 7 EXPUNGE
+ - 757 stalled for 16 secs in command: 4 FETCH 1,3 (BODY FLAGS RFC822.SIZE BODY.PEEK[HEADER.FIELDS (In-Reply-To In-Reply-To In-Reply-To)])
+ - 781 stalled for 16 secs in command: 5 FETCH 2,4:5 (BODYSTRUCTURE ENVELOPE)
+ - 719 stalled for 16 secs in command: 7 EXPUNGE
+ - 716 stalled for 19 secs in command: 2 LIST "" *
+ - 740 stalled for 16 secs in command: 8 APPEND "INBOX" {3723+}
+ - 722 stalled for 16 secs in command: 8 APPEND "INBOX" (\Answered \Flagged \Seen $Label1) {1823+}
+ - 768 stalled for 16 secs in command: 9 APPEND "INBOX" (\Seen \Draft $Label3 $Label4 $Label5) {3199+}
+ - 717 stalled for 16 secs in command: 6 EXPUNGE
+ - 681 stalled for 19 secs in command: 9 APPEND "INBOX" {2116+}
+ - 725 stalled for 19 secs in command: 2 STATUS "INBOX" (MESSAGES UNSEEN RECENT)
+ - 732 stalled for 17 secs in command: 7 APPEND "INBOX" {1624+}
+ - 769 stalled for 18 secs in command: 8 STORE 3 FLAGS (\Answered \Flagged \Draft $Label1)
+ - 762 stalled for 18 secs in command: 5 FETCH 1:2 (BODY)
+ - 789 stalled for 16 secs in command: 2 LIST "" *
+ - 672 stalled for 19 secs in command: 6 EXPUNGE
+ - 810 stalled for 16 secs in command: 3 FETCH 1:3 (BODYSTRUCTURE RFC822.SIZE)
+ - 772 stalled for 16 secs in command: 7 STORE 2:3 FLAGS ()
+ - 737 stalled for 16 secs in command: 7 EXPUNGE
+ - 703 stalled for 16 secs in command: 8 EXPUNGE
+ - 770 stalled for 18 secs in command: 9 EXPUNGE
+ - 738 stalled for 18 secs in command: 5 FETCH 2:3 (BODY.PEEK[HEADER.FIELDS (Message-ID)] ENVELOPE)
+ - 786 stalled for 16 secs in command: 8 APPEND "INBOX" (\Answered \Seen \Draft $Label4) "21-May-2003 07:43:28 +0200" {2784+}
+ - 783 stalled for 16 secs in command: 2 STATUS "INBOX" (MESSAGES UNSEEN RECENT)
+ - 746 stalled for 16 secs in command: 7 APPEND "INBOX" (\Answered \Flagged \Seen \Draft $Label5) "18-May-2003 20:11:19 +0200" {2163+}
+ - 728 stalled for 18 secs in command: 8 EXPUNGE
+ - 708 stalled for 18 secs in command: 4 FETCH 1:3 (BODY ENVELOPE BODY.PEEK[HEADER.FIELDS (Cc References To)] BODY.PEEK[HEADER.FIELDS (Message-ID Message-ID)])
+ - 766 stalled for 16 secs in command: 9 APPEND "INBOX" (\Flagged $Label2) "20-May-2003 21:27:36 +0200" {3189+}
+ - 790 stalled for 16 secs in command: 2 SELECT "INBOX" (CONDSTORE)
+   0    0    0    0    0    0    0    0    0    0    0  94/ 94
+ - 785 stalled for 17 secs in command: 4 FETCH 1 (UID FLAGS BODY.PEEK[HEADER.FIELDS (Delivered-To From From)])
+ - 793 stalled for 17 secs in command: 2 LIST "" *
+ - 700 stalled for 16 secs in command: 4 FETCH 1 (BODY BODY.PEEK[HEADER.FIELDS (Cc References In-Reply-To Delivered-To)] BODY ENVELOPE)
+ - 597 stalled for 20 secs in command: 7 EXPUNGE
+ - 778 stalled for 16 secs in command: 9 EXPUNGE
+ - 792 stalled for 17 secs in command: 2 LIST "" *
+ - 802 stalled for 16 secs in command: 2 LIST "" *
+ - 774 stalled for 16 secs in command: 8 APPEND "INBOX" (\Flagged \Draft $Label4) "17-May-2003 09:30:53 +0200" {3203+}
+ - 755 stalled for 17 secs in command: 4 FETCH 1 (ENVELOPE BODYSTRUCTURE ENVELOPE)
+ - 643 stalled for 22 secs in command: 8 EXPUNGE
+ - 777 stalled for 18 secs in command: 2 STATUS "INBOX" (MESSAGES UNSEEN RECENT)
+ - 787 stalled for 17 secs in command: 2 LIST "" *
+ - 684 stalled for 20 secs in command: 8 EXPUNGE
+ - 796 stalled for 17 secs in command: 4 FETCH 1 (ENVELOPE BODYSTRUCTURE)
+ - 756 stalled for 17 secs in command: 7 EXPUNGE
+ - 714 stalled for 17 secs in command: 8 APPEND "INBOX" "07-May-2003 13:11:33 +0200" {1554+}
+ - 749 stalled for 17 secs in command: 4 FETCH 1:3 (INTERNALDATE ENVELOPE FLAGS)
+ - 758 stalled for 16 secs in command: 6 EXPUNGE
+ - 676 stalled for 20 secs in command: 8 EXPUNGE
+ - 767 stalled for 17 secs in command: 8 APPEND "INBOX" (\Flagged \Seen $Label4) {3570+}
+ - 754 stalled for 17 secs in command: 9 APPEND "INBOX" (\Seen \Draft $Label3 $Label4) "19-May-2003 16:54:35 +0200" {3135+}
+ - 730 stalled for 17 secs in command: 5 FETCH 1,3 (INTERNALDATE RFC822.SIZE FLAGS)
+ - 689 stalled for 19 secs in command: 8 EXPUNGE
+ - 784 stalled for 17 secs in command: 4 FETCH 1 (BODY RFC822.SIZE FLAGS)
+ - 710 stalled for 18 secs in command: 8 APPEND "INBOX" {1926+}
+ - 606 stalled for 22 secs in command: 7 EXPUNGE
+ - 753 stalled for 18 secs in command: 8 APPEND "INBOX" {2512+}
+ - 748 stalled for 17 secs in command: 4 FETCH 1:2 (INTERNALDATE BODY.PEEK[HEADER.FIELDS (Subject Delivered-To In-Reply-To In-Reply-To)] INTERNALDATE)
+ - 763 stalled for 19 secs in command: 5 FETCH 1 (INTERNALDATE BODY)
+ - 800 stalled for 16 secs in command: 2 STATUS "INBOX" (MESSAGES UNSEEN RECENT)
+ - 718 stalled for 17 secs in command: 8 APPEND "INBOX" "20-May-2003 04:12:23 +0200" {2707+}
+ - 623 stalled for 19 secs in command: 9 APPEND "INBOX" (\Answered \Seen \Draft $Label1) {1810+}
+ - 765 stalled for 17 secs in command: 8 APPEND "INBOX" "16-May-2003 13:52:24 +0200" {2770+}
+ - 794 stalled for 17 secs in command: 2 LIST "" *
+ - 801 stalled for 17 secs in command: 2 LIST "" *
+ - 733 stalled for 19 secs in command: 8 EXPUNGE
+ - 744 stalled for 20 secs in command: 7 STORE 3 +FLAGS.SILENT \Deleted
+ - 764 stalled for 19 secs in command: 2 STATUS "INBOX" (MESSAGES UNSEEN RECENT)
+ - 776 stalled for 17 secs in command: 8 APPEND "INBOX" (\Answered $Label3 $Label4) {3043+}
+ - 773 stalled for 19 secs in command: 4 APPEND "INBOX" "16-May-2003 20:19:12 +0200" {7834+}
+ - 771 stalled for 19 secs in command: 2 SELECT "INBOX" (CONDSTORE)
+ - 814 stalled for 17 secs in command: 2 STATUS "INBOX" (MESSAGES UNSEEN RECENT)
+ - 747 stalled for 17 secs in command: 8 EXPUNGE
+ - 734 stalled for 20 secs in command: 3 FETCH 1:2,4 (BODY.PEEK[HEADER.FIELDS (Subject Delivered-To)] RFC822.SIZE)
+ - 715 stalled for 19 secs in command: 4 FETCH 1 (UID FLAGS ENVELOPE BODYSTRUCTURE)
+ - 742 stalled for 18 secs in command: 7 EXPUNGE
+ - 706 stalled for 19 secs in command: 8 EXPUNGE
+ - 607 stalled for 18 secs in command: 8 EXPUNGE
+ - 775 stalled for 17 secs in command: 4 FETCH 1:2 (FLAGS BODY.PEEK[HEADER.FIELDS (References)] BODY.PEEK[HEADER.FIELDS (From Subject In-Reply-To)])
+ - 799 stalled for 16 secs in command: 2 STATUS "INBOX" (MESSAGES UNSEEN RECENT)
+ - 791 stalled for 17 secs in command: 2 LIST "" *
+ - 686 stalled for 20 secs in command: 7 EXPUNGE
+ - 729 stalled for 20 secs in command: 8 STORE 1 +FLAGS (\Answered $Label3)
+ - 795 stalled for 16 secs in command: 2 SELECT "INBOX" (CONDSTORE)
+ - 759 stalled for 17 secs in command: 3 FETCH 1:2 (INTERNALDATE BODY.PEEK[HEADER.FIELDS (Cc Cc)])
+ - 726 stalled for 16 secs in command: 3 FETCH 2,4:5 (ENVELOPE ENVELOPE BODY.PEEK[HEADER.FIELDS (In-Reply-To Subject To)] BODY.PEEK[HEADER.FIELDS (From)])
+ - 798 stalled for 16 secs in command: 2 STATUS "INBOX" (MESSAGES UNSEEN RECENT)
+ - 760 stalled for 19 secs in command: 9 EXPUNGE
+ - 720 stalled for 17 secs in command: 8 EXPUNGE
+ - 780 stalled for 18 secs in command: 2 SELECT "INBOX" (CONDSTORE)
+ - 743 stalled for 16 secs in command: 5 FETCH 1:2 (BODYSTRUCTURE RFC822.SIZE BODYSTRUCTURE BODY.PEEK[HEADER.FIELDS (References Cc In-Reply-To To)])
+ - 698 stalled for 19 secs in command: 4 FETCH 1:2 (BODY)
+ - 751 stalled for 17 secs in command: 7 EXPUNGE
+ - 757 stalled for 17 secs in command: 4 FETCH 1,3 (BODY FLAGS RFC822.SIZE BODY.PEEK[HEADER.FIELDS (In-Reply-To In-Reply-To In-Reply-To)])
+ - 781 stalled for 17 secs in command: 5 FETCH 2,4:5 (BODYSTRUCTURE ENVELOPE)
+ - 719 stalled for 17 secs in command: 7 EXPUNGE
+ - 716 stalled for 20 secs in command: 2 LIST "" *
+ - 740 stalled for 17 secs in command: 8 APPEND "INBOX" {3723+}
+ - 722 stalled for 17 secs in command: 8 APPEND "INBOX" (\Answered \Flagged \Seen $Label1) {1823+}
+ - 768 stalled for 17 secs in command: 9 APPEND "INBOX" (\Seen \Draft $Label3 $Label4 $Label5) {3199+}
+ - 717 stalled for 17 secs in command: 6 EXPUNGE
+ - 681 stalled for 20 secs in command: 9 APPEND "INBOX" {2116+}
+ - 725 stalled for 20 secs in command: 2 STATUS "INBOX" (MESSAGES UNSEEN RECENT)
+ - 732 stalled for 18 secs in command: 7 APPEND "INBOX" {1624+}
+ - 769 stalled for 19 secs in command: 8 STORE 3 FLAGS (\Answered \Flagged \Draft $Label1)
+ - 762 stalled for 19 secs in command: 5 FETCH 1:2 (BODY)
+ - 789 stalled for 17 secs in command: 2 LIST "" *
+ - 672 stalled for 20 secs in command: 6 EXPUNGE
+ - 810 stalled for 17 secs in command: 3 FETCH 1:3 (BODYSTRUCTURE RFC822.SIZE)
+ - 772 stalled for 17 secs in command: 7 STORE 2:3 FLAGS ()
+ - 788 stalled for 16 secs in command: 3 FETCH 1:2 (BODY ENVELOPE RFC822.SIZE)
+ - 737 stalled for 17 secs in command: 7 EXPUNGE
+ - 703 stalled for 17 secs in command: 8 EXPUNGE
+ - 770 stalled for 19 secs in command: 9 EXPUNGE
+ - 738 stalled for 19 secs in command: 5 FETCH 2:3 (BODY.PEEK[HEADER.FIELDS (Message-ID)] ENVELOPE)
+ - 786 stalled for 17 secs in command: 8 APPEND "INBOX" (\Answered \Seen \Draft $Label4) "21-May-2003 07:43:28 +0200" {2784+}
+ - 783 stalled for 17 secs in command: 2 STATUS "INBOX" (MESSAGES UNSEEN RECENT)
+ - 746 stalled for 17 secs in command: 7 APPEND "INBOX" (\Answered \Flagged \Seen \Draft $Label5) "18-May-2003 20:11:19 +0200" {2163+}
+ - 728 stalled for 19 secs in command: 8 EXPUNGE
+ - 739 stalled for 16 secs in command: 8 EXPUNGE
+ - 708 stalled for 19 secs in command: 4 FETCH 1:3 (BODY ENVELOPE BODY.PEEK[HEADER.FIELDS (Cc References To)] BODY.PEEK[HEADER.FIELDS (Message-ID Message-ID)])
+ - 766 stalled for 17 secs in command: 9 APPEND "INBOX" (\Flagged $Label2) "20-May-2003 21:27:36 +0200" {3189+}
+ - 790 stalled for 17 secs in command: 2 SELECT "INBOX" (CONDSTORE)
+   0    0    0    0    0    0    0    0    0    0    0  94/ 94
+ - 785 stalled for 18 secs in command: 4 FETCH 1 (UID FLAGS BODY.PEEK[HEADER.FIELDS (Delivered-To From From)])
+ - 793 stalled for 18 secs in command: 2 LIST "" *
+ - 700 stalled for 17 secs in command: 4 FETCH 1 (BODY BODY.PEEK[HEADER.FIELDS (Cc References In-Reply-To Delivered-To)] BODY ENVELOPE)
+ - 597 stalled for 21 secs in command: 7 EXPUNGE
+ - 778 stalled for 17 secs in command: 9 EXPUNGE
+ - 792 stalled for 18 secs in command: 2 LIST "" *
+ - 802 stalled for 17 secs in command: 2 LIST "" *
+ - 774 stalled for 17 secs in command: 8 APPEND "INBOX" (\Flagged \Draft $Label4) "17-May-2003 09:30:53 +0200" {3203+}
+ - 755 stalled for 18 secs in command: 4 FETCH 1 (ENVELOPE BODYSTRUCTURE ENVELOPE)
+ - 643 stalled for 23 secs in command: 8 EXPUNGE
+ - 777 stalled for 19 secs in command: 2 STATUS "INBOX" (MESSAGES UNSEEN RECENT)
+ - 787 stalled for 18 secs in command: 2 LIST "" *
+ - 684 stalled for 21 secs in command: 8 EXPUNGE
+ - 796 stalled for 18 secs in command: 4 FETCH 1 (ENVELOPE BODYSTRUCTURE)
+ - 756 stalled for 18 secs in command: 7 EXPUNGE
+ - 714 stalled for 18 secs in command: 8 APPEND "INBOX" "07-May-2003 13:11:33 +0200" {1554+}
+ - 749 stalled for 18 secs in command: 4 FETCH 1:3 (INTERNALDATE ENVELOPE FLAGS)
+ - 758 stalled for 17 secs in command: 6 EXPUNGE
+ - 676 stalled for 21 secs in command: 8 EXPUNGE
+ - 767 stalled for 18 secs in command: 8 APPEND "INBOX" (\Flagged \Seen $Label4) {3570+}
+ - 754 stalled for 18 secs in command: 9 APPEND "INBOX" (\Seen \Draft $Label3 $Label4) "19-May-2003 16:54:35 +0200" {3135+}
+ - 730 stalled for 18 secs in command: 5 FETCH 1,3 (INTERNALDATE RFC822.SIZE FLAGS)
+ - 689 stalled for 20 secs in command: 8 EXPUNGE
+ - 784 stalled for 18 secs in command: 4 FETCH 1 (BODY RFC822.SIZE FLAGS)
+ - 710 stalled for 19 secs in command: 8 APPEND "INBOX" {1926+}
+ - 606 stalled for 23 secs in command: 7 EXPUNGE
+ - 753 stalled for 19 secs in command: 8 APPEND "INBOX" {2512+}
+ - 748 stalled for 18 secs in command: 4 FETCH 1:2 (INTERNALDATE BODY.PEEK[HEADER.FIELDS (Subject Delivered-To In-Reply-To In-Reply-To)] INTERNALDATE)
+ - 763 stalled for 20 secs in command: 5 FETCH 1 (INTERNALDATE BODY)
+ - 800 stalled for 17 secs in command: 2 STATUS "INBOX" (MESSAGES UNSEEN RECENT)
+ - 718 stalled for 18 secs in command: 8 APPEND "INBOX" "20-May-2003 04:12:23 +0200" {2707+}
+ - 623 stalled for 20 secs in command: 9 APPEND "INBOX" (\Answered \Seen \Draft $Label1) {1810+}
+ - 765 stalled for 18 secs in command: 8 APPEND "INBOX" "16-May-2003 13:52:24 +0200" {2770+}
+ - 794 stalled for 18 secs in command: 2 LIST "" *
+ - 801 stalled for 18 secs in command: 2 LIST "" *
+ - 733 stalled for 20 secs in command: 8 EXPUNGE
+ - 744 stalled for 21 secs in command: 7 STORE 3 +FLAGS.SILENT \Deleted
+ - 764 stalled for 20 secs in command: 2 STATUS "INBOX" (MESSAGES UNSEEN RECENT)
+ - 776 stalled for 18 secs in command: 8 APPEND "INBOX" (\Answered $Label3 $Label4) {3043+}
+ - 773 stalled for 20 secs in command: 4 APPEND "INBOX" "16-May-2003 20:19:12 +0200" {7834+}
+ - 771 stalled for 20 secs in command: 2 SELECT "INBOX" (CONDSTORE)
+ - 814 stalled for 18 secs in command: 2 STATUS "INBOX" (MESSAGES UNSEEN RECENT)
+ - 747 stalled for 18 secs in command: 8 EXPUNGE
+ - 734 stalled for 21 secs in command: 3 FETCH 1:2,4 (BODY.PEEK[HEADER.FIELDS (Subject Delivered-To)] RFC822.SIZE)
+ - 715 stalled for 20 secs in command: 4 FETCH 1 (UID FLAGS ENVELOPE BODYSTRUCTURE)
+ - 742 stalled for 19 secs in command: 7 EXPUNGE
+ - 706 stalled for 20 secs in command: 8 EXPUNGE
+ - 607 stalled for 19 secs in command: 8 EXPUNGE
+ - 775 stalled for 18 secs in command: 4 FETCH 1:2 (FLAGS BODY.PEEK[HEADER.FIELDS (References)] BODY.PEEK[HEADER.FIELDS (From Subject In-Reply-To)])
+ - 799 stalled for 17 secs in command: 2 STATUS "INBOX" (MESSAGES UNSEEN RECENT)
+ - 791 stalled for 18 secs in command: 2 LIST "" *
+ - 686 stalled for 21 secs in command: 7 EXPUNGE
+ - 729 stalled for 21 secs in command: 8 STORE 1 +FLAGS (\Answered $Label3)
+ - 795 stalled for 17 secs in command: 2 SELECT "INBOX" (CONDSTORE)
+ - 759 stalled for 18 secs in command: 3 FETCH 1:2 (INTERNALDATE BODY.PEEK[HEADER.FIELDS (Cc Cc)])
+ - 726 stalled for 17 secs in command: 3 FETCH 2,4:5 (ENVELOPE ENVELOPE BODY.PEEK[HEADER.FIELDS (In-Reply-To Subject To)] BODY.PEEK[HEADER.FIELDS (From)])
+ - 798 stalled for 17 secs in command: 2 STATUS "INBOX" (MESSAGES UNSEEN RECENT)
+ - 760 stalled for 20 secs in command: 9 EXPUNGE
+ - 720 stalled for 18 secs in command: 8 EXPUNGE
+ - 780 stalled for 19 secs in command: 2 SELECT "INBOX" (CONDSTORE)
+ - 743 stalled for 17 secs in command: 5 FETCH 1:2 (BODYSTRUCTURE RFC822.SIZE BODYSTRUCTURE BODY.PEEK[HEADER.FIELDS (References Cc In-Reply-To To)])
+ - 698 stalled for 20 secs in command: 4 FETCH 1:2 (BODY)
+ - 751 stalled for 18 secs in command: 7 EXPUNGE
+ - 757 stalled for 18 secs in command: 4 FETCH 1,3 (BODY FLAGS RFC822.SIZE BODY.PEEK[HEADER.FIELDS (In-Reply-To In-Reply-To In-Reply-To)])
+ - 781 stalled for 18 secs in command: 5 FETCH 2,4:5 (BODYSTRUCTURE ENVELOPE)
+ - 719 stalled for 18 secs in command: 7 EXPUNGE
+ - 716 stalled for 21 secs in command: 2 LIST "" *
+ - 740 stalled for 18 secs in command: 8 APPEND "INBOX" {3723+}
+ - 722 stalled for 18 secs in command: 8 APPEND "INBOX" (\Answered \Flagged \Seen $Label1) {1823+}
+ - 768 stalled for 18 secs in command: 9 APPEND "INBOX" (\Seen \Draft $Label3 $Label4 $Label5) {3199+}
+ - 717 stalled for 18 secs in command: 6 EXPUNGE
+ - 681 stalled for 21 secs in command: 9 APPEND "INBOX" {2116+}
+ - 725 stalled for 21 secs in command: 2 STATUS "INBOX" (MESSAGES UNSEEN RECENT)
+ - 732 stalled for 19 secs in command: 7 APPEND "INBOX" {1624+}
+ - 769 stalled for 20 secs in command: 8 STORE 3 FLAGS (\Answered \Flagged \Draft $Label1)
+ - 762 stalled for 20 secs in command: 5 FETCH 1:2 (BODY)
+ - 789 stalled for 18 secs in command: 2 LIST "" *
+ - 672 stalled for 21 secs in command: 6 EXPUNGE
+ - 810 stalled for 18 secs in command: 3 FETCH 1:3 (BODYSTRUCTURE RFC822.SIZE)
+ - 772 stalled for 18 secs in command: 7 STORE 2:3 FLAGS ()
+ - 788 stalled for 17 secs in command: 3 FETCH 1:2 (BODY ENVELOPE RFC822.SIZE)
+ - 737 stalled for 18 secs in command: 7 EXPUNGE
+ - 703 stalled for 18 secs in command: 8 EXPUNGE
+ - 770 stalled for 20 secs in command: 9 EXPUNGE
+ - 738 stalled for 20 secs in command: 5 FETCH 2:3 (BODY.PEEK[HEADER.FIELDS (Message-ID)] ENVELOPE)
+ - 786 stalled for 18 secs in command: 8 APPEND "INBOX" (\Answered \Seen \Draft $Label4) "21-May-2003 07:43:28 +0200" {2784+}
+ - 783 stalled for 18 secs in command: 2 STATUS "INBOX" (MESSAGES UNSEEN RECENT)
+ - 746 stalled for 18 secs in command: 7 APPEND "INBOX" (\Answered \Flagged \Seen \Draft $Label5) "18-May-2003 20:11:19 +0200" {2163+}
+ - 728 stalled for 20 secs in command: 8 EXPUNGE
+ - 739 stalled for 17 secs in command: 8 EXPUNGE
+ - 708 stalled for 20 secs in command: 4 FETCH 1:3 (BODY ENVELOPE BODY.PEEK[HEADER.FIELDS (Cc References To)] BODY.PEEK[HEADER.FIELDS (Message-ID Message-ID)])
+ - 766 stalled for 18 secs in command: 9 APPEND "INBOX" (\Flagged $Label2) "20-May-2003 21:27:36 +0200" {3189+}
+ - 790 stalled for 18 secs in command: 2 SELECT "INBOX" (CONDSTORE)
+   0    0    0    1    7    8    2    5   14   17   36  76/ 76
+ - 785 stalled for 19 secs in command: 4 FETCH 1 (UID FLAGS BODY.PEEK[HEADER.FIELDS (Delivered-To From From)])
+ - 793 stalled for 19 secs in command: 2 LIST "" *
+ - 700 stalled for 18 secs in command: 4 FETCH 1 (BODY BODY.PEEK[HEADER.FIELDS (Cc References In-Reply-To Delivered-To)] BODY ENVELOPE)
+ - 597 stalled for 22 secs in command: 7 EXPUNGE
+ - 778 stalled for 18 secs in command: 9 EXPUNGE
+ - 792 stalled for 19 secs in command: 2 LIST "" *
+ - 802 stalled for 18 secs in command: 2 LIST "" *
+ - 774 stalled for 18 secs in command: 8 APPEND "INBOX" (\Flagged \Draft $Label4) "17-May-2003 09:30:53 +0200" {3203+}
+ - 643 stalled for 24 secs in command: 8 EXPUNGE
+ - 777 stalled for 20 secs in command: 2 STATUS "INBOX" (MESSAGES UNSEEN RECENT)
+ - 787 stalled for 19 secs in command: 2 LIST "" *
+ - 796 stalled for 19 secs in command: 4 FETCH 1 (ENVELOPE BODYSTRUCTURE)
+ - 756 stalled for 19 secs in command: 7 EXPUNGE
+ - 714 stalled for 19 secs in command: 8 APPEND "INBOX" "07-May-2003 13:11:33 +0200" {1554+}
+ - 749 stalled for 19 secs in command: 4 FETCH 1:3 (INTERNALDATE ENVELOPE FLAGS)
+ - 758 stalled for 18 secs in command: 6 EXPUNGE
+ - 676 stalled for 22 secs in command: 8 EXPUNGE
+ - 767 stalled for 19 secs in command: 8 APPEND "INBOX" (\Flagged \Seen $Label4) {3570+}
+ - 754 stalled for 19 secs in command: 9 APPEND "INBOX" (\Seen \Draft $Label3 $Label4) "19-May-2003 16:54:35 +0200" {3135+}
+ - 730 stalled for 19 secs in command: 5 FETCH 1,3 (INTERNALDATE RFC822.SIZE FLAGS)
+ - 710 stalled for 20 secs in command: 8 APPEND "INBOX" {1926+}
+ - 606 stalled for 24 secs in command: 7 EXPUNGE
+ - 748 stalled for 19 secs in command: 4 FETCH 1:2 (INTERNALDATE BODY.PEEK[HEADER.FIELDS (Subject Delivered-To In-Reply-To In-Reply-To)] INTERNALDATE)
+ - 800 stalled for 18 secs in command: 2 STATUS "INBOX" (MESSAGES UNSEEN RECENT)
+ - 718 stalled for 19 secs in command: 8 APPEND "INBOX" "20-May-2003 04:12:23 +0200" {2707+}
+ - 765 stalled for 19 secs in command: 8 APPEND "INBOX" "16-May-2003 13:52:24 +0200" {2770+}
+ - 794 stalled for 19 secs in command: 2 LIST "" *
+ - 801 stalled for 19 secs in command: 2 LIST "" *
+ - 733 stalled for 21 secs in command: 8 EXPUNGE
+ - 764 stalled for 21 secs in command: 2 STATUS "INBOX" (MESSAGES UNSEEN RECENT)
+ - 776 stalled for 19 secs in command: 8 APPEND "INBOX" (\Answered $Label3 $Label4) {3043+}
+ - 773 stalled for 21 secs in command: 4 APPEND "INBOX" "16-May-2003 20:19:12 +0200" {7834+}
+ - 771 stalled for 21 secs in command: 2 SELECT "INBOX" (CONDSTORE)
+ - 814 stalled for 19 secs in command: 2 STATUS "INBOX" (MESSAGES UNSEEN RECENT)
+ - 747 stalled for 19 secs in command: 8 EXPUNGE
+ - 706 stalled for 21 secs in command: 8 EXPUNGE
+ - 607 stalled for 20 secs in command: 8 EXPUNGE
+ - 775 stalled for 19 secs in command: 4 FETCH 1:2 (FLAGS BODY.PEEK[HEADER.FIELDS (References)] BODY.PEEK[HEADER.FIELDS (From Subject In-Reply-To)])
+ - 799 stalled for 18 secs in command: 2 STATUS "INBOX" (MESSAGES UNSEEN RECENT)
+ - 791 stalled for 19 secs in command: 2 LIST "" *
+ - 686 stalled for 22 secs in command: 7 EXPUNGE
+ - 795 stalled for 18 secs in command: 2 SELECT "INBOX" (CONDSTORE)
+ - 759 stalled for 19 secs in command: 3 FETCH 1:2 (INTERNALDATE BODY.PEEK[HEADER.FIELDS (Cc Cc)])
+ - 726 stalled for 18 secs in command: 3 FETCH 2,4:5 (ENVELOPE ENVELOPE BODY.PEEK[HEADER.FIELDS (In-Reply-To Subject To)] BODY.PEEK[HEADER.FIELDS (From)])
+ - 798 stalled for 18 secs in command: 2 STATUS "INBOX" (MESSAGES UNSEEN RECENT)
+ - 760 stalled for 21 secs in command: 9 EXPUNGE
+ - 720 stalled for 19 secs in command: 8 EXPUNGE
+ - 780 stalled for 20 secs in command: 2 SELECT "INBOX" (CONDSTORE)
+ - 743 stalled for 18 secs in command: 5 FETCH 1:2 (BODYSTRUCTURE RFC822.SIZE BODYSTRUCTURE BODY.PEEK[HEADER.FIELDS (References Cc In-Reply-To To)])
+ - 698 stalled for 21 secs in command: 4 FETCH 1:2 (BODY)
+ - 751 stalled for 19 secs in command: 7 EXPUNGE
+ - 757 stalled for 19 secs in command: 4 FETCH 1,3 (BODY FLAGS RFC822.SIZE BODY.PEEK[HEADER.FIELDS (In-Reply-To In-Reply-To In-Reply-To)])
+ - 781 stalled for 19 secs in command: 5 FETCH 2,4:5 (BODYSTRUCTURE ENVELOPE)
+ - 719 stalled for 19 secs in command: 7 EXPUNGE
+ - 716 stalled for 22 secs in command: 2 LIST "" *
+ - 740 stalled for 19 secs in command: 8 APPEND "INBOX" {3723+}
+ - 722 stalled for 19 secs in command: 8 APPEND "INBOX" (\Answered \Flagged \Seen $Label1) {1823+}
+ - 768 stalled for 19 secs in command: 9 APPEND "INBOX" (\Seen \Draft $Label3 $Label4 $Label5) {3199+}
+ - 717 stalled for 19 secs in command: 6 EXPUNGE
+ - 681 stalled for 22 secs in command: 9 APPEND "INBOX" {2116+}
+ - 725 stalled for 22 secs in command: 2 STATUS "INBOX" (MESSAGES UNSEEN RECENT)
+ - 789 stalled for 19 secs in command: 2 LIST "" *
+ - 810 stalled for 19 secs in command: 3 FETCH 1:3 (BODYSTRUCTURE RFC822.SIZE)
+ - 772 stalled for 19 secs in command: 7 STORE 2:3 FLAGS ()
+ - 788 stalled for 18 secs in command: 3 FETCH 1:2 (BODY ENVELOPE RFC822.SIZE)
+ - 737 stalled for 19 secs in command: 7 EXPUNGE
+ - 703 stalled for 19 secs in command: 8 EXPUNGE
+ - 786 stalled for 19 secs in command: 8 APPEND "INBOX" (\Answered \Seen \Draft $Label4) "21-May-2003 07:43:28 +0200" {2784+}
+ - 783 stalled for 19 secs in command: 2 STATUS "INBOX" (MESSAGES UNSEEN RECENT)
+ - 746 stalled for 19 secs in command: 7 APPEND "INBOX" (\Answered \Flagged \Seen \Draft $Label5) "18-May-2003 20:11:19 +0200" {2163+}
+ - 739 stalled for 18 secs in command: 8 EXPUNGE
+ - 708 stalled for 21 secs in command: 4 FETCH 1:3 (BODY ENVELOPE BODY.PEEK[HEADER.FIELDS (Cc References To)] BODY.PEEK[HEADER.FIELDS (Message-ID Message-ID)])
+ - 766 stalled for 19 secs in command: 9 APPEND "INBOX" (\Flagged $Label2) "20-May-2003 21:27:36 +0200" {3189+}
+   0    0    0    0    0    0    0    0    0    0    0  76/ 76
+ - 785 stalled for 20 secs in command: 4 FETCH 1 (UID FLAGS BODY.PEEK[HEADER.FIELDS (Delivered-To From From)])
+ - 793 stalled for 20 secs in command: 2 LIST "" *
+ - 700 stalled for 19 secs in command: 4 FETCH 1 (BODY BODY.PEEK[HEADER.FIELDS (Cc References In-Reply-To Delivered-To)] BODY ENVELOPE)
+ - 597 stalled for 23 secs in command: 7 EXPUNGE
+ - 778 stalled for 19 secs in command: 9 EXPUNGE
+ - 792 stalled for 20 secs in command: 2 LIST "" *
+ - 802 stalled for 19 secs in command: 2 LIST "" *
+ - 774 stalled for 19 secs in command: 8 APPEND "INBOX" (\Flagged \Draft $Label4) "17-May-2003 09:30:53 +0200" {3203+}
+ - 643 stalled for 25 secs in command: 8 EXPUNGE
+ - 777 stalled for 21 secs in command: 2 STATUS "INBOX" (MESSAGES UNSEEN RECENT)
+ - 787 stalled for 20 secs in command: 2 LIST "" *
+ - 796 stalled for 20 secs in command: 4 FETCH 1 (ENVELOPE BODYSTRUCTURE)
+ - 756 stalled for 20 secs in command: 7 EXPUNGE
+ - 714 stalled for 20 secs in command: 8 APPEND "INBOX" "07-May-2003 13:11:33 +0200" {1554+}
+ - 749 stalled for 20 secs in command: 4 FETCH 1:3 (INTERNALDATE ENVELOPE FLAGS)
+ - 758 stalled for 19 secs in command: 6 EXPUNGE
+ - 676 stalled for 23 secs in command: 8 EXPUNGE
+ - 767 stalled for 20 secs in command: 8 APPEND "INBOX" (\Flagged \Seen $Label4) {3570+}
+ - 754 stalled for 20 secs in command: 9 APPEND "INBOX" (\Seen \Draft $Label3 $Label4) "19-May-2003 16:54:35 +0200" {3135+}
+ - 730 stalled for 20 secs in command: 5 FETCH 1,3 (INTERNALDATE RFC822.SIZE FLAGS)
+ - 710 stalled for 21 secs in command: 8 APPEND "INBOX" {1926+}
+ - 606 stalled for 25 secs in command: 7 EXPUNGE
+ - 748 stalled for 20 secs in command: 4 FETCH 1:2 (INTERNALDATE BODY.PEEK[HEADER.FIELDS (Subject Delivered-To In-Reply-To In-Reply-To)] INTERNALDATE)
+ - 800 stalled for 19 secs in command: 2 STATUS "INBOX" (MESSAGES UNSEEN RECENT)
+ - 718 stalled for 20 secs in command: 8 APPEND "INBOX" "20-May-2003 04:12:23 +0200" {2707+}
+ - 765 stalled for 20 secs in command: 8 APPEND "INBOX" "16-May-2003 13:52:24 +0200" {2770+}
+ - 794 stalled for 20 secs in command: 2 LIST "" *
+ - 801 stalled for 20 secs in command: 2 LIST "" *
+ - 733 stalled for 22 secs in command: 8 EXPUNGE
+ - 764 stalled for 22 secs in command: 2 STATUS "INBOX" (MESSAGES UNSEEN RECENT)
+ - 776 stalled for 20 secs in command: 8 APPEND "INBOX" (\Answered $Label3 $Label4) {3043+}
+ - 773 stalled for 22 secs in command: 4 APPEND "INBOX" "16-May-2003 20:19:12 +0200" {7834+}
+ - 771 stalled for 22 secs in command: 2 SELECT "INBOX" (CONDSTORE)
+ - 814 stalled for 20 secs in command: 2 STATUS "INBOX" (MESSAGES UNSEEN RECENT)
+ - 747 stalled for 20 secs in command: 8 EXPUNGE
+ - 706 stalled for 22 secs in command: 8 EXPUNGE
+ - 607 stalled for 21 secs in command: 8 EXPUNGE
+ - 775 stalled for 20 secs in command: 4 FETCH 1:2 (FLAGS BODY.PEEK[HEADER.FIELDS (References)] BODY.PEEK[HEADER.FIELDS (From Subject In-Reply-To)])
+ - 799 stalled for 19 secs in command: 2 STATUS "INBOX" (MESSAGES UNSEEN RECENT)
+ - 791 stalled for 20 secs in command: 2 LIST "" *
+ - 686 stalled for 23 secs in command: 7 EXPUNGE
+ - 795 stalled for 19 secs in command: 2 SELECT "INBOX" (CONDSTORE)
+ - 759 stalled for 20 secs in command: 3 FETCH 1:2 (INTERNALDATE BODY.PEEK[HEADER.FIELDS (Cc Cc)])
+ - 726 stalled for 19 secs in command: 3 FETCH 2,4:5 (ENVELOPE ENVELOPE BODY.PEEK[HEADER.FIELDS (In-Reply-To Subject To)] BODY.PEEK[HEADER.FIELDS (From)])
+ - 782 stalled for 16 secs in command: 8 STORE 1,3 +FLAGS.SILENT \Deleted
+ - 798 stalled for 19 secs in command: 2 STATUS "INBOX" (MESSAGES UNSEEN RECENT)
+ - 760 stalled for 22 secs in command: 9 EXPUNGE
+ - 720 stalled for 20 secs in command: 8 EXPUNGE
+ - 780 stalled for 21 secs in command: 2 SELECT "INBOX" (CONDSTORE)
+ - 743 stalled for 19 secs in command: 5 FETCH 1:2 (BODYSTRUCTURE RFC822.SIZE BODYSTRUCTURE BODY.PEEK[HEADER.FIELDS (References Cc In-Reply-To To)])
+ - 698 stalled for 22 secs in command: 4 FETCH 1:2 (BODY)
+ - 751 stalled for 20 secs in command: 7 EXPUNGE
+ - 757 stalled for 20 secs in command: 4 FETCH 1,3 (BODY FLAGS RFC822.SIZE BODY.PEEK[HEADER.FIELDS (In-Reply-To In-Reply-To In-Reply-To)])
+ - 781 stalled for 20 secs in command: 5 FETCH 2,4:5 (BODYSTRUCTURE ENVELOPE)
+ - 719 stalled for 20 secs in command: 7 EXPUNGE
+ - 716 stalled for 23 secs in command: 2 LIST "" *
+ - 740 stalled for 20 secs in command: 8 APPEND "INBOX" {3723+}
+ - 722 stalled for 20 secs in command: 8 APPEND "INBOX" (\Answered \Flagged \Seen $Label1) {1823+}
+ - 768 stalled for 20 secs in command: 9 APPEND "INBOX" (\Seen \Draft $Label3 $Label4 $Label5) {3199+}
+ - 717 stalled for 20 secs in command: 6 EXPUNGE
+ - 681 stalled for 23 secs in command: 9 APPEND "INBOX" {2116+}
+ - 725 stalled for 23 secs in command: 2 STATUS "INBOX" (MESSAGES UNSEEN RECENT)
+ - 789 stalled for 20 secs in command: 2 LIST "" *
+ - 810 stalled for 20 secs in command: 3 FETCH 1:3 (BODYSTRUCTURE RFC822.SIZE)
+ - 772 stalled for 20 secs in command: 7 STORE 2:3 FLAGS ()
+ - 788 stalled for 19 secs in command: 3 FETCH 1:2 (BODY ENVELOPE RFC822.SIZE)
+ - 737 stalled for 20 secs in command: 7 EXPUNGE
+ - 703 stalled for 20 secs in command: 8 EXPUNGE
+ - 786 stalled for 20 secs in command: 8 APPEND "INBOX" (\Answered \Seen \Draft $Label4) "21-May-2003 07:43:28 +0200" {2784+}
+ - 783 stalled for 20 secs in command: 2 STATUS "INBOX" (MESSAGES UNSEEN RECENT)
+ - 746 stalled for 20 secs in command: 7 APPEND "INBOX" (\Answered \Flagged \Seen \Draft $Label5) "18-May-2003 20:11:19 +0200" {2163+}
+ - 739 stalled for 19 secs in command: 8 EXPUNGE
+ - 708 stalled for 22 secs in command: 4 FETCH 1:3 (BODY ENVELOPE BODY.PEEK[HEADER.FIELDS (Cc References To)] BODY.PEEK[HEADER.FIELDS (Message-ID Message-ID)])
+ - 766 stalled for 20 secs in command: 9 APPEND "INBOX" (\Flagged $Label2) "20-May-2003 21:27:36 +0200" {3189+}
+   0    2    2    5    3    4    0    3    3    2   14  69/ 69
+ - 793 stalled for 21 secs in command: 2 LIST "" *
+ - 597 stalled for 24 secs in command: 7 EXPUNGE
+ - 778 stalled for 20 secs in command: 9 EXPUNGE
+ - 792 stalled for 21 secs in command: 2 LIST "" *
+ - 802 stalled for 20 secs in command: 2 LIST "" *
+ - 774 stalled for 20 secs in command: 8 APPEND "INBOX" (\Flagged \Draft $Label4) "17-May-2003 09:30:53 +0200" {3203+}
+ - 643 stalled for 26 secs in command: 8 EXPUNGE
+ - 787 stalled for 21 secs in command: 2 LIST "" *
+ - 796 stalled for 21 secs in command: 4 FETCH 1 (ENVELOPE BODYSTRUCTURE)
+ - 756 stalled for 21 secs in command: 7 EXPUNGE
+ - 714 stalled for 21 secs in command: 8 APPEND "INBOX" "07-May-2003 13:11:33 +0200" {1554+}
+ - 749 stalled for 21 secs in command: 4 FETCH 1:3 (INTERNALDATE ENVELOPE FLAGS)
+ - 758 stalled for 20 secs in command: 6 EXPUNGE
+ - 676 stalled for 24 secs in command: 8 EXPUNGE
+ - 767 stalled for 21 secs in command: 8 APPEND "INBOX" (\Flagged \Seen $Label4) {3570+}
+ - 754 stalled for 21 secs in command: 9 APPEND "INBOX" (\Seen \Draft $Label3 $Label4) "19-May-2003 16:54:35 +0200" {3135+}
+ - 730 stalled for 21 secs in command: 5 FETCH 1,3 (INTERNALDATE RFC822.SIZE FLAGS)
+ - 710 stalled for 22 secs in command: 8 APPEND "INBOX" {1926+}
+ - 748 stalled for 21 secs in command: 4 FETCH 1:2 (INTERNALDATE BODY.PEEK[HEADER.FIELDS (Subject Delivered-To In-Reply-To In-Reply-To)] INTERNALDATE)
+ - 800 stalled for 20 secs in command: 2 STATUS "INBOX" (MESSAGES UNSEEN RECENT)
+ - 718 stalled for 21 secs in command: 8 APPEND "INBOX" "20-May-2003 04:12:23 +0200" {2707+}
+ - 765 stalled for 21 secs in command: 8 APPEND "INBOX" "16-May-2003 13:52:24 +0200" {2770+}
+ - 794 stalled for 21 secs in command: 2 LIST "" *
+ - 801 stalled for 21 secs in command: 2 LIST "" *
+ - 733 stalled for 23 secs in command: 8 EXPUNGE
+ - 764 stalled for 23 secs in command: 2 STATUS "INBOX" (MESSAGES UNSEEN RECENT)
+ - 776 stalled for 21 secs in command: 8 APPEND "INBOX" (\Answered $Label3 $Label4) {3043+}
+ - 773 stalled for 23 secs in command: 4 APPEND "INBOX" "16-May-2003 20:19:12 +0200" {7834+}
+ - 814 stalled for 21 secs in command: 2 STATUS "INBOX" (MESSAGES UNSEEN RECENT)
+ - 747 stalled for 21 secs in command: 8 EXPUNGE
+ - 706 stalled for 23 secs in command: 8 EXPUNGE
+ - 607 stalled for 22 secs in command: 8 EXPUNGE
+ - 775 stalled for 21 secs in command: 4 FETCH 1:2 (FLAGS BODY.PEEK[HEADER.FIELDS (References)] BODY.PEEK[HEADER.FIELDS (From Subject In-Reply-To)])
+ - 799 stalled for 20 secs in command: 2 STATUS "INBOX" (MESSAGES UNSEEN RECENT)
+ - 686 stalled for 24 secs in command: 7 EXPUNGE
+ - 726 stalled for 20 secs in command: 3 FETCH 2,4:5 (ENVELOPE ENVELOPE BODY.PEEK[HEADER.FIELDS (In-Reply-To Subject To)] BODY.PEEK[HEADER.FIELDS (From)])
+ - 782 stalled for 17 secs in command: 8 STORE 1,3 +FLAGS.SILENT \Deleted
+ - 798 stalled for 20 secs in command: 2 STATUS "INBOX" (MESSAGES UNSEEN RECENT)
+ - 760 stalled for 23 secs in command: 9 EXPUNGE
+ - 720 stalled for 21 secs in command: 8 EXPUNGE
+ - 780 stalled for 22 secs in command: 2 SELECT "INBOX" (CONDSTORE)
+ - 743 stalled for 20 secs in command: 5 FETCH 1:2 (BODYSTRUCTURE RFC822.SIZE BODYSTRUCTURE BODY.PEEK[HEADER.FIELDS (References Cc In-Reply-To To)])
+ - 698 stalled for 23 secs in command: 4 FETCH 1:2 (BODY)
+ - 751 stalled for 21 secs in command: 7 EXPUNGE
+ - 757 stalled for 21 secs in command: 4 FETCH 1,3 (BODY FLAGS RFC822.SIZE BODY.PEEK[HEADER.FIELDS (In-Reply-To In-Reply-To In-Reply-To)])
+ - 781 stalled for 21 secs in command: 5 FETCH 2,4:5 (BODYSTRUCTURE ENVELOPE)
+ - 719 stalled for 21 secs in command: 7 EXPUNGE
+ - 740 stalled for 21 secs in command: 8 APPEND "INBOX" {3723+}
+ - 722 stalled for 21 secs in command: 8 APPEND "INBOX" (\Answered \Flagged \Seen $Label1) {1823+}
+ - 768 stalled for 21 secs in command: 9 APPEND "INBOX" (\Seen \Draft $Label3 $Label4 $Label5) {3199+}
+ - 717 stalled for 21 secs in command: 6 EXPUNGE
+ - 725 stalled for 24 secs in command: 2 STATUS "INBOX" (MESSAGES UNSEEN RECENT)
+ - 789 stalled for 21 secs in command: 2 LIST "" *
+ - 810 stalled for 21 secs in command: 3 FETCH 1:3 (BODYSTRUCTURE RFC822.SIZE)
+ - 772 stalled for 21 secs in command: 7 STORE 2:3 FLAGS ()
+ - 788 stalled for 20 secs in command: 3 FETCH 1:2 (BODY ENVELOPE RFC822.SIZE)
+ - 737 stalled for 21 secs in command: 7 EXPUNGE
+ - 703 stalled for 21 secs in command: 8 EXPUNGE
+ - 786 stalled for 21 secs in command: 8 APPEND "INBOX" (\Answered \Seen \Draft $Label4) "21-May-2003 07:43:28 +0200" {2784+}
+ - 783 stalled for 21 secs in command: 2 STATUS "INBOX" (MESSAGES UNSEEN RECENT)
+ - 746 stalled for 21 secs in command: 7 APPEND "INBOX" (\Answered \Flagged \Seen \Draft $Label5) "18-May-2003 20:11:19 +0200" {2163+}
+ - 739 stalled for 20 secs in command: 8 EXPUNGE
+ - 708 stalled for 23 secs in command: 4 FETCH 1:3 (BODY ENVELOPE BODY.PEEK[HEADER.FIELDS (Cc References To)] BODY.PEEK[HEADER.FIELDS (Message-ID Message-ID)])
+ - 766 stalled for 21 secs in command: 9 APPEND "INBOX" (\Flagged $Label2) "20-May-2003 21:27:36 +0200" {3189+}
+Logi List Stat Sele Fetc Fet2 Stor Dele Expu Appe Logo 
+100%  50%  50% 100% 100% 100%  50% 100% 100% 100% 100% 
+                          30%                  5%      
+   0    1    0    2    0    0    0    0    1    1    6  66/ 66
+ - 793 stalled for 22 secs in command: 2 LIST "" *
+ - 597 stalled for 25 secs in command: 7 EXPUNGE
+ - 778 stalled for 21 secs in command: 9 EXPUNGE
+ - 802 stalled for 21 secs in command: 2 LIST "" *
+ - 774 stalled for 21 secs in command: 8 APPEND "INBOX" (\Flagged \Draft $Label4) "17-May-2003 09:30:53 +0200" {3203+}
+ - 643 stalled for 27 secs in command: 8 EXPUNGE
+ - 787 stalled for 22 secs in command: 2 LIST "" *
+ - 796 stalled for 22 secs in command: 4 FETCH 1 (ENVELOPE BODYSTRUCTURE)
+ - 756 stalled for 22 secs in command: 7 EXPUNGE
+ - 714 stalled for 22 secs in command: 8 APPEND "INBOX" "07-May-2003 13:11:33 +0200" {1554+}
+ - 749 stalled for 22 secs in command: 4 FETCH 1:3 (INTERNALDATE ENVELOPE FLAGS)
+ - 758 stalled for 21 secs in command: 6 EXPUNGE
+ - 676 stalled for 25 secs in command: 8 EXPUNGE
+ - 767 stalled for 22 secs in command: 8 APPEND "INBOX" (\Flagged \Seen $Label4) {3570+}
+ - 754 stalled for 22 secs in command: 9 APPEND "INBOX" (\Seen \Draft $Label3 $Label4) "19-May-2003 16:54:35 +0200" {3135+}
+ - 730 stalled for 22 secs in command: 5 FETCH 1,3 (INTERNALDATE RFC822.SIZE FLAGS)
+ - 710 stalled for 23 secs in command: 8 APPEND "INBOX" {1926+}
+ - 748 stalled for 22 secs in command: 4 FETCH 1:2 (INTERNALDATE BODY.PEEK[HEADER.FIELDS (Subject Delivered-To In-Reply-To In-Reply-To)] INTERNALDATE)
+ - 800 stalled for 21 secs in command: 2 STATUS "INBOX" (MESSAGES UNSEEN RECENT)
+ - 718 stalled for 22 secs in command: 8 APPEND "INBOX" "20-May-2003 04:12:23 +0200" {2707+}
+ - 765 stalled for 22 secs in command: 8 APPEND "INBOX" "16-May-2003 13:52:24 +0200" {2770+}
+ - 794 stalled for 22 secs in command: 2 LIST "" *
+ - 801 stalled for 22 secs in command: 2 LIST "" *
+ - 733 stalled for 24 secs in command: 8 EXPUNGE
+ - 764 stalled for 24 secs in command: 2 STATUS "INBOX" (MESSAGES UNSEEN RECENT)
+ - 776 stalled for 22 secs in command: 8 APPEND "INBOX" (\Answered $Label3 $Label4) {3043+}
+ - 773 stalled for 24 secs in command: 4 APPEND "INBOX" "16-May-2003 20:19:12 +0200" {7834+}
+ - 814 stalled for 22 secs in command: 2 STATUS "INBOX" (MESSAGES UNSEEN RECENT)
+ - 747 stalled for 22 secs in command: 8 EXPUNGE
+ - 607 stalled for 23 secs in command: 8 EXPUNGE
+ - 775 stalled for 22 secs in command: 4 FETCH 1:2 (FLAGS BODY.PEEK[HEADER.FIELDS (References)] BODY.PEEK[HEADER.FIELDS (From Subject In-Reply-To)])
+ - 799 stalled for 21 secs in command: 2 STATUS "INBOX" (MESSAGES UNSEEN RECENT)
+ - 686 stalled for 25 secs in command: 7 EXPUNGE
+ - 726 stalled for 21 secs in command: 3 FETCH 2,4:5 (ENVELOPE ENVELOPE BODY.PEEK[HEADER.FIELDS (In-Reply-To Subject To)] BODY.PEEK[HEADER.FIELDS (From)])
+ - 782 stalled for 18 secs in command: 8 STORE 1,3 +FLAGS.SILENT \Deleted
+ - 798 stalled for 21 secs in command: 2 STATUS "INBOX" (MESSAGES UNSEEN RECENT)
+ - 760 stalled for 24 secs in command: 9 EXPUNGE
+ - 720 stalled for 22 secs in command: 8 EXPUNGE
+ - 743 stalled for 21 secs in command: 5 FETCH 1:2 (BODYSTRUCTURE RFC822.SIZE BODYSTRUCTURE BODY.PEEK[HEADER.FIELDS (References Cc In-Reply-To To)])
+ - 698 stalled for 24 secs in command: 4 FETCH 1:2 (BODY)
+ - 751 stalled for 22 secs in command: 7 EXPUNGE
+ - 757 stalled for 22 secs in command: 4 FETCH 1,3 (BODY FLAGS RFC822.SIZE BODY.PEEK[HEADER.FIELDS (In-Reply-To In-Reply-To In-Reply-To)])
+ - 781 stalled for 22 secs in command: 5 FETCH 2,4:5 (BODYSTRUCTURE ENVELOPE)
+ - 719 stalled for 22 secs in command: 7 EXPUNGE
+ - 740 stalled for 22 secs in command: 8 APPEND "INBOX" {3723+}
+ - 722 stalled for 22 secs in command: 8 APPEND "INBOX" (\Answered \Flagged \Seen $Label1) {1823+}
+ - 768 stalled for 22 secs in command: 9 APPEND "INBOX" (\Seen \Draft $Label3 $Label4 $Label5) {3199+}
+ - 717 stalled for 22 secs in command: 6 EXPUNGE
+ - 725 stalled for 25 secs in command: 2 STATUS "INBOX" (MESSAGES UNSEEN RECENT)
+ - 789 stalled for 22 secs in command: 2 LIST "" *
+ - 810 stalled for 22 secs in command: 3 FETCH 1:3 (BODYSTRUCTURE RFC822.SIZE)
+ - 772 stalled for 22 secs in command: 7 STORE 2:3 FLAGS ()
+ - 788 stalled for 21 secs in command: 3 FETCH 1:2 (BODY ENVELOPE RFC822.SIZE)
+ - 737 stalled for 22 secs in command: 7 EXPUNGE
+ - 703 stalled for 22 secs in command: 8 EXPUNGE
+ - 786 stalled for 22 secs in command: 8 APPEND "INBOX" (\Answered \Seen \Draft $Label4) "21-May-2003 07:43:28 +0200" {2784+}
+ - 783 stalled for 22 secs in command: 2 STATUS "INBOX" (MESSAGES UNSEEN RECENT)
+ - 746 stalled for 22 secs in command: 7 APPEND "INBOX" (\Answered \Flagged \Seen \Draft $Label5) "18-May-2003 20:11:19 +0200" {2163+}
+ - 739 stalled for 21 secs in command: 8 EXPUNGE
+ - 708 stalled for 24 secs in command: 4 FETCH 1:3 (BODY ENVELOPE BODY.PEEK[HEADER.FIELDS (Cc References To)] BODY.PEEK[HEADER.FIELDS (Message-ID Message-ID)])
+ - 766 stalled for 22 secs in command: 9 APPEND "INBOX" (\Flagged $Label2) "20-May-2003 21:27:36 +0200" {3189+}
+   0    0    3    3    0    0    0    0    0    0    6  63/ 63
+ - 793 stalled for 23 secs in command: 2 LIST "" *
+ - 597 stalled for 26 secs in command: 7 EXPUNGE
+ - 778 stalled for 22 secs in command: 9 EXPUNGE
+ - 802 stalled for 22 secs in command: 2 LIST "" *
+ - 774 stalled for 22 secs in command: 8 APPEND "INBOX" (\Flagged \Draft $Label4) "17-May-2003 09:30:53 +0200" {3203+}
+ - 643 stalled for 28 secs in command: 8 EXPUNGE
+ - 787 stalled for 23 secs in command: 2 LIST "" *
+ - 796 stalled for 23 secs in command: 4 FETCH 1 (ENVELOPE BODYSTRUCTURE)
+ - 756 stalled for 23 secs in command: 7 EXPUNGE
+ - 714 stalled for 23 secs in command: 8 APPEND "INBOX" "07-May-2003 13:11:33 +0200" {1554+}
+ - 749 stalled for 23 secs in command: 4 FETCH 1:3 (INTERNALDATE ENVELOPE FLAGS)
+ - 758 stalled for 22 secs in command: 6 EXPUNGE
+ - 676 stalled for 26 secs in command: 8 EXPUNGE
+ - 767 stalled for 23 secs in command: 8 APPEND "INBOX" (\Flagged \Seen $Label4) {3570+}
+ - 754 stalled for 23 secs in command: 9 APPEND "INBOX" (\Seen \Draft $Label3 $Label4) "19-May-2003 16:54:35 +0200" {3135+}
+ - 730 stalled for 23 secs in command: 5 FETCH 1,3 (INTERNALDATE RFC822.SIZE FLAGS)
+ - 710 stalled for 24 secs in command: 8 APPEND "INBOX" {1926+}
+ - 748 stalled for 23 secs in command: 4 FETCH 1:2 (INTERNALDATE BODY.PEEK[HEADER.FIELDS (Subject Delivered-To In-Reply-To In-Reply-To)] INTERNALDATE)
+ - 800 stalled for 22 secs in command: 2 STATUS "INBOX" (MESSAGES UNSEEN RECENT)
+ - 718 stalled for 23 secs in command: 8 APPEND "INBOX" "20-May-2003 04:12:23 +0200" {2707+}
+ - 765 stalled for 23 secs in command: 8 APPEND "INBOX" "16-May-2003 13:52:24 +0200" {2770+}
+ - 794 stalled for 23 secs in command: 2 LIST "" *
+ - 801 stalled for 23 secs in command: 2 LIST "" *
+ - 733 stalled for 25 secs in command: 8 EXPUNGE
+ - 776 stalled for 23 secs in command: 8 APPEND "INBOX" (\Answered $Label3 $Label4) {3043+}
+ - 773 stalled for 25 secs in command: 4 APPEND "INBOX" "16-May-2003 20:19:12 +0200" {7834+}
+ - 814 stalled for 23 secs in command: 2 STATUS "INBOX" (MESSAGES UNSEEN RECENT)
+ - 747 stalled for 23 secs in command: 8 EXPUNGE
+ - 607 stalled for 24 secs in command: 8 EXPUNGE
+ - 775 stalled for 23 secs in command: 4 FETCH 1:2 (FLAGS BODY.PEEK[HEADER.FIELDS (References)] BODY.PEEK[HEADER.FIELDS (From Subject In-Reply-To)])
+ - 799 stalled for 22 secs in command: 2 STATUS "INBOX" (MESSAGES UNSEEN RECENT)
+ - 686 stalled for 26 secs in command: 7 EXPUNGE
+ - 726 stalled for 22 secs in command: 3 FETCH 2,4:5 (ENVELOPE ENVELOPE BODY.PEEK[HEADER.FIELDS (In-Reply-To Subject To)] BODY.PEEK[HEADER.FIELDS (From)])
+ - 782 stalled for 19 secs in command: 8 STORE 1,3 +FLAGS.SILENT \Deleted
+ - 798 stalled for 22 secs in command: 2 STATUS "INBOX" (MESSAGES UNSEEN RECENT)
+ - 760 stalled for 25 secs in command: 9 EXPUNGE
+ - 720 stalled for 23 secs in command: 8 EXPUNGE
+ - 743 stalled for 22 secs in command: 5 FETCH 1:2 (BODYSTRUCTURE RFC822.SIZE BODYSTRUCTURE BODY.PEEK[HEADER.FIELDS (References Cc In-Reply-To To)])
+ - 698 stalled for 25 secs in command: 4 FETCH 1:2 (BODY)
+ - 751 stalled for 23 secs in command: 7 EXPUNGE
+ - 757 stalled for 23 secs in command: 4 FETCH 1,3 (BODY FLAGS RFC822.SIZE BODY.PEEK[HEADER.FIELDS (In-Reply-To In-Reply-To In-Reply-To)])
+ - 781 stalled for 23 secs in command: 5 FETCH 2,4:5 (BODYSTRUCTURE ENVELOPE)
+ - 719 stalled for 23 secs in command: 7 EXPUNGE
+ - 740 stalled for 23 secs in command: 8 APPEND "INBOX" {3723+}
+ - 722 stalled for 23 secs in command: 8 APPEND "INBOX" (\Answered \Flagged \Seen $Label1) {1823+}
+ - 768 stalled for 23 secs in command: 9 APPEND "INBOX" (\Seen \Draft $Label3 $Label4 $Label5) {3199+}
+ - 717 stalled for 23 secs in command: 6 EXPUNGE
+ - 789 stalled for 23 secs in command: 2 LIST "" *
+ - 810 stalled for 23 secs in command: 3 FETCH 1:3 (BODYSTRUCTURE RFC822.SIZE)
+ - 772 stalled for 23 secs in command: 7 STORE 2:3 FLAGS ()
+ - 788 stalled for 22 secs in command: 3 FETCH 1:2 (BODY ENVELOPE RFC822.SIZE)
+ - 737 stalled for 23 secs in command: 7 EXPUNGE
+ - 703 stalled for 23 secs in command: 8 EXPUNGE
+ - 786 stalled for 23 secs in command: 8 APPEND "INBOX" (\Answered \Seen \Draft $Label4) "21-May-2003 07:43:28 +0200" {2784+}
+ - 746 stalled for 23 secs in command: 7 APPEND "INBOX" (\Answered \Flagged \Seen \Draft $Label5) "18-May-2003 20:11:19 +0200" {2163+}
+ - 739 stalled for 22 secs in command: 8 EXPUNGE
+ - 708 stalled for 25 secs in command: 4 FETCH 1:3 (BODY ENVELOPE BODY.PEEK[HEADER.FIELDS (Cc References To)] BODY.PEEK[HEADER.FIELDS (Message-ID Message-ID)])
+ - 766 stalled for 23 secs in command: 9 APPEND "INBOX" (\Flagged $Label2) "20-May-2003 21:27:36 +0200" {3189+}
+   0    0    0    0    0    0    0    0    0    0    0  63/ 63
+ - 793 stalled for 24 secs in command: 2 LIST "" *
+ - 597 stalled for 27 secs in command: 7 EXPUNGE
+ - 778 stalled for 23 secs in command: 9 EXPUNGE
+ - 802 stalled for 23 secs in command: 2 LIST "" *
+ - 774 stalled for 23 secs in command: 8 APPEND "INBOX" (\Flagged \Draft $Label4) "17-May-2003 09:30:53 +0200" {3203+}
+ - 643 stalled for 29 secs in command: 8 EXPUNGE
+ - 787 stalled for 24 secs in command: 2 LIST "" *
+ - 796 stalled for 24 secs in command: 4 FETCH 1 (ENVELOPE BODYSTRUCTURE)
+ - 756 stalled for 24 secs in command: 7 EXPUNGE
+ - 714 stalled for 24 secs in command: 8 APPEND "INBOX" "07-May-2003 13:11:33 +0200" {1554+}
+ - 749 stalled for 24 secs in command: 4 FETCH 1:3 (INTERNALDATE ENVELOPE FLAGS)
+ - 758 stalled for 23 secs in command: 6 EXPUNGE
+ - 676 stalled for 27 secs in command: 8 EXPUNGE
+ - 767 stalled for 24 secs in command: 8 APPEND "INBOX" (\Flagged \Seen $Label4) {3570+}
+ - 754 stalled for 24 secs in command: 9 APPEND "INBOX" (\Seen \Draft $Label3 $Label4) "19-May-2003 16:54:35 +0200" {3135+}
+ - 730 stalled for 24 secs in command: 5 FETCH 1,3 (INTERNALDATE RFC822.SIZE FLAGS)
+ - 710 stalled for 25 secs in command: 8 APPEND "INBOX" {1926+}
+ - 748 stalled for 24 secs in command: 4 FETCH 1:2 (INTERNALDATE BODY.PEEK[HEADER.FIELDS (Subject Delivered-To In-Reply-To In-Reply-To)] INTERNALDATE)
+ - 800 stalled for 23 secs in command: 2 STATUS "INBOX" (MESSAGES UNSEEN RECENT)
+ - 718 stalled for 24 secs in command: 8 APPEND "INBOX" "20-May-2003 04:12:23 +0200" {2707+}
+ - 765 stalled for 24 secs in command: 8 APPEND "INBOX" "16-May-2003 13:52:24 +0200" {2770+}
+ - 794 stalled for 24 secs in command: 2 LIST "" *
+ - 801 stalled for 24 secs in command: 2 LIST "" *
+ - 733 stalled for 26 secs in command: 8 EXPUNGE
+ - 776 stalled for 24 secs in command: 8 APPEND "INBOX" (\Answered $Label3 $Label4) {3043+}
+ - 773 stalled for 26 secs in command: 4 APPEND "INBOX" "16-May-2003 20:19:12 +0200" {7834+}
+ - 814 stalled for 24 secs in command: 2 STATUS "INBOX" (MESSAGES UNSEEN RECENT)
+ - 747 stalled for 24 secs in command: 8 EXPUNGE
+ - 607 stalled for 25 secs in command: 8 EXPUNGE
+ - 775 stalled for 24 secs in command: 4 FETCH 1:2 (FLAGS BODY.PEEK[HEADER.FIELDS (References)] BODY.PEEK[HEADER.FIELDS (From Subject In-Reply-To)])
+ - 799 stalled for 23 secs in command: 2 STATUS "INBOX" (MESSAGES UNSEEN RECENT)
+ - 686 stalled for 27 secs in command: 7 EXPUNGE
+ - 726 stalled for 23 secs in command: 3 FETCH 2,4:5 (ENVELOPE ENVELOPE BODY.PEEK[HEADER.FIELDS (In-Reply-To Subject To)] BODY.PEEK[HEADER.FIELDS (From)])
+ - 782 stalled for 20 secs in command: 8 STORE 1,3 +FLAGS.SILENT \Deleted
+ - 798 stalled for 23 secs in command: 2 STATUS "INBOX" (MESSAGES UNSEEN RECENT)
+ - 760 stalled for 26 secs in command: 9 EXPUNGE
+ - 720 stalled for 24 secs in command: 8 EXPUNGE
+ - 743 stalled for 23 secs in command: 5 FETCH 1:2 (BODYSTRUCTURE RFC822.SIZE BODYSTRUCTURE BODY.PEEK[HEADER.FIELDS (References Cc In-Reply-To To)])
+ - 698 stalled for 26 secs in command: 4 FETCH 1:2 (BODY)
+ - 751 stalled for 24 secs in command: 7 EXPUNGE
+ - 757 stalled for 24 secs in command: 4 FETCH 1,3 (BODY FLAGS RFC822.SIZE BODY.PEEK[HEADER.FIELDS (In-Reply-To In-Reply-To In-Reply-To)])
+ - 781 stalled for 24 secs in command: 5 FETCH 2,4:5 (BODYSTRUCTURE ENVELOPE)
+ - 719 stalled for 24 secs in command: 7 EXPUNGE
+ - 740 stalled for 24 secs in command: 8 APPEND "INBOX" {3723+}
+ - 722 stalled for 24 secs in command: 8 APPEND "INBOX" (\Answered \Flagged \Seen $Label1) {1823+}
+ - 768 stalled for 24 secs in command: 9 APPEND "INBOX" (\Seen \Draft $Label3 $Label4 $Label5) {3199+}
+ - 717 stalled for 24 secs in command: 6 EXPUNGE
+ - 789 stalled for 24 secs in command: 2 LIST "" *
+ - 810 stalled for 24 secs in command: 3 FETCH 1:3 (BODYSTRUCTURE RFC822.SIZE)
+ - 772 stalled for 24 secs in command: 7 STORE 2:3 FLAGS ()
+ - 788 stalled for 23 secs in command: 3 FETCH 1:2 (BODY ENVELOPE RFC822.SIZE)
+ - 737 stalled for 24 secs in command: 7 EXPUNGE
+ - 703 stalled for 24 secs in command: 8 EXPUNGE
+ - 786 stalled for 24 secs in command: 8 APPEND "INBOX" (\Answered \Seen \Draft $Label4) "21-May-2003 07:43:28 +0200" {2784+}
+ - 746 stalled for 24 secs in command: 7 APPEND "INBOX" (\Answered \Flagged \Seen \Draft $Label5) "18-May-2003 20:11:19 +0200" {2163+}
+ - 739 stalled for 23 secs in command: 8 EXPUNGE
+ - 708 stalled for 26 secs in command: 4 FETCH 1:3 (BODY ENVELOPE BODY.PEEK[HEADER.FIELDS (Cc References To)] BODY.PEEK[HEADER.FIELDS (Message-ID Message-ID)])
+ - 766 stalled for 24 secs in command: 9 APPEND "INBOX" (\Flagged $Label2) "20-May-2003 21:27:36 +0200" {3189+}
+   0    0    0    0    1    1    0    1    2    1    2  62/ 62
+ - 793 stalled for 25 secs in command: 2 LIST "" *
+ - 597 stalled for 28 secs in command: 7 EXPUNGE
+ - 778 stalled for 24 secs in command: 9 EXPUNGE
+ - 802 stalled for 24 secs in command: 2 LIST "" *
+ - 774 stalled for 24 secs in command: 8 APPEND "INBOX" (\Flagged \Draft $Label4) "17-May-2003 09:30:53 +0200" {3203+}
+ - 643 stalled for 30 secs in command: 8 EXPUNGE
+ - 787 stalled for 25 secs in command: 2 LIST "" *
+ - 796 stalled for 25 secs in command: 4 FETCH 1 (ENVELOPE BODYSTRUCTURE)
+ - 756 stalled for 25 secs in command: 7 EXPUNGE
+ - 714 stalled for 25 secs in command: 8 APPEND "INBOX" "07-May-2003 13:11:33 +0200" {1554+}
+ - 749 stalled for 25 secs in command: 4 FETCH 1:3 (INTERNALDATE ENVELOPE FLAGS)
+ - 758 stalled for 24 secs in command: 6 EXPUNGE
+ - 676 stalled for 28 secs in command: 8 EXPUNGE
+ - 767 stalled for 25 secs in command: 8 APPEND "INBOX" (\Flagged \Seen $Label4) {3570+}
+ - 754 stalled for 25 secs in command: 9 APPEND "INBOX" (\Seen \Draft $Label3 $Label4) "19-May-2003 16:54:35 +0200" {3135+}
+ - 730 stalled for 25 secs in command: 5 FETCH 1,3 (INTERNALDATE RFC822.SIZE FLAGS)
+ - 710 stalled for 26 secs in command: 8 APPEND "INBOX" {1926+}
+ - 748 stalled for 25 secs in command: 4 FETCH 1:2 (INTERNALDATE BODY.PEEK[HEADER.FIELDS (Subject Delivered-To In-Reply-To In-Reply-To)] INTERNALDATE)
+ - 800 stalled for 24 secs in command: 2 STATUS "INBOX" (MESSAGES UNSEEN RECENT)
+ - 718 stalled for 25 secs in command: 8 APPEND "INBOX" "20-May-2003 04:12:23 +0200" {2707+}
+ - 765 stalled for 25 secs in command: 8 APPEND "INBOX" "16-May-2003 13:52:24 +0200" {2770+}
+ - 794 stalled for 25 secs in command: 2 LIST "" *
+ - 801 stalled for 25 secs in command: 2 LIST "" *
+ - 733 stalled for 27 secs in command: 8 EXPUNGE
+ - 776 stalled for 25 secs in command: 8 APPEND "INBOX" (\Answered $Label3 $Label4) {3043+}
+ - 773 stalled for 27 secs in command: 4 APPEND "INBOX" "16-May-2003 20:19:12 +0200" {7834+}
+ - 814 stalled for 25 secs in command: 2 STATUS "INBOX" (MESSAGES UNSEEN RECENT)
+ - 747 stalled for 25 secs in command: 8 EXPUNGE
+ - 607 stalled for 26 secs in command: 8 EXPUNGE
+ - 775 stalled for 25 secs in command: 4 FETCH 1:2 (FLAGS BODY.PEEK[HEADER.FIELDS (References)] BODY.PEEK[HEADER.FIELDS (From Subject In-Reply-To)])
+ - 799 stalled for 24 secs in command: 2 STATUS "INBOX" (MESSAGES UNSEEN RECENT)
+ - 726 stalled for 24 secs in command: 3 FETCH 2,4:5 (ENVELOPE ENVELOPE BODY.PEEK[HEADER.FIELDS (In-Reply-To Subject To)] BODY.PEEK[HEADER.FIELDS (From)])
+ - 782 stalled for 21 secs in command: 8 STORE 1,3 +FLAGS.SILENT \Deleted
+ - 798 stalled for 24 secs in command: 2 STATUS "INBOX" (MESSAGES UNSEEN RECENT)
+ - 760 stalled for 27 secs in command: 9 EXPUNGE
+ - 720 stalled for 25 secs in command: 8 EXPUNGE
+ - 743 stalled for 24 secs in command: 5 FETCH 1:2 (BODYSTRUCTURE RFC822.SIZE BODYSTRUCTURE BODY.PEEK[HEADER.FIELDS (References Cc In-Reply-To To)])
+ - 751 stalled for 25 secs in command: 7 EXPUNGE
+ - 757 stalled for 25 secs in command: 4 FETCH 1,3 (BODY FLAGS RFC822.SIZE BODY.PEEK[HEADER.FIELDS (In-Reply-To In-Reply-To In-Reply-To)])
+ - 781 stalled for 25 secs in command: 5 FETCH 2,4:5 (BODYSTRUCTURE ENVELOPE)
+ - 719 stalled for 25 secs in command: 7 EXPUNGE
+ - 740 stalled for 25 secs in command: 8 APPEND "INBOX" {3723+}
+ - 722 stalled for 25 secs in command: 8 APPEND "INBOX" (\Answered \Flagged \Seen $Label1) {1823+}
+ - 768 stalled for 25 secs in command: 9 APPEND "INBOX" (\Seen \Draft $Label3 $Label4 $Label5) {3199+}
+ - 717 stalled for 25 secs in command: 6 EXPUNGE
+ - 789 stalled for 25 secs in command: 2 LIST "" *
+ - 810 stalled for 25 secs in command: 3 FETCH 1:3 (BODYSTRUCTURE RFC822.SIZE)
+ - 772 stalled for 25 secs in command: 7 STORE 2:3 FLAGS ()
+ - 788 stalled for 24 secs in command: 3 FETCH 1:2 (BODY ENVELOPE RFC822.SIZE)
+ - 737 stalled for 25 secs in command: 7 EXPUNGE
+ - 703 stalled for 25 secs in command: 8 EXPUNGE
+ - 786 stalled for 25 secs in command: 8 APPEND "INBOX" (\Answered \Seen \Draft $Label4) "21-May-2003 07:43:28 +0200" {2784+}
+ - 746 stalled for 25 secs in command: 7 APPEND "INBOX" (\Answered \Flagged \Seen \Draft $Label5) "18-May-2003 20:11:19 +0200" {2163+}
+ - 739 stalled for 24 secs in command: 8 EXPUNGE
+ - 708 stalled for 27 secs in command: 4 FETCH 1:3 (BODY ENVELOPE BODY.PEEK[HEADER.FIELDS (Cc References To)] BODY.PEEK[HEADER.FIELDS (Message-ID Message-ID)])
+ - 766 stalled for 25 secs in command: 9 APPEND "INBOX" (\Flagged $Label2) "20-May-2003 21:27:36 +0200" {3189+}
+   0    3    5    6    6   11    1    3    2    5   20  52/ 52
+ - 597 stalled for 29 secs in command: 7 EXPUNGE
+ - 778 stalled for 25 secs in command: 9 EXPUNGE
+ - 802 stalled for 25 secs in command: 2 LIST "" *
+ - 774 stalled for 25 secs in command: 8 APPEND "INBOX" (\Flagged \Draft $Label4) "17-May-2003 09:30:53 +0200" {3203+}
+ - 643 stalled for 31 secs in command: 8 EXPUNGE
+ - 796 stalled for 26 secs in command: 4 FETCH 1 (ENVELOPE BODYSTRUCTURE)
+ - 756 stalled for 26 secs in command: 7 EXPUNGE
+ - 714 stalled for 26 secs in command: 8 APPEND "INBOX" "07-May-2003 13:11:33 +0200" {1554+}
+ - 758 stalled for 25 secs in command: 6 EXPUNGE
+ - 767 stalled for 26 secs in command: 8 APPEND "INBOX" (\Flagged \Seen $Label4) {3570+}
+ - 754 stalled for 26 secs in command: 9 APPEND "INBOX" (\Seen \Draft $Label3 $Label4) "19-May-2003 16:54:35 +0200" {3135+}
+ - 710 stalled for 27 secs in command: 8 APPEND "INBOX" {1926+}
+ - 748 stalled for 26 secs in command: 4 FETCH 1:2 (INTERNALDATE BODY.PEEK[HEADER.FIELDS (Subject Delivered-To In-Reply-To In-Reply-To)] INTERNALDATE)
+ - 718 stalled for 26 secs in command: 8 APPEND "INBOX" "20-May-2003 04:12:23 +0200" {2707+}
+ - 794 stalled for 26 secs in command: 2 LIST "" *
+ - 733 stalled for 28 secs in command: 8 EXPUNGE
+ - 776 stalled for 26 secs in command: 8 APPEND "INBOX" (\Answered $Label3 $Label4) {3043+}
+ - 814 stalled for 26 secs in command: 2 STATUS "INBOX" (MESSAGES UNSEEN RECENT)
+ - 747 stalled for 26 secs in command: 8 EXPUNGE
+ - 782 stalled for 22 secs in command: 8 STORE 1,3 +FLAGS.SILENT \Deleted
+ - 760 stalled for 28 secs in command: 9 EXPUNGE
+ - 720 stalled for 26 secs in command: 8 EXPUNGE
+ - 743 stalled for 25 secs in command: 5 FETCH 1:2 (BODYSTRUCTURE RFC822.SIZE BODYSTRUCTURE BODY.PEEK[HEADER.FIELDS (References Cc In-Reply-To To)])
+ - 751 stalled for 26 secs in command: 7 EXPUNGE
+ - 781 stalled for 26 secs in command: 5 FETCH 2,4:5 (BODYSTRUCTURE ENVELOPE)
+ - 719 stalled for 26 secs in command: 7 EXPUNGE
+ - 740 stalled for 26 secs in command: 8 APPEND "INBOX" {3723+}
+ - 722 stalled for 26 secs in command: 8 APPEND "INBOX" (\Answered \Flagged \Seen $Label1) {1823+}
+ - 768 stalled for 26 secs in command: 9 APPEND "INBOX" (\Seen \Draft $Label3 $Label4 $Label5) {3199+}
+ - 717 stalled for 26 secs in command: 6 EXPUNGE
+ - 789 stalled for 26 secs in command: 2 LIST "" *
+ - 772 stalled for 26 secs in command: 7 STORE 2:3 FLAGS ()
+ - 737 stalled for 26 secs in command: 7 EXPUNGE
+ - 703 stalled for 26 secs in command: 8 EXPUNGE
+ - 786 stalled for 26 secs in command: 8 APPEND "INBOX" (\Answered \Seen \Draft $Label4) "21-May-2003 07:43:28 +0200" {2784+}
+ - 746 stalled for 26 secs in command: 7 APPEND "INBOX" (\Answered \Flagged \Seen \Draft $Label5) "18-May-2003 20:11:19 +0200" {2163+}
+ - 739 stalled for 25 secs in command: 8 EXPUNGE
+ - 766 stalled for 26 secs in command: 9 APPEND "INBOX" (\Flagged $Label2) "20-May-2003 21:27:36 +0200" {3189+}
+   0    0    0    0    0    0    0    0    0    0    0  52/ 52
+ - 597 stalled for 30 secs in command: 7 EXPUNGE
+ - 778 stalled for 26 secs in command: 9 EXPUNGE
+ - 802 stalled for 26 secs in command: 2 LIST "" *
+ - 774 stalled for 26 secs in command: 8 APPEND "INBOX" (\Flagged \Draft $Label4) "17-May-2003 09:30:53 +0200" {3203+}
+ - 643 stalled for 32 secs in command: 8 EXPUNGE
+ - 796 stalled for 27 secs in command: 4 FETCH 1 (ENVELOPE BODYSTRUCTURE)
+ - 756 stalled for 27 secs in command: 7 EXPUNGE
+ - 714 stalled for 27 secs in command: 8 APPEND "INBOX" "07-May-2003 13:11:33 +0200" {1554+}
+ - 758 stalled for 26 secs in command: 6 EXPUNGE
+ - 767 stalled for 27 secs in command: 8 APPEND "INBOX" (\Flagged \Seen $Label4) {3570+}
+ - 754 stalled for 27 secs in command: 9 APPEND "INBOX" (\Seen \Draft $Label3 $Label4) "19-May-2003 16:54:35 +0200" {3135+}
+ - 710 stalled for 28 secs in command: 8 APPEND "INBOX" {1926+}
+ - 748 stalled for 27 secs in command: 4 FETCH 1:2 (INTERNALDATE BODY.PEEK[HEADER.FIELDS (Subject Delivered-To In-Reply-To In-Reply-To)] INTERNALDATE)
+ - 718 stalled for 27 secs in command: 8 APPEND "INBOX" "20-May-2003 04:12:23 +0200" {2707+}
+ - 794 stalled for 27 secs in command: 2 LIST "" *
+ - 733 stalled for 29 secs in command: 8 EXPUNGE
+ - 776 stalled for 27 secs in command: 8 APPEND "INBOX" (\Answered $Label3 $Label4) {3043+}
+ - 814 stalled for 27 secs in command: 2 STATUS "INBOX" (MESSAGES UNSEEN RECENT)
+ - 747 stalled for 27 secs in command: 8 EXPUNGE
+ - 782 stalled for 23 secs in command: 8 STORE 1,3 +FLAGS.SILENT \Deleted
+ - 760 stalled for 29 secs in command: 9 EXPUNGE
+ - 720 stalled for 27 secs in command: 8 EXPUNGE
+ - 743 stalled for 26 secs in command: 5 FETCH 1:2 (BODYSTRUCTURE RFC822.SIZE BODYSTRUCTURE BODY.PEEK[HEADER.FIELDS (References Cc In-Reply-To To)])
+ - 751 stalled for 27 secs in command: 7 EXPUNGE
+ - 781 stalled for 27 secs in command: 5 FETCH 2,4:5 (BODYSTRUCTURE ENVELOPE)
+ - 719 stalled for 27 secs in command: 7 EXPUNGE
+ - 740 stalled for 27 secs in command: 8 APPEND "INBOX" {3723+}
+ - 722 stalled for 27 secs in command: 8 APPEND "INBOX" (\Answered \Flagged \Seen $Label1) {1823+}
+ - 768 stalled for 27 secs in command: 9 APPEND "INBOX" (\Seen \Draft $Label3 $Label4 $Label5) {3199+}
+ - 717 stalled for 27 secs in command: 6 EXPUNGE
+ - 789 stalled for 27 secs in command: 2 LIST "" *
+ - 772 stalled for 27 secs in command: 7 STORE 2:3 FLAGS ()
+ - 737 stalled for 27 secs in command: 7 EXPUNGE
+ - 703 stalled for 27 secs in command: 8 EXPUNGE
+ - 786 stalled for 27 secs in command: 8 APPEND "INBOX" (\Answered \Seen \Draft $Label4) "21-May-2003 07:43:28 +0200" {2784+}
+ - 746 stalled for 27 secs in command: 7 APPEND "INBOX" (\Answered \Flagged \Seen \Draft $Label5) "18-May-2003 20:11:19 +0200" {2163+}
+ - 739 stalled for 26 secs in command: 8 EXPUNGE
+ - 766 stalled for 27 secs in command: 9 APPEND "INBOX" (\Flagged $Label2) "20-May-2003 21:27:36 +0200" {3189+}
+   0    3    0    3    4    6    2    2    8   17   40  32/ 32
+ - 778 stalled for 27 secs in command: 9 EXPUNGE
+ - 774 stalled for 27 secs in command: 8 APPEND "INBOX" (\Flagged \Draft $Label4) "17-May-2003 09:30:53 +0200" {3203+}
+ - 756 stalled for 28 secs in command: 7 EXPUNGE
+ - 733 stalled for 30 secs in command: 8 EXPUNGE
+ - 776 stalled for 28 secs in command: 8 APPEND "INBOX" (\Answered $Label3 $Label4) {3043+}
+ - 814 stalled for 28 secs in command: 2 STATUS "INBOX" (MESSAGES UNSEEN RECENT)
+ - 747 stalled for 28 secs in command: 8 EXPUNGE
+ - 782 stalled for 24 secs in command: 8 STORE 1,3 +FLAGS.SILENT \Deleted
+ - 760 stalled for 30 secs in command: 9 EXPUNGE
+ - 743 stalled for 27 secs in command: 5 FETCH 1:2 (BODYSTRUCTURE RFC822.SIZE BODYSTRUCTURE BODY.PEEK[HEADER.FIELDS (References Cc In-Reply-To To)])
+ - 719 stalled for 28 secs in command: 7 EXPUNGE
+ - 717 stalled for 28 secs in command: 6 EXPUNGE
+ - 772 stalled for 28 secs in command: 7 STORE 2:3 FLAGS ()
+ - 739 stalled for 27 secs in command: 8 EXPUNGE
+ - 766 stalled for 28 secs in command: 9 APPEND "INBOX" (\Flagged $Label2) "20-May-2003 21:27:36 +0200" {3189+}
+
+Totals:
+Logi List Stat Sele Fetc Fet2 Stor Dele Expu Appe Logo 
+100%  50%  50% 100% 100% 100%  50% 100% 100% 100% 100% 
+                          30%                  5%      
+ 790  405  411  779  746 1045  148  602  746  757 1580 

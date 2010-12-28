@@ -1,0 +1,248 @@
+Logi List Stat Sele Fetc Fet2 Stor Dele Expu Appe Logo 
+100%  50%  50% 100% 100% 100%  50% 100% 100% 100% 100% 
+                          30%                  5%      
+  29   13   11   25   15   18    0   14    8    9   18  20/ 20
+  21   13   13   24   14   18    1   11   13   21   42  20/ 20
+  21   12   10   18   10   12    3    8   11   21   42  20/ 20
+  17    3    7   19   11   13    1   12   14   19   38  20/ 20
+   0    0    0    0    0    0    0    0    0    0    0  20/ 20
+   0    0    0    0    0    0    0    0    0    0    0  20/ 20
+   0    0    0    0    0    0    0    0    0    0    0  20/ 20
+   0    0    0    0    0    0    0    0    0    0    0  20/ 20
+   0    0    0    0    0    0    0    0    0    0    0  20/ 20
+   0    0    0    0    1    1    0    0    2    2    4  20/ 20
+Logi List Stat Sele Fetc Fet2 Stor Dele Expu Appe Logo 
+100%  50%  50% 100% 100% 100%  50% 100% 100% 100% 100% 
+                          30%                  5%      
+   0    0    0    0    0    0    0    0    0    0    0  20/ 20
+   1    0    0    0    1    2    0    1    0    4    8  20/ 20
+   0    0    0    0    0    0    0    0    0    0    0  20/ 20
+   0    0    0    0    0    0    0    0    0    0    0  20/ 20
+   0    0    0    0    0    0    0    0    0    0    0  20/ 20
+   2    0    0    0    1    1    0    1    0    0    0  20/ 20
+   3    0    0    0    0    0    0    0    0    1    2  20/ 20
+   0    0    0    0    0    0    0    0    0    0    0  20/ 20
+   3    4    5    8    3    3    1    3    0    0    0  20/ 20
+  20    7    6   18   13   21    2   10   11   20   40  20/ 20
+Logi List Stat Sele Fetc Fet2 Stor Dele Expu Appe Logo 
+100%  50%  50% 100% 100% 100%  50% 100% 100% 100% 100% 
+                          30%                  5%      
+  16    9    7   18   10   15    2    8   15   16   32  20/ 20
+  16    8   10   17   10   13    0    9   10   16   32  20/ 20
+   5    0    2    6    5    6    0    4    4    8   16  20/ 20
+   0    0    0    0    0    0    0    0    0    0    0  20/ 20
+   0    0    0    0    0    0    0    0    0    0    0  20/ 20
+   0    0    0    0    0    0    0    0    0    0    0  20/ 20
+   7    1    3    3    4    6    0    1    4   10   20  20/ 20
+   7    1    2    3    2    4    1    1    0    1    2  20/ 20
+  12   11   10   20   10   14    2   10   13   12   24  20/ 20
+  21    4    7   15   14   19    1   10   14   21   42  20/ 20
+Logi List Stat Sele Fetc Fet2 Stor Dele Expu Appe Logo 
+100%  50%  50% 100% 100% 100%  50% 100% 100% 100% 100% 
+                          30%                  5%      
+  10    8    6   12    6   12    0    4    7   11   22  20/ 20
+  15   11   15   20   16   26    1   12    8   14   28  20/ 20
+  15    1    3    8    2    4    1    4    8   15   30  20/ 20
+  11    8    8   16   11   14    2   10    9   11   22  20/ 20
+  24   13   10   22   13   18    0   11   17   24   48  20/ 20
+   8    5    3   11   14   17    0   11   16   17   34  15/ 20
+  25   16   10   25   13   19    1   12    6   16   32  20/ 20
+  18    5    9   18   12   21    0    8   15   18   36  20/ 20
+  16    8    8   15   13   19    1   12   10   16   32  20/ 20
+  12    4    5   12    8   12    0    5   11   12   24  20/ 20
+Logi List Stat Sele Fetc Fet2 Stor Dele Expu Appe Logo 
+100%  50%  50% 100% 100% 100%  50% 100% 100% 100% 100% 
+                          30%                  5%      
+  17    8    8   13   12   18    0    8   14   17   34  20/ 20
+  11    6    4   14   11   17    0    9    8   11   22  20/ 20
+  15    9   11   17   16   24    1   17   15   15   30  20/ 20
+  16    4    5   12    4    5    0    5    9   16   32  20/ 20
+  13    3    6   15   14   19    0    9   10   13   26  20/ 20
+  11    5    8   13   11   17    0   10    7   11   22  20/ 20
+  12    6    9   13    9   13    0    7   12   12   24  20/ 20
+   0    0    0    0    2    2    0    2    1    1    2  20/ 20
+   1    0    0    0    0    0    0    0    3    8   16  20/ 20
+   0    0    0    0    0    0    0    0    0    0    0  20/ 20
+Logi List Stat Sele Fetc Fet2 Stor Dele Expu Appe Logo 
+100%  50%  50% 100% 100% 100%  50% 100% 100% 100% 100% 
+                          30%                  5%      
+   0    0    0    0    0    0    0    0    0    0    0  20/ 20
+   0    0    0    0    0    0    0    0    0    0    0  20/ 20
+   0    0    0    0    0    0    0    0    0    0    0  20/ 20
+   0    0    0    0    0    0    0    0    0    0    0  20/ 20
+   0    0    0    0    0    0    0    0    0    0    0  20/ 20
+   0    0    0    0    0    0    0    0    0    0    0  20/ 20
+   6    0    0    0    0    0    0    0    1    3    6  20/ 20
+   0    0    0    0    0    0    0    0    0    0    0  20/ 20
+   4    0    1    4    1    3    0    0    0    0    0  20/ 20
+   0    0    0    0    0    0    0    0    0    0    0  20/ 20
+Logi List Stat Sele Fetc Fet2 Stor Dele Expu Appe Logo 
+100%  50%  50% 100% 100% 100%  50% 100% 100% 100% 100% 
+                          30%                  5%      
+   0    0    0    0    0    0    0    0    0    0    0  20/ 20
+   1    0    0    0    0    0    0    0    0    0    2  19/ 19
+ - 431 stalled for 16 secs in command: 8 EXPUNGE
+   0    0    0    0    0    0    0    0    0    0    0  19/ 19
+ - 454 stalled for 16 secs in command: 7 EXPUNGE
+ - 431 stalled for 17 secs in command: 8 EXPUNGE
+ - 457 stalled for 16 secs in command: 5 APPEND "INBOX" {1968+}
+ - 456 stalled for 16 secs in command: 7 APPEND "INBOX" (\Draft $Label2 $Label4) "26-Mar-2003 11:09:53 +0100" {1981+}
+ - 449 stalled for 16 secs in command: 7 EXPUNGE
+ - 451 stalled for 16 secs in command: 8 EXPUNGE
+ - 458 stalled for 16 secs in command: 3 APPEND "INBOX" "26-Mar-2003 16:52:14 +0100" {2425+}
+ - 438 stalled for 16 secs in command: 8 EXPUNGE
+   0    0    0    0    0    0    0    0    0    0    0  19/ 19
+ - 454 stalled for 17 secs in command: 7 EXPUNGE
+ - 431 stalled for 18 secs in command: 8 EXPUNGE
+ - 457 stalled for 17 secs in command: 5 APPEND "INBOX" {1968+}
+ - 456 stalled for 17 secs in command: 7 APPEND "INBOX" (\Draft $Label2 $Label4) "26-Mar-2003 11:09:53 +0100" {1981+}
+ - 449 stalled for 17 secs in command: 7 EXPUNGE
+ - 451 stalled for 17 secs in command: 8 EXPUNGE
+ - 458 stalled for 17 secs in command: 3 APPEND "INBOX" "26-Mar-2003 16:52:14 +0100" {2425+}
+ - 438 stalled for 17 secs in command: 8 EXPUNGE
+   0    0    0    0    0    0    0    0    0    0    0  19/ 19
+ - 454 stalled for 18 secs in command: 7 EXPUNGE
+ - 431 stalled for 19 secs in command: 8 EXPUNGE
+ - 457 stalled for 18 secs in command: 5 APPEND "INBOX" {1968+}
+ - 456 stalled for 18 secs in command: 7 APPEND "INBOX" (\Draft $Label2 $Label4) "26-Mar-2003 11:09:53 +0100" {1981+}
+ - 449 stalled for 18 secs in command: 7 EXPUNGE
+ - 451 stalled for 18 secs in command: 8 EXPUNGE
+ - 458 stalled for 18 secs in command: 3 APPEND "INBOX" "26-Mar-2003 16:52:14 +0100" {2425+}
+ - 438 stalled for 18 secs in command: 8 EXPUNGE
+   0    0    0    0    0    0    0    0    0    0    0  19/ 19
+ - 454 stalled for 19 secs in command: 7 EXPUNGE
+ - 431 stalled for 20 secs in command: 8 EXPUNGE
+ - 457 stalled for 19 secs in command: 5 APPEND "INBOX" {1968+}
+ - 456 stalled for 19 secs in command: 7 APPEND "INBOX" (\Draft $Label2 $Label4) "26-Mar-2003 11:09:53 +0100" {1981+}
+ - 449 stalled for 19 secs in command: 7 EXPUNGE
+ - 451 stalled for 19 secs in command: 8 EXPUNGE
+ - 458 stalled for 19 secs in command: 3 APPEND "INBOX" "26-Mar-2003 16:52:14 +0100" {2425+}
+ - 438 stalled for 19 secs in command: 8 EXPUNGE
+   0    3    1    3    1    1    0    1    1    1    8  15/ 15
+ - 454 stalled for 20 secs in command: 7 EXPUNGE
+ - 431 stalled for 21 secs in command: 8 EXPUNGE
+ - 457 stalled for 20 secs in command: 5 APPEND "INBOX" {1968+}
+ - 456 stalled for 20 secs in command: 7 APPEND "INBOX" (\Draft $Label2 $Label4) "26-Mar-2003 11:09:53 +0100" {1981+}
+ - 451 stalled for 20 secs in command: 8 EXPUNGE
+ - 458 stalled for 20 secs in command: 3 APPEND "INBOX" "26-Mar-2003 16:52:14 +0100" {2425+}
+ - 438 stalled for 20 secs in command: 8 EXPUNGE
+   0    0    0    0    0    0    0    0    0    0    0  15/ 15
+ - 454 stalled for 21 secs in command: 7 EXPUNGE
+ - 431 stalled for 22 secs in command: 8 EXPUNGE
+ - 457 stalled for 21 secs in command: 5 APPEND "INBOX" {1968+}
+ - 456 stalled for 21 secs in command: 7 APPEND "INBOX" (\Draft $Label2 $Label4) "26-Mar-2003 11:09:53 +0100" {1981+}
+ - 451 stalled for 21 secs in command: 8 EXPUNGE
+ - 458 stalled for 21 secs in command: 3 APPEND "INBOX" "26-Mar-2003 16:52:14 +0100" {2425+}
+ - 438 stalled for 21 secs in command: 8 EXPUNGE
+   0    0    0    0    0    0    0    0    0    0    0  15/ 15
+ - 454 stalled for 22 secs in command: 7 EXPUNGE
+ - 431 stalled for 23 secs in command: 8 EXPUNGE
+ - 457 stalled for 22 secs in command: 5 APPEND "INBOX" {1968+}
+ - 456 stalled for 22 secs in command: 7 APPEND "INBOX" (\Draft $Label2 $Label4) "26-Mar-2003 11:09:53 +0100" {1981+}
+ - 451 stalled for 22 secs in command: 8 EXPUNGE
+ - 458 stalled for 22 secs in command: 3 APPEND "INBOX" "26-Mar-2003 16:52:14 +0100" {2425+}
+ - 438 stalled for 22 secs in command: 8 EXPUNGE
+   0    0    0    0    0    0    0    0    0    0    0  15/ 15
+ - 454 stalled for 23 secs in command: 7 EXPUNGE
+ - 431 stalled for 24 secs in command: 8 EXPUNGE
+ - 457 stalled for 23 secs in command: 5 APPEND "INBOX" {1968+}
+ - 456 stalled for 23 secs in command: 7 APPEND "INBOX" (\Draft $Label2 $Label4) "26-Mar-2003 11:09:53 +0100" {1981+}
+ - 451 stalled for 23 secs in command: 8 EXPUNGE
+ - 458 stalled for 23 secs in command: 3 APPEND "INBOX" "26-Mar-2003 16:52:14 +0100" {2425+}
+ - 438 stalled for 23 secs in command: 8 EXPUNGE
+Logi List Stat Sele Fetc Fet2 Stor Dele Expu Appe Logo 
+100%  50%  50% 100% 100% 100%  50% 100% 100% 100% 100% 
+                          30%                  5%      
+   0    0    0    0    0    0    0    0    0    0    0  15/ 15
+ - 454 stalled for 24 secs in command: 7 EXPUNGE
+ - 431 stalled for 25 secs in command: 8 EXPUNGE
+ - 457 stalled for 24 secs in command: 5 APPEND "INBOX" {1968+}
+ - 456 stalled for 24 secs in command: 7 APPEND "INBOX" (\Draft $Label2 $Label4) "26-Mar-2003 11:09:53 +0100" {1981+}
+ - 451 stalled for 24 secs in command: 8 EXPUNGE
+ - 458 stalled for 24 secs in command: 3 APPEND "INBOX" "26-Mar-2003 16:52:14 +0100" {2425+}
+ - 438 stalled for 24 secs in command: 8 EXPUNGE
+   0    0    0    0    0    0    0    0    0    0    0  15/ 15
+ - 454 stalled for 25 secs in command: 7 EXPUNGE
+ - 431 stalled for 26 secs in command: 8 EXPUNGE
+ - 457 stalled for 25 secs in command: 5 APPEND "INBOX" {1968+}
+ - 456 stalled for 25 secs in command: 7 APPEND "INBOX" (\Draft $Label2 $Label4) "26-Mar-2003 11:09:53 +0100" {1981+}
+ - 451 stalled for 25 secs in command: 8 EXPUNGE
+ - 460 stalled for 16 secs in command: 2 LIST "" *
+ - 458 stalled for 25 secs in command: 3 APPEND "INBOX" "26-Mar-2003 16:52:14 +0100" {2425+}
+ - 438 stalled for 25 secs in command: 8 EXPUNGE
+   0    0    0    0    0    0    0    0    0    0    0  15/ 15
+ - 454 stalled for 26 secs in command: 7 EXPUNGE
+ - 431 stalled for 27 secs in command: 8 EXPUNGE
+ - 457 stalled for 26 secs in command: 5 APPEND "INBOX" {1968+}
+ - 456 stalled for 26 secs in command: 7 APPEND "INBOX" (\Draft $Label2 $Label4) "26-Mar-2003 11:09:53 +0100" {1981+}
+ - 451 stalled for 26 secs in command: 8 EXPUNGE
+ - 460 stalled for 17 secs in command: 2 LIST "" *
+ - 458 stalled for 26 secs in command: 3 APPEND "INBOX" "26-Mar-2003 16:52:14 +0100" {2425+}
+ - 438 stalled for 26 secs in command: 8 EXPUNGE
+   0    0    0    0    0    0    0    0    0    0    0  15/ 15
+ - 454 stalled for 27 secs in command: 7 EXPUNGE
+ - 431 stalled for 28 secs in command: 8 EXPUNGE
+ - 457 stalled for 27 secs in command: 5 APPEND "INBOX" {1968+}
+ - 456 stalled for 27 secs in command: 7 APPEND "INBOX" (\Draft $Label2 $Label4) "26-Mar-2003 11:09:53 +0100" {1981+}
+ - 451 stalled for 27 secs in command: 8 EXPUNGE
+ - 460 stalled for 18 secs in command: 2 LIST "" *
+ - 458 stalled for 27 secs in command: 3 APPEND "INBOX" "26-Mar-2003 16:52:14 +0100" {2425+}
+ - 438 stalled for 27 secs in command: 8 EXPUNGE
+   0    0    0    0    0    0    0    0    0    0    0  15/ 15
+ - 459 stalled for 16 secs in command: 8 STORE 1 +FLAGS \Deleted
+ - 454 stalled for 28 secs in command: 7 EXPUNGE
+ - 462 stalled for 16 secs in command: 2 LIST "" *
+ - 431 stalled for 29 secs in command: 8 EXPUNGE
+ - 457 stalled for 28 secs in command: 5 APPEND "INBOX" {1968+}
+ - 456 stalled for 28 secs in command: 7 APPEND "INBOX" (\Draft $Label2 $Label4) "26-Mar-2003 11:09:53 +0100" {1981+}
+ - 465 stalled for 16 secs in command: 3 FETCH 1 (BODY.PEEK[HEADER.FIELDS (In-Reply-To)] BODY)
+ - 451 stalled for 28 secs in command: 8 EXPUNGE
+ - 469 stalled for 16 secs in command: 2 LIST "" *
+ - 460 stalled for 19 secs in command: 2 LIST "" *
+ - 463 stalled for 16 secs in command: 3 FETCH 1 (RFC822.SIZE UID UID INTERNALDATE)
+ - 458 stalled for 28 secs in command: 3 APPEND "INBOX" "26-Mar-2003 16:52:14 +0100" {2425+}
+ - 438 stalled for 28 secs in command: 8 EXPUNGE
+ - 468 stalled for 16 secs in command: 2 LIST "" *
+   0    0    0    0    0    0    0    0    0    0    0  15/ 15
+ - 459 stalled for 17 secs in command: 8 STORE 1 +FLAGS \Deleted
+ - 454 stalled for 29 secs in command: 7 EXPUNGE
+ - 462 stalled for 17 secs in command: 2 LIST "" *
+ - 431 stalled for 30 secs in command: 8 EXPUNGE
+ - 457 stalled for 29 secs in command: 5 APPEND "INBOX" {1968+}
+ - 456 stalled for 29 secs in command: 7 APPEND "INBOX" (\Draft $Label2 $Label4) "26-Mar-2003 11:09:53 +0100" {1981+}
+ - 465 stalled for 17 secs in command: 3 FETCH 1 (BODY.PEEK[HEADER.FIELDS (In-Reply-To)] BODY)
+ - 451 stalled for 29 secs in command: 8 EXPUNGE
+ - 469 stalled for 17 secs in command: 2 LIST "" *
+ - 460 stalled for 20 secs in command: 2 LIST "" *
+ - 463 stalled for 17 secs in command: 3 FETCH 1 (RFC822.SIZE UID UID INTERNALDATE)
+ - 458 stalled for 29 secs in command: 3 APPEND "INBOX" "26-Mar-2003 16:52:14 +0100" {2425+}
+ - 438 stalled for 29 secs in command: 8 EXPUNGE
+ - 468 stalled for 17 secs in command: 2 LIST "" *
+   0    2    1    2    1    2    0    1    3    4   12   9/  9
+ - 459 stalled for 18 secs in command: 8 STORE 1 +FLAGS \Deleted
+ - 462 stalled for 18 secs in command: 2 LIST "" *
+ - 457 stalled for 30 secs in command: 5 APPEND "INBOX" {1968+}
+ - 456 stalled for 30 secs in command: 7 APPEND "INBOX" (\Draft $Label2 $Label4) "26-Mar-2003 11:09:53 +0100" {1981+}
+ - 463 stalled for 18 secs in command: 3 FETCH 1 (RFC822.SIZE UID UID INTERNALDATE)
+ - 438 stalled for 30 secs in command: 8 EXPUNGE
+ - 468 stalled for 18 secs in command: 2 LIST "" *
+   0    0    0    0    0    0    0    0    0    0    0   9/  9
+ - 459 stalled for 19 secs in command: 8 STORE 1 +FLAGS \Deleted
+ - 462 stalled for 19 secs in command: 2 LIST "" *
+ - 457 stalled for 31 secs in command: 5 APPEND "INBOX" {1968+}
+ - 456 stalled for 31 secs in command: 7 APPEND "INBOX" (\Draft $Label2 $Label4) "26-Mar-2003 11:09:53 +0100" {1981+}
+ - 463 stalled for 19 secs in command: 3 FETCH 1 (RFC822.SIZE UID UID INTERNALDATE)
+ - 438 stalled for 31 secs in command: 8 EXPUNGE
+ - 468 stalled for 19 secs in command: 2 LIST "" *
+   0    2    1    2    1    1    0    1    3    5   14   2/  2
+   0    0    0    0    0    0    0    0    0    0    0   2/  2
+Logi List Stat Sele Fetc Fet2 Stor Dele Expu Appe Logo 
+100%  50%  50% 100% 100% 100%  50% 100% 100% 100% 100% 
+                          30%                  5%      
+   0    0    0    0    0    0    0    0    0    0    0   2/  2
+
+Totals:
+Logi List Stat Sele Fetc Fet2 Stor Dele Expu Appe Logo 
+100%  50%  50% 100% 100% 100%  50% 100% 100% 100% 100% 
+                          30%                  5%      
+ 462  213  225  461  315  450   21  262  315  454  924 
