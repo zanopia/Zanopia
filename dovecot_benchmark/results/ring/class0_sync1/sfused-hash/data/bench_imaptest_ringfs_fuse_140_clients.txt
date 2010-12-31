@@ -1,0 +1,266 @@
+Logi List Stat Sele Fetc Fet2 Stor Dele Expu Appe Logo 
+100%  50%  50% 100% 100% 100%  50% 100% 100% 100% 100% 
+                          30%                  5%      
+ 140    9    5   17    0    0    0    0    0    0    0 140/140
+   4   58   70  123    0    0    0    0    0    5   10 140/140
+   4    2    2    2    1    2    0    1    0   16   32 140/140
+   0    0    1    1    0    0    0    0    0    5   10 139/140
+  31    5    2    6    3    6    0    2    0   22   44 140/140
+  31   23   24   52    6   11    0    5    1   75  150 140/140
+  60   33   37   63    9   10    2    9   10   11   22 140/140
+   0    0    0    2    3    3    0    3    3    5   10 140/140
+   0    0    0    0    0    0    0    0    0    0    0 140/140
+  25    4    3    9    3    6    0    2    5   51  102 140/140
+Logi List Stat Sele Fetc Fet2 Stor Dele Expu Appe Logo 
+100%  50%  50% 100% 100% 100%  50% 100% 100% 100% 100% 
+                          30%                  5%      
+  48   40   35   62    4    9    1    2    1   14   28 140/140
+  47   12   12   24   22   33    0   18   12   47   94 140/140
+   7    9    9   18   14   15    0   16   13   12   24 140/140
+  39   19   24   36   11   17    0   11    9   62  124 140/140
+  23    7    6   13    2    5    0    1    5   11   22 140/140
+  25   11    9   23   21   28    0   15   16   36   72 140/140
+  10    0    1    1    0    0    0    0    1    1    2 140/140
+  16    2    1    4    0    0    0    0    0    0    0 140/140
+   3    0    0    0   14   14    0   14    7    0    0 140/140
+   3   30   31   56   14   15    1   14   10    3    6 140/140
+Logi List Stat Sele Fetc Fet2 Stor Dele Expu Appe Logo 
+100%  50%  50% 100% 100% 100%  50% 100% 100% 100% 100% 
+                          30%                  5%      
+  42   13   18   30   17   31    0   10   25   52  104 140/140
+  18    5    4   11    3    5    0    1    4   11   22 140/140
+  47   20   27   53   18   36    2   11   13   59  118 140/140
+  19    5    5   12   11   12    0   11    4    4    8 140/140
+  21   13   15   24   40   50    0   34   34   38   76 136/140
+   6    2    5    6   11   11    0    9    9    6   12 140/140
+  38   20   23   39    7   10    0    3   19   26   52 140/140
+  10    5    4   11    7    7    0    7   13   16   32 140/140
+  25   11    7   17   16   20    1   13   13   16   32 140/140
+  15   22   19   31    6    9    1    7   11   19   38 140/140
+Logi List Stat Sele Fetc Fet2 Stor Dele Expu Appe Logo 
+100%  50%  50% 100% 100% 100%  50% 100% 100% 100% 100% 
+                          30%                  5%      
+  15    3    6    8   20   20    0   17   15   13   26 140/140
+   6    0    1    2    1    1    0    1    3    2    4 140/140
+  44   25   23   46   19   36    2   12   20   44   88 140/140
+  17   10   10   23   19   26    0   14    8   18   36 140/140
+  35   19   13   40   29   44    3   22   19   41   82 140/140
+   7    0    0    0    0    0    0    0    0    0    0 140/140
+  26   25   17   39   24   36    1   23   27   33   66 140/140
+  36   16   12   28   16   24    1   14   20   29   58 140/140
+   0    0    0    0    1    1    0    1    1    0    0 140/140
+  31   15   16   33   25   34    2   19   26   31   62 140/140
+Logi List Stat Sele Fetc Fet2 Stor Dele Expu Appe Logo 
+100%  50%  50% 100% 100% 100%  50% 100% 100% 100% 100% 
+                          30%                  5%      
+   2    0    0    0    3    3    0    3    2    2    4 140/140
+  49   19   19   41   41   59    4   34   42   51  102 140/140
+  20    7    4   12   11   12    0   10    9   18   36 140/140
+  25   18   22   36   16   25    1   13   18   28   56 140/140
+  26   13    9   27   11   16    1    8   13   26   52 140/140
+  25   15   12   27   22   32    2   22   22   23   46 140/140
+   3    0    2    3    6    8    0    6    5    3    6 140/140
+  30   18   24   33   27   36    2   16   24   31   62 140/140
+  21   11    9   20   12   18    1    7   16   23   46 140/140
+  15    7    5   14    8   13    1    3   10   18   36 140/140
+Logi List Stat Sele Fetc Fet2 Stor Dele Expu Appe Logo 
+100%  50%  50% 100% 100% 100%  50% 100% 100% 100% 100% 
+                          30%                  5%      
+   0    0    1    1    0    0    0    0    0    0    0 140/140
+  22   15   13   28   40   50    2   36   29   24   48 140/140
+   0    0    0    0    0    0    0    0    0    0    0 140/140
+   0    0    0    0    0    0    0    0    0    0    0 140/140
+   0    0    0    0    0    0    0    0    0    0    0 140/140
+   9    0    2    2   10   10    0   10    9    2    4 140/140
+   7    2    3    7    7   10    1    5    7    9   18 140/140
+ - 1011 stalled for 16 secs in command: 3 APPEND "INBOX" ($Label1) "25-Jun-2003 01:07:24 +0200" {2147+}
+  12    2    5    8   11   12    0    7   21   28   56 140/140
+   5    0    0    0    0    0    0    0    0    0    0 140/140
+   0    0    0    0    0    0    0    0    0    0    0 140/140
+Logi List Stat Sele Fetc Fet2 Stor Dele Expu Appe Logo 
+100%  50%  50% 100% 100% 100%  50% 100% 100% 100% 100% 
+                          30%                  5%      
+   0    0    0    0    0    0    0    0    0    0    0 140/140
+ - 1084 stalled for 16 secs in command: 8 EXPUNGE
+  10    6    4    7    1    1    0    0    3    4   42 119/119
+ - 1124 stalled for 16 secs in command: 8 EXPUNGE
+ - 1061 stalled for 16 secs in command: 4 FETCH 1:2 (RFC822.SIZE RFC822.SIZE INTERNALDATE)
+ - 1036 stalled for 16 secs in command: 8 APPEND "INBOX" (\Answered \Flagged \Draft $Label4) "30-Jun-2003 17:30:20 +0200" {2836+}
+ - 1084 stalled for 17 secs in command: 8 EXPUNGE
+   3    0    0    0    0    0    0    0    0    0    6 116/116
+ - 1117 stalled for 16 secs in command: 8 APPEND "INBOX" (\Answered $Label4) {2688+}
+ - 1081 stalled for 16 secs in command: 6 EXPUNGE
+ - 1124 stalled for 17 secs in command: 8 EXPUNGE
+ - 1086 stalled for 16 secs in command: 4 APPEND "INBOX" "10-Jul-2003 16:25:53 +0200" {3482+}
+ - 1099 stalled for 16 secs in command: 4 APPEND "INBOX" "10-Jul-2003 17:52:41 +0200" {2313+}
+ - 1061 stalled for 17 secs in command: 4 FETCH 1:2 (RFC822.SIZE RFC822.SIZE INTERNALDATE)
+ - 1126 stalled for 16 secs in command: 9 STORE 1:2 +FLAGS \Deleted
+ - 1153 stalled for 16 secs in command: 7 APPEND "INBOX" (\Answered \Seen \Draft $Label1 $Label3) {1874+}
+ - 1089 stalled for 16 secs in command: 4 APPEND "INBOX" {4807+}
+ - 1036 stalled for 17 secs in command: 8 APPEND "INBOX" (\Answered \Flagged \Draft $Label4) "30-Jun-2003 17:30:20 +0200" {2836+}
+ - 1083 stalled for 16 secs in command: 8 APPEND "INBOX" (\Flagged \Seen $Label3 $Label4) "03-Jul-2003 22:43:10 +0200" {3259+}
+ - 1013 stalled for 16 secs in command: 9 APPEND "INBOX" {2190+}
+ - 1084 stalled for 18 secs in command: 8 EXPUNGE
+ - 1123 stalled for 16 secs in command: 4 FETCH 2:3 (UID INTERNALDATE BODYSTRUCTURE BODYSTRUCTURE)
+ - 1118 stalled for 16 secs in command: 9 APPEND "INBOX" (\Answered \Seen $Label2 $Label4) {2501+}
+   0    3    1    3    8   10    1    9   23   42   90  71/ 71
+ - 1086 stalled for 17 secs in command: 4 APPEND "INBOX" "10-Jul-2003 16:25:53 +0200" {3482+}
+ - 1153 stalled for 17 secs in command: 7 APPEND "INBOX" (\Answered \Seen \Draft $Label1 $Label3) {1874+}
+ - 1089 stalled for 17 secs in command: 4 APPEND "INBOX" {4807+}
+ - 1083 stalled for 17 secs in command: 8 APPEND "INBOX" (\Flagged \Seen $Label3 $Label4) "03-Jul-2003 22:43:10 +0200" {3259+}
+ - 1084 stalled for 19 secs in command: 8 EXPUNGE
+ - 1123 stalled for 17 secs in command: 4 FETCH 2:3 (UID INTERNALDATE BODYSTRUCTURE BODYSTRUCTURE)
+   0    1    0    3    1    1    0    0    2    4   14  64/ 64
+ - 1196 stalled for 16 secs in command: 9 FETCH 1 (UID BODY.PEEK[HEADER])
+ - 1191 stalled for 16 secs in command: 7 STORE 1:2 +FLAGS.SILENT \Deleted
+ - 1086 stalled for 18 secs in command: 4 APPEND "INBOX" "10-Jul-2003 16:25:53 +0200" {3482+}
+ - 1153 stalled for 18 secs in command: 7 APPEND "INBOX" (\Answered \Seen \Draft $Label1 $Label3) {1874+}
+ - 1125 stalled for 16 secs in command: 7 APPEND "INBOX" {2454+}
+ - 1089 stalled for 18 secs in command: 4 APPEND "INBOX" {4807+}
+ - 1148 stalled for 16 secs in command: 7 EXPUNGE
+ - 1083 stalled for 18 secs in command: 8 APPEND "INBOX" (\Flagged \Seen $Label3 $Label4) "03-Jul-2003 22:43:10 +0200" {3259+}
+ - 1084 stalled for 20 secs in command: 8 EXPUNGE
+ - 1123 stalled for 18 secs in command: 4 FETCH 2:3 (UID INTERNALDATE BODYSTRUCTURE BODYSTRUCTURE)
+   1    1    1    1    1    2    0    3   12   29   62  33/ 33
+ - 1086 stalled for 19 secs in command: 4 APPEND "INBOX" "10-Jul-2003 16:25:53 +0200" {3482+}
+ - 1084 stalled for 21 secs in command: 8 EXPUNGE
+ - 1123 stalled for 19 secs in command: 4 FETCH 2:3 (UID INTERNALDATE BODYSTRUCTURE BODYSTRUCTURE)
+   0    2    1    2    1    1    0    1    1    4   12  27/ 27
+ - 1179 stalled for 16 secs in command: 4 APPEND "INBOX" "19-Jul-2003 18:35:19 +0200" {2541+}
+ - 1149 stalled for 16 secs in command: 5 APPEND "INBOX" {1996+}
+ - 1086 stalled for 20 secs in command: 4 APPEND "INBOX" "10-Jul-2003 16:25:53 +0200" {3482+}
+ - 1130 stalled for 16 secs in command: 9 APPEND "INBOX" "10-Jul-2003 17:47:42 +0200" {2130+}
+ - 1127 stalled for 16 secs in command: 9 APPEND "INBOX" "10-Jul-2003 17:38:07 +0200" {2565+}
+ - 1088 stalled for 16 secs in command: 8 EXPUNGE
+ - 1084 stalled for 22 secs in command: 8 EXPUNGE
+ - 1172 stalled for 16 secs in command: 7 EXPUNGE
+   1    0    1    1    0    0    0    1    6   16   36   9/  9
+ - 1179 stalled for 17 secs in command: 4 APPEND "INBOX" "19-Jul-2003 18:35:19 +0200" {2541+}
+ - 1149 stalled for 17 secs in command: 5 APPEND "INBOX" {1996+}
+ - 1086 stalled for 21 secs in command: 4 APPEND "INBOX" "10-Jul-2003 16:25:53 +0200" {3482+}
+ - 1130 stalled for 17 secs in command: 9 APPEND "INBOX" "10-Jul-2003 17:47:42 +0200" {2130+}
+ - 1084 stalled for 23 secs in command: 8 EXPUNGE
+   0    1    0    1    0    0    0    0    3    5   12   3/  3
+ - 1149 stalled for 18 secs in command: 5 APPEND "INBOX" {1996+}
+ - 1130 stalled for 18 secs in command: 9 APPEND "INBOX" "10-Jul-2003 17:47:42 +0200" {2130+}
+   0    0    0    0    0    0    0    0    0    0    0   3/  3
+ - 1149 stalled for 19 secs in command: 5 APPEND "INBOX" {1996+}
+ - 1130 stalled for 19 secs in command: 9 APPEND "INBOX" "10-Jul-2003 17:47:42 +0200" {2130+}
+Logi List Stat Sele Fetc Fet2 Stor Dele Expu Appe Logo 
+100%  50%  50% 100% 100% 100%  50% 100% 100% 100% 100% 
+                          30%                  5%      
+   0    0    0    0    0    0    0    0    0    0    0   3/  3
+ - 1149 stalled for 20 secs in command: 5 APPEND "INBOX" {1996+}
+ - 1130 stalled for 20 secs in command: 9 APPEND "INBOX" "10-Jul-2003 17:47:42 +0200" {2130+}
+   0    0    0    0    0    0    0    0    0    0    0   3/  3
+ - 1171 stalled for 16 secs in command: 2 SELECT "INBOX" (CONDSTORE)
+ - 1149 stalled for 21 secs in command: 5 APPEND "INBOX" {1996+}
+ - 1130 stalled for 21 secs in command: 9 APPEND "INBOX" "10-Jul-2003 17:47:42 +0200" {2130+}
+   0    0    0    0    0    0    0    0    0    0    0   3/  3
+ - 1171 stalled for 17 secs in command: 2 SELECT "INBOX" (CONDSTORE)
+ - 1149 stalled for 22 secs in command: 5 APPEND "INBOX" {1996+}
+ - 1130 stalled for 22 secs in command: 9 APPEND "INBOX" "10-Jul-2003 17:47:42 +0200" {2130+}
+   0    0    0    0    0    0    0    0    0    0    0   3/  3
+ - 1171 stalled for 18 secs in command: 2 SELECT "INBOX" (CONDSTORE)
+ - 1149 stalled for 23 secs in command: 5 APPEND "INBOX" {1996+}
+ - 1130 stalled for 23 secs in command: 9 APPEND "INBOX" "10-Jul-2003 17:47:42 +0200" {2130+}
+   0    0    0    0    0    0    0    0    0    0    0   3/  3
+ - 1171 stalled for 19 secs in command: 2 SELECT "INBOX" (CONDSTORE)
+ - 1149 stalled for 24 secs in command: 5 APPEND "INBOX" {1996+}
+ - 1130 stalled for 24 secs in command: 9 APPEND "INBOX" "10-Jul-2003 17:47:42 +0200" {2130+}
+   0    0    0    0    0    0    0    0    0    0    0   3/  3
+ - 1171 stalled for 20 secs in command: 2 SELECT "INBOX" (CONDSTORE)
+ - 1149 stalled for 25 secs in command: 5 APPEND "INBOX" {1996+}
+ - 1130 stalled for 25 secs in command: 9 APPEND "INBOX" "10-Jul-2003 17:47:42 +0200" {2130+}
+   0    0    0    0    0    0    0    0    0    0    0   3/  3
+ - 1171 stalled for 21 secs in command: 2 SELECT "INBOX" (CONDSTORE)
+ - 1149 stalled for 26 secs in command: 5 APPEND "INBOX" {1996+}
+ - 1130 stalled for 26 secs in command: 9 APPEND "INBOX" "10-Jul-2003 17:47:42 +0200" {2130+}
+   0    0    0    0    0    0    0    0    0    0    0   3/  3
+ - 1171 stalled for 22 secs in command: 2 SELECT "INBOX" (CONDSTORE)
+ - 1149 stalled for 27 secs in command: 5 APPEND "INBOX" {1996+}
+ - 1130 stalled for 27 secs in command: 9 APPEND "INBOX" "10-Jul-2003 17:47:42 +0200" {2130+}
+   0    0    0    0    0    0    0    0    0    2    4   1/  1
+ - 1171 stalled for 23 secs in command: 2 SELECT "INBOX" (CONDSTORE)
+   0    0    0    0    0    0    0    0    0    0    0   1/  1
+ - 1171 stalled for 24 secs in command: 2 SELECT "INBOX" (CONDSTORE)
+Logi List Stat Sele Fetc Fet2 Stor Dele Expu Appe Logo 
+100%  50%  50% 100% 100% 100%  50% 100% 100% 100% 100% 
+                          30%                  5%      
+   0    0    0    0    0    0    0    0    0    0    0   1/  1
+ - 1171 stalled for 25 secs in command: 2 SELECT "INBOX" (CONDSTORE)
+   0    0    0    0    0    0    0    0    0    0    0   1/  1
+ - 1171 stalled for 26 secs in command: 2 SELECT "INBOX" (CONDSTORE)
+   0    0    0    0    0    0    0    0    0    0    0   1/  1
+ - 1171 stalled for 27 secs in command: 2 SELECT "INBOX" (CONDSTORE)
+   0    0    0    0    0    0    0    0    0    0    0   1/  1
+ - 1171 stalled for 28 secs in command: 2 SELECT "INBOX" (CONDSTORE)
+   0    0    0    0    0    0    0    0    0    0    0   1/  1
+ - 1171 stalled for 29 secs in command: 2 SELECT "INBOX" (CONDSTORE)
+   0    0    0    0    0    0    0    0    0    0    0   1/  1
+ - 1171 stalled for 30 secs in command: 2 SELECT "INBOX" (CONDSTORE)
+   0    0    0    0    0    0    0    0    0    0    0   1/  1
+ - 1171 stalled for 31 secs in command: 2 SELECT "INBOX" (CONDSTORE)
+   0    0    0    0    0    0    0    0    0    0    0   1/  1
+ - 1171 stalled for 32 secs in command: 2 SELECT "INBOX" (CONDSTORE)
+   0    0    0    0    0    0    0    0    0    0    0   1/  1
+ - 1171 stalled for 33 secs in command: 2 SELECT "INBOX" (CONDSTORE)
+   0    0    0    0    0    0    0    0    0    0    0   1/  1
+ - 1171 stalled for 34 secs in command: 2 SELECT "INBOX" (CONDSTORE)
+Logi List Stat Sele Fetc Fet2 Stor Dele Expu Appe Logo 
+100%  50%  50% 100% 100% 100%  50% 100% 100% 100% 100% 
+                          30%                  5%      
+   0    0    0    0    0    0    0    0    0    0    0   1/  1
+ - 1171 stalled for 35 secs in command: 2 SELECT "INBOX" (CONDSTORE)
+   0    0    0    0    0    0    0    0    0    0    0   1/  1
+ - 1171 stalled for 36 secs in command: 2 SELECT "INBOX" (CONDSTORE)
+   0    0    0    0    0    0    0    0    0    0    0   1/  1
+ - 1171 stalled for 37 secs in command: 2 SELECT "INBOX" (CONDSTORE)
+   0    0    0    0    0    0    0    0    0    0    0   1/  1
+ - 1171 stalled for 38 secs in command: 2 SELECT "INBOX" (CONDSTORE)
+   0    0    0    0    0    0    0    0    0    0    0   1/  1
+ - 1171 stalled for 39 secs in command: 2 SELECT "INBOX" (CONDSTORE)
+   0    0    0    0    0    0    0    0    0    0    0   1/  1
+ - 1171 stalled for 40 secs in command: 2 SELECT "INBOX" (CONDSTORE)
+   0    0    0    0    0    0    0    0    0    0    0   1/  1
+ - 1171 stalled for 41 secs in command: 2 SELECT "INBOX" (CONDSTORE)
+   0    0    0    0    0    0    0    0    0    0    0   1/  1
+ - 1171 stalled for 42 secs in command: 2 SELECT "INBOX" (CONDSTORE)
+   0    0    0    0    0    0    0    0    0    0    0   1/  1
+ - 1171 stalled for 43 secs in command: 2 SELECT "INBOX" (CONDSTORE)
+   0    0    0    0    0    0    0    0    0    0    0   1/  1
+ - 1171 stalled for 44 secs in command: 2 SELECT "INBOX" (CONDSTORE)
+Logi List Stat Sele Fetc Fet2 Stor Dele Expu Appe Logo 
+100%  50%  50% 100% 100% 100%  50% 100% 100% 100% 100% 
+                          30%                  5%      
+   0    0    0    0    0    0    0    0    0    0    0   1/  1
+ - 1171 stalled for 45 secs in command: 2 SELECT "INBOX" (CONDSTORE)
+   0    0    0    0    0    0    0    0    0    0    0   1/  1
+ - 1171 stalled for 46 secs in command: 2 SELECT "INBOX" (CONDSTORE)
+   0    0    0    0    0    0    0    0    0    0    0   1/  1
+ - 1171 stalled for 47 secs in command: 2 SELECT "INBOX" (CONDSTORE)
+   0    0    0    0    0    0    0    0    0    0    0   1/  1
+ - 1171 stalled for 48 secs in command: 2 SELECT "INBOX" (CONDSTORE)
+   0    0    0    0    0    0    0    0    0    0    0   1/  1
+ - 1171 stalled for 49 secs in command: 2 SELECT "INBOX" (CONDSTORE)
+   0    0    0    0    0    0    0    0    0    0    0   1/  1
+ - 1171 stalled for 50 secs in command: 2 SELECT "INBOX" (CONDSTORE)
+   0    0    0    0    0    0    0    0    0    0    0   1/  1
+ - 1171 stalled for 51 secs in command: 2 SELECT "INBOX" (CONDSTORE)
+   0    0    0    0    0    0    0    0    0    0    0   1/  1
+ - 1171 stalled for 52 secs in command: 2 SELECT "INBOX" (CONDSTORE)
+   0    0    0    0    0    0    0    0    0    0    0   1/  1
+ - 1171 stalled for 53 secs in command: 2 SELECT "INBOX" (CONDSTORE)
+   0    0    0    0    0    0    0    0    0    0    0   1/  1
+ - 1171 stalled for 54 secs in command: 2 SELECT "INBOX" (CONDSTORE)
+Logi List Stat Sele Fetc Fet2 Stor Dele Expu Appe Logo 
+100%  50%  50% 100% 100% 100%  50% 100% 100% 100% 100% 
+                          30%                  5%      
+   0    0    0    0    0    0    0    0    0    0    0   1/  1
+ - 1171 stalled for 55 secs in command: 2 SELECT "INBOX" (CONDSTORE)
+
+Totals:
+Logi List Stat Sele Fetc Fet2 Stor Dele Expu Appe Logo 
+100%  50%  50% 100% 100% 100%  50% 100% 100% 100% 100% 
+                          30%                  5%      
+1260  634  635 1243  654  906   33  536  654 1226 2520 
