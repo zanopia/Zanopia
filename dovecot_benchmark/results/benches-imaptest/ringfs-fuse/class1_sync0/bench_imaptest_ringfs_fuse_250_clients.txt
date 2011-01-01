@@ -1,0 +1,137 @@
+Logi List Stat Sele Fetc Fet2 Stor Dele Expu Appe Logo 
+100%  50%  50% 100% 100% 100%  50% 100% 100% 100% 100% 
+                          30%                  5%      
+ 168    5    3    9    8   11    3    6    2    0    0 217/250
+   0    0    0    0    0    0    0    0    0    0    0 217/250
+   0    0    0    0    0    0    0    0    0    0    0 217/250
+   8    0    0    0    0    0    0    0    0    0    0 249/250
+  74    5    6   12    9   10    2    8    2    0    0 250/250
+   3   52   55  100   78  113   31   59   18    2    6 250/250
+   0    3    3    8    3    5    1    2    1    0    0 250/250
+  65   69   69  134  134  207   40  103   86   65  130 250/250
+   2    1    0    1    1    1    0    2    1    2    4 250/250
+   1    1    2    3    6    7    0    7    2    2    4 250/250
+Logi List Stat Sele Fetc Fet2 Stor Dele Expu Appe Logo 
+100%  50%  50% 100% 100% 100%  50% 100% 100% 100% 100% 
+                          30%                  5%      
+   0   11    3   25    3    3    0    4    9   12   19 242/250
+ 128   41   50   70   79  120   36   66   99  117  235 250/250
+   6    0    2    2   16   20    3   15   14    7   14 250/250
+   0    2    2    3    2    2    0    2    5    7   14 250/250
+  26   42   60   94   81  120   22   60   90   89  172 188/250
+  87   19   24   44   29   46   17   20   14   17   38 250/250
+   4    0    0    1   18   26    4   17   13    2    8 250/250
+   0    0    0    0   12   14    0   11    4    0    0 250/250
+   0    1    0    5    0    0    0    0    2    3    6 250/250
+  99   48   44  107   86  133   30   66   96   99  192 250/250
+Logi List Stat Sele Fetc Fet2 Stor Dele Expu Appe Logo 
+100%  50%  50% 100% 100% 100%  50% 100% 100% 100% 100% 
+                          30%                  5%      
+   9    3    7   10   27   37    3   25   28   14   38 250/250
+   0    0    0    0    2    3    0    2    1    0    0 250/250
+ 118   56   51  119   90  129   55   60   90  113  222 250/250
+  10    2    2    3   14   17    2   16    9    5   14 250/250
+   0    0    0    0    4    5    2    3    2    0    0 250/250
+   2    3    2   12   29   32    0   26   18   11   24 250/250
+ 102   49   56   99   81  127   34   64   88   92  184 250/250
+  26   12   12   19   18   30    6   17   21   26   54 250/250
+   1    0    0    0    2    3    0    2    1    0    0 250/250
+  24   31   28   54   59   78   17   49   44   39   76 238/250
+Logi List Stat Sele Fetc Fet2 Stor Dele Expu Appe Logo 
+100%  50%  50% 100% 100% 100%  50% 100% 100% 100% 100% 
+                          30%                  5%      
+  16    5    7   12   10   16    4    7    6    5   10 250/250
+  77   38   29   80   82  123   27   62   91   85  170 246/250
+  36   18   25   36   49   65   16   45   39   36   72 250/250
+   0    0    0    0    0    0    0    0    0    0    0 250/250
+  11    1    1    1    0    0    0    0    0    0    0 250/250
+ - 373 stalled for 16 secs in command: 8 EXPUNGE
+ - 360 stalled for 16 secs in command: 6 EXPUNGE
+  11    3    3   10   10   12    4   12   11   10   22 250/250
+   0    2    1    2    1    1    0    1    1    0    0 250/250
+ - 498 stalled for 16 secs in command: 9 EXPUNGE
+   1    1    0    1    2    2    1    2    1    1    2 250/250
+ - 498 stalled for 17 secs in command: 9 EXPUNGE
+  10    0    3    6    6    8    3    4   20   33   66 250/250
+ - 498 stalled for 18 secs in command: 9 EXPUNGE
+ 125   79   66  132   92  137   47   67  100  104  206 250/250
+ - 701 stalled for 16 secs in command: 8 STORE 6 +FLAGS.SILENT \Deleted
+Logi List Stat Sele Fetc Fet2 Stor Dele Expu Appe Logo 
+100%  50%  50% 100% 100% 100%  50% 100% 100% 100% 100% 
+                          30%                  5%      
+   4    2    1    3   25   29    2   25    9    5    8 250/250
+ - 701 stalled for 17 secs in command: 8 STORE 6 +FLAGS.SILENT \Deleted
+   6    0    0    0    6    8    1    6    5    6   12 250/250
+ - 701 stalled for 18 secs in command: 8 STORE 6 +FLAGS.SILENT \Deleted
+  72   29   43   63   63   83   27   52   68   70  142 250/250
+   6    5    3    8    3    3    3    4    4    7   14 250/250
+   8    2    1    4    7   10    3    6    7    7   16 250/250
+  19   22   22   50   54   77   18   37   50   44   88 228/250
+  34   14   12   27   21   29   12   14    8    8   16 250/250
+  69   30   33   62   46   67   26   34   69   70  138 250/250
+ - 745 stalled for 16 secs in command: 8 EXPUNGE
+ - 915 stalled for 16 secs in command: 9 APPEND "INBOX" (\Flagged \Seen $Label3 $Label4 $Label5) "16-Jun-2003 17:39:17 +0200" {2770+}
+ - 933 stalled for 16 secs in command: 7 EXPUNGE
+   0    0    0    0    9    9    1    9    3    0    0 250/250
+ - 745 stalled for 17 secs in command: 8 EXPUNGE
+ - 915 stalled for 17 secs in command: 9 APPEND "INBOX" (\Flagged \Seen $Label3 $Label4 $Label5) "16-Jun-2003 17:39:17 +0200" {2770+}
+ - 933 stalled for 17 secs in command: 7 EXPUNGE
+   0    1    1    1    5    5    1    4    3    0    0 250/250
+ - 745 stalled for 18 secs in command: 8 EXPUNGE
+ - 915 stalled for 18 secs in command: 9 APPEND "INBOX" (\Flagged \Seen $Label3 $Label4 $Label5) "16-Jun-2003 17:39:17 +0200" {2770+}
+ - 933 stalled for 18 secs in command: 7 EXPUNGE
+Logi List Stat Sele Fetc Fet2 Stor Dele Expu Appe Logo 
+100%  50%  50% 100% 100% 100%  50% 100% 100% 100% 100% 
+                          30%                  5%      
+   0    0    0    0    1    1    0    1    1    0    0 250/250
+ - 745 stalled for 19 secs in command: 8 EXPUNGE
+ - 915 stalled for 19 secs in command: 9 APPEND "INBOX" (\Flagged \Seen $Label3 $Label4 $Label5) "16-Jun-2003 17:39:17 +0200" {2770+}
+ - 933 stalled for 19 secs in command: 7 EXPUNGE
+  89   41   54   94   82  116   38   65   86   91  178 250/250
+  33    8   14   28   24   36   11   19   28   32   66 250/250
+  11    6    7   13   24   31    7   20   19   11   22 250/250
+ - 903 stalled for 16 secs in command: 7 EXPUNGE
+   0    0    0    0    6    7    1    5    3    0    0 250/250
+ - 903 stalled for 17 secs in command: 7 EXPUNGE
+   0    2    4    5    8    9    1    9    9    5   10 250/250
+ - 1250 stalled for 16 secs in command: 2 SELECT "INBOX" (CONDSTORE)
+ - 703 stalled for 16 secs in command: 8 EXPUNGE
+ - 997 stalled for 16 secs in command: 7 EXPUNGE
+ - 903 stalled for 18 secs in command: 7 EXPUNGE
+ - 1035 stalled for 16 secs in command: 8 EXPUNGE
+ 112   52   46  108   74  116   34   64   85  107  214 250/250
+ - 703 stalled for 17 secs in command: 8 EXPUNGE
+  19    6    9   16   11   25    5    9   13   18   38 250/250
+ - 703 stalled for 18 secs in command: 8 EXPUNGE
+  16    6    8   14   13   18    3   11   15   18   34 250/250
+ - 1225 stalled for 16 secs in command: 9 EXPUNGE
+ - 1329 stalled for 16 secs in command: 4 FETCH 1 (FLAGS BODY.PEEK[HEADER.FIELDS (Message-ID Delivered-To In-Reply-To)] UID)
+   2    2    2    3    8    9    0    8    3    1    2 250/250
+ - 1225 stalled for 17 secs in command: 9 EXPUNGE
+ - 1329 stalled for 17 secs in command: 4 FETCH 1 (FLAGS BODY.PEEK[HEADER.FIELDS (Message-ID Delivered-To In-Reply-To)] UID)
+ - 1300 stalled for 16 secs in command: 9 EXPUNGE
+Logi List Stat Sele Fetc Fet2 Stor Dele Expu Appe Logo 
+100%  50%  50% 100% 100% 100%  50% 100% 100% 100% 100% 
+                          30%                  5%      
+   0    0    0    0    0    0    0    0    0    0    0 250/250
+ - 1225 stalled for 18 secs in command: 9 EXPUNGE
+ - 1329 stalled for 18 secs in command: 4 FETCH 1 (FLAGS BODY.PEEK[HEADER.FIELDS (Message-ID Delivered-To In-Reply-To)] UID)
+ - 1120 stalled for 16 secs in command: 15 EXPUNGE
+ - 1300 stalled for 17 secs in command: 9 EXPUNGE
+   0   14   13   28   56   62    5   53   94   89  238 131/131
+ - 1293 stalled for 16 secs in command: 6 EXPUNGE
+ - 1214 stalled for 16 secs in command: 5 FETCH 1,4:6 (RFC822.SIZE UID BODY.PEEK[HEADER.FIELDS (Delivered-To)] BODY)
+ - 1300 stalled for 18 secs in command: 9 EXPUNGE
+   0    2    1    3   10   11    0   10   36   38   84  89/ 89
+ - 1293 stalled for 17 secs in command: 6 EXPUNGE
+   0    0    0    0    5    7    1    7   23   38   76  51/ 51
+ - 1466 stalled for 16 secs in command: 4 APPEND "INBOX" (\Seen \Draft $Label2 $Label5) "30-Aug-2003 20:34:09 +0200" {2256+}
+ - 1293 stalled for 18 secs in command: 6 EXPUNGE
+   0    1    1    1    2    3    1    4   13   19   40  31/ 31
+   0    0    0    0    0    0    0    1   22   29   58   2/  2
+
+Totals:
+Logi List Stat Sele Fetc Fet2 Stor Dele Expu Appe Logo 
+100%  50%  50% 100% 100% 100%  50% 100% 100% 100% 100% 
+                          30%                  5%      
+1750  848  891 1745 1706 2434  611 1389 1706 1713 3500 

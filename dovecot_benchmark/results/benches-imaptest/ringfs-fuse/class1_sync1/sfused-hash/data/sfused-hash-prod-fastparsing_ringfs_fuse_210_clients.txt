@@ -1,0 +1,152 @@
+Logi List Stat Sele Fetc Fet2 Stor Dele Expu Appe Logo 
+100%  50%  50% 100% 100% 100%  50% 100% 100% 100% 100% 
+                          30%                  5%      
+  83    6    6   13    0    0    0    0    0    0    0 210/210
+  80    6    6   11    0    0    0    0    0    7   14 210/210
+   5    0    0    2    0    0    0    0    0    1    2 210/210
+  11    8    6   14    0    0    0    0    0    4    8 210/210
+   8   22   22   46    0    0    0    0    0    3    6 210/210
+   4    2    2    5    2    3    0    1    2   14   28 210/210
+   0    0    0    0    0    0    0    0    0    0    0 210/210
+   0    0    0    0    0    0    0    0    0    0    0 210/210
+  27    7    6   12    0    0    0    0    0    3    6 210/210
+   0    0    0    0    0    0    0    0    0    0    0 210/210
+Logi List Stat Sele Fetc Fet2 Stor Dele Expu Appe Logo 
+100%  50%  50% 100% 100% 100%  50% 100% 100% 100% 100% 
+                          30%                  5%      
+   0    0    0    0    0    0    0    0    0    0    0 210/210
+  27   43   42   89    3    4    0    2    2   11   22 210/210
+   9    6    3   10    0    0    0    0    0    9   18 210/210
+  28    9   12   21    4    7    0    3    2   54  108 210/210
+  21    7    5   15    6   10    1    5    1   21   42 210/210
+  54   24   27   55    9   11    1    7    8   43   86 210/210
+  27   19   19   33   10   11    1   10    8   26   52 210/210
+   4    3    4    7    7    7    0    6    7    8   16 210/210
+  17    0    0    0    0    0    0    0    0    0    0 210/210
+   9    0    0    0    0    0    0    0    0    0    0 210/210
+Logi List Stat Sele Fetc Fet2 Stor Dele Expu Appe Logo 
+100%  50%  50% 100% 100% 100%  50% 100% 100% 100% 100% 
+                          30%                  5%      
+   0    0    0    0    0    0    0    0    0    0    0 210/210
+ - 98 stalled for 16 secs in command: 4 APPEND "INBOX" "19-Oct-2002 18:11:38 +0200" {9049+}
+  17   32   30   62    5   10    0    4    2   21   42 210/210
+   2    5    2   12    4    4    0    4    1    3    6 210/210
+  29   14   15   26   11   16    2    8   10   43   86 210/210
+  17    0    0    0    1    1    0    1    0    0    0 210/210
+  30   15   18   33   17   22    2   12   15   38   76 210/210
+  42   26   20   44   18   29    1   12   17   48   96 210/210
+   0    0    0    0    0    0    0    0    0    1    2 210/210
+ - 61 stalled for 16 secs in command: 5 APPEND "INBOX" ($Label2) {1763+}
+ - 129 stalled for 16 secs in command: 4 APPEND "INBOX" "17-Dec-2002 05:02:01 +0100" {1891+}
+ - 137 stalled for 16 secs in command: 3 APPEND "INBOX" {2127+}
+ - 140 stalled for 16 secs in command: 3 APPEND "INBOX" "01-Dec-2002 23:07:08 +0100" {1900+}
+ - 205 stalled for 16 secs in command: 3 APPEND "INBOX" (\Answered \Flagged \Draft $Label5) {1838+}
+  46   13   10   17   12   14    0   12   13   31   62 210/210
+ - 269 stalled for 16 secs in command: 4 APPEND "INBOX" {1993+}
+ - 61 stalled for 17 secs in command: 5 APPEND "INBOX" ($Label2) {1763+}
+ - 129 stalled for 17 secs in command: 4 APPEND "INBOX" "17-Dec-2002 05:02:01 +0100" {1891+}
+ - 205 stalled for 17 secs in command: 3 APPEND "INBOX" (\Answered \Flagged \Draft $Label5) {1838+}
+  25   21   23   45   14   25    2    7    7   26   52 210/210
+ - 61 stalled for 18 secs in command: 5 APPEND "INBOX" ($Label2) {1763+}
+ - 205 stalled for 18 secs in command: 3 APPEND "INBOX" (\Answered \Flagged \Draft $Label5) {1838+}
+Logi List Stat Sele Fetc Fet2 Stor Dele Expu Appe Logo 
+100%  50%  50% 100% 100% 100%  50% 100% 100% 100% 100% 
+                          30%                  5%      
+  13   14   10   25   18   21    1   14    9   17   34 210/210
+ - 61 stalled for 19 secs in command: 5 APPEND "INBOX" ($Label2) {1763+}
+ - 205 stalled for 19 secs in command: 3 APPEND "INBOX" (\Answered \Flagged \Draft $Label5) {1838+}
+  54   24   27   43   27   42    3   24   27   60  120 209/210
+  11    9   11   22    6    6    0    6    7   11   22 210/210
+ - 369 stalled for 16 secs in command: 4 APPEND "INBOX" (\Answered \Seen $Label1) {2071+}
+ - 359 stalled for 16 secs in command: 4 APPEND "INBOX" "25-Feb-2003 02:11:33 +0100" {2995+}
+ - 353 stalled for 16 secs in command: 4 APPEND "INBOX" {1855+}
+ - 106 stalled for 16 secs in command: 3 APPEND "INBOX" (\Answered \Seen \Draft) {1891+}
+   5    0    0    0   15   15    0   15   10    4    8 210/210
+ - 369 stalled for 17 secs in command: 4 APPEND "INBOX" (\Answered \Seen $Label1) {2071+}
+ - 359 stalled for 17 secs in command: 4 APPEND "INBOX" "25-Feb-2003 02:11:33 +0100" {2995+}
+ - 353 stalled for 17 secs in command: 4 APPEND "INBOX" {1855+}
+ - 106 stalled for 17 secs in command: 3 APPEND "INBOX" (\Answered \Seen \Draft) {1891+}
+  53   30   35   59   23   50    4   16   24   51  102 210/210
+ - 359 stalled for 18 secs in command: 4 APPEND "INBOX" "25-Feb-2003 02:11:33 +0100" {2995+}
+ - 353 stalled for 18 secs in command: 4 APPEND "INBOX" {1855+}
+   4    6    6   10    4    5    1    3    1    2    4 210/210
+ - 359 stalled for 19 secs in command: 4 APPEND "INBOX" "25-Feb-2003 02:11:33 +0100" {2995+}
+ - 353 stalled for 19 secs in command: 4 APPEND "INBOX" {1855+}
+  23   12   11   23   27   35    1   21   22   15   30 210/210
+ - 359 stalled for 20 secs in command: 4 APPEND "INBOX" "25-Feb-2003 02:11:33 +0100" {2995+}
+ - 353 stalled for 20 secs in command: 4 APPEND "INBOX" {1855+}
+   9    3    6   11    7    7    0    6   14   41   82 210/210
+ - 359 stalled for 21 secs in command: 4 APPEND "INBOX" "25-Feb-2003 02:11:33 +0100" {2995+}
+ - 353 stalled for 21 secs in command: 4 APPEND "INBOX" {1855+}
+  66   35   34   68   21   36    2   17   26   49   98 209/210
+  16    6    5    9    4    6    0    3    3    7   14 210/210
+Logi List Stat Sele Fetc Fet2 Stor Dele Expu Appe Logo 
+100%  50%  50% 100% 100% 100%  50% 100% 100% 100% 100% 
+                          30%                  5%      
+   2    0    0    0    0    0    0    0    0    1    2 210/210
+  16    3    2    4   19   19    0   19   16   11   22 210/210
+  58   27   27   63   27   44    6   25   26   59  116 210/210
+   4    2    1    3    2    3    0    2    3    5   10 210/210
+   9    2    2    2    8    9    0    4    7   13   26 208/210
+ - 536 stalled for 16 secs in command: 5 APPEND "INBOX" "14-Apr-2003 15:31:55 +0200" {2604+}
+ - 452 stalled for 16 secs in command: 4 APPEND "INBOX" {2432+}
+  35   30   35   69   43   58    6   32   33   32   66 210/210
+   7    1    2    3    3    4    0    1    5    8   16 210/210
+  64   31   29   62   41   67    4   30   42   68  136 210/210
+ - 572 stalled for 16 secs in command: 8 EXPUNGE
+   5    2    2    5    3    3    0    3    1    0    0 210/210
+ - 572 stalled for 17 secs in command: 8 EXPUNGE
+  10    8   10   16    2    4    0    1    3    7   14 210/210
+ - 572 stalled for 18 secs in command: 8 EXPUNGE
+Logi List Stat Sele Fetc Fet2 Stor Dele Expu Appe Logo 
+100%  50%  50% 100% 100% 100%  50% 100% 100% 100% 100% 
+                          30%                  5%      
+  37   15   22   38   43   58    3   33   31   41   82 210/210
+ - 572 stalled for 19 secs in command: 8 EXPUNGE
+   5    0    1    1    1    1    1    2    3    6   12 210/210
+ - 572 stalled for 20 secs in command: 8 EXPUNGE
+  41   17   17   41   33   56    6   18   27   40   80 210/210
+  32   10   10   27   17   23    0   13   24   36   72 210/210
+   5    0    0    0    0    0    0    0    0    0    0 210/210
+ - 683 stalled for 16 secs in command: 4 APPEND "INBOX" {2790+}
+ - 852 stalled for 16 secs in command: 8 STORE 1 +FLAGS \Deleted
+ - 665 stalled for 16 secs in command: 5 APPEND "INBOX" (\Answered \Flagged \Draft $Label1) {4351+}
+  21   16    8   31   27   42    5   23   20   21   42 210/210
+ - 683 stalled for 17 secs in command: 4 APPEND "INBOX" {2790+}
+ - 665 stalled for 17 secs in command: 5 APPEND "INBOX" (\Answered \Flagged \Draft $Label1) {4351+}
+ - 880 stalled for 16 secs in command: 3 APPEND "INBOX" "03-Jun-2003 11:14:29 +0200" {4485+}
+   5    2    2    2    0    0    0    0    0    2    4 210/210
+ - 683 stalled for 18 secs in command: 4 APPEND "INBOX" {2790+}
+ - 665 stalled for 18 secs in command: 5 APPEND "INBOX" (\Answered \Flagged \Draft $Label1) {4351+}
+ - 880 stalled for 17 secs in command: 3 APPEND "INBOX" "03-Jun-2003 11:14:29 +0200" {4485+}
+  34   28   24   40   32   49    2   25   21   35   70 210/210
+ - 665 stalled for 19 secs in command: 5 APPEND "INBOX" (\Answered \Flagged \Draft $Label1) {4351+}
+  26    7    2   10    3    5    0    1   12   27   52 210/210
+ - 665 stalled for 20 secs in command: 5 APPEND "INBOX" (\Answered \Flagged \Draft $Label1) {4351+}
+  38   31   27   53   43   68    5   35   34   39   76 210/210
+ - 665 stalled for 21 secs in command: 5 APPEND "INBOX" (\Answered \Flagged \Draft $Label1) {4351+}
+Logi List Stat Sele Fetc Fet2 Stor Dele Expu Appe Logo 
+100%  50%  50% 100% 100% 100%  50% 100% 100% 100% 100% 
+                          30%                  5%      
+   1    0    1    1    5    6    0    2   10   12   28 196/196
+ - 665 stalled for 22 secs in command: 5 APPEND "INBOX" (\Answered \Flagged \Draft $Label1) {4351+}
+ - 992 stalled for 16 secs in command: 9 APPEND "INBOX" (\Answered \Flagged \Seen \Draft $Label2) "24-Jun-2003 19:18:03 +0200" {2584+}
+   0    0    0    0    0    0    0    0    0    0    0 196/196
+ - 665 stalled for 23 secs in command: 5 APPEND "INBOX" (\Answered \Flagged \Draft $Label1) {4351+}
+ - 992 stalled for 17 secs in command: 9 APPEND "INBOX" (\Answered \Flagged \Seen \Draft $Label2) "24-Jun-2003 19:18:03 +0200" {2584+}
+   0    5    4    9   34   35    1   37   35   41  103 145/145
+ - 992 stalled for 18 secs in command: 9 APPEND "INBOX" (\Answered \Flagged \Seen \Draft $Label2) "24-Jun-2003 19:18:03 +0200" {2584+}
+   0    1    1    1   10   13    0   14   42   68  139  75/ 75
+ - 790 stalled for 16 secs in command: 3 FETCH 2:3 (RFC822.SIZE RFC822.SIZE UID)
+ - 1078 stalled for 16 secs in command: 4 APPEND "INBOX" ($Label1 $Label2 $Label3 $Label5) {2637+}
+ - 1077 stalled for 16 secs in command: 4 APPEND "INBOX" (\Answered $Label1) "02-Jul-2003 04:56:57 +0200" {2330+}
+   0    3    0    3    4    4    0    3   38   67  140   5/  5
+ - 790 stalled for 17 secs in command: 3 FETCH 2:3 (RFC822.SIZE RFC822.SIZE UID)
+   0    0    0    0    0    0    0    0    2    2    4   3/  3
+ - 790 stalled for 18 secs in command: 3 FETCH 2:3 (RFC822.SIZE RFC822.SIZE UID)
+
+Totals:
+Logi List Stat Sele Fetc Fet2 Stor Dele Expu Appe Logo 
+100%  50%  50% 100% 100% 100%  50% 100% 100% 100% 100% 
+                          30%                  5%      
+1331  668  652 1326  676  969   61  542  676 1316 2662 

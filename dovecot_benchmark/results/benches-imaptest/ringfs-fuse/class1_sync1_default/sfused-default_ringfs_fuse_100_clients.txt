@@ -1,0 +1,107 @@
+Logi List Stat Sele Fetc Fet2 Stor Dele Expu Appe Logo 
+100%  50%  50% 100% 100% 100%  50% 100% 100% 100% 100% 
+                          30%                  5%      
+  85   17   13   34    0    0    0    0    0    0    0 100/100
+  13   11   15   31    0    0    0    0    0    0    0 100/100
+  17   26   23   40    1    1    0    1    1   30   60 100/100
+  14    8    8   14    2    4    0    1    1   46   92 100/100
+  33   14    7   27    5    5    0    4    5   17   34 100/100
+  22   10   11   19    5    7    1    4    0   17   34 100/100
+   1    0    1    1    0    0    0    0    1    8   16 100/100
+   0    0    0    0    0    0    0    0    0    0    0 100/100
+  26    3    3    6    0    0    0    0    0    0    0 100/100
+  15   18   16   33    7   14    0    5    6   28   56 100/100
+Logi List Stat Sele Fetc Fet2 Stor Dele Expu Appe Logo 
+100%  50%  50% 100% 100% 100%  50% 100% 100% 100% 100% 
+                          30%                  5%      
+  22   10   13   27    4    5    0    4    3   17   34  97/100
+  16   10    8   19    7    8    2    9    8   24   48 100/100
+  44   10   19   31    6    9    0    5    6   33   66 100/100
+  13   19   10   28    7    9    0    7    3   16   32 100/100
+  20    4    7   15    9   13    0    7    7   18   36 100/100
+  13    8    9   18    5    8    1    6    4   19   38 100/100
+  44   10   14   22    5    9    1    4    9   30   60 100/100
+  14   15   16   30   10   11    0    9    6   17   34 100/100
+  11   11    8   12    8   14    1    5   11   19   38 100/100
+   0    0    0    0    0    0    0    0    0    0    0 100/100
+Logi List Stat Sele Fetc Fet2 Stor Dele Expu Appe Logo 
+100%  50%  50% 100% 100% 100%  50% 100% 100% 100% 100% 
+                          30%                  5%      
+   0    0    0    2    1    1    0    1    1    0    0 100/100
+   0    0    0    0    0    0    0    0    0    0    0 100/100
+   0    0    0    0    0    0    0    0    0    0    0 100/100
+  13    4    4    5    0    0    0    0    0    3    6 100/100
+  16   12   10   22    9   12    0    6    6   22   44  97/100
+   9    2    3    8    7    8    2    2    8   11   22 100/100
+   0    0    0    0    0    0    0    0    0    0    0 100/100
+   6    4    5    7    2    2    0    2    0    0    0 100/100
+  11   12    7   20    4    4    0    4    2    3    6 100/100
+   0    0    0    1    0    0    0    0    0    0    0 100/100
+ - 316 stalled for 16 secs in command: 4 APPEND "INBOX" {1773+}
+Logi List Stat Sele Fetc Fet2 Stor Dele Expu Appe Logo 
+100%  50%  50% 100% 100% 100%  50% 100% 100% 100% 100% 
+                          30%                  5%      
+   0    1    2    3    0    0    0    0    0    0    0 100/100
+ - 316 stalled for 17 secs in command: 4 APPEND "INBOX" {1773+}
+ - 232 stalled for 16 secs in command: 4 APPEND "INBOX" "06-Mar-2003 15:20:33 +0100" {1646+}
+ - 308 stalled for 16 secs in command: 3 APPEND "INBOX" (\Answered \Seen) {2392+}
+ - 309 stalled for 16 secs in command: 5 APPEND "INBOX" (\Answered) {2283+}
+  15    3    5    8    9   11    0    7   13   16   32 100/100
+ - 371 stalled for 16 secs in command: 5 APPEND "INBOX" "07-Mar-2003 18:39:11 +0100" {3047+}
+ - 316 stalled for 18 secs in command: 4 APPEND "INBOX" {1773+}
+ - 232 stalled for 17 secs in command: 4 APPEND "INBOX" "06-Mar-2003 15:20:33 +0100" {1646+}
+ - 308 stalled for 17 secs in command: 3 APPEND "INBOX" (\Answered \Seen) {2392+}
+ - 309 stalled for 17 secs in command: 5 APPEND "INBOX" (\Answered) {2283+}
+  52   12    9   20    8   12    1    7   11   54  108 100/100
+  10   13   20   37   11   22    1   10    3    7   14 100/100
+ - 336 stalled for 16 secs in command: 3 APPEND "INBOX" (\Answered $Label2 $Label5) {2050+}
+ - 324 stalled for 16 secs in command: 4 APPEND "INBOX" "17-Mar-2003 16:24:11 +0100" {1819+}
+ - 404 stalled for 16 secs in command: 3 APPEND "INBOX" {2468+}
+ - 415 stalled for 16 secs in command: 4 APPEND "INBOX" (\Answered $Label3) "19-Mar-2003 19:50:39 +0100" {2997+}
+ - 376 stalled for 16 secs in command: 4 APPEND "INBOX" (\Answered \Flagged $Label2 $Label5) {3035+}
+ - 375 stalled for 16 secs in command: 5 APPEND "INBOX" {2119+}
+  25   18   13   27   24   28    1   23   14   25   50 100/100
+ - 336 stalled for 17 secs in command: 3 APPEND "INBOX" (\Answered $Label2 $Label5) {2050+}
+ - 324 stalled for 17 secs in command: 4 APPEND "INBOX" "17-Mar-2003 16:24:11 +0100" {1819+}
+  37   14   12   27   21   25    2   15   16   37   74 100/100
+  20    9   14   28   20   28    1   18   20   24   48 100/100
+  16    9    9   18   18   24    2   12   18   18   36 100/100
+  22   13   16   22   13   20    1    9   14   23   46 100/100
+  31   14   14   31   12   16    1    7   18   27   54 100/100
+Logi List Stat Sele Fetc Fet2 Stor Dele Expu Appe Logo 
+100%  50%  50% 100% 100% 100%  50% 100% 100% 100% 100% 
+                          30%                  5%      
+   9    5    7   15   10   13    1   10   10   11   22 100/100
+  29    7    9   19   14   18    3    9   20   24   48 100/100
+  12   12    8   21   20   27    1   15   12   16   32 100/100
+  25   13   10   22   10   20    0    8   12   27   54 100/100
+  17    4    3   13    9   11    2    8   10   13   26 100/100
+   2    7    3   10   11   13    0   11    9    5   10 100/100
+  40   10   15   26   23   40    2   18   27   36   72 100/100
+  25   17   17   35    6   11    0    4    9   25   50 100/100
+   7    2    2    7   12   16    0   11    8    6   12 100/100
+  30   12   20   36   28   38    1   25   22   31   62 100/100
+Logi List Stat Sele Fetc Fet2 Stor Dele Expu Appe Logo 
+100%  50%  50% 100% 100% 100%  50% 100% 100% 100% 100% 
+                          30%                  5%      
+  13    1    5    9    5    7    1    4    3   12   24 100/100
+  44   22   17   43   31   56    4   21   30   45   90 100/100
+   2    0    3    4    1    1    0    1    1    1    2 100/100
+  16    4    9   14   25   33    0   24   19   16   32 100/100
+   5    6    4    8    3    5    0    2    7   13   24  95/100
+  57   20   29   51   32   63    3   23   34   49  100 100/100
+  10    7    7   15   20   25    1   18   12   11   22 100/100
+  10    4    6   11   10   13    1   11   10    9   18 100/100
+  41   14   14   26   12   21    1    7   26   41   82 100/100
+  12    8   13   25   19   28    1   17   11   12   24 100/100
+Logi List Stat Sele Fetc Fet2 Stor Dele Expu Appe Logo 
+100%  50%  50% 100% 100% 100%  50% 100% 100% 100% 100% 
+                          30%                  5%      
+   0    4    1    5   19   21    0   21   23   24   56  72/ 72
+   0    1    1    1   11   12    0    6   27   36   76  34/ 34
+
+Totals:
+Logi List Stat Sele Fetc Fet2 Stor Dele Expu Appe Logo 
+100%  50%  50% 100% 100% 100%  50% 100% 100% 100% 100% 
+                          30%                  5%      
+1112  524  547 1109  572  824   40  469  572 1106 2224 
