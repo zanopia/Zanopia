@@ -4,12 +4,15 @@ IMAPTEST=/root/imaptest-20100922/src/imaptest
 MBOX=/root/dovecot-crlf
 USERFILE=/etc/dovecot/userlist
 OUTDIR=/root/benches-imaptest/ringfs-fuse
-SFUSED=/root/sfused
+SFUSED=/root/sfused-default
 SFUSED_CONF=/etc/sfused.conf
 CREATE_DIR_SCRIPT=/root/c.sh
+N_WORKERS=100
 
+# start cleaning the directory where we want to mount the remote storage
+rm -rf /mnt/dovecot/*
 
-for c in $(seq -w 130 10 130); do
+for c in $(seq  10 10 500); do
 
 	echo "[*] cleaning dovecot log files"
 	> /var/log/dovecot.log
@@ -26,8 +29,12 @@ for c in $(seq -w 130 10 130); do
 	sleep 2
 	echo "[*] done"
 
-	sed -i "s:dev\ =.*$:dev\ =\ 1234${c}:g" $SFUSED_CONF
+	sed -i "s:dev\ =.*$:dev\ =\ 691${c}:g" $SFUSED_CONF
+	N_WORKERS=$((4 * ${c}))
+	sed -i "s:n_workers\ =.*$:n_workers\ =\ ${c}:g" $SFUSED_CONF
+	echo "[*] Set n_workers = ${N_WORKERS} in config file"
 
+	
 	echo "[*] Killing any resilient sfused process..."
 	killall -9 sfused
 	sleep 2
@@ -51,6 +58,6 @@ for c in $(seq -w 130 10 130); do
 	sleep 2
 
 	echo "[*] Running imaptest for $c clients"
-	$IMAPTEST clients=$c secs=60 seed=4242 mbox=$MBOX no_tracking userfile=$USERFILE pass=pass >> $OUTDIR/bench_imaptest_ringfs_fuse_${c}_clients.txt
+	$IMAPTEST clients=$c secs=60 seed=4242 mbox=$MBOX no_tracking userfile=$USERFILE pass=pass >> $OUTDIR/$(basename $SFUSED)_ringfs_fuse_${c}_clients.txt
 	sleep 2
 done

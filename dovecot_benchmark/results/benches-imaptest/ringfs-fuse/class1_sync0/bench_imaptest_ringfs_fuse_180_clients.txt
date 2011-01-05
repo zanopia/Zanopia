@@ -1,0 +1,130 @@
+Logi List Stat Sele Fetc Fet2 Stor Dele Expu Appe Logo 
+100%  50%  50% 100% 100% 100%  50% 100% 100% 100% 100% 
+                          30%                  5%      
+ 180    1    0    1    1    2    0    1    0    0    0 180/180
+   2   88   84  178  157  239   42  125   46    1    4 180/180
+  12    0    0    0    1    1    0    0    7   12   24 180/180
+ 109   14   13   28   24   31    4   21   84  112  224 180/180
+  55   50   49  111  106  152   25   86   68   52  104 180/180
+   0    1    2    4   10   10    0   10    6    0    0 180/180
+  38   18   20   40   37   50   17   31   40   43   86 180/180
+   7    0    0    1    1    3    0    1    3    4    8 180/180
+  60   22   22   47   36   53   10   26   53   58  116 180/180
+   0    4    0    6    3    3    0    3    2    1    4 180/180
+Logi List Stat Sele Fetc Fet2 Stor Dele Expu Appe Logo 
+100%  50%  50% 100% 100% 100%  50% 100% 100% 100% 100% 
+                          30%                  5%      
+  57   26   25   46   46   69   11   33   52   55  110 180/180
+   0    0    0    0    7    7    0    7    4    0    0 180/180
+  41   29   26   55   55   85   19   44   48   48   92 180/180
+   0    0    0    0    1    1    0    1    1    0    0 180/180
+  41   26   27   47   57   90   11   53   50   61  124 180/180
+   0    0    0    0    0    0    0    0    0    0    0 180/180
+   0    0    0    0    0    0    0    0    0    0    0 180/180
+   0    0    0    0    0    0    0    0    0    0    0 180/180
+  28    2    1    1    0    0    0    1    2    2    4 180/180
+   0    0    0    0    0    0    0    0    0    0    0 180/180
+ - 272 stalled for 16 secs in command: 8 EXPUNGE
+Logi List Stat Sele Fetc Fet2 Stor Dele Expu Appe Logo 
+100%  50%  50% 100% 100% 100%  50% 100% 100% 100% 100% 
+                          30%                  5%      
+  13   30   25   67   51   65   14   43   19   12   26 180/180
+ - 272 stalled for 17 secs in command: 8 EXPUNGE
+  30   10   11   18   16   24    6   14   31   33   66 180/180
+ - 272 stalled for 18 secs in command: 8 EXPUNGE
+  73   33   41   61   56   81   16   46   70   72  142 180/180
+  25    7    9   14   12   16    2    9   21   23   48 180/180
+   0    0    0    1   11   13    0   10    5    3    6 180/180
+  89   43   53   96   69  110   21   48   79   86  172 180/180
+ - 379 stalled for 16 secs in command: 8 EXPUNGE
+  21    8    6   18   18   34    5    7   17   21   42 180/180
+   1    2    0    2   35   37    1   36   18    3    6 180/180
+ - 565 stalled for 16 secs in command: 4 APPEND "INBOX" "09-Apr-2003 14:03:54 +0200" {1820+}
+   0    0    0    0    0    0    0    0    0    0    0 180/180
+ - 565 stalled for 17 secs in command: 4 APPEND "INBOX" "09-Apr-2003 14:03:54 +0200" {1820+}
+  79   49   55   95   59  102   16   47   67   77  154 180/180
+Logi List Stat Sele Fetc Fet2 Stor Dele Expu Appe Logo 
+100%  50%  50% 100% 100% 100%  50% 100% 100% 100% 100% 
+                          30%                  5%      
+  13    7    7   15   21   29    3   20   26   25   50 180/180
+   0    0    0    0    2    3    0    2    1    0    0 180/180
+  74   31   36   72   64  102   13   40   57   62  124 180/180
+  30   14   10   25   26   38    4   20   31   29   60 180/180
+   0    0    0    0    8   10    0    7    6    1    2 180/180
+  58   28   31   66   54   90   15   48   49   57  114 180/180
+   9    3    2    5    2    4    1    2    7    9   18 180/180
+   7    2    1    2    9   10    0    6   14   11   22 180/180
+  47   24   28   55   54   67   11   48   51   43   86 180/180
+  34   11   13   23   36   42    8   33   38   36   72 180/180
+Logi List Stat Sele Fetc Fet2 Stor Dele Expu Appe Logo 
+100%  50%  50% 100% 100% 100%  50% 100% 100% 100% 100% 
+                          30%                  5%      
+   3    2    3    5    2    2    1    3    3    4    8 180/180
+  94   50   46   98   58   89   19   41   69   91  182 180/180
+   4    1    4    6    3    3    0    5    4    4    8 180/180
+   0    0    0    0    1    1    0    1    1    0    0 180/180
+  16   11    9   24   63   72    3   56   36   16   32 180/180
+ - 846 stalled for 16 secs in command: 9 STORE 1:2 +FLAGS.SILENT \Deleted
+ - 954 stalled for 16 secs in command: 4 APPEND "INBOX" {2579+}
+ - 779 stalled for 16 secs in command: 7 EXPUNGE
+ - 804 stalled for 16 secs in command: 8 APPEND "INBOX" (\Flagged \Draft $Label3) "07-Jun-2003 09:37:28 +0200" {3029+}
+  55   27   23   52   29   49    5   21   48   60  120 180/180
+ - 846 stalled for 17 secs in command: 9 STORE 1:2 +FLAGS.SILENT \Deleted
+ - 954 stalled for 17 secs in command: 4 APPEND "INBOX" {2579+}
+ - 779 stalled for 17 secs in command: 7 EXPUNGE
+ - 804 stalled for 17 secs in command: 8 APPEND "INBOX" (\Flagged \Draft $Label3) "07-Jun-2003 09:37:28 +0200" {3029+}
+   0    2    1    2    2    2    0    1    3    3    6 180/180
+ - 887 stalled for 16 secs in command: 3 APPEND "INBOX" (\Answered \Flagged $Label1) "23-Jun-2003 21:17:14 +0200" {2211+}
+ - 846 stalled for 18 secs in command: 9 STORE 1:2 +FLAGS.SILENT \Deleted
+ - 954 stalled for 18 secs in command: 4 APPEND "INBOX" {2579+}
+ - 779 stalled for 18 secs in command: 7 EXPUNGE
+ - 804 stalled for 18 secs in command: 8 APPEND "INBOX" (\Flagged \Draft $Label3) "07-Jun-2003 09:37:28 +0200" {3029+}
+  51   21   22   46   53   70   11   46   42   45   90 180/180
+ - 887 stalled for 17 secs in command: 3 APPEND "INBOX" (\Answered \Flagged $Label1) "23-Jun-2003 21:17:14 +0200" {2211+}
+ - 846 stalled for 19 secs in command: 9 STORE 1:2 +FLAGS.SILENT \Deleted
+ - 954 stalled for 19 secs in command: 4 APPEND "INBOX" {2579+}
+ - 779 stalled for 19 secs in command: 7 EXPUNGE
+ - 804 stalled for 19 secs in command: 8 APPEND "INBOX" (\Flagged \Draft $Label3) "07-Jun-2003 09:37:28 +0200" {3029+}
+  29   16   12   29   11   22    4    7   17   28   56 180/180
+ - 846 stalled for 20 secs in command: 9 STORE 1:2 +FLAGS.SILENT \Deleted
+ - 954 stalled for 20 secs in command: 4 APPEND "INBOX" {2579+}
+ - 779 stalled for 20 secs in command: 7 EXPUNGE
+   3    1    1    1    5    5    0    4    4    3    6 180/180
+ - 846 stalled for 21 secs in command: 9 STORE 1:2 +FLAGS.SILENT \Deleted
+ - 954 stalled for 21 secs in command: 4 APPEND "INBOX" {2579+}
+ - 779 stalled for 21 secs in command: 7 EXPUNGE
+Logi List Stat Sele Fetc Fet2 Stor Dele Expu Appe Logo 
+100%  50%  50% 100% 100% 100%  50% 100% 100% 100% 100% 
+                          30%                  5%      
+  35   20   21   37   49   60   10   46   50   36   70 180/180
+ - 846 stalled for 22 secs in command: 9 STORE 1:2 +FLAGS.SILENT \Deleted
+ - 954 stalled for 22 secs in command: 4 APPEND "INBOX" {2579+}
+ - 779 stalled for 22 secs in command: 7 EXPUNGE
+  55   27   20   54   53   81   12   36   55   55  110 180/180
+   8    4    3    5    4    6    1    4    5    8   16 180/180
+  32    6    9   16   30   34    4   28   26   31   64 180/180
+   2    1    1    1    0    0    0    1    1    2    4 180/180
+  62   36   37   74   41   78   10   28   43   62  124 180/180
+  24   15   11   26   51   68    6   47   33   24   46 180/180
+  17    8    6   11   17   21    5   16   18   19   38 179/180
+  21    7    8   16   15   28    2    5   19   19   38 180/180
+   3    3    4    7    4    7    1    2   10   10   20 180/180
+Logi List Stat Sele Fetc Fet2 Stor Dele Expu Appe Logo 
+100%  50%  50% 100% 100% 100%  50% 100% 100% 100% 100% 
+                          30%                  5%      
+   7   15   13   29   16   20    1   19   56   72  214  73/ 73
+   0    1    0    3    8    8    0   10   40   59  128   9/  9
+   0    0    0    0    0    0    0    0    0    2    4   7/  7
+   0    0    1    1    0    2    0    2    3    3    8   3/  3
+   0    0    0    0    0    0    0    0    0    0    0   3/  3
+   0    0    0    0    0    0    0    0    0    0    0   3/  3
+   0    0    0    0    0    0    0    0    0    0    0   3/  3
+   0    0    0    0    0    0    0    0    0    0    0   3/  3
+   0    0    0    0    0    0    0    0    0    1    2   2/  2
+   0    0    0    0    0    0    0    0    0    0    0   2/  2
+
+Totals:
+Logi List Stat Sele Fetc Fet2 Stor Dele Expu Appe Logo 
+100%  50%  50% 100% 100% 100%  50% 100% 100% 100% 100% 
+                          30%                  5%      
+1754  857  852 1743 1660 2401  370 1358 1660 1711 3508 

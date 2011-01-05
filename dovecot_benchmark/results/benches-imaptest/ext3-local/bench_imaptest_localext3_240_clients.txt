@@ -1,0 +1,128 @@
+Logi List Stat Sele Fetc Fet2 Stor Dele Expu Appe Logo 
+100%  50%  50% 100% 100% 100%  50% 100% 100% 100% 100% 
+                          30%                  5%      
+ 214  114  106  214    0    0    0    0    0    0    0 214/240
+   0    0    0    0    0    0    0    0    0    0    0 214/240
+ 102   41   36   75    7   15    0    5    1  120  240 214/240
+  59   32   34   68   17   32    1   12    4   18   36 239/240
+  30   13   15   34   22   29    3   19    7   29   58 240/240
+  19    6   13   23    7   10    0    7    2   24   48 240/240
+  36   11   11   27    5   12    0    2    2   42   84 240/240
+  50   15   18   43   15   23    1   10   16   48   96 240/240
+  35   22   26   49   23   36    1   16   14   36   72 240/240
+  39   22   24   41   30   37    2   30   23   27   54 240/240
+Logi List Stat Sele Fetc Fet2 Stor Dele Expu Appe Logo 
+100%  50%  50% 100% 100% 100%  50% 100% 100% 100% 100% 
+                          30%                  5%      
+   9    0    0    1    1    1    0    0    2   13   26 240/240
+  27   12   21   29   16   27    0   13   13   29   58 240/240
+  45   19   24   46   16   30    1   11   18   39   78 240/240
+  26   27   16   34   17   28    1   17   18   40   80 228/240
+  78   35   27   60   44   59    3   36   35   66  132 240/240
+  30   21   18   37   33   50    1   27   21   29   58 240/240
+  30   21   22   33   20   33    2   12   19   32   64 240/240
+  34   15   17   32   14   25    1   10   15   35   70 240/240
+  37   21   16   37   24   31    3   19   24   37   74 240/240
+  32   19   12   34   27   34    1   27   28   31   62 240/240
+Logi List Stat Sele Fetc Fet2 Stor Dele Expu Appe Logo 
+100%  50%  50% 100% 100% 100%  50% 100% 100% 100% 100% 
+                          30%                  5%      
+  33   14   16   32   35   50    3   20   29   30   60 240/240
+  19   18   16   30   21   29    2   17   17   20   40 240/240
+   8    2    3    3    2    4    0    0    5    8   16 240/240
+  33    9   14   28   27   38    4   24   22   33   66 240/240
+  40   16   20   35   23   37    3   17   22   41   82 240/240
+  42   13   14   39   27   42    2   17   20   43   86 240/240
+   2    4    2    5    4    5    0    5    5    7    4 238/240
+  26   13   12   30   26   35    2   23   23   19   48 240/240
+  32   12   18   36   26   36    5   23   21   31   62 240/240
+  37   16   18   32   37   56    4   30   40   37   74 240/240
+Logi List Stat Sele Fetc Fet2 Stor Dele Expu Appe Logo 
+100%  50%  50% 100% 100% 100%  50% 100% 100% 100% 100% 
+                          30%                  5%      
+   0    0    0    0    0    0    0    0    0    0    0 240/240
+  42   15   25   37   34   54    4   27   34   43   86 240/240
+ - 517 stalled for 16 secs in command: 8 STORE 2 +FLAGS.SILENT \Deleted
+  24   11   18   30   27   36    2   21   25   23   46 240/240
+ - 517 stalled for 17 secs in command: 8 STORE 2 +FLAGS.SILENT \Deleted
+  14    0    0    2    2    4    0    0    9   16   32 240/240
+ - 835 stalled for 16 secs in command: 4 FETCH 1 (UID BODY BODYSTRUCTURE FLAGS)
+ - 517 stalled for 18 secs in command: 8 STORE 2 +FLAGS.SILENT \Deleted
+  18   20   12   36   26   37    5   26   16   16   32 240/240
+ - 898 stalled for 16 secs in command: 4 APPEND "INBOX" (\Seen $Label1 $Label3) "14-Jun-2003 18:27:29 +0200" {2476+}
+ - 835 stalled for 17 secs in command: 4 FETCH 1 (UID BODY BODYSTRUCTURE FLAGS)
+ - 517 stalled for 19 secs in command: 8 STORE 2 +FLAGS.SILENT \Deleted
+  15    3    4    6    4    6    0    3    8   15   30 240/240
+ - 898 stalled for 17 secs in command: 4 APPEND "INBOX" (\Seen $Label1 $Label3) "14-Jun-2003 18:27:29 +0200" {2476+}
+ - 835 stalled for 18 secs in command: 4 FETCH 1 (UID BODY BODYSTRUCTURE FLAGS)
+ - 517 stalled for 20 secs in command: 8 STORE 2 +FLAGS.SILENT \Deleted
+ - 518 stalled for 16 secs in command: 7 EXPUNGE
+  17   14   11   25   20   30    3   16   15   18   36 240/240
+ - 517 stalled for 21 secs in command: 8 STORE 2 +FLAGS.SILENT \Deleted
+  17    3    3    7    1    1    0    2   12   17   34 240/240
+ - 517 stalled for 22 secs in command: 8 STORE 2 +FLAGS.SILENT \Deleted
+  33   20   12   29   30   48    1   26   27   32   64 240/240
+ - 517 stalled for 23 secs in command: 8 STORE 2 +FLAGS.SILENT \Deleted
+  28   19   18   37   33   45    7   28   24   29   58 240/240
+ - 517 stalled for 24 secs in command: 8 STORE 2 +FLAGS.SILENT \Deleted
+Logi List Stat Sele Fetc Fet2 Stor Dele Expu Appe Logo 
+100%  50%  50% 100% 100% 100%  50% 100% 100% 100% 100% 
+                          30%                  5%      
+   1    0    0    2    0    0    0    0    0    0    0 240/240
+ - 517 stalled for 25 secs in command: 8 STORE 2 +FLAGS.SILENT \Deleted
+  34   17   15   29   33   43    5   25   30   35   68 240/240
+ - 1043 stalled for 16 secs in command: 3 FETCH 1 (BODY.PEEK[HEADER.FIELDS (Message-ID)])
+ - 994 stalled for 16 secs in command: 7 FETCH 1 (UID BODY.PEEK[1])
+ - 1011 stalled for 16 secs in command: 8 EXPUNGE
+  39   18   17   38   32   45    4   22   31   38   78 240/240
+ - 994 stalled for 17 secs in command: 7 FETCH 1 (UID BODY.PEEK[1])
+   0    0    0    0    0    0    0    0    0    0    0 240/240
+ - 994 stalled for 18 secs in command: 7 FETCH 1 (UID BODY.PEEK[1])
+  32   18   14   34   33   54    4   24   29   34   68 240/240
+ - 1141 stalled for 16 secs in command: 3 APPEND "INBOX" "11-Jul-2003 12:32:22 +0200" {2369+}
+  15   13    7   25   20   31    2   13   18   13   26 240/240
+ - 1141 stalled for 17 secs in command: 3 APPEND "INBOX" "11-Jul-2003 12:32:22 +0200" {2369+}
+  42   23   18   42   30   44    5   20   40   42   84 240/240
+ - 925 stalled for 16 secs in command: 8 APPEND "INBOX" (\Answered $Label1 $Label2 $Label4 $Label5) "23-Jun-2003 23:00:21 +0200" {2632+}
+  16    0    0    2    5    5    2    4   12   17   34 240/240
+ - 925 stalled for 17 secs in command: 8 APPEND "INBOX" (\Answered $Label1 $Label2 $Label4 $Label5) "23-Jun-2003 23:00:21 +0200" {2632+}
+  38   27   23   42   36   54    3   29   36   37   74 240/240
+ - 1252 stalled for 16 secs in command: 5 APPEND "INBOX" "05-Aug-2003 22:44:45 +0200" {3121+}
+   0    0    0    1    0    0    0    0    0    0    0 240/240
+ - 1252 stalled for 17 secs in command: 5 APPEND "INBOX" "05-Aug-2003 22:44:45 +0200" {3121+}
+Logi List Stat Sele Fetc Fet2 Stor Dele Expu Appe Logo 
+100%  50%  50% 100% 100% 100%  50% 100% 100% 100% 100% 
+                          30%                  5%      
+  35   18   15   34   27   40    2   17   31   37   74 240/240
+ - 1252 stalled for 18 secs in command: 5 APPEND "INBOX" "05-Aug-2003 22:44:45 +0200" {3121+}
+ - 1246 stalled for 16 secs in command: 8 APPEND "INBOX" {5958+}
+   1    0    0    0    0    0    0    0    0    1    2 240/240
+ - 1252 stalled for 19 secs in command: 5 APPEND "INBOX" "05-Aug-2003 22:44:45 +0200" {3121+}
+ - 1246 stalled for 17 secs in command: 8 APPEND "INBOX" {5958+}
+  37   21   22   37   27   36    6   24   29   36   72 240/240
+ - 1330 stalled for 16 secs in command: 4 APPEND "INBOX" "20-Aug-2003 01:09:33 +0200" {2619+}
+  53   27   32   59   36   55    3   26   40   52  104 240/240
+   5    3    2    6   17   17    0   16   13    5   10 240/240
+ - 1159 stalled for 16 secs in command: 7 STORE 1:2 +FLAGS.SILENT \Deleted
+   2    2    1    2   15   16    0   17   10    2    4 240/240
+ - 1159 stalled for 17 secs in command: 7 STORE 1:2 +FLAGS.SILENT \Deleted
+   6    9    4   12    7   10    1    6    8    6   12 240/240
+  16    4    2    5    1    1    0    2   10   16   32 240/240
+  46   15   21   35   24   41    4   24   35   46   92 240/240
+   0   11    9   20   17   21    0   13   15   19   78 201/201
+Logi List Stat Sele Fetc Fet2 Stor Dele Expu Appe Logo 
+100%  50%  50% 100% 100% 100%  50% 100% 100% 100% 100% 
+                          30%                  5%      
+   0    1    1    1    2    2    0    3   15   27   56 173/173
+ - 1453 stalled for 16 secs in command: 9 APPEND "INBOX" (\Answered \Flagged $Label1) "01-Sep-2003 00:54:47 +0200" {4032+}
+   0    3    1    6   19   19    0   17   30   42   96 125/125
+ - 1453 stalled for 17 secs in command: 9 APPEND "INBOX" (\Answered \Flagged $Label1) "01-Sep-2003 00:54:47 +0200" {4032+}
+   0    0    0    0    3    3    0    0    9   25   50 100/100
+   0    0    0    0    3    3    0    6   21   29   58  71/ 71
+   0    0    0    0    5    6    1    3   33   56  112  15/ 15
+
+Totals:
+Logi List Stat Sele Fetc Fet2 Stor Dele Expu Appe Logo 
+100%  50%  50% 100% 100% 100%  50% 100% 100% 100% 100% 
+                          30%                  5%      
+1830  919  897 1830 1137 1653  110  909 1137 1801 3660 

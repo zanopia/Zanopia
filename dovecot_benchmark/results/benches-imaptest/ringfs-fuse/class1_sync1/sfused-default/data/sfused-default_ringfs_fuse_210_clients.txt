@@ -1,0 +1,223 @@
+Logi List Stat Sele Fetc Fet2 Stor Dele Expu Appe Logo 
+100%  50%  50% 100% 100% 100%  50% 100% 100% 100% 100% 
+                          30%                  5%      
+  83   12    7   23    1    2    0    1    0    5   10 210/210
+  68   11   13   20    1    1    0    1    2   10   20 210/210
+  22    4    4   11    1    1    0    1    0   10   20 210/210
+   5    2    0    2    0    0    0    0    0    0    0 210/210
+  28   17   10   24    0    0    0    0    0    7   14 210/210
+  28   32   24   55    1    1    0    1    0   11   22 210/210
+   0    0    0    0    0    0    0    0    0    0    0 210/210
+   0    0    0    0    0    0    0    0    0    0    0 210/210
+  19   19   19   33    2    4    0    2    0   10   20 210/210
+   9    6    7   16    1    1    0    1    1    2    4 210/210
+Logi List Stat Sele Fetc Fet2 Stor Dele Expu Appe Logo 
+100%  50%  50% 100% 100% 100%  50% 100% 100% 100% 100% 
+                          30%                  5%      
+  12   26   16   30    0    0    0    0    2   30   60 210/210
+   8   12    6   19    0    0    0    0    1    5   10 210/210
+  21   12   12   21    4    9    0    2    2   51  102 210/210
+  24   15    8   26    6    8    1    6    2   21   42 210/210
+  26   10   12   22    7   11    1    5    5   20   40 210/210
+  30   12   16   25   15   20    1   11   14   28   56 210/210
+  35   15   14   26    4    4    0    4    0    2    4 210/210
+  37   13   19   36    6   13    1    3    6   42   84 210/210
+  18   24   24   48   16   17    1   14    9   30   60 210/210
+  29   11   12   26   15   27    1    8   11   38   76 210/210
+Logi List Stat Sele Fetc Fet2 Stor Dele Expu Appe Logo 
+100%  50%  50% 100% 100% 100%  50% 100% 100% 100% 100% 
+                          30%                  5%      
+  23   12    8   24    6    7    0    6    5   11   22 210/210
+ - 35 stalled for 16 secs in command: 4 APPEND "INBOX" "25-Nov-2002 00:24:40 +0100" {1965+}
+ - 51 stalled for 16 secs in command: 5 APPEND "INBOX" (\Answered \Flagged \Seen) {2151+}
+ - 77 stalled for 16 secs in command: 4 APPEND "INBOX" {1743+}
+ - 123 stalled for 16 secs in command: 5 APPEND "INBOX" (\Answered \Seen \Draft $Label1) "26-Nov-2002 23:16:04 +0100" {1950+}
+  24   15   15   32   11   17    1    7    9   37   74 193/210
+ - 35 stalled for 17 secs in command: 4 APPEND "INBOX" "25-Nov-2002 00:24:40 +0100" {1965+}
+ - 51 stalled for 17 secs in command: 5 APPEND "INBOX" (\Answered \Flagged \Seen) {2151+}
+ - 77 stalled for 17 secs in command: 4 APPEND "INBOX" {1743+}
+ - 123 stalled for 17 secs in command: 5 APPEND "INBOX" (\Answered \Seen \Draft $Label1) "26-Nov-2002 23:16:04 +0100" {1950+}
+  21    3    4    8    3    4    0    2    2    0    0 210/210
+ - 35 stalled for 18 secs in command: 4 APPEND "INBOX" "25-Nov-2002 00:24:40 +0100" {1965+}
+ - 51 stalled for 18 secs in command: 5 APPEND "INBOX" (\Answered \Flagged \Seen) {2151+}
+ - 77 stalled for 18 secs in command: 4 APPEND "INBOX" {1743+}
+ - 123 stalled for 18 secs in command: 5 APPEND "INBOX" (\Answered \Seen \Draft $Label1) "26-Nov-2002 23:16:04 +0100" {1950+}
+  43   27   29   58   18   30    0   12   18   41   82 210/210
+ - 35 stalled for 19 secs in command: 4 APPEND "INBOX" "25-Nov-2002 00:24:40 +0100" {1965+}
+ - 51 stalled for 19 secs in command: 5 APPEND "INBOX" (\Answered \Flagged \Seen) {2151+}
+ - 77 stalled for 19 secs in command: 4 APPEND "INBOX" {1743+}
+ - 123 stalled for 19 secs in command: 5 APPEND "INBOX" (\Answered \Seen \Draft $Label1) "26-Nov-2002 23:16:04 +0100" {1950+}
+  11    6    6   15    7    9    0    7    2    6   12 210/210
+ - 35 stalled for 20 secs in command: 4 APPEND "INBOX" "25-Nov-2002 00:24:40 +0100" {1965+}
+ - 51 stalled for 20 secs in command: 5 APPEND "INBOX" (\Answered \Flagged \Seen) {2151+}
+ - 77 stalled for 20 secs in command: 4 APPEND "INBOX" {1743+}
+ - 123 stalled for 20 secs in command: 5 APPEND "INBOX" (\Answered \Seen \Draft $Label1) "26-Nov-2002 23:16:04 +0100" {1950+}
+ - 124 stalled for 16 secs in command: 3 APPEND "INBOX" "06-Jan-2003 01:15:18 +0100" {1749+}
+  15    5    6   13   18   20    2   16   16   30   60 210/210
+ - 256 stalled for 16 secs in command: 5 APPEND "INBOX" "10-Jan-2003 22:52:34 +0100" {2215+}
+ - 35 stalled for 21 secs in command: 4 APPEND "INBOX" "25-Nov-2002 00:24:40 +0100" {1965+}
+ - 51 stalled for 21 secs in command: 5 APPEND "INBOX" (\Answered \Flagged \Seen) {2151+}
+ - 77 stalled for 21 secs in command: 4 APPEND "INBOX" {1743+}
+ - 123 stalled for 21 secs in command: 5 APPEND "INBOX" (\Answered \Seen \Draft $Label1) "26-Nov-2002 23:16:04 +0100" {1950+}
+ - 124 stalled for 17 secs in command: 3 APPEND "INBOX" "06-Jan-2003 01:15:18 +0100" {1749+}
+  27   16   10   23    6   11    0    4    5   16   32 210/210
+ - 256 stalled for 17 secs in command: 5 APPEND "INBOX" "10-Jan-2003 22:52:34 +0100" {2215+}
+ - 35 stalled for 22 secs in command: 4 APPEND "INBOX" "25-Nov-2002 00:24:40 +0100" {1965+}
+ - 51 stalled for 22 secs in command: 5 APPEND "INBOX" (\Answered \Flagged \Seen) {2151+}
+ - 77 stalled for 22 secs in command: 4 APPEND "INBOX" {1743+}
+ - 123 stalled for 22 secs in command: 5 APPEND "INBOX" (\Answered \Seen \Draft $Label1) "26-Nov-2002 23:16:04 +0100" {1950+}
+ - 124 stalled for 18 secs in command: 3 APPEND "INBOX" "06-Jan-2003 01:15:18 +0100" {1749+}
+   5    6    2   11    0    0    0    0    0    0    0 210/210
+ - 256 stalled for 18 secs in command: 5 APPEND "INBOX" "10-Jan-2003 22:52:34 +0100" {2215+}
+ - 35 stalled for 23 secs in command: 4 APPEND "INBOX" "25-Nov-2002 00:24:40 +0100" {1965+}
+ - 51 stalled for 23 secs in command: 5 APPEND "INBOX" (\Answered \Flagged \Seen) {2151+}
+ - 77 stalled for 23 secs in command: 4 APPEND "INBOX" {1743+}
+ - 123 stalled for 23 secs in command: 5 APPEND "INBOX" (\Answered \Seen \Draft $Label1) "26-Nov-2002 23:16:04 +0100" {1950+}
+ - 124 stalled for 19 secs in command: 3 APPEND "INBOX" "06-Jan-2003 01:15:18 +0100" {1749+}
+   1    1    1    3    0    0    0    0    0    0    0 210/210
+ - 256 stalled for 19 secs in command: 5 APPEND "INBOX" "10-Jan-2003 22:52:34 +0100" {2215+}
+ - 35 stalled for 24 secs in command: 4 APPEND "INBOX" "25-Nov-2002 00:24:40 +0100" {1965+}
+ - 51 stalled for 24 secs in command: 5 APPEND "INBOX" (\Answered \Flagged \Seen) {2151+}
+ - 77 stalled for 24 secs in command: 4 APPEND "INBOX" {1743+}
+ - 123 stalled for 24 secs in command: 5 APPEND "INBOX" (\Answered \Seen \Draft $Label1) "26-Nov-2002 23:16:04 +0100" {1950+}
+ - 124 stalled for 20 secs in command: 3 APPEND "INBOX" "06-Jan-2003 01:15:18 +0100" {1749+}
+ - 361 stalled for 16 secs in command: 4 APPEND "INBOX" {2626+}
+   9    6    7   11    6   12    0    4    7   11   22 210/210
+ - 256 stalled for 20 secs in command: 5 APPEND "INBOX" "10-Jan-2003 22:52:34 +0100" {2215+}
+ - 35 stalled for 25 secs in command: 4 APPEND "INBOX" "25-Nov-2002 00:24:40 +0100" {1965+}
+ - 51 stalled for 25 secs in command: 5 APPEND "INBOX" (\Answered \Flagged \Seen) {2151+}
+ - 77 stalled for 25 secs in command: 4 APPEND "INBOX" {1743+}
+ - 123 stalled for 25 secs in command: 5 APPEND "INBOX" (\Answered \Seen \Draft $Label1) "26-Nov-2002 23:16:04 +0100" {1950+}
+ - 124 stalled for 21 secs in command: 3 APPEND "INBOX" "06-Jan-2003 01:15:18 +0100" {1749+}
+ - 361 stalled for 17 secs in command: 4 APPEND "INBOX" {2626+}
+Logi List Stat Sele Fetc Fet2 Stor Dele Expu Appe Logo 
+100%  50%  50% 100% 100% 100%  50% 100% 100% 100% 100% 
+                          30%                  5%      
+  19   11   17   23   20   22    0   19   16   21   42 210/210
+ - 256 stalled for 21 secs in command: 5 APPEND "INBOX" "10-Jan-2003 22:52:34 +0100" {2215+}
+ - 124 stalled for 22 secs in command: 3 APPEND "INBOX" "06-Jan-2003 01:15:18 +0100" {1749+}
+ - 361 stalled for 18 secs in command: 4 APPEND "INBOX" {2626+}
+ - 406 stalled for 16 secs in command: 3 APPEND "INBOX" "26-Feb-2003 23:26:49 +0100" {2461+}
+   9    3    2    3    0    2    0    0    2    4    8 210/210
+ - 353 stalled for 16 secs in command: 5 APPEND "INBOX" {2761+}
+ - 256 stalled for 22 secs in command: 5 APPEND "INBOX" "10-Jan-2003 22:52:34 +0100" {2215+}
+ - 325 stalled for 16 secs in command: 5 APPEND "INBOX" {1646+}
+ - 124 stalled for 23 secs in command: 3 APPEND "INBOX" "06-Jan-2003 01:15:18 +0100" {1749+}
+ - 329 stalled for 16 secs in command: 7 EXPUNGE
+ - 361 stalled for 19 secs in command: 4 APPEND "INBOX" {2626+}
+ - 406 stalled for 17 secs in command: 3 APPEND "INBOX" "26-Feb-2003 23:26:49 +0100" {2461+}
+ - 378 stalled for 16 secs in command: 4 APPEND "INBOX" (\Flagged \Draft) "06-Mar-2003 19:49:53 +0100" {2639+}
+  56   26   18   42   16   26    4   13   18   63  124 210/210
+ - 427 stalled for 16 secs in command: 4 APPEND "INBOX" (\Flagged \Seen) {1906+}
+ - 325 stalled for 17 secs in command: 5 APPEND "INBOX" {1646+}
+ - 361 stalled for 20 secs in command: 4 APPEND "INBOX" {2626+}
+ - 378 stalled for 17 secs in command: 4 APPEND "INBOX" (\Flagged \Draft) "06-Mar-2003 19:49:53 +0100" {2639+}
+  19   13   14   33   11   15    1    9    8   13   26 210/210
+ - 427 stalled for 17 secs in command: 4 APPEND "INBOX" (\Flagged \Seen) {1906+}
+ - 368 stalled for 16 secs in command: 5 APPEND "INBOX" "19-Mar-2003 14:43:45 +0100" {1848+}
+ - 304 stalled for 16 secs in command: 3 APPEND "INBOX" "20-Mar-2003 16:32:09 +0100" {1890+}
+ - 341 stalled for 16 secs in command: 4 APPEND "INBOX" (\Flagged \Seen $Label1 $Label3 $Label5) {2119+}
+ - 325 stalled for 18 secs in command: 5 APPEND "INBOX" {1646+}
+ - 369 stalled for 16 secs in command: 5 APPEND "INBOX" (\Answered \Draft $Label3) "20-Mar-2003 17:11:51 +0100" {3480+}
+ - 423 stalled for 16 secs in command: 4 APPEND "INBOX" (\Answered \Flagged \Draft $Label1 $Label3) {4647+}
+ - 436 stalled for 16 secs in command: 9 APPEND "INBOX" (\Answered \Seen \Draft $Label2) "14-Mar-2003 19:25:21 +0100" {1675+}
+ - 361 stalled for 21 secs in command: 4 APPEND "INBOX" {2626+}
+ - 336 stalled for 16 secs in command: 3 APPEND "INBOX" (\Draft $Label4 $Label5) "21-Mar-2003 00:16:53 +0100" {5202+}
+ - 378 stalled for 18 secs in command: 4 APPEND "INBOX" (\Flagged \Draft) "06-Mar-2003 19:49:53 +0100" {2639+}
+   0    0    0    0    0    0    0    0    0    0    0 210/210
+ - 499 stalled for 16 secs in command: 5 APPEND "INBOX" (\Answered \Draft $Label3) "26-Mar-2003 10:21:49 +0100" {2938+}
+ - 427 stalled for 18 secs in command: 4 APPEND "INBOX" (\Flagged \Seen) {1906+}
+ - 368 stalled for 17 secs in command: 5 APPEND "INBOX" "19-Mar-2003 14:43:45 +0100" {1848+}
+ - 304 stalled for 17 secs in command: 3 APPEND "INBOX" "20-Mar-2003 16:32:09 +0100" {1890+}
+ - 341 stalled for 17 secs in command: 4 APPEND "INBOX" (\Flagged \Seen $Label1 $Label3 $Label5) {2119+}
+ - 325 stalled for 19 secs in command: 5 APPEND "INBOX" {1646+}
+ - 369 stalled for 17 secs in command: 5 APPEND "INBOX" (\Answered \Draft $Label3) "20-Mar-2003 17:11:51 +0100" {3480+}
+ - 423 stalled for 17 secs in command: 4 APPEND "INBOX" (\Answered \Flagged \Draft $Label1 $Label3) {4647+}
+ - 436 stalled for 17 secs in command: 9 APPEND "INBOX" (\Answered \Seen \Draft $Label2) "14-Mar-2003 19:25:21 +0100" {1675+}
+ - 361 stalled for 22 secs in command: 4 APPEND "INBOX" {2626+}
+ - 506 stalled for 16 secs in command: 4 APPEND "INBOX" (\Answered \Seen $Label1 $Label3 $Label4) "26-Mar-2003 11:08:43 +0100" {6317+}
+ - 336 stalled for 17 secs in command: 3 APPEND "INBOX" (\Draft $Label4 $Label5) "21-Mar-2003 00:16:53 +0100" {5202+}
+ - 378 stalled for 19 secs in command: 4 APPEND "INBOX" (\Flagged \Draft) "06-Mar-2003 19:49:53 +0100" {2639+}
+ 101   62   54  109   58   91   13   41   55  135  264 187/210
+ - 299 stalled for 16 secs in command: 3 APPEND "INBOX" (\Flagged \Seen $Label2 $Label3 $Label4) "31-Mar-2003 22:10:53 +0200" {1869+}
+ - 304 stalled for 18 secs in command: 3 APPEND "INBOX" "20-Mar-2003 16:32:09 +0100" {1890+}
+ - 423 stalled for 18 secs in command: 4 APPEND "INBOX" (\Answered \Flagged \Draft $Label1 $Label3) {4647+}
+ - 491 stalled for 16 secs in command: 5 APPEND "INBOX" (\Answered \Flagged $Label3) "31-Mar-2003 22:15:48 +0200" {2511+}
+  30   12    6   18   13   28    4    8    2    2   10 210/210
+ - 299 stalled for 17 secs in command: 3 APPEND "INBOX" (\Flagged \Seen $Label2 $Label3 $Label4) "31-Mar-2003 22:10:53 +0200" {1869+}
+ - 491 stalled for 17 secs in command: 5 APPEND "INBOX" (\Answered \Flagged $Label3) "31-Mar-2003 22:15:48 +0200" {2511+}
+   6    8    4   14   18   18    1   17    7    5   10 210/210
+ - 299 stalled for 18 secs in command: 3 APPEND "INBOX" (\Flagged \Seen $Label2 $Label3 $Label4) "31-Mar-2003 22:10:53 +0200" {1869+}
+ - 491 stalled for 18 secs in command: 5 APPEND "INBOX" (\Answered \Flagged $Label3) "31-Mar-2003 22:15:48 +0200" {2511+}
+  31   22   17   33   46   58    7   36   33   37   76 210/210
+ - 599 stalled for 16 secs in command: 5 APPEND "INBOX" (\Answered \Draft $Label3) "15-Apr-2003 19:28:17 +0200" {2014+}
+ - 299 stalled for 19 secs in command: 3 APPEND "INBOX" (\Flagged \Seen $Label2 $Label3 $Label4) "31-Mar-2003 22:10:53 +0200" {1869+}
+ - 491 stalled for 19 secs in command: 5 APPEND "INBOX" (\Answered \Flagged $Label3) "31-Mar-2003 22:15:48 +0200" {2511+}
+  43   19   18   30   15   23    3    9   21   40   80 210/210
+Logi List Stat Sele Fetc Fet2 Stor Dele Expu Appe Logo 
+100%  50%  50% 100% 100% 100%  50% 100% 100% 100% 100% 
+                          30%                  5%      
+   0    0    0    0    0    0    0    0    0    0    0 210/210
+  18   16   17   34   28   33    1   25   20   10   20 210/210
+  13    3    1    4   13   16    0   10    9   13   26 210/210
+  22   16   14   33   17   27    2    9   14   22   42 210/210
+   0    0    0    0    0    0    0    0    0    0    0 210/210
+  52   22   18   34   17   25    3   21   39   61  120 210/210
+   6    4    1    8    0    0    0    0    2    3    4 208/210
+  59   39   36   65   29   56    4   18   31   61  120 210/210
+  16    2    2    6   13   15    0   12   15   11   22 210/210
+  35    7   11   21   10   15    1   10   21   36   72 210/210
+Logi List Stat Sele Fetc Fet2 Stor Dele Expu Appe Logo 
+100%  50%  50% 100% 100% 100%  50% 100% 100% 100% 100% 
+                          30%                  5%      
+  32   27   21   52   66   94   11   55   43   27   62 210/210
+   2    1    1    1    4    6    0    2    3    3    6 210/210
+ - 910 stalled for 16 secs in command: 4 APPEND "INBOX" (\Flagged \Seen \Draft $Label2) "14-Jun-2003 20:40:18 +0200" {2077+}
+ - 902 stalled for 16 secs in command: 9 STORE 1 +FLAGS.SILENT \Deleted
+ - 890 stalled for 16 secs in command: 4 APPEND "INBOX" {3345+}
+ - 855 stalled for 16 secs in command: 8 EXPUNGE
+ - 822 stalled for 16 secs in command: 4 APPEND "INBOX" (\Answered \Draft) "30-May-2003 02:51:47 +0200" {5860+}
+  40   19   22   45   38   54    8   31   32   42   84 210/210
+ - 902 stalled for 17 secs in command: 9 STORE 1 +FLAGS.SILENT \Deleted
+ - 890 stalled for 17 secs in command: 4 APPEND "INBOX" {3345+}
+ - 822 stalled for 17 secs in command: 4 APPEND "INBOX" (\Answered \Draft) "30-May-2003 02:51:47 +0200" {5860+}
+  10    6    5    8    7    8    0    6    5    9   18 210/210
+ - 902 stalled for 18 secs in command: 9 STORE 1 +FLAGS.SILENT \Deleted
+ - 890 stalled for 18 secs in command: 4 APPEND "INBOX" {3345+}
+ - 938 stalled for 16 secs in command: 3 APPEND "INBOX" "18-Jun-2003 07:38:16 +0200" {3165+}
+ - 822 stalled for 18 secs in command: 4 APPEND "INBOX" (\Answered \Draft) "30-May-2003 02:51:47 +0200" {5860+}
+  30   21   21   38   26   41    4   19   24   29   58 210/210
+ - 902 stalled for 19 secs in command: 9 STORE 1 +FLAGS.SILENT \Deleted
+ - 890 stalled for 19 secs in command: 4 APPEND "INBOX" {3345+}
+ - 938 stalled for 17 secs in command: 3 APPEND "INBOX" "18-Jun-2003 07:38:16 +0200" {3165+}
+ - 822 stalled for 19 secs in command: 4 APPEND "INBOX" (\Answered \Draft) "30-May-2003 02:51:47 +0200" {5860+}
+  12    3    3    5    3    5    0    4    5   11   22 210/210
+ - 902 stalled for 20 secs in command: 9 STORE 1 +FLAGS.SILENT \Deleted
+ - 890 stalled for 20 secs in command: 4 APPEND "INBOX" {3345+}
+ - 938 stalled for 18 secs in command: 3 APPEND "INBOX" "18-Jun-2003 07:38:16 +0200" {3165+}
+ - 822 stalled for 20 secs in command: 4 APPEND "INBOX" (\Answered \Draft) "30-May-2003 02:51:47 +0200" {5860+}
+  48   22   29   52   36   53    3   31   35   48   96 210/210
+ - 890 stalled for 21 secs in command: 4 APPEND "INBOX" {3345+}
+ - 938 stalled for 19 secs in command: 3 APPEND "INBOX" "18-Jun-2003 07:38:16 +0200" {3165+}
+ - 822 stalled for 21 secs in command: 4 APPEND "INBOX" (\Answered \Draft) "30-May-2003 02:51:47 +0200" {5860+}
+   0    0    0    0    0    0    0    0    0    0    0 210/210
+ - 890 stalled for 22 secs in command: 4 APPEND "INBOX" {3345+}
+ - 938 stalled for 20 secs in command: 3 APPEND "INBOX" "18-Jun-2003 07:38:16 +0200" {3165+}
+ - 822 stalled for 22 secs in command: 4 APPEND "INBOX" (\Answered \Draft) "30-May-2003 02:51:47 +0200" {5860+}
+  46   20   24   42   38   61    7   26   45   46   92 210/210
+ - 1001 stalled for 16 secs in command: 8 STORE 2 +FLAGS.SILENT \Deleted
+   0    1    0    1    0    0    0    0    0    0    0 210/210
+ - 1001 stalled for 17 secs in command: 8 STORE 2 +FLAGS.SILENT \Deleted
+Logi List Stat Sele Fetc Fet2 Stor Dele Expu Appe Logo 
+100%  50%  50% 100% 100% 100%  50% 100% 100% 100% 100% 
+                          30%                  5%      
+   0    5    4   14   21   23    0   20   40   60  148 136/136
+ - 1001 stalled for 18 secs in command: 8 STORE 2 +FLAGS.SILENT \Deleted
+   0    1    0    1    8   11    0    9   13   12   26 123/123
+   0    1    1    3   17   18    0   18   48   84  174  36/ 36
+
+Totals:
+Logi List Stat Sele Fetc Fet2 Stor Dele Expu Appe Logo 
+100%  50%  50% 100% 100% 100%  50% 100% 100% 100% 100% 
+                          30%                  5%      
+1436  762  692 1433  746 1076   86  597  746 1418 2872 

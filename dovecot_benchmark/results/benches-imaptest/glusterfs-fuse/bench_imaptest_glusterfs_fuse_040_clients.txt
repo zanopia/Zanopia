@@ -1,0 +1,1103 @@
+Logi List Stat Sele Fetc Fet2 Stor Dele Expu Appe Logo 
+100%  50%  50% 100% 100% 100%  50% 100% 100% 100% 100% 
+                          30%                  5%      
+  40   21   18   40    0    0    0    0    0    0    0  40/ 40
+   0    0    0    0    0    0    0    0    0   10   20  40/ 40
+   0    0    0    0    0    0    0    0    0    1    2  40/ 40
+  23    1    2    5    0    0    0    0    0   25   50  40/ 40
+   0    0    0    0    0    0    0    0    0    0    0  40/ 40
+   0    0    0    0    0    0    0    0    0    0    0  40/ 40
+   0    0    0    0    0    0    0    0    0    0    0  40/ 40
+   0    0    0    0    0    0    0    0    0    0    0  40/ 40
+   0    0    0    0    1    1    0    1    0    0    0  40/ 40
+   0    0    0    0    0    0    0    0    0    0    0  40/ 40
+Logi List Stat Sele Fetc Fet2 Stor Dele Expu Appe Logo 
+100%  50%  50% 100% 100% 100%  50% 100% 100% 100% 100% 
+                          30%                  5%      
+   0    0    0    0    0    0    0    0    0    0    0  40/ 40
+   0    0    0    0    0    0    0    0    0    0    0  40/ 40
+   0    0    0    0    0    0    0    0    0    0    0  40/ 40
+   6    0    0    0    0    0    0    0    0    0    0  40/ 40
+   0    0    0    0    0    0    0    0    0    0    0  40/ 40
+   0    0    0    0    0    0    0    0    0    0    0  40/ 40
+   0    0    0    0    0    0    0    0    0    0    0  40/ 40
+ - 18 stalled for 16 secs in command: 5 APPEND "INBOX" {1502+}
+ - 26 stalled for 16 secs in command: 5 APPEND "INBOX" {1926+}
+ - 27 stalled for 16 secs in command: 4 APPEND "INBOX" "23-Sep-2002 20:42:43 +0200" {2141+}
+ - 32 stalled for 16 secs in command: 4 APPEND "INBOX" (\Seen $Label5) {1868+}
+   0    0    0    0    0    0    0    0    0    0    0  40/ 40
+ - 18 stalled for 17 secs in command: 5 APPEND "INBOX" {1502+}
+ - 26 stalled for 17 secs in command: 5 APPEND "INBOX" {1926+}
+ - 27 stalled for 17 secs in command: 4 APPEND "INBOX" "23-Sep-2002 20:42:43 +0200" {2141+}
+ - 32 stalled for 17 secs in command: 4 APPEND "INBOX" (\Seen $Label5) {1868+}
+   0    0    0    0    0    0    0    0    0    0    0  40/ 40
+ - 18 stalled for 18 secs in command: 5 APPEND "INBOX" {1502+}
+ - 26 stalled for 18 secs in command: 5 APPEND "INBOX" {1926+}
+ - 27 stalled for 18 secs in command: 4 APPEND "INBOX" "23-Sep-2002 20:42:43 +0200" {2141+}
+ - 32 stalled for 18 secs in command: 4 APPEND "INBOX" (\Seen $Label5) {1868+}
+   0    0    0    0    0    0    0    0    0    0    0  40/ 40
+ - 48 stalled for 16 secs in command: 2 SELECT "INBOX" (CONDSTORE)
+ - 42 stalled for 16 secs in command: 2 LIST "" *
+ - 44 stalled for 16 secs in command: 2 LIST "" *
+ - 55 stalled for 16 secs in BYE, waiting for disconnect
+ - 43 stalled for 16 secs in command: 2 LIST "" *
+ - 41 stalled for 16 secs in command: 4 APPEND "INBOX" (\Flagged $Label2 $Label4) {3269+}
+ - 52 stalled for 16 secs in command: 2 SELECT "INBOX" (CONDSTORE)
+ - 45 stalled for 16 secs in command: 3 APPEND "INBOX" (\Answered \Seen \Draft) {2242+}
+ - 54 stalled for 16 secs in command: 2 LIST "" *
+ - 57 stalled for 16 secs in command: 2 SELECT "INBOX" (CONDSTORE)
+ - 53 stalled for 16 secs in command: 4 APPEND "INBOX" {9605+}
+ - 47 stalled for 16 secs in command: 2 LIST "" *
+ - 58 stalled for 16 secs in command: 2 LIST "" *
+ - 72 stalled for 16 secs in BYE, waiting for disconnect
+ - 18 stalled for 19 secs in command: 5 APPEND "INBOX" {1502+}
+ - 60 stalled for 16 secs in command: 2 LIST "" *
+ - 46 stalled for 16 secs in command: 3 APPEND "INBOX" "15-Oct-2002 23:38:37 +0200" {2032+}
+ - 51 stalled for 16 secs in command: 2 LIST "" *
+ - 56 stalled for 16 secs in command: 2 STATUS "INBOX" (MESSAGES UNSEEN RECENT)
+ - 75 stalled for 16 secs in BYE, waiting for disconnect
+ - 65 stalled for 16 secs in command: 2 STATUS "INBOX" (MESSAGES UNSEEN RECENT)
+ - 62 stalled for 16 secs in command: 2 LIST "" *
+ - 26 stalled for 19 secs in command: 5 APPEND "INBOX" {1926+}
+ - 27 stalled for 19 secs in command: 4 APPEND "INBOX" "23-Sep-2002 20:42:43 +0200" {2141+}
+ - 73 stalled for 16 secs in BYE, waiting for disconnect
+ - 59 stalled for 16 secs in command: 2 SELECT "INBOX" (CONDSTORE)
+ - 32 stalled for 19 secs in command: 4 APPEND "INBOX" (\Seen $Label5) {1868+}
+ - 71 stalled for 16 secs in BYE, waiting for disconnect
+ - 74 stalled for 16 secs in BYE, waiting for disconnect
+ - 66 stalled for 16 secs in command: 2 LIST "" *
+ - 76 stalled for 16 secs in BYE, waiting for disconnect
+ - 64 stalled for 16 secs in command: 2 SELECT "INBOX" (CONDSTORE)
+ - 63 stalled for 16 secs in command: 2 LIST "" *
+Logi List Stat Sele Fetc Fet2 Stor Dele Expu Appe Logo 
+100%  50%  50% 100% 100% 100%  50% 100% 100% 100% 100% 
+                          30%                  5%      
+   0    0    0    0    0    0    0    0    0    0    0  40/ 40
+ - 48 stalled for 17 secs in command: 2 SELECT "INBOX" (CONDSTORE)
+ - 42 stalled for 17 secs in command: 2 LIST "" *
+ - 44 stalled for 17 secs in command: 2 LIST "" *
+ - 55 stalled for 17 secs in BYE, waiting for disconnect
+ - 43 stalled for 17 secs in command: 2 LIST "" *
+ - 41 stalled for 17 secs in command: 4 APPEND "INBOX" (\Flagged $Label2 $Label4) {3269+}
+ - 52 stalled for 17 secs in command: 2 SELECT "INBOX" (CONDSTORE)
+ - 45 stalled for 17 secs in command: 3 APPEND "INBOX" (\Answered \Seen \Draft) {2242+}
+ - 54 stalled for 17 secs in command: 2 LIST "" *
+ - 57 stalled for 17 secs in command: 2 SELECT "INBOX" (CONDSTORE)
+ - 53 stalled for 17 secs in command: 4 APPEND "INBOX" {9605+}
+ - 47 stalled for 17 secs in command: 2 LIST "" *
+ - 58 stalled for 17 secs in command: 2 LIST "" *
+ - 72 stalled for 17 secs in BYE, waiting for disconnect
+ - 18 stalled for 20 secs in command: 5 APPEND "INBOX" {1502+}
+ - 60 stalled for 17 secs in command: 2 LIST "" *
+ - 46 stalled for 17 secs in command: 3 APPEND "INBOX" "15-Oct-2002 23:38:37 +0200" {2032+}
+ - 51 stalled for 17 secs in command: 2 LIST "" *
+ - 56 stalled for 17 secs in command: 2 STATUS "INBOX" (MESSAGES UNSEEN RECENT)
+ - 75 stalled for 17 secs in BYE, waiting for disconnect
+ - 65 stalled for 17 secs in command: 2 STATUS "INBOX" (MESSAGES UNSEEN RECENT)
+ - 62 stalled for 17 secs in command: 2 LIST "" *
+ - 26 stalled for 20 secs in command: 5 APPEND "INBOX" {1926+}
+ - 27 stalled for 20 secs in command: 4 APPEND "INBOX" "23-Sep-2002 20:42:43 +0200" {2141+}
+ - 73 stalled for 17 secs in BYE, waiting for disconnect
+ - 59 stalled for 17 secs in command: 2 SELECT "INBOX" (CONDSTORE)
+ - 32 stalled for 20 secs in command: 4 APPEND "INBOX" (\Seen $Label5) {1868+}
+ - 71 stalled for 17 secs in BYE, waiting for disconnect
+ - 74 stalled for 17 secs in BYE, waiting for disconnect
+ - 66 stalled for 17 secs in command: 2 LIST "" *
+ - 76 stalled for 17 secs in BYE, waiting for disconnect
+ - 64 stalled for 17 secs in command: 2 SELECT "INBOX" (CONDSTORE)
+ - 63 stalled for 17 secs in command: 2 LIST "" *
+   0    0    0    0    0    0    0    0    0    0    0  40/ 40
+ - 48 stalled for 18 secs in command: 2 SELECT "INBOX" (CONDSTORE)
+ - 42 stalled for 18 secs in command: 2 LIST "" *
+ - 44 stalled for 18 secs in command: 2 LIST "" *
+ - 55 stalled for 18 secs in BYE, waiting for disconnect
+ - 43 stalled for 18 secs in command: 2 LIST "" *
+ - 41 stalled for 18 secs in command: 4 APPEND "INBOX" (\Flagged $Label2 $Label4) {3269+}
+ - 52 stalled for 18 secs in command: 2 SELECT "INBOX" (CONDSTORE)
+ - 45 stalled for 18 secs in command: 3 APPEND "INBOX" (\Answered \Seen \Draft) {2242+}
+ - 54 stalled for 18 secs in command: 2 LIST "" *
+ - 57 stalled for 18 secs in command: 2 SELECT "INBOX" (CONDSTORE)
+ - 53 stalled for 18 secs in command: 4 APPEND "INBOX" {9605+}
+ - 47 stalled for 18 secs in command: 2 LIST "" *
+ - 58 stalled for 18 secs in command: 2 LIST "" *
+ - 72 stalled for 18 secs in BYE, waiting for disconnect
+ - 18 stalled for 21 secs in command: 5 APPEND "INBOX" {1502+}
+ - 60 stalled for 18 secs in command: 2 LIST "" *
+ - 46 stalled for 18 secs in command: 3 APPEND "INBOX" "15-Oct-2002 23:38:37 +0200" {2032+}
+ - 51 stalled for 18 secs in command: 2 LIST "" *
+ - 56 stalled for 18 secs in command: 2 STATUS "INBOX" (MESSAGES UNSEEN RECENT)
+ - 75 stalled for 18 secs in BYE, waiting for disconnect
+ - 65 stalled for 18 secs in command: 2 STATUS "INBOX" (MESSAGES UNSEEN RECENT)
+ - 62 stalled for 18 secs in command: 2 LIST "" *
+ - 26 stalled for 21 secs in command: 5 APPEND "INBOX" {1926+}
+ - 27 stalled for 21 secs in command: 4 APPEND "INBOX" "23-Sep-2002 20:42:43 +0200" {2141+}
+ - 73 stalled for 18 secs in BYE, waiting for disconnect
+ - 59 stalled for 18 secs in command: 2 SELECT "INBOX" (CONDSTORE)
+ - 32 stalled for 21 secs in command: 4 APPEND "INBOX" (\Seen $Label5) {1868+}
+ - 71 stalled for 18 secs in BYE, waiting for disconnect
+ - 74 stalled for 18 secs in BYE, waiting for disconnect
+ - 66 stalled for 18 secs in command: 2 LIST "" *
+ - 76 stalled for 18 secs in BYE, waiting for disconnect
+ - 64 stalled for 18 secs in command: 2 SELECT "INBOX" (CONDSTORE)
+ - 63 stalled for 18 secs in command: 2 LIST "" *
+   0    0    0    0    0    0    0    0    0    0    0  40/ 40
+ - 48 stalled for 19 secs in command: 2 SELECT "INBOX" (CONDSTORE)
+ - 42 stalled for 19 secs in command: 2 LIST "" *
+ - 44 stalled for 19 secs in command: 2 LIST "" *
+ - 55 stalled for 19 secs in BYE, waiting for disconnect
+ - 43 stalled for 19 secs in command: 2 LIST "" *
+ - 41 stalled for 19 secs in command: 4 APPEND "INBOX" (\Flagged $Label2 $Label4) {3269+}
+ - 52 stalled for 19 secs in command: 2 SELECT "INBOX" (CONDSTORE)
+ - 45 stalled for 19 secs in command: 3 APPEND "INBOX" (\Answered \Seen \Draft) {2242+}
+ - 54 stalled for 19 secs in command: 2 LIST "" *
+ - 57 stalled for 19 secs in command: 2 SELECT "INBOX" (CONDSTORE)
+ - 53 stalled for 19 secs in command: 4 APPEND "INBOX" {9605+}
+ - 47 stalled for 19 secs in command: 2 LIST "" *
+ - 58 stalled for 19 secs in command: 2 LIST "" *
+ - 72 stalled for 19 secs in BYE, waiting for disconnect
+ - 18 stalled for 22 secs in command: 5 APPEND "INBOX" {1502+}
+ - 60 stalled for 19 secs in command: 2 LIST "" *
+ - 46 stalled for 19 secs in command: 3 APPEND "INBOX" "15-Oct-2002 23:38:37 +0200" {2032+}
+ - 51 stalled for 19 secs in command: 2 LIST "" *
+ - 56 stalled for 19 secs in command: 2 STATUS "INBOX" (MESSAGES UNSEEN RECENT)
+ - 75 stalled for 19 secs in BYE, waiting for disconnect
+ - 65 stalled for 19 secs in command: 2 STATUS "INBOX" (MESSAGES UNSEEN RECENT)
+ - 62 stalled for 19 secs in command: 2 LIST "" *
+ - 26 stalled for 22 secs in command: 5 APPEND "INBOX" {1926+}
+ - 27 stalled for 22 secs in command: 4 APPEND "INBOX" "23-Sep-2002 20:42:43 +0200" {2141+}
+ - 73 stalled for 19 secs in BYE, waiting for disconnect
+ - 59 stalled for 19 secs in command: 2 SELECT "INBOX" (CONDSTORE)
+ - 32 stalled for 22 secs in command: 4 APPEND "INBOX" (\Seen $Label5) {1868+}
+ - 71 stalled for 19 secs in BYE, waiting for disconnect
+ - 74 stalled for 19 secs in BYE, waiting for disconnect
+ - 66 stalled for 19 secs in command: 2 LIST "" *
+ - 76 stalled for 19 secs in BYE, waiting for disconnect
+ - 64 stalled for 19 secs in command: 2 SELECT "INBOX" (CONDSTORE)
+ - 63 stalled for 19 secs in command: 2 LIST "" *
+   0    0    0    0    0    0    0    0    0    0    0  40/ 40
+ - 48 stalled for 20 secs in command: 2 SELECT "INBOX" (CONDSTORE)
+ - 42 stalled for 20 secs in command: 2 LIST "" *
+ - 44 stalled for 20 secs in command: 2 LIST "" *
+ - 55 stalled for 20 secs in BYE, waiting for disconnect
+ - 43 stalled for 20 secs in command: 2 LIST "" *
+ - 41 stalled for 20 secs in command: 4 APPEND "INBOX" (\Flagged $Label2 $Label4) {3269+}
+ - 52 stalled for 20 secs in command: 2 SELECT "INBOX" (CONDSTORE)
+ - 45 stalled for 20 secs in command: 3 APPEND "INBOX" (\Answered \Seen \Draft) {2242+}
+ - 54 stalled for 20 secs in command: 2 LIST "" *
+ - 57 stalled for 20 secs in command: 2 SELECT "INBOX" (CONDSTORE)
+ - 53 stalled for 20 secs in command: 4 APPEND "INBOX" {9605+}
+ - 47 stalled for 20 secs in command: 2 LIST "" *
+ - 58 stalled for 20 secs in command: 2 LIST "" *
+ - 72 stalled for 20 secs in BYE, waiting for disconnect
+ - 18 stalled for 23 secs in command: 5 APPEND "INBOX" {1502+}
+ - 60 stalled for 20 secs in command: 2 LIST "" *
+ - 46 stalled for 20 secs in command: 3 APPEND "INBOX" "15-Oct-2002 23:38:37 +0200" {2032+}
+ - 51 stalled for 20 secs in command: 2 LIST "" *
+ - 56 stalled for 20 secs in command: 2 STATUS "INBOX" (MESSAGES UNSEEN RECENT)
+ - 75 stalled for 20 secs in BYE, waiting for disconnect
+ - 65 stalled for 20 secs in command: 2 STATUS "INBOX" (MESSAGES UNSEEN RECENT)
+ - 62 stalled for 20 secs in command: 2 LIST "" *
+ - 26 stalled for 23 secs in command: 5 APPEND "INBOX" {1926+}
+ - 27 stalled for 23 secs in command: 4 APPEND "INBOX" "23-Sep-2002 20:42:43 +0200" {2141+}
+ - 73 stalled for 20 secs in BYE, waiting for disconnect
+ - 59 stalled for 20 secs in command: 2 SELECT "INBOX" (CONDSTORE)
+ - 32 stalled for 23 secs in command: 4 APPEND "INBOX" (\Seen $Label5) {1868+}
+ - 71 stalled for 20 secs in BYE, waiting for disconnect
+ - 74 stalled for 20 secs in BYE, waiting for disconnect
+ - 66 stalled for 20 secs in command: 2 LIST "" *
+ - 76 stalled for 20 secs in BYE, waiting for disconnect
+ - 64 stalled for 20 secs in command: 2 SELECT "INBOX" (CONDSTORE)
+ - 63 stalled for 20 secs in command: 2 LIST "" *
+   7    6    6   13    0    0    0    0    0    2    4  40/ 40
+ - 42 stalled for 21 secs in command: 2 LIST "" *
+ - 41 stalled for 21 secs in command: 4 APPEND "INBOX" (\Flagged $Label2 $Label4) {3269+}
+ - 45 stalled for 21 secs in command: 3 APPEND "INBOX" (\Answered \Seen \Draft) {2242+}
+ - 53 stalled for 21 secs in command: 4 APPEND "INBOX" {9605+}
+ - 67 stalled for 16 secs in command: 7 EXPUNGE
+ - 18 stalled for 24 secs in command: 5 APPEND "INBOX" {1502+}
+ - 60 stalled for 21 secs in command: 2 LIST "" *
+ - 46 stalled for 21 secs in command: 3 APPEND "INBOX" "15-Oct-2002 23:38:37 +0200" {2032+}
+ - 62 stalled for 21 secs in command: 2 LIST "" *
+ - 27 stalled for 24 secs in command: 4 APPEND "INBOX" "23-Sep-2002 20:42:43 +0200" {2141+}
+ - 66 stalled for 21 secs in command: 2 LIST "" *
+ - 63 stalled for 21 secs in command: 2 LIST "" *
+   0    0    0    0    0    0    0    0    0    0    0  40/ 40
+ - 42 stalled for 22 secs in command: 2 LIST "" *
+ - 41 stalled for 22 secs in command: 4 APPEND "INBOX" (\Flagged $Label2 $Label4) {3269+}
+ - 45 stalled for 22 secs in command: 3 APPEND "INBOX" (\Answered \Seen \Draft) {2242+}
+ - 53 stalled for 22 secs in command: 4 APPEND "INBOX" {9605+}
+ - 67 stalled for 17 secs in command: 7 EXPUNGE
+ - 18 stalled for 25 secs in command: 5 APPEND "INBOX" {1502+}
+ - 60 stalled for 22 secs in command: 2 LIST "" *
+ - 46 stalled for 22 secs in command: 3 APPEND "INBOX" "15-Oct-2002 23:38:37 +0200" {2032+}
+ - 62 stalled for 22 secs in command: 2 LIST "" *
+ - 27 stalled for 25 secs in command: 4 APPEND "INBOX" "23-Sep-2002 20:42:43 +0200" {2141+}
+ - 66 stalled for 22 secs in command: 2 LIST "" *
+ - 63 stalled for 22 secs in command: 2 LIST "" *
+   0    0    0    0    0    0    0    0    0    0    0  40/ 40
+ - 42 stalled for 23 secs in command: 2 LIST "" *
+ - 41 stalled for 23 secs in command: 4 APPEND "INBOX" (\Flagged $Label2 $Label4) {3269+}
+ - 45 stalled for 23 secs in command: 3 APPEND "INBOX" (\Answered \Seen \Draft) {2242+}
+ - 53 stalled for 23 secs in command: 4 APPEND "INBOX" {9605+}
+ - 67 stalled for 18 secs in command: 7 EXPUNGE
+ - 18 stalled for 26 secs in command: 5 APPEND "INBOX" {1502+}
+ - 60 stalled for 23 secs in command: 2 LIST "" *
+ - 46 stalled for 23 secs in command: 3 APPEND "INBOX" "15-Oct-2002 23:38:37 +0200" {2032+}
+ - 62 stalled for 23 secs in command: 2 LIST "" *
+ - 27 stalled for 26 secs in command: 4 APPEND "INBOX" "23-Sep-2002 20:42:43 +0200" {2141+}
+ - 66 stalled for 23 secs in command: 2 LIST "" *
+ - 63 stalled for 23 secs in command: 2 LIST "" *
+   0    0    0    0    0    0    0    0    0    0    0  40/ 40
+ - 42 stalled for 24 secs in command: 2 LIST "" *
+ - 41 stalled for 24 secs in command: 4 APPEND "INBOX" (\Flagged $Label2 $Label4) {3269+}
+ - 45 stalled for 24 secs in command: 3 APPEND "INBOX" (\Answered \Seen \Draft) {2242+}
+ - 53 stalled for 24 secs in command: 4 APPEND "INBOX" {9605+}
+ - 67 stalled for 19 secs in command: 7 EXPUNGE
+ - 18 stalled for 27 secs in command: 5 APPEND "INBOX" {1502+}
+ - 60 stalled for 24 secs in command: 2 LIST "" *
+ - 46 stalled for 24 secs in command: 3 APPEND "INBOX" "15-Oct-2002 23:38:37 +0200" {2032+}
+ - 62 stalled for 24 secs in command: 2 LIST "" *
+ - 27 stalled for 27 secs in command: 4 APPEND "INBOX" "23-Sep-2002 20:42:43 +0200" {2141+}
+ - 66 stalled for 24 secs in command: 2 LIST "" *
+ - 63 stalled for 24 secs in command: 2 LIST "" *
+   0    0    0    0    0    0    0    0    0    0    0  40/ 40
+ - 42 stalled for 25 secs in command: 2 LIST "" *
+ - 41 stalled for 25 secs in command: 4 APPEND "INBOX" (\Flagged $Label2 $Label4) {3269+}
+ - 45 stalled for 25 secs in command: 3 APPEND "INBOX" (\Answered \Seen \Draft) {2242+}
+ - 53 stalled for 25 secs in command: 4 APPEND "INBOX" {9605+}
+ - 67 stalled for 20 secs in command: 7 EXPUNGE
+ - 18 stalled for 28 secs in command: 5 APPEND "INBOX" {1502+}
+ - 60 stalled for 25 secs in command: 2 LIST "" *
+ - 46 stalled for 25 secs in command: 3 APPEND "INBOX" "15-Oct-2002 23:38:37 +0200" {2032+}
+ - 62 stalled for 25 secs in command: 2 LIST "" *
+ - 27 stalled for 28 secs in command: 4 APPEND "INBOX" "23-Sep-2002 20:42:43 +0200" {2141+}
+ - 66 stalled for 25 secs in command: 2 LIST "" *
+ - 63 stalled for 25 secs in command: 2 LIST "" *
+   0    0    0    0    0    0    0    0    0    0    0  40/ 40
+ - 50 stalled for 16 secs in command: 2 LIST "" *
+ - 42 stalled for 26 secs in command: 2 LIST "" *
+ - 41 stalled for 26 secs in command: 4 APPEND "INBOX" (\Flagged $Label2 $Label4) {3269+}
+ - 45 stalled for 26 secs in command: 3 APPEND "INBOX" (\Answered \Seen \Draft) {2242+}
+ - 53 stalled for 26 secs in command: 4 APPEND "INBOX" {9605+}
+ - 67 stalled for 21 secs in command: 7 EXPUNGE
+ - 49 stalled for 16 secs in command: 2 SELECT "INBOX" (CONDSTORE)
+ - 18 stalled for 29 secs in command: 5 APPEND "INBOX" {1502+}
+ - 60 stalled for 26 secs in command: 2 LIST "" *
+ - 46 stalled for 26 secs in command: 3 APPEND "INBOX" "15-Oct-2002 23:38:37 +0200" {2032+}
+ - 62 stalled for 26 secs in command: 2 LIST "" *
+ - 27 stalled for 29 secs in command: 4 APPEND "INBOX" "23-Sep-2002 20:42:43 +0200" {2141+}
+ - 70 stalled for 16 secs in command: 2 STATUS "INBOX" (MESSAGES UNSEEN RECENT)
+ - 69 stalled for 16 secs in command: 2 SELECT "INBOX" (CONDSTORE)
+ - 68 stalled for 16 secs in command: 2 STATUS "INBOX" (MESSAGES UNSEEN RECENT)
+ - 66 stalled for 26 secs in command: 2 LIST "" *
+ - 63 stalled for 26 secs in command: 2 LIST "" *
+ - 61 stalled for 16 secs in command: 2 LIST "" *
+Logi List Stat Sele Fetc Fet2 Stor Dele Expu Appe Logo 
+100%  50%  50% 100% 100% 100%  50% 100% 100% 100% 100% 
+                          30%                  5%      
+   0    0    0    0    0    0    0    0    0    0    0  40/ 40
+ - 50 stalled for 17 secs in command: 2 LIST "" *
+ - 42 stalled for 27 secs in command: 2 LIST "" *
+ - 41 stalled for 27 secs in command: 4 APPEND "INBOX" (\Flagged $Label2 $Label4) {3269+}
+ - 45 stalled for 27 secs in command: 3 APPEND "INBOX" (\Answered \Seen \Draft) {2242+}
+ - 53 stalled for 27 secs in command: 4 APPEND "INBOX" {9605+}
+ - 67 stalled for 22 secs in command: 7 EXPUNGE
+ - 49 stalled for 17 secs in command: 2 SELECT "INBOX" (CONDSTORE)
+ - 18 stalled for 30 secs in command: 5 APPEND "INBOX" {1502+}
+ - 60 stalled for 27 secs in command: 2 LIST "" *
+ - 46 stalled for 27 secs in command: 3 APPEND "INBOX" "15-Oct-2002 23:38:37 +0200" {2032+}
+ - 62 stalled for 27 secs in command: 2 LIST "" *
+ - 27 stalled for 30 secs in command: 4 APPEND "INBOX" "23-Sep-2002 20:42:43 +0200" {2141+}
+ - 70 stalled for 17 secs in command: 2 STATUS "INBOX" (MESSAGES UNSEEN RECENT)
+ - 69 stalled for 17 secs in command: 2 SELECT "INBOX" (CONDSTORE)
+ - 68 stalled for 17 secs in command: 2 STATUS "INBOX" (MESSAGES UNSEEN RECENT)
+ - 66 stalled for 27 secs in command: 2 LIST "" *
+ - 63 stalled for 27 secs in command: 2 LIST "" *
+ - 61 stalled for 17 secs in command: 2 LIST "" *
+   0    0    0    0    0    0    0    0    0    0    0  40/ 40
+ - 50 stalled for 18 secs in command: 2 LIST "" *
+ - 42 stalled for 28 secs in command: 2 LIST "" *
+ - 41 stalled for 28 secs in command: 4 APPEND "INBOX" (\Flagged $Label2 $Label4) {3269+}
+ - 45 stalled for 28 secs in command: 3 APPEND "INBOX" (\Answered \Seen \Draft) {2242+}
+ - 53 stalled for 28 secs in command: 4 APPEND "INBOX" {9605+}
+ - 67 stalled for 23 secs in command: 7 EXPUNGE
+ - 49 stalled for 18 secs in command: 2 SELECT "INBOX" (CONDSTORE)
+ - 18 stalled for 31 secs in command: 5 APPEND "INBOX" {1502+}
+ - 60 stalled for 28 secs in command: 2 LIST "" *
+ - 46 stalled for 28 secs in command: 3 APPEND "INBOX" "15-Oct-2002 23:38:37 +0200" {2032+}
+ - 62 stalled for 28 secs in command: 2 LIST "" *
+ - 27 stalled for 31 secs in command: 4 APPEND "INBOX" "23-Sep-2002 20:42:43 +0200" {2141+}
+ - 70 stalled for 18 secs in command: 2 STATUS "INBOX" (MESSAGES UNSEEN RECENT)
+ - 69 stalled for 18 secs in command: 2 SELECT "INBOX" (CONDSTORE)
+ - 68 stalled for 18 secs in command: 2 STATUS "INBOX" (MESSAGES UNSEEN RECENT)
+ - 66 stalled for 28 secs in command: 2 LIST "" *
+ - 63 stalled for 28 secs in command: 2 LIST "" *
+ - 61 stalled for 18 secs in command: 2 LIST "" *
+   0    0    0    0    0    0    0    0    0    0    0  40/ 40
+ - 50 stalled for 19 secs in command: 2 LIST "" *
+ - 42 stalled for 29 secs in command: 2 LIST "" *
+ - 41 stalled for 29 secs in command: 4 APPEND "INBOX" (\Flagged $Label2 $Label4) {3269+}
+ - 45 stalled for 29 secs in command: 3 APPEND "INBOX" (\Answered \Seen \Draft) {2242+}
+ - 53 stalled for 29 secs in command: 4 APPEND "INBOX" {9605+}
+ - 67 stalled for 24 secs in command: 7 EXPUNGE
+ - 49 stalled for 19 secs in command: 2 SELECT "INBOX" (CONDSTORE)
+ - 18 stalled for 32 secs in command: 5 APPEND "INBOX" {1502+}
+ - 60 stalled for 29 secs in command: 2 LIST "" *
+ - 46 stalled for 29 secs in command: 3 APPEND "INBOX" "15-Oct-2002 23:38:37 +0200" {2032+}
+ - 62 stalled for 29 secs in command: 2 LIST "" *
+ - 27 stalled for 32 secs in command: 4 APPEND "INBOX" "23-Sep-2002 20:42:43 +0200" {2141+}
+ - 70 stalled for 19 secs in command: 2 STATUS "INBOX" (MESSAGES UNSEEN RECENT)
+ - 69 stalled for 19 secs in command: 2 SELECT "INBOX" (CONDSTORE)
+ - 68 stalled for 19 secs in command: 2 STATUS "INBOX" (MESSAGES UNSEEN RECENT)
+ - 66 stalled for 29 secs in command: 2 LIST "" *
+ - 63 stalled for 29 secs in command: 2 LIST "" *
+ - 61 stalled for 19 secs in command: 2 LIST "" *
+   0    0    0    0    0    0    0    0    0    0    0  40/ 40
+ - 50 stalled for 20 secs in command: 2 LIST "" *
+ - 42 stalled for 30 secs in command: 2 LIST "" *
+ - 41 stalled for 30 secs in command: 4 APPEND "INBOX" (\Flagged $Label2 $Label4) {3269+}
+ - 45 stalled for 30 secs in command: 3 APPEND "INBOX" (\Answered \Seen \Draft) {2242+}
+ - 53 stalled for 30 secs in command: 4 APPEND "INBOX" {9605+}
+ - 67 stalled for 25 secs in command: 7 EXPUNGE
+ - 49 stalled for 20 secs in command: 2 SELECT "INBOX" (CONDSTORE)
+ - 18 stalled for 33 secs in command: 5 APPEND "INBOX" {1502+}
+ - 60 stalled for 30 secs in command: 2 LIST "" *
+ - 46 stalled for 30 secs in command: 3 APPEND "INBOX" "15-Oct-2002 23:38:37 +0200" {2032+}
+ - 62 stalled for 30 secs in command: 2 LIST "" *
+ - 27 stalled for 33 secs in command: 4 APPEND "INBOX" "23-Sep-2002 20:42:43 +0200" {2141+}
+ - 70 stalled for 20 secs in command: 2 STATUS "INBOX" (MESSAGES UNSEEN RECENT)
+ - 69 stalled for 20 secs in command: 2 SELECT "INBOX" (CONDSTORE)
+ - 68 stalled for 20 secs in command: 2 STATUS "INBOX" (MESSAGES UNSEEN RECENT)
+ - 66 stalled for 30 secs in command: 2 LIST "" *
+ - 63 stalled for 30 secs in command: 2 LIST "" *
+ - 61 stalled for 20 secs in command: 2 LIST "" *
+   0    0    0    0    0    0    0    0    0    0    0  40/ 40
+ - 50 stalled for 21 secs in command: 2 LIST "" *
+ - 42 stalled for 31 secs in command: 2 LIST "" *
+ - 41 stalled for 31 secs in command: 4 APPEND "INBOX" (\Flagged $Label2 $Label4) {3269+}
+ - 45 stalled for 31 secs in command: 3 APPEND "INBOX" (\Answered \Seen \Draft) {2242+}
+ - 53 stalled for 31 secs in command: 4 APPEND "INBOX" {9605+}
+ - 67 stalled for 26 secs in command: 7 EXPUNGE
+ - 49 stalled for 21 secs in command: 2 SELECT "INBOX" (CONDSTORE)
+ - 18 stalled for 34 secs in command: 5 APPEND "INBOX" {1502+}
+ - 60 stalled for 31 secs in command: 2 LIST "" *
+ - 46 stalled for 31 secs in command: 3 APPEND "INBOX" "15-Oct-2002 23:38:37 +0200" {2032+}
+ - 62 stalled for 31 secs in command: 2 LIST "" *
+ - 27 stalled for 34 secs in command: 4 APPEND "INBOX" "23-Sep-2002 20:42:43 +0200" {2141+}
+ - 70 stalled for 21 secs in command: 2 STATUS "INBOX" (MESSAGES UNSEEN RECENT)
+ - 69 stalled for 21 secs in command: 2 SELECT "INBOX" (CONDSTORE)
+ - 68 stalled for 21 secs in command: 2 STATUS "INBOX" (MESSAGES UNSEEN RECENT)
+ - 66 stalled for 31 secs in command: 2 LIST "" *
+ - 63 stalled for 31 secs in command: 2 LIST "" *
+ - 61 stalled for 21 secs in command: 2 LIST "" *
+   0    0    0    0    0    0    0    0    0    0    0  40/ 40
+ - 50 stalled for 22 secs in command: 2 LIST "" *
+ - 42 stalled for 32 secs in command: 2 LIST "" *
+ - 41 stalled for 32 secs in command: 4 APPEND "INBOX" (\Flagged $Label2 $Label4) {3269+}
+ - 45 stalled for 32 secs in command: 3 APPEND "INBOX" (\Answered \Seen \Draft) {2242+}
+ - 53 stalled for 32 secs in command: 4 APPEND "INBOX" {9605+}
+ - 67 stalled for 27 secs in command: 7 EXPUNGE
+ - 49 stalled for 22 secs in command: 2 SELECT "INBOX" (CONDSTORE)
+ - 18 stalled for 35 secs in command: 5 APPEND "INBOX" {1502+}
+ - 60 stalled for 32 secs in command: 2 LIST "" *
+ - 46 stalled for 32 secs in command: 3 APPEND "INBOX" "15-Oct-2002 23:38:37 +0200" {2032+}
+ - 62 stalled for 32 secs in command: 2 LIST "" *
+ - 27 stalled for 35 secs in command: 4 APPEND "INBOX" "23-Sep-2002 20:42:43 +0200" {2141+}
+ - 70 stalled for 22 secs in command: 2 STATUS "INBOX" (MESSAGES UNSEEN RECENT)
+ - 69 stalled for 22 secs in command: 2 SELECT "INBOX" (CONDSTORE)
+ - 68 stalled for 22 secs in command: 2 STATUS "INBOX" (MESSAGES UNSEEN RECENT)
+ - 66 stalled for 32 secs in command: 2 LIST "" *
+ - 63 stalled for 32 secs in command: 2 LIST "" *
+ - 61 stalled for 22 secs in command: 2 LIST "" *
+   0    0    0    0    0    0    0    0    0    0    0  40/ 40
+ - 50 stalled for 23 secs in command: 2 LIST "" *
+ - 42 stalled for 33 secs in command: 2 LIST "" *
+ - 41 stalled for 33 secs in command: 4 APPEND "INBOX" (\Flagged $Label2 $Label4) {3269+}
+ - 45 stalled for 33 secs in command: 3 APPEND "INBOX" (\Answered \Seen \Draft) {2242+}
+ - 53 stalled for 33 secs in command: 4 APPEND "INBOX" {9605+}
+ - 67 stalled for 28 secs in command: 7 EXPUNGE
+ - 49 stalled for 23 secs in command: 2 SELECT "INBOX" (CONDSTORE)
+ - 18 stalled for 36 secs in command: 5 APPEND "INBOX" {1502+}
+ - 60 stalled for 33 secs in command: 2 LIST "" *
+ - 46 stalled for 33 secs in command: 3 APPEND "INBOX" "15-Oct-2002 23:38:37 +0200" {2032+}
+ - 62 stalled for 33 secs in command: 2 LIST "" *
+ - 27 stalled for 36 secs in command: 4 APPEND "INBOX" "23-Sep-2002 20:42:43 +0200" {2141+}
+ - 70 stalled for 23 secs in command: 2 STATUS "INBOX" (MESSAGES UNSEEN RECENT)
+ - 69 stalled for 23 secs in command: 2 SELECT "INBOX" (CONDSTORE)
+ - 68 stalled for 23 secs in command: 2 STATUS "INBOX" (MESSAGES UNSEEN RECENT)
+ - 66 stalled for 33 secs in command: 2 LIST "" *
+ - 63 stalled for 33 secs in command: 2 LIST "" *
+ - 61 stalled for 23 secs in command: 2 LIST "" *
+   0    0    0    0    0    0    0    0    0    0    0  40/ 40
+ - 50 stalled for 24 secs in command: 2 LIST "" *
+ - 42 stalled for 34 secs in command: 2 LIST "" *
+ - 41 stalled for 34 secs in command: 4 APPEND "INBOX" (\Flagged $Label2 $Label4) {3269+}
+ - 45 stalled for 34 secs in command: 3 APPEND "INBOX" (\Answered \Seen \Draft) {2242+}
+ - 53 stalled for 34 secs in command: 4 APPEND "INBOX" {9605+}
+ - 67 stalled for 29 secs in command: 7 EXPUNGE
+ - 49 stalled for 24 secs in command: 2 SELECT "INBOX" (CONDSTORE)
+ - 18 stalled for 37 secs in command: 5 APPEND "INBOX" {1502+}
+ - 60 stalled for 34 secs in command: 2 LIST "" *
+ - 46 stalled for 34 secs in command: 3 APPEND "INBOX" "15-Oct-2002 23:38:37 +0200" {2032+}
+ - 62 stalled for 34 secs in command: 2 LIST "" *
+ - 27 stalled for 37 secs in command: 4 APPEND "INBOX" "23-Sep-2002 20:42:43 +0200" {2141+}
+ - 70 stalled for 24 secs in command: 2 STATUS "INBOX" (MESSAGES UNSEEN RECENT)
+ - 69 stalled for 24 secs in command: 2 SELECT "INBOX" (CONDSTORE)
+ - 68 stalled for 24 secs in command: 2 STATUS "INBOX" (MESSAGES UNSEEN RECENT)
+ - 66 stalled for 34 secs in command: 2 LIST "" *
+ - 63 stalled for 34 secs in command: 2 LIST "" *
+ - 61 stalled for 24 secs in command: 2 LIST "" *
+   1    0    0    0    0    0    0    0    0    0    0  40/ 40
+ - 50 stalled for 25 secs in command: 2 LIST "" *
+ - 42 stalled for 35 secs in command: 2 LIST "" *
+ - 41 stalled for 35 secs in command: 4 APPEND "INBOX" (\Flagged $Label2 $Label4) {3269+}
+ - 45 stalled for 35 secs in command: 3 APPEND "INBOX" (\Answered \Seen \Draft) {2242+}
+ - 53 stalled for 35 secs in command: 4 APPEND "INBOX" {9605+}
+ - 67 stalled for 30 secs in command: 7 EXPUNGE
+ - 49 stalled for 25 secs in command: 2 SELECT "INBOX" (CONDSTORE)
+ - 18 stalled for 38 secs in command: 5 APPEND "INBOX" {1502+}
+ - 60 stalled for 35 secs in command: 2 LIST "" *
+ - 46 stalled for 35 secs in command: 3 APPEND "INBOX" "15-Oct-2002 23:38:37 +0200" {2032+}
+ - 62 stalled for 35 secs in command: 2 LIST "" *
+ - 27 stalled for 38 secs in command: 4 APPEND "INBOX" "23-Sep-2002 20:42:43 +0200" {2141+}
+ - 70 stalled for 25 secs in command: 2 STATUS "INBOX" (MESSAGES UNSEEN RECENT)
+ - 69 stalled for 25 secs in command: 2 SELECT "INBOX" (CONDSTORE)
+ - 68 stalled for 25 secs in command: 2 STATUS "INBOX" (MESSAGES UNSEEN RECENT)
+ - 66 stalled for 35 secs in command: 2 LIST "" *
+ - 63 stalled for 35 secs in command: 2 LIST "" *
+ - 61 stalled for 25 secs in command: 2 LIST "" *
+   0    0    0    0    0    0    0    0    0    0    0  40/ 40
+ - 50 stalled for 26 secs in command: 2 LIST "" *
+ - 42 stalled for 36 secs in command: 2 LIST "" *
+ - 41 stalled for 36 secs in command: 4 APPEND "INBOX" (\Flagged $Label2 $Label4) {3269+}
+ - 45 stalled for 36 secs in command: 3 APPEND "INBOX" (\Answered \Seen \Draft) {2242+}
+ - 53 stalled for 36 secs in command: 4 APPEND "INBOX" {9605+}
+ - 67 stalled for 31 secs in command: 7 EXPUNGE
+ - 49 stalled for 26 secs in command: 2 SELECT "INBOX" (CONDSTORE)
+ - 18 stalled for 39 secs in command: 5 APPEND "INBOX" {1502+}
+ - 60 stalled for 36 secs in command: 2 LIST "" *
+ - 46 stalled for 36 secs in command: 3 APPEND "INBOX" "15-Oct-2002 23:38:37 +0200" {2032+}
+ - 62 stalled for 36 secs in command: 2 LIST "" *
+ - 27 stalled for 39 secs in command: 4 APPEND "INBOX" "23-Sep-2002 20:42:43 +0200" {2141+}
+ - 70 stalled for 26 secs in command: 2 STATUS "INBOX" (MESSAGES UNSEEN RECENT)
+ - 69 stalled for 26 secs in command: 2 SELECT "INBOX" (CONDSTORE)
+ - 68 stalled for 26 secs in command: 2 STATUS "INBOX" (MESSAGES UNSEEN RECENT)
+ - 66 stalled for 36 secs in command: 2 LIST "" *
+ - 63 stalled for 36 secs in command: 2 LIST "" *
+ - 61 stalled for 26 secs in command: 2 LIST "" *
+Logi List Stat Sele Fetc Fet2 Stor Dele Expu Appe Logo 
+100%  50%  50% 100% 100% 100%  50% 100% 100% 100% 100% 
+                          30%                  5%      
+   0    0    0    0    0    0    0    0    0    0    0  40/ 40
+ - 50 stalled for 27 secs in command: 2 LIST "" *
+ - 48 stalled for 16 secs in command: 3 APPEND "INBOX" (\Answered \Draft $Label1 $Label3 $Label5) "19-Oct-2002 17:01:56 +0200" {10255+}
+ - 42 stalled for 37 secs in command: 2 LIST "" *
+ - 44 stalled for 16 secs in command: 4 APPEND "INBOX" {1490+}
+ - 55 stalled for 16 secs in command: 2 STATUS "INBOX" (MESSAGES UNSEEN RECENT)
+ - 43 stalled for 16 secs in command: 5 APPEND "INBOX" (\Answered $Label1 $Label5) "19-Oct-2002 19:24:01 +0200" {1716+}
+ - 41 stalled for 37 secs in command: 4 APPEND "INBOX" (\Flagged $Label2 $Label4) {3269+}
+ - 52 stalled for 16 secs in command: 3 APPEND "INBOX" {6121+}
+ - 45 stalled for 37 secs in command: 3 APPEND "INBOX" (\Answered \Seen \Draft) {2242+}
+ - 54 stalled for 16 secs in command: 5 APPEND "INBOX" (\Flagged $Label4) {2794+}
+ - 57 stalled for 16 secs in command: 3 APPEND "INBOX" "19-Oct-2002 19:27:45 +0200" {1589+}
+ - 53 stalled for 37 secs in command: 4 APPEND "INBOX" {9605+}
+ - 47 stalled for 16 secs in command: 5 APPEND "INBOX" "20-Oct-2002 09:38:35 +0200" {2293+}
+ - 58 stalled for 16 secs in command: 4 APPEND "INBOX" (\Flagged \Seen $Label4 $Label5) {2859+}
+ - 67 stalled for 32 secs in command: 7 EXPUNGE
+ - 72 stalled for 16 secs in command: 2 STATUS "INBOX" (MESSAGES UNSEEN RECENT)
+ - 49 stalled for 27 secs in command: 2 SELECT "INBOX" (CONDSTORE)
+ - 18 stalled for 40 secs in command: 5 APPEND "INBOX" {1502+}
+ - 60 stalled for 37 secs in command: 2 LIST "" *
+ - 46 stalled for 37 secs in command: 3 APPEND "INBOX" "15-Oct-2002 23:38:37 +0200" {2032+}
+ - 51 stalled for 16 secs in command: 5 APPEND "INBOX" (\Seen $Label1) {9049+}
+ - 56 stalled for 16 secs in command: 4 APPEND "INBOX" (\Answered) "19-Oct-2002 19:11:49 +0200" {2353+}
+ - 75 stalled for 16 secs in command: 2 STATUS "INBOX" (MESSAGES UNSEEN RECENT)
+ - 65 stalled for 16 secs in command: 4 APPEND "INBOX" (\Draft $Label3 $Label5) {1813+}
+ - 62 stalled for 37 secs in command: 2 LIST "" *
+ - 27 stalled for 40 secs in command: 4 APPEND "INBOX" "23-Sep-2002 20:42:43 +0200" {2141+}
+ - 70 stalled for 27 secs in command: 2 STATUS "INBOX" (MESSAGES UNSEEN RECENT)
+ - 73 stalled for 16 secs in command: 2 LIST "" *
+ - 69 stalled for 27 secs in command: 2 SELECT "INBOX" (CONDSTORE)
+ - 59 stalled for 16 secs in command: 3 APPEND "INBOX" {1684+}
+ - 78 stalled for 16 secs in BYE, waiting for disconnect
+ - 71 stalled for 16 secs in command: 2 LIST "" *
+ - 68 stalled for 27 secs in command: 2 STATUS "INBOX" (MESSAGES UNSEEN RECENT)
+ - 74 stalled for 16 secs in command: 2 LIST "" *
+ - 66 stalled for 37 secs in command: 2 LIST "" *
+ - 76 stalled for 16 secs in command: 2 SELECT "INBOX" (CONDSTORE)
+ - 64 stalled for 16 secs in command: 3 APPEND "INBOX" (\Flagged \Seen \Draft $Label4 $Label5) {1749+}
+ - 63 stalled for 37 secs in command: 2 LIST "" *
+ - 61 stalled for 27 secs in command: 2 LIST "" *
+   0    0    0    0    0    0    0    0    0    0    0  40/ 40
+ - 50 stalled for 28 secs in command: 2 LIST "" *
+ - 48 stalled for 17 secs in command: 3 APPEND "INBOX" (\Answered \Draft $Label1 $Label3 $Label5) "19-Oct-2002 17:01:56 +0200" {10255+}
+ - 42 stalled for 38 secs in command: 2 LIST "" *
+ - 44 stalled for 17 secs in command: 4 APPEND "INBOX" {1490+}
+ - 55 stalled for 17 secs in command: 2 STATUS "INBOX" (MESSAGES UNSEEN RECENT)
+ - 43 stalled for 17 secs in command: 5 APPEND "INBOX" (\Answered $Label1 $Label5) "19-Oct-2002 19:24:01 +0200" {1716+}
+ - 41 stalled for 38 secs in command: 4 APPEND "INBOX" (\Flagged $Label2 $Label4) {3269+}
+ - 52 stalled for 17 secs in command: 3 APPEND "INBOX" {6121+}
+ - 45 stalled for 38 secs in command: 3 APPEND "INBOX" (\Answered \Seen \Draft) {2242+}
+ - 54 stalled for 17 secs in command: 5 APPEND "INBOX" (\Flagged $Label4) {2794+}
+ - 57 stalled for 17 secs in command: 3 APPEND "INBOX" "19-Oct-2002 19:27:45 +0200" {1589+}
+ - 53 stalled for 38 secs in command: 4 APPEND "INBOX" {9605+}
+ - 47 stalled for 17 secs in command: 5 APPEND "INBOX" "20-Oct-2002 09:38:35 +0200" {2293+}
+ - 58 stalled for 17 secs in command: 4 APPEND "INBOX" (\Flagged \Seen $Label4 $Label5) {2859+}
+ - 67 stalled for 33 secs in command: 7 EXPUNGE
+ - 72 stalled for 17 secs in command: 2 STATUS "INBOX" (MESSAGES UNSEEN RECENT)
+ - 49 stalled for 28 secs in command: 2 SELECT "INBOX" (CONDSTORE)
+ - 18 stalled for 41 secs in command: 5 APPEND "INBOX" {1502+}
+ - 60 stalled for 38 secs in command: 2 LIST "" *
+ - 46 stalled for 38 secs in command: 3 APPEND "INBOX" "15-Oct-2002 23:38:37 +0200" {2032+}
+ - 51 stalled for 17 secs in command: 5 APPEND "INBOX" (\Seen $Label1) {9049+}
+ - 56 stalled for 17 secs in command: 4 APPEND "INBOX" (\Answered) "19-Oct-2002 19:11:49 +0200" {2353+}
+ - 75 stalled for 17 secs in command: 2 STATUS "INBOX" (MESSAGES UNSEEN RECENT)
+ - 65 stalled for 17 secs in command: 4 APPEND "INBOX" (\Draft $Label3 $Label5) {1813+}
+ - 62 stalled for 38 secs in command: 2 LIST "" *
+ - 27 stalled for 41 secs in command: 4 APPEND "INBOX" "23-Sep-2002 20:42:43 +0200" {2141+}
+ - 70 stalled for 28 secs in command: 2 STATUS "INBOX" (MESSAGES UNSEEN RECENT)
+ - 73 stalled for 17 secs in command: 2 LIST "" *
+ - 69 stalled for 28 secs in command: 2 SELECT "INBOX" (CONDSTORE)
+ - 59 stalled for 17 secs in command: 3 APPEND "INBOX" {1684+}
+ - 78 stalled for 17 secs in BYE, waiting for disconnect
+ - 71 stalled for 17 secs in command: 2 LIST "" *
+ - 68 stalled for 28 secs in command: 2 STATUS "INBOX" (MESSAGES UNSEEN RECENT)
+ - 74 stalled for 17 secs in command: 2 LIST "" *
+ - 66 stalled for 38 secs in command: 2 LIST "" *
+ - 76 stalled for 17 secs in command: 2 SELECT "INBOX" (CONDSTORE)
+ - 64 stalled for 17 secs in command: 3 APPEND "INBOX" (\Flagged \Seen \Draft $Label4 $Label5) {1749+}
+ - 63 stalled for 38 secs in command: 2 LIST "" *
+ - 61 stalled for 28 secs in command: 2 LIST "" *
+   0    0    0    0    0    0    0    0    0    0    0  40/ 40
+ - 50 stalled for 29 secs in command: 2 LIST "" *
+ - 48 stalled for 18 secs in command: 3 APPEND "INBOX" (\Answered \Draft $Label1 $Label3 $Label5) "19-Oct-2002 17:01:56 +0200" {10255+}
+ - 42 stalled for 39 secs in command: 2 LIST "" *
+ - 44 stalled for 18 secs in command: 4 APPEND "INBOX" {1490+}
+ - 55 stalled for 18 secs in command: 2 STATUS "INBOX" (MESSAGES UNSEEN RECENT)
+ - 43 stalled for 18 secs in command: 5 APPEND "INBOX" (\Answered $Label1 $Label5) "19-Oct-2002 19:24:01 +0200" {1716+}
+ - 41 stalled for 39 secs in command: 4 APPEND "INBOX" (\Flagged $Label2 $Label4) {3269+}
+ - 52 stalled for 18 secs in command: 3 APPEND "INBOX" {6121+}
+ - 45 stalled for 39 secs in command: 3 APPEND "INBOX" (\Answered \Seen \Draft) {2242+}
+ - 54 stalled for 18 secs in command: 5 APPEND "INBOX" (\Flagged $Label4) {2794+}
+ - 57 stalled for 18 secs in command: 3 APPEND "INBOX" "19-Oct-2002 19:27:45 +0200" {1589+}
+ - 53 stalled for 39 secs in command: 4 APPEND "INBOX" {9605+}
+ - 47 stalled for 18 secs in command: 5 APPEND "INBOX" "20-Oct-2002 09:38:35 +0200" {2293+}
+ - 58 stalled for 18 secs in command: 4 APPEND "INBOX" (\Flagged \Seen $Label4 $Label5) {2859+}
+ - 67 stalled for 34 secs in command: 7 EXPUNGE
+ - 72 stalled for 18 secs in command: 2 STATUS "INBOX" (MESSAGES UNSEEN RECENT)
+ - 49 stalled for 29 secs in command: 2 SELECT "INBOX" (CONDSTORE)
+ - 18 stalled for 42 secs in command: 5 APPEND "INBOX" {1502+}
+ - 60 stalled for 39 secs in command: 2 LIST "" *
+ - 46 stalled for 39 secs in command: 3 APPEND "INBOX" "15-Oct-2002 23:38:37 +0200" {2032+}
+ - 51 stalled for 18 secs in command: 5 APPEND "INBOX" (\Seen $Label1) {9049+}
+ - 56 stalled for 18 secs in command: 4 APPEND "INBOX" (\Answered) "19-Oct-2002 19:11:49 +0200" {2353+}
+ - 75 stalled for 18 secs in command: 2 STATUS "INBOX" (MESSAGES UNSEEN RECENT)
+ - 65 stalled for 18 secs in command: 4 APPEND "INBOX" (\Draft $Label3 $Label5) {1813+}
+ - 62 stalled for 39 secs in command: 2 LIST "" *
+ - 27 stalled for 42 secs in command: 4 APPEND "INBOX" "23-Sep-2002 20:42:43 +0200" {2141+}
+ - 70 stalled for 29 secs in command: 2 STATUS "INBOX" (MESSAGES UNSEEN RECENT)
+ - 73 stalled for 18 secs in command: 2 LIST "" *
+ - 69 stalled for 29 secs in command: 2 SELECT "INBOX" (CONDSTORE)
+ - 59 stalled for 18 secs in command: 3 APPEND "INBOX" {1684+}
+ - 78 stalled for 18 secs in BYE, waiting for disconnect
+ - 71 stalled for 18 secs in command: 2 LIST "" *
+ - 68 stalled for 29 secs in command: 2 STATUS "INBOX" (MESSAGES UNSEEN RECENT)
+ - 74 stalled for 18 secs in command: 2 LIST "" *
+ - 66 stalled for 39 secs in command: 2 LIST "" *
+ - 76 stalled for 18 secs in command: 2 SELECT "INBOX" (CONDSTORE)
+ - 64 stalled for 18 secs in command: 3 APPEND "INBOX" (\Flagged \Seen \Draft $Label4 $Label5) {1749+}
+ - 63 stalled for 39 secs in command: 2 LIST "" *
+ - 61 stalled for 29 secs in command: 2 LIST "" *
+   0    0    0    0    0    0    0    0    0    0    0  40/ 40
+ - 50 stalled for 30 secs in command: 2 LIST "" *
+ - 48 stalled for 19 secs in command: 3 APPEND "INBOX" (\Answered \Draft $Label1 $Label3 $Label5) "19-Oct-2002 17:01:56 +0200" {10255+}
+ - 42 stalled for 40 secs in command: 2 LIST "" *
+ - 44 stalled for 19 secs in command: 4 APPEND "INBOX" {1490+}
+ - 55 stalled for 19 secs in command: 2 STATUS "INBOX" (MESSAGES UNSEEN RECENT)
+ - 43 stalled for 19 secs in command: 5 APPEND "INBOX" (\Answered $Label1 $Label5) "19-Oct-2002 19:24:01 +0200" {1716+}
+ - 41 stalled for 40 secs in command: 4 APPEND "INBOX" (\Flagged $Label2 $Label4) {3269+}
+ - 52 stalled for 19 secs in command: 3 APPEND "INBOX" {6121+}
+ - 45 stalled for 40 secs in command: 3 APPEND "INBOX" (\Answered \Seen \Draft) {2242+}
+ - 54 stalled for 19 secs in command: 5 APPEND "INBOX" (\Flagged $Label4) {2794+}
+ - 57 stalled for 19 secs in command: 3 APPEND "INBOX" "19-Oct-2002 19:27:45 +0200" {1589+}
+ - 53 stalled for 40 secs in command: 4 APPEND "INBOX" {9605+}
+ - 47 stalled for 19 secs in command: 5 APPEND "INBOX" "20-Oct-2002 09:38:35 +0200" {2293+}
+ - 58 stalled for 19 secs in command: 4 APPEND "INBOX" (\Flagged \Seen $Label4 $Label5) {2859+}
+ - 67 stalled for 35 secs in command: 7 EXPUNGE
+ - 72 stalled for 19 secs in command: 2 STATUS "INBOX" (MESSAGES UNSEEN RECENT)
+ - 49 stalled for 30 secs in command: 2 SELECT "INBOX" (CONDSTORE)
+ - 18 stalled for 43 secs in command: 5 APPEND "INBOX" {1502+}
+ - 60 stalled for 40 secs in command: 2 LIST "" *
+ - 46 stalled for 40 secs in command: 3 APPEND "INBOX" "15-Oct-2002 23:38:37 +0200" {2032+}
+ - 51 stalled for 19 secs in command: 5 APPEND "INBOX" (\Seen $Label1) {9049+}
+ - 56 stalled for 19 secs in command: 4 APPEND "INBOX" (\Answered) "19-Oct-2002 19:11:49 +0200" {2353+}
+ - 75 stalled for 19 secs in command: 2 STATUS "INBOX" (MESSAGES UNSEEN RECENT)
+ - 65 stalled for 19 secs in command: 4 APPEND "INBOX" (\Draft $Label3 $Label5) {1813+}
+ - 62 stalled for 40 secs in command: 2 LIST "" *
+ - 27 stalled for 43 secs in command: 4 APPEND "INBOX" "23-Sep-2002 20:42:43 +0200" {2141+}
+ - 70 stalled for 30 secs in command: 2 STATUS "INBOX" (MESSAGES UNSEEN RECENT)
+ - 73 stalled for 19 secs in command: 2 LIST "" *
+ - 69 stalled for 30 secs in command: 2 SELECT "INBOX" (CONDSTORE)
+ - 59 stalled for 19 secs in command: 3 APPEND "INBOX" {1684+}
+ - 78 stalled for 19 secs in BYE, waiting for disconnect
+ - 71 stalled for 19 secs in command: 2 LIST "" *
+ - 68 stalled for 30 secs in command: 2 STATUS "INBOX" (MESSAGES UNSEEN RECENT)
+ - 74 stalled for 19 secs in command: 2 LIST "" *
+ - 66 stalled for 40 secs in command: 2 LIST "" *
+ - 76 stalled for 19 secs in command: 2 SELECT "INBOX" (CONDSTORE)
+ - 64 stalled for 19 secs in command: 3 APPEND "INBOX" (\Flagged \Seen \Draft $Label4 $Label5) {1749+}
+ - 63 stalled for 40 secs in command: 2 LIST "" *
+ - 61 stalled for 30 secs in command: 2 LIST "" *
+   1    4    3    4    0    0    0    0    0    0    0  40/ 40
+ - 50 stalled for 31 secs in command: 2 LIST "" *
+ - 48 stalled for 20 secs in command: 3 APPEND "INBOX" (\Answered \Draft $Label1 $Label3 $Label5) "19-Oct-2002 17:01:56 +0200" {10255+}
+ - 44 stalled for 20 secs in command: 4 APPEND "INBOX" {1490+}
+ - 55 stalled for 20 secs in command: 2 STATUS "INBOX" (MESSAGES UNSEEN RECENT)
+ - 43 stalled for 20 secs in command: 5 APPEND "INBOX" (\Answered $Label1 $Label5) "19-Oct-2002 19:24:01 +0200" {1716+}
+ - 41 stalled for 41 secs in command: 4 APPEND "INBOX" (\Flagged $Label2 $Label4) {3269+}
+ - 52 stalled for 20 secs in command: 3 APPEND "INBOX" {6121+}
+ - 45 stalled for 41 secs in command: 3 APPEND "INBOX" (\Answered \Seen \Draft) {2242+}
+ - 54 stalled for 20 secs in command: 5 APPEND "INBOX" (\Flagged $Label4) {2794+}
+ - 57 stalled for 20 secs in command: 3 APPEND "INBOX" "19-Oct-2002 19:27:45 +0200" {1589+}
+ - 53 stalled for 41 secs in command: 4 APPEND "INBOX" {9605+}
+ - 47 stalled for 20 secs in command: 5 APPEND "INBOX" "20-Oct-2002 09:38:35 +0200" {2293+}
+ - 58 stalled for 20 secs in command: 4 APPEND "INBOX" (\Flagged \Seen $Label4 $Label5) {2859+}
+ - 67 stalled for 36 secs in command: 7 EXPUNGE
+ - 72 stalled for 20 secs in command: 2 STATUS "INBOX" (MESSAGES UNSEEN RECENT)
+ - 49 stalled for 31 secs in command: 2 SELECT "INBOX" (CONDSTORE)
+ - 18 stalled for 44 secs in command: 5 APPEND "INBOX" {1502+}
+ - 60 stalled for 41 secs in command: 2 LIST "" *
+ - 46 stalled for 41 secs in command: 3 APPEND "INBOX" "15-Oct-2002 23:38:37 +0200" {2032+}
+ - 51 stalled for 20 secs in command: 5 APPEND "INBOX" (\Seen $Label1) {9049+}
+ - 56 stalled for 20 secs in command: 4 APPEND "INBOX" (\Answered) "19-Oct-2002 19:11:49 +0200" {2353+}
+ - 75 stalled for 20 secs in command: 2 STATUS "INBOX" (MESSAGES UNSEEN RECENT)
+ - 65 stalled for 20 secs in command: 4 APPEND "INBOX" (\Draft $Label3 $Label5) {1813+}
+ - 27 stalled for 44 secs in command: 4 APPEND "INBOX" "23-Sep-2002 20:42:43 +0200" {2141+}
+ - 70 stalled for 31 secs in command: 2 STATUS "INBOX" (MESSAGES UNSEEN RECENT)
+ - 73 stalled for 20 secs in command: 2 LIST "" *
+ - 69 stalled for 31 secs in command: 2 SELECT "INBOX" (CONDSTORE)
+ - 59 stalled for 20 secs in command: 3 APPEND "INBOX" {1684+}
+ - 71 stalled for 20 secs in command: 2 LIST "" *
+ - 68 stalled for 31 secs in command: 2 STATUS "INBOX" (MESSAGES UNSEEN RECENT)
+ - 74 stalled for 20 secs in command: 2 LIST "" *
+ - 76 stalled for 20 secs in command: 2 SELECT "INBOX" (CONDSTORE)
+ - 64 stalled for 20 secs in command: 3 APPEND "INBOX" (\Flagged \Seen \Draft $Label4 $Label5) {1749+}
+ - 61 stalled for 31 secs in command: 2 LIST "" *
+   0    0    0    0    0    0    0    0    0    1    2  40/ 40
+ - 50 stalled for 32 secs in command: 2 LIST "" *
+ - 48 stalled for 21 secs in command: 3 APPEND "INBOX" (\Answered \Draft $Label1 $Label3 $Label5) "19-Oct-2002 17:01:56 +0200" {10255+}
+ - 44 stalled for 21 secs in command: 4 APPEND "INBOX" {1490+}
+ - 55 stalled for 21 secs in command: 2 STATUS "INBOX" (MESSAGES UNSEEN RECENT)
+ - 43 stalled for 21 secs in command: 5 APPEND "INBOX" (\Answered $Label1 $Label5) "19-Oct-2002 19:24:01 +0200" {1716+}
+ - 41 stalled for 42 secs in command: 4 APPEND "INBOX" (\Flagged $Label2 $Label4) {3269+}
+ - 52 stalled for 21 secs in command: 3 APPEND "INBOX" {6121+}
+ - 45 stalled for 42 secs in command: 3 APPEND "INBOX" (\Answered \Seen \Draft) {2242+}
+ - 54 stalled for 21 secs in command: 5 APPEND "INBOX" (\Flagged $Label4) {2794+}
+ - 57 stalled for 21 secs in command: 3 APPEND "INBOX" "19-Oct-2002 19:27:45 +0200" {1589+}
+ - 53 stalled for 42 secs in command: 4 APPEND "INBOX" {9605+}
+ - 47 stalled for 21 secs in command: 5 APPEND "INBOX" "20-Oct-2002 09:38:35 +0200" {2293+}
+ - 58 stalled for 21 secs in command: 4 APPEND "INBOX" (\Flagged \Seen $Label4 $Label5) {2859+}
+ - 67 stalled for 37 secs in command: 7 EXPUNGE
+ - 72 stalled for 21 secs in command: 2 STATUS "INBOX" (MESSAGES UNSEEN RECENT)
+ - 49 stalled for 32 secs in command: 2 SELECT "INBOX" (CONDSTORE)
+ - 18 stalled for 45 secs in command: 5 APPEND "INBOX" {1502+}
+ - 60 stalled for 42 secs in command: 2 LIST "" *
+ - 51 stalled for 21 secs in command: 5 APPEND "INBOX" (\Seen $Label1) {9049+}
+ - 56 stalled for 21 secs in command: 4 APPEND "INBOX" (\Answered) "19-Oct-2002 19:11:49 +0200" {2353+}
+ - 75 stalled for 21 secs in command: 2 STATUS "INBOX" (MESSAGES UNSEEN RECENT)
+ - 65 stalled for 21 secs in command: 4 APPEND "INBOX" (\Draft $Label3 $Label5) {1813+}
+ - 27 stalled for 45 secs in command: 4 APPEND "INBOX" "23-Sep-2002 20:42:43 +0200" {2141+}
+ - 70 stalled for 32 secs in command: 2 STATUS "INBOX" (MESSAGES UNSEEN RECENT)
+ - 73 stalled for 21 secs in command: 2 LIST "" *
+ - 69 stalled for 32 secs in command: 2 SELECT "INBOX" (CONDSTORE)
+ - 59 stalled for 21 secs in command: 3 APPEND "INBOX" {1684+}
+ - 71 stalled for 21 secs in command: 2 LIST "" *
+ - 68 stalled for 32 secs in command: 2 STATUS "INBOX" (MESSAGES UNSEEN RECENT)
+ - 74 stalled for 21 secs in command: 2 LIST "" *
+ - 76 stalled for 21 secs in command: 2 SELECT "INBOX" (CONDSTORE)
+ - 64 stalled for 21 secs in command: 3 APPEND "INBOX" (\Flagged \Seen \Draft $Label4 $Label5) {1749+}
+ - 61 stalled for 32 secs in command: 2 LIST "" *
+   0    0    0    0    0    0    0    0    0    0    0  40/ 40
+ - 50 stalled for 33 secs in command: 2 LIST "" *
+ - 48 stalled for 22 secs in command: 3 APPEND "INBOX" (\Answered \Draft $Label1 $Label3 $Label5) "19-Oct-2002 17:01:56 +0200" {10255+}
+ - 44 stalled for 22 secs in command: 4 APPEND "INBOX" {1490+}
+ - 55 stalled for 22 secs in command: 2 STATUS "INBOX" (MESSAGES UNSEEN RECENT)
+ - 43 stalled for 22 secs in command: 5 APPEND "INBOX" (\Answered $Label1 $Label5) "19-Oct-2002 19:24:01 +0200" {1716+}
+ - 41 stalled for 43 secs in command: 4 APPEND "INBOX" (\Flagged $Label2 $Label4) {3269+}
+ - 52 stalled for 22 secs in command: 3 APPEND "INBOX" {6121+}
+ - 45 stalled for 43 secs in command: 3 APPEND "INBOX" (\Answered \Seen \Draft) {2242+}
+ - 54 stalled for 22 secs in command: 5 APPEND "INBOX" (\Flagged $Label4) {2794+}
+ - 57 stalled for 22 secs in command: 3 APPEND "INBOX" "19-Oct-2002 19:27:45 +0200" {1589+}
+ - 53 stalled for 43 secs in command: 4 APPEND "INBOX" {9605+}
+ - 47 stalled for 22 secs in command: 5 APPEND "INBOX" "20-Oct-2002 09:38:35 +0200" {2293+}
+ - 58 stalled for 22 secs in command: 4 APPEND "INBOX" (\Flagged \Seen $Label4 $Label5) {2859+}
+ - 67 stalled for 38 secs in command: 7 EXPUNGE
+ - 72 stalled for 22 secs in command: 2 STATUS "INBOX" (MESSAGES UNSEEN RECENT)
+ - 49 stalled for 33 secs in command: 2 SELECT "INBOX" (CONDSTORE)
+ - 18 stalled for 46 secs in command: 5 APPEND "INBOX" {1502+}
+ - 60 stalled for 43 secs in command: 2 LIST "" *
+ - 51 stalled for 22 secs in command: 5 APPEND "INBOX" (\Seen $Label1) {9049+}
+ - 56 stalled for 22 secs in command: 4 APPEND "INBOX" (\Answered) "19-Oct-2002 19:11:49 +0200" {2353+}
+ - 75 stalled for 22 secs in command: 2 STATUS "INBOX" (MESSAGES UNSEEN RECENT)
+ - 65 stalled for 22 secs in command: 4 APPEND "INBOX" (\Draft $Label3 $Label5) {1813+}
+ - 27 stalled for 46 secs in command: 4 APPEND "INBOX" "23-Sep-2002 20:42:43 +0200" {2141+}
+ - 70 stalled for 33 secs in command: 2 STATUS "INBOX" (MESSAGES UNSEEN RECENT)
+ - 73 stalled for 22 secs in command: 2 LIST "" *
+ - 69 stalled for 33 secs in command: 2 SELECT "INBOX" (CONDSTORE)
+ - 59 stalled for 22 secs in command: 3 APPEND "INBOX" {1684+}
+ - 71 stalled for 22 secs in command: 2 LIST "" *
+ - 68 stalled for 33 secs in command: 2 STATUS "INBOX" (MESSAGES UNSEEN RECENT)
+ - 74 stalled for 22 secs in command: 2 LIST "" *
+ - 76 stalled for 22 secs in command: 2 SELECT "INBOX" (CONDSTORE)
+ - 64 stalled for 22 secs in command: 3 APPEND "INBOX" (\Flagged \Seen \Draft $Label4 $Label5) {1749+}
+ - 61 stalled for 33 secs in command: 2 LIST "" *
+   0    0    0    0    0    0    0    0    0    0    0  40/ 40
+ - 50 stalled for 34 secs in command: 2 LIST "" *
+ - 48 stalled for 23 secs in command: 3 APPEND "INBOX" (\Answered \Draft $Label1 $Label3 $Label5) "19-Oct-2002 17:01:56 +0200" {10255+}
+ - 44 stalled for 23 secs in command: 4 APPEND "INBOX" {1490+}
+ - 55 stalled for 23 secs in command: 2 STATUS "INBOX" (MESSAGES UNSEEN RECENT)
+ - 43 stalled for 23 secs in command: 5 APPEND "INBOX" (\Answered $Label1 $Label5) "19-Oct-2002 19:24:01 +0200" {1716+}
+ - 41 stalled for 44 secs in command: 4 APPEND "INBOX" (\Flagged $Label2 $Label4) {3269+}
+ - 52 stalled for 23 secs in command: 3 APPEND "INBOX" {6121+}
+ - 45 stalled for 44 secs in command: 3 APPEND "INBOX" (\Answered \Seen \Draft) {2242+}
+ - 54 stalled for 23 secs in command: 5 APPEND "INBOX" (\Flagged $Label4) {2794+}
+ - 57 stalled for 23 secs in command: 3 APPEND "INBOX" "19-Oct-2002 19:27:45 +0200" {1589+}
+ - 53 stalled for 44 secs in command: 4 APPEND "INBOX" {9605+}
+ - 47 stalled for 23 secs in command: 5 APPEND "INBOX" "20-Oct-2002 09:38:35 +0200" {2293+}
+ - 58 stalled for 23 secs in command: 4 APPEND "INBOX" (\Flagged \Seen $Label4 $Label5) {2859+}
+ - 67 stalled for 39 secs in command: 7 EXPUNGE
+ - 72 stalled for 23 secs in command: 2 STATUS "INBOX" (MESSAGES UNSEEN RECENT)
+ - 49 stalled for 34 secs in command: 2 SELECT "INBOX" (CONDSTORE)
+ - 18 stalled for 47 secs in command: 5 APPEND "INBOX" {1502+}
+ - 60 stalled for 44 secs in command: 2 LIST "" *
+ - 51 stalled for 23 secs in command: 5 APPEND "INBOX" (\Seen $Label1) {9049+}
+ - 56 stalled for 23 secs in command: 4 APPEND "INBOX" (\Answered) "19-Oct-2002 19:11:49 +0200" {2353+}
+ - 75 stalled for 23 secs in command: 2 STATUS "INBOX" (MESSAGES UNSEEN RECENT)
+ - 65 stalled for 23 secs in command: 4 APPEND "INBOX" (\Draft $Label3 $Label5) {1813+}
+ - 27 stalled for 47 secs in command: 4 APPEND "INBOX" "23-Sep-2002 20:42:43 +0200" {2141+}
+ - 70 stalled for 34 secs in command: 2 STATUS "INBOX" (MESSAGES UNSEEN RECENT)
+ - 73 stalled for 23 secs in command: 2 LIST "" *
+ - 69 stalled for 34 secs in command: 2 SELECT "INBOX" (CONDSTORE)
+ - 59 stalled for 23 secs in command: 3 APPEND "INBOX" {1684+}
+ - 71 stalled for 23 secs in command: 2 LIST "" *
+ - 68 stalled for 34 secs in command: 2 STATUS "INBOX" (MESSAGES UNSEEN RECENT)
+ - 74 stalled for 23 secs in command: 2 LIST "" *
+ - 76 stalled for 23 secs in command: 2 SELECT "INBOX" (CONDSTORE)
+ - 64 stalled for 23 secs in command: 3 APPEND "INBOX" (\Flagged \Seen \Draft $Label4 $Label5) {1749+}
+ - 61 stalled for 34 secs in command: 2 LIST "" *
+   0    0    0    0    0    0    0    0    0    0    0  40/ 40
+ - 50 stalled for 35 secs in command: 2 LIST "" *
+ - 48 stalled for 24 secs in command: 3 APPEND "INBOX" (\Answered \Draft $Label1 $Label3 $Label5) "19-Oct-2002 17:01:56 +0200" {10255+}
+ - 44 stalled for 24 secs in command: 4 APPEND "INBOX" {1490+}
+ - 55 stalled for 24 secs in command: 2 STATUS "INBOX" (MESSAGES UNSEEN RECENT)
+ - 43 stalled for 24 secs in command: 5 APPEND "INBOX" (\Answered $Label1 $Label5) "19-Oct-2002 19:24:01 +0200" {1716+}
+ - 41 stalled for 45 secs in command: 4 APPEND "INBOX" (\Flagged $Label2 $Label4) {3269+}
+ - 52 stalled for 24 secs in command: 3 APPEND "INBOX" {6121+}
+ - 45 stalled for 45 secs in command: 3 APPEND "INBOX" (\Answered \Seen \Draft) {2242+}
+ - 54 stalled for 24 secs in command: 5 APPEND "INBOX" (\Flagged $Label4) {2794+}
+ - 57 stalled for 24 secs in command: 3 APPEND "INBOX" "19-Oct-2002 19:27:45 +0200" {1589+}
+ - 53 stalled for 45 secs in command: 4 APPEND "INBOX" {9605+}
+ - 47 stalled for 24 secs in command: 5 APPEND "INBOX" "20-Oct-2002 09:38:35 +0200" {2293+}
+ - 58 stalled for 24 secs in command: 4 APPEND "INBOX" (\Flagged \Seen $Label4 $Label5) {2859+}
+ - 67 stalled for 40 secs in command: 7 EXPUNGE
+ - 72 stalled for 24 secs in command: 2 STATUS "INBOX" (MESSAGES UNSEEN RECENT)
+ - 49 stalled for 35 secs in command: 2 SELECT "INBOX" (CONDSTORE)
+ - 18 stalled for 48 secs in command: 5 APPEND "INBOX" {1502+}
+ - 60 stalled for 45 secs in command: 2 LIST "" *
+ - 51 stalled for 24 secs in command: 5 APPEND "INBOX" (\Seen $Label1) {9049+}
+ - 56 stalled for 24 secs in command: 4 APPEND "INBOX" (\Answered) "19-Oct-2002 19:11:49 +0200" {2353+}
+ - 75 stalled for 24 secs in command: 2 STATUS "INBOX" (MESSAGES UNSEEN RECENT)
+ - 65 stalled for 24 secs in command: 4 APPEND "INBOX" (\Draft $Label3 $Label5) {1813+}
+ - 27 stalled for 48 secs in command: 4 APPEND "INBOX" "23-Sep-2002 20:42:43 +0200" {2141+}
+ - 70 stalled for 35 secs in command: 2 STATUS "INBOX" (MESSAGES UNSEEN RECENT)
+ - 73 stalled for 24 secs in command: 2 LIST "" *
+ - 69 stalled for 35 secs in command: 2 SELECT "INBOX" (CONDSTORE)
+ - 59 stalled for 24 secs in command: 3 APPEND "INBOX" {1684+}
+ - 71 stalled for 24 secs in command: 2 LIST "" *
+ - 68 stalled for 35 secs in command: 2 STATUS "INBOX" (MESSAGES UNSEEN RECENT)
+ - 74 stalled for 24 secs in command: 2 LIST "" *
+ - 76 stalled for 24 secs in command: 2 SELECT "INBOX" (CONDSTORE)
+ - 64 stalled for 24 secs in command: 3 APPEND "INBOX" (\Flagged \Seen \Draft $Label4 $Label5) {1749+}
+ - 61 stalled for 35 secs in command: 2 LIST "" *
+   0    0    0    0    0    0    0    0    0    0    0  40/ 40
+ - 50 stalled for 36 secs in command: 2 LIST "" *
+ - 48 stalled for 25 secs in command: 3 APPEND "INBOX" (\Answered \Draft $Label1 $Label3 $Label5) "19-Oct-2002 17:01:56 +0200" {10255+}
+ - 44 stalled for 25 secs in command: 4 APPEND "INBOX" {1490+}
+ - 55 stalled for 25 secs in command: 2 STATUS "INBOX" (MESSAGES UNSEEN RECENT)
+ - 43 stalled for 25 secs in command: 5 APPEND "INBOX" (\Answered $Label1 $Label5) "19-Oct-2002 19:24:01 +0200" {1716+}
+ - 41 stalled for 46 secs in command: 4 APPEND "INBOX" (\Flagged $Label2 $Label4) {3269+}
+ - 52 stalled for 25 secs in command: 3 APPEND "INBOX" {6121+}
+ - 45 stalled for 46 secs in command: 3 APPEND "INBOX" (\Answered \Seen \Draft) {2242+}
+ - 54 stalled for 25 secs in command: 5 APPEND "INBOX" (\Flagged $Label4) {2794+}
+ - 57 stalled for 25 secs in command: 3 APPEND "INBOX" "19-Oct-2002 19:27:45 +0200" {1589+}
+ - 53 stalled for 46 secs in command: 4 APPEND "INBOX" {9605+}
+ - 47 stalled for 25 secs in command: 5 APPEND "INBOX" "20-Oct-2002 09:38:35 +0200" {2293+}
+ - 58 stalled for 25 secs in command: 4 APPEND "INBOX" (\Flagged \Seen $Label4 $Label5) {2859+}
+ - 67 stalled for 41 secs in command: 7 EXPUNGE
+ - 72 stalled for 25 secs in command: 2 STATUS "INBOX" (MESSAGES UNSEEN RECENT)
+ - 49 stalled for 36 secs in command: 2 SELECT "INBOX" (CONDSTORE)
+ - 18 stalled for 49 secs in command: 5 APPEND "INBOX" {1502+}
+ - 60 stalled for 46 secs in command: 2 LIST "" *
+ - 51 stalled for 25 secs in command: 5 APPEND "INBOX" (\Seen $Label1) {9049+}
+ - 56 stalled for 25 secs in command: 4 APPEND "INBOX" (\Answered) "19-Oct-2002 19:11:49 +0200" {2353+}
+ - 75 stalled for 25 secs in command: 2 STATUS "INBOX" (MESSAGES UNSEEN RECENT)
+ - 65 stalled for 25 secs in command: 4 APPEND "INBOX" (\Draft $Label3 $Label5) {1813+}
+ - 27 stalled for 49 secs in command: 4 APPEND "INBOX" "23-Sep-2002 20:42:43 +0200" {2141+}
+ - 70 stalled for 36 secs in command: 2 STATUS "INBOX" (MESSAGES UNSEEN RECENT)
+ - 73 stalled for 25 secs in command: 2 LIST "" *
+ - 69 stalled for 36 secs in command: 2 SELECT "INBOX" (CONDSTORE)
+ - 59 stalled for 25 secs in command: 3 APPEND "INBOX" {1684+}
+ - 71 stalled for 25 secs in command: 2 LIST "" *
+ - 68 stalled for 36 secs in command: 2 STATUS "INBOX" (MESSAGES UNSEEN RECENT)
+ - 74 stalled for 25 secs in command: 2 LIST "" *
+ - 76 stalled for 25 secs in command: 2 SELECT "INBOX" (CONDSTORE)
+ - 64 stalled for 25 secs in command: 3 APPEND "INBOX" (\Flagged \Seen \Draft $Label4 $Label5) {1749+}
+ - 61 stalled for 36 secs in command: 2 LIST "" *
+Logi List Stat Sele Fetc Fet2 Stor Dele Expu Appe Logo 
+100%  50%  50% 100% 100% 100%  50% 100% 100% 100% 100% 
+                          30%                  5%      
+   0    0    0    0    0    0    0    0    0    0    0  40/ 40
+ - 50 stalled for 37 secs in command: 2 LIST "" *
+ - 48 stalled for 26 secs in command: 3 APPEND "INBOX" (\Answered \Draft $Label1 $Label3 $Label5) "19-Oct-2002 17:01:56 +0200" {10255+}
+ - 44 stalled for 26 secs in command: 4 APPEND "INBOX" {1490+}
+ - 55 stalled for 26 secs in command: 2 STATUS "INBOX" (MESSAGES UNSEEN RECENT)
+ - 43 stalled for 26 secs in command: 5 APPEND "INBOX" (\Answered $Label1 $Label5) "19-Oct-2002 19:24:01 +0200" {1716+}
+ - 41 stalled for 47 secs in command: 4 APPEND "INBOX" (\Flagged $Label2 $Label4) {3269+}
+ - 52 stalled for 26 secs in command: 3 APPEND "INBOX" {6121+}
+ - 45 stalled for 47 secs in command: 3 APPEND "INBOX" (\Answered \Seen \Draft) {2242+}
+ - 54 stalled for 26 secs in command: 5 APPEND "INBOX" (\Flagged $Label4) {2794+}
+ - 57 stalled for 26 secs in command: 3 APPEND "INBOX" "19-Oct-2002 19:27:45 +0200" {1589+}
+ - 53 stalled for 47 secs in command: 4 APPEND "INBOX" {9605+}
+ - 47 stalled for 26 secs in command: 5 APPEND "INBOX" "20-Oct-2002 09:38:35 +0200" {2293+}
+ - 58 stalled for 26 secs in command: 4 APPEND "INBOX" (\Flagged \Seen $Label4 $Label5) {2859+}
+ - 67 stalled for 42 secs in command: 7 EXPUNGE
+ - 72 stalled for 26 secs in command: 2 STATUS "INBOX" (MESSAGES UNSEEN RECENT)
+ - 49 stalled for 37 secs in command: 2 SELECT "INBOX" (CONDSTORE)
+ - 18 stalled for 50 secs in command: 5 APPEND "INBOX" {1502+}
+ - 60 stalled for 47 secs in command: 2 LIST "" *
+ - 51 stalled for 26 secs in command: 5 APPEND "INBOX" (\Seen $Label1) {9049+}
+ - 56 stalled for 26 secs in command: 4 APPEND "INBOX" (\Answered) "19-Oct-2002 19:11:49 +0200" {2353+}
+ - 75 stalled for 26 secs in command: 2 STATUS "INBOX" (MESSAGES UNSEEN RECENT)
+ - 65 stalled for 26 secs in command: 4 APPEND "INBOX" (\Draft $Label3 $Label5) {1813+}
+ - 27 stalled for 50 secs in command: 4 APPEND "INBOX" "23-Sep-2002 20:42:43 +0200" {2141+}
+ - 70 stalled for 37 secs in command: 2 STATUS "INBOX" (MESSAGES UNSEEN RECENT)
+ - 73 stalled for 26 secs in command: 2 LIST "" *
+ - 69 stalled for 37 secs in command: 2 SELECT "INBOX" (CONDSTORE)
+ - 59 stalled for 26 secs in command: 3 APPEND "INBOX" {1684+}
+ - 71 stalled for 26 secs in command: 2 LIST "" *
+ - 68 stalled for 37 secs in command: 2 STATUS "INBOX" (MESSAGES UNSEEN RECENT)
+ - 74 stalled for 26 secs in command: 2 LIST "" *
+ - 76 stalled for 26 secs in command: 2 SELECT "INBOX" (CONDSTORE)
+ - 64 stalled for 26 secs in command: 3 APPEND "INBOX" (\Flagged \Seen \Draft $Label4 $Label5) {1749+}
+ - 61 stalled for 37 secs in command: 2 LIST "" *
+   0    1    4    6    0    0    0    0    0    2    4  40/ 40
+ - 50 stalled for 38 secs in command: 2 LIST "" *
+ - 48 stalled for 27 secs in command: 3 APPEND "INBOX" (\Answered \Draft $Label1 $Label3 $Label5) "19-Oct-2002 17:01:56 +0200" {10255+}
+ - 44 stalled for 27 secs in command: 4 APPEND "INBOX" {1490+}
+ - 55 stalled for 27 secs in command: 2 STATUS "INBOX" (MESSAGES UNSEEN RECENT)
+ - 43 stalled for 27 secs in command: 5 APPEND "INBOX" (\Answered $Label1 $Label5) "19-Oct-2002 19:24:01 +0200" {1716+}
+ - 41 stalled for 48 secs in command: 4 APPEND "INBOX" (\Flagged $Label2 $Label4) {3269+}
+ - 52 stalled for 27 secs in command: 3 APPEND "INBOX" {6121+}
+ - 54 stalled for 27 secs in command: 5 APPEND "INBOX" (\Flagged $Label4) {2794+}
+ - 57 stalled for 27 secs in command: 3 APPEND "INBOX" "19-Oct-2002 19:27:45 +0200" {1589+}
+ - 47 stalled for 27 secs in command: 5 APPEND "INBOX" "20-Oct-2002 09:38:35 +0200" {2293+}
+ - 58 stalled for 27 secs in command: 4 APPEND "INBOX" (\Flagged \Seen $Label4 $Label5) {2859+}
+ - 67 stalled for 43 secs in command: 7 EXPUNGE
+ - 18 stalled for 51 secs in command: 5 APPEND "INBOX" {1502+}
+ - 51 stalled for 27 secs in command: 5 APPEND "INBOX" (\Seen $Label1) {9049+}
+ - 56 stalled for 27 secs in command: 4 APPEND "INBOX" (\Answered) "19-Oct-2002 19:11:49 +0200" {2353+}
+ - 65 stalled for 27 secs in command: 4 APPEND "INBOX" (\Draft $Label3 $Label5) {1813+}
+ - 27 stalled for 51 secs in command: 4 APPEND "INBOX" "23-Sep-2002 20:42:43 +0200" {2141+}
+ - 73 stalled for 27 secs in command: 2 LIST "" *
+ - 59 stalled for 27 secs in command: 3 APPEND "INBOX" {1684+}
+ - 71 stalled for 27 secs in command: 2 LIST "" *
+ - 68 stalled for 38 secs in command: 2 STATUS "INBOX" (MESSAGES UNSEEN RECENT)
+ - 74 stalled for 27 secs in command: 2 LIST "" *
+ - 76 stalled for 27 secs in command: 2 SELECT "INBOX" (CONDSTORE)
+ - 64 stalled for 27 secs in command: 3 APPEND "INBOX" (\Flagged \Seen \Draft $Label4 $Label5) {1749+}
+ - 61 stalled for 38 secs in command: 2 LIST "" *
+   0    0    0    0    0    0    0    0    0    0    0  40/ 40
+ - 50 stalled for 39 secs in command: 2 LIST "" *
+ - 48 stalled for 28 secs in command: 3 APPEND "INBOX" (\Answered \Draft $Label1 $Label3 $Label5) "19-Oct-2002 17:01:56 +0200" {10255+}
+ - 44 stalled for 28 secs in command: 4 APPEND "INBOX" {1490+}
+ - 55 stalled for 28 secs in command: 2 STATUS "INBOX" (MESSAGES UNSEEN RECENT)
+ - 43 stalled for 28 secs in command: 5 APPEND "INBOX" (\Answered $Label1 $Label5) "19-Oct-2002 19:24:01 +0200" {1716+}
+ - 41 stalled for 49 secs in command: 4 APPEND "INBOX" (\Flagged $Label2 $Label4) {3269+}
+ - 52 stalled for 28 secs in command: 3 APPEND "INBOX" {6121+}
+ - 54 stalled for 28 secs in command: 5 APPEND "INBOX" (\Flagged $Label4) {2794+}
+ - 57 stalled for 28 secs in command: 3 APPEND "INBOX" "19-Oct-2002 19:27:45 +0200" {1589+}
+ - 47 stalled for 28 secs in command: 5 APPEND "INBOX" "20-Oct-2002 09:38:35 +0200" {2293+}
+ - 58 stalled for 28 secs in command: 4 APPEND "INBOX" (\Flagged \Seen $Label4 $Label5) {2859+}
+ - 67 stalled for 44 secs in command: 7 EXPUNGE
+ - 18 stalled for 52 secs in command: 5 APPEND "INBOX" {1502+}
+ - 51 stalled for 28 secs in command: 5 APPEND "INBOX" (\Seen $Label1) {9049+}
+ - 56 stalled for 28 secs in command: 4 APPEND "INBOX" (\Answered) "19-Oct-2002 19:11:49 +0200" {2353+}
+ - 65 stalled for 28 secs in command: 4 APPEND "INBOX" (\Draft $Label3 $Label5) {1813+}
+ - 27 stalled for 52 secs in command: 4 APPEND "INBOX" "23-Sep-2002 20:42:43 +0200" {2141+}
+ - 73 stalled for 28 secs in command: 2 LIST "" *
+ - 59 stalled for 28 secs in command: 3 APPEND "INBOX" {1684+}
+ - 71 stalled for 28 secs in command: 2 LIST "" *
+ - 68 stalled for 39 secs in command: 2 STATUS "INBOX" (MESSAGES UNSEEN RECENT)
+ - 74 stalled for 28 secs in command: 2 LIST "" *
+ - 76 stalled for 28 secs in command: 2 SELECT "INBOX" (CONDSTORE)
+ - 64 stalled for 28 secs in command: 3 APPEND "INBOX" (\Flagged \Seen \Draft $Label4 $Label5) {1749+}
+ - 61 stalled for 39 secs in command: 2 LIST "" *
+   0    0    0    0    0    0    0    0    0    0    0  40/ 40
+ - 50 stalled for 40 secs in command: 2 LIST "" *
+ - 48 stalled for 29 secs in command: 3 APPEND "INBOX" (\Answered \Draft $Label1 $Label3 $Label5) "19-Oct-2002 17:01:56 +0200" {10255+}
+ - 44 stalled for 29 secs in command: 4 APPEND "INBOX" {1490+}
+ - 55 stalled for 29 secs in command: 2 STATUS "INBOX" (MESSAGES UNSEEN RECENT)
+ - 43 stalled for 29 secs in command: 5 APPEND "INBOX" (\Answered $Label1 $Label5) "19-Oct-2002 19:24:01 +0200" {1716+}
+ - 41 stalled for 50 secs in command: 4 APPEND "INBOX" (\Flagged $Label2 $Label4) {3269+}
+ - 52 stalled for 29 secs in command: 3 APPEND "INBOX" {6121+}
+ - 54 stalled for 29 secs in command: 5 APPEND "INBOX" (\Flagged $Label4) {2794+}
+ - 57 stalled for 29 secs in command: 3 APPEND "INBOX" "19-Oct-2002 19:27:45 +0200" {1589+}
+ - 47 stalled for 29 secs in command: 5 APPEND "INBOX" "20-Oct-2002 09:38:35 +0200" {2293+}
+ - 58 stalled for 29 secs in command: 4 APPEND "INBOX" (\Flagged \Seen $Label4 $Label5) {2859+}
+ - 67 stalled for 45 secs in command: 7 EXPUNGE
+ - 18 stalled for 53 secs in command: 5 APPEND "INBOX" {1502+}
+ - 51 stalled for 29 secs in command: 5 APPEND "INBOX" (\Seen $Label1) {9049+}
+ - 56 stalled for 29 secs in command: 4 APPEND "INBOX" (\Answered) "19-Oct-2002 19:11:49 +0200" {2353+}
+ - 65 stalled for 29 secs in command: 4 APPEND "INBOX" (\Draft $Label3 $Label5) {1813+}
+ - 77 stalled for 16 secs in command: 2 STATUS "INBOX" (MESSAGES UNSEEN RECENT)
+ - 27 stalled for 53 secs in command: 4 APPEND "INBOX" "23-Sep-2002 20:42:43 +0200" {2141+}
+ - 73 stalled for 29 secs in command: 2 LIST "" *
+ - 59 stalled for 29 secs in command: 3 APPEND "INBOX" {1684+}
+ - 71 stalled for 29 secs in command: 2 LIST "" *
+ - 68 stalled for 40 secs in command: 2 STATUS "INBOX" (MESSAGES UNSEEN RECENT)
+ - 74 stalled for 29 secs in command: 2 LIST "" *
+ - 76 stalled for 29 secs in command: 2 SELECT "INBOX" (CONDSTORE)
+ - 64 stalled for 29 secs in command: 3 APPEND "INBOX" (\Flagged \Seen \Draft $Label4 $Label5) {1749+}
+ - 61 stalled for 40 secs in command: 2 LIST "" *
+   0    0    0    0    0    0    0    0    1    2    4  40/ 40
+ - 50 stalled for 41 secs in command: 2 LIST "" *
+ - 48 stalled for 30 secs in command: 3 APPEND "INBOX" (\Answered \Draft $Label1 $Label3 $Label5) "19-Oct-2002 17:01:56 +0200" {10255+}
+ - 44 stalled for 30 secs in command: 4 APPEND "INBOX" {1490+}
+ - 55 stalled for 30 secs in command: 2 STATUS "INBOX" (MESSAGES UNSEEN RECENT)
+ - 43 stalled for 30 secs in command: 5 APPEND "INBOX" (\Answered $Label1 $Label5) "19-Oct-2002 19:24:01 +0200" {1716+}
+ - 41 stalled for 51 secs in command: 4 APPEND "INBOX" (\Flagged $Label2 $Label4) {3269+}
+ - 52 stalled for 30 secs in command: 3 APPEND "INBOX" {6121+}
+ - 54 stalled for 30 secs in command: 5 APPEND "INBOX" (\Flagged $Label4) {2794+}
+ - 57 stalled for 30 secs in command: 3 APPEND "INBOX" "19-Oct-2002 19:27:45 +0200" {1589+}
+ - 47 stalled for 30 secs in command: 5 APPEND "INBOX" "20-Oct-2002 09:38:35 +0200" {2293+}
+ - 58 stalled for 30 secs in command: 4 APPEND "INBOX" (\Flagged \Seen $Label4 $Label5) {2859+}
+ - 18 stalled for 54 secs in command: 5 APPEND "INBOX" {1502+}
+ - 56 stalled for 30 secs in command: 4 APPEND "INBOX" (\Answered) "19-Oct-2002 19:11:49 +0200" {2353+}
+ - 65 stalled for 30 secs in command: 4 APPEND "INBOX" (\Draft $Label3 $Label5) {1813+}
+ - 77 stalled for 17 secs in command: 2 STATUS "INBOX" (MESSAGES UNSEEN RECENT)
+ - 27 stalled for 54 secs in command: 4 APPEND "INBOX" "23-Sep-2002 20:42:43 +0200" {2141+}
+ - 73 stalled for 30 secs in command: 2 LIST "" *
+ - 59 stalled for 30 secs in command: 3 APPEND "INBOX" {1684+}
+ - 71 stalled for 30 secs in command: 2 LIST "" *
+ - 68 stalled for 41 secs in command: 2 STATUS "INBOX" (MESSAGES UNSEEN RECENT)
+ - 74 stalled for 30 secs in command: 2 LIST "" *
+ - 76 stalled for 30 secs in command: 2 SELECT "INBOX" (CONDSTORE)
+ - 64 stalled for 30 secs in command: 3 APPEND "INBOX" (\Flagged \Seen \Draft $Label4 $Label5) {1749+}
+ - 61 stalled for 41 secs in command: 2 LIST "" *
+   0    0    0    0    0    0    0    0    0    0    0  40/ 40
+ - 50 stalled for 42 secs in command: 2 LIST "" *
+ - 48 stalled for 31 secs in command: 3 APPEND "INBOX" (\Answered \Draft $Label1 $Label3 $Label5) "19-Oct-2002 17:01:56 +0200" {10255+}
+ - 44 stalled for 31 secs in command: 4 APPEND "INBOX" {1490+}
+ - 55 stalled for 31 secs in command: 2 STATUS "INBOX" (MESSAGES UNSEEN RECENT)
+ - 43 stalled for 31 secs in command: 5 APPEND "INBOX" (\Answered $Label1 $Label5) "19-Oct-2002 19:24:01 +0200" {1716+}
+ - 41 stalled for 52 secs in command: 4 APPEND "INBOX" (\Flagged $Label2 $Label4) {3269+}
+ - 52 stalled for 31 secs in command: 3 APPEND "INBOX" {6121+}
+ - 54 stalled for 31 secs in command: 5 APPEND "INBOX" (\Flagged $Label4) {2794+}
+ - 57 stalled for 31 secs in command: 3 APPEND "INBOX" "19-Oct-2002 19:27:45 +0200" {1589+}
+ - 47 stalled for 31 secs in command: 5 APPEND "INBOX" "20-Oct-2002 09:38:35 +0200" {2293+}
+ - 58 stalled for 31 secs in command: 4 APPEND "INBOX" (\Flagged \Seen $Label4 $Label5) {2859+}
+ - 18 stalled for 55 secs in command: 5 APPEND "INBOX" {1502+}
+ - 56 stalled for 31 secs in command: 4 APPEND "INBOX" (\Answered) "19-Oct-2002 19:11:49 +0200" {2353+}
+ - 65 stalled for 31 secs in command: 4 APPEND "INBOX" (\Draft $Label3 $Label5) {1813+}
+ - 77 stalled for 18 secs in command: 2 STATUS "INBOX" (MESSAGES UNSEEN RECENT)
+ - 27 stalled for 55 secs in command: 4 APPEND "INBOX" "23-Sep-2002 20:42:43 +0200" {2141+}
+ - 73 stalled for 31 secs in command: 2 LIST "" *
+ - 59 stalled for 31 secs in command: 3 APPEND "INBOX" {1684+}
+ - 71 stalled for 31 secs in command: 2 LIST "" *
+ - 68 stalled for 42 secs in command: 2 STATUS "INBOX" (MESSAGES UNSEEN RECENT)
+ - 74 stalled for 31 secs in command: 2 LIST "" *
+ - 76 stalled for 31 secs in command: 2 SELECT "INBOX" (CONDSTORE)
+ - 64 stalled for 31 secs in command: 3 APPEND "INBOX" (\Flagged \Seen \Draft $Label4 $Label5) {1749+}
+ - 61 stalled for 42 secs in command: 2 LIST "" *
+   0    0    0    0    0    0    0    0    0    0    0  40/ 40
+ - 50 stalled for 43 secs in command: 2 LIST "" *
+ - 48 stalled for 32 secs in command: 3 APPEND "INBOX" (\Answered \Draft $Label1 $Label3 $Label5) "19-Oct-2002 17:01:56 +0200" {10255+}
+ - 44 stalled for 32 secs in command: 4 APPEND "INBOX" {1490+}
+ - 55 stalled for 32 secs in command: 2 STATUS "INBOX" (MESSAGES UNSEEN RECENT)
+ - 43 stalled for 32 secs in command: 5 APPEND "INBOX" (\Answered $Label1 $Label5) "19-Oct-2002 19:24:01 +0200" {1716+}
+ - 41 stalled for 53 secs in command: 4 APPEND "INBOX" (\Flagged $Label2 $Label4) {3269+}
+ - 52 stalled for 32 secs in command: 3 APPEND "INBOX" {6121+}
+ - 54 stalled for 32 secs in command: 5 APPEND "INBOX" (\Flagged $Label4) {2794+}
+ - 57 stalled for 32 secs in command: 3 APPEND "INBOX" "19-Oct-2002 19:27:45 +0200" {1589+}
+ - 47 stalled for 32 secs in command: 5 APPEND "INBOX" "20-Oct-2002 09:38:35 +0200" {2293+}
+ - 58 stalled for 32 secs in command: 4 APPEND "INBOX" (\Flagged \Seen $Label4 $Label5) {2859+}
+ - 18 stalled for 56 secs in command: 5 APPEND "INBOX" {1502+}
+ - 56 stalled for 32 secs in command: 4 APPEND "INBOX" (\Answered) "19-Oct-2002 19:11:49 +0200" {2353+}
+ - 65 stalled for 32 secs in command: 4 APPEND "INBOX" (\Draft $Label3 $Label5) {1813+}
+ - 77 stalled for 19 secs in command: 2 STATUS "INBOX" (MESSAGES UNSEEN RECENT)
+ - 27 stalled for 56 secs in command: 4 APPEND "INBOX" "23-Sep-2002 20:42:43 +0200" {2141+}
+ - 73 stalled for 32 secs in command: 2 LIST "" *
+ - 59 stalled for 32 secs in command: 3 APPEND "INBOX" {1684+}
+ - 71 stalled for 32 secs in command: 2 LIST "" *
+ - 68 stalled for 43 secs in command: 2 STATUS "INBOX" (MESSAGES UNSEEN RECENT)
+ - 74 stalled for 32 secs in command: 2 LIST "" *
+ - 76 stalled for 32 secs in command: 2 SELECT "INBOX" (CONDSTORE)
+ - 64 stalled for 32 secs in command: 3 APPEND "INBOX" (\Flagged \Seen \Draft $Label4 $Label5) {1749+}
+ - 61 stalled for 43 secs in command: 2 LIST "" *
+   0    0    0    0    0    0    0    0    0    0    0  40/ 40
+ - 50 stalled for 44 secs in command: 2 LIST "" *
+ - 48 stalled for 33 secs in command: 3 APPEND "INBOX" (\Answered \Draft $Label1 $Label3 $Label5) "19-Oct-2002 17:01:56 +0200" {10255+}
+ - 44 stalled for 33 secs in command: 4 APPEND "INBOX" {1490+}
+ - 55 stalled for 33 secs in command: 2 STATUS "INBOX" (MESSAGES UNSEEN RECENT)
+ - 43 stalled for 33 secs in command: 5 APPEND "INBOX" (\Answered $Label1 $Label5) "19-Oct-2002 19:24:01 +0200" {1716+}
+ - 41 stalled for 54 secs in command: 4 APPEND "INBOX" (\Flagged $Label2 $Label4) {3269+}
+ - 52 stalled for 33 secs in command: 3 APPEND "INBOX" {6121+}
+ - 54 stalled for 33 secs in command: 5 APPEND "INBOX" (\Flagged $Label4) {2794+}
+ - 57 stalled for 33 secs in command: 3 APPEND "INBOX" "19-Oct-2002 19:27:45 +0200" {1589+}
+ - 47 stalled for 33 secs in command: 5 APPEND "INBOX" "20-Oct-2002 09:38:35 +0200" {2293+}
+ - 58 stalled for 33 secs in command: 4 APPEND "INBOX" (\Flagged \Seen $Label4 $Label5) {2859+}
+ - 18 stalled for 57 secs in command: 5 APPEND "INBOX" {1502+}
+ - 56 stalled for 33 secs in command: 4 APPEND "INBOX" (\Answered) "19-Oct-2002 19:11:49 +0200" {2353+}
+ - 65 stalled for 33 secs in command: 4 APPEND "INBOX" (\Draft $Label3 $Label5) {1813+}
+ - 77 stalled for 20 secs in command: 2 STATUS "INBOX" (MESSAGES UNSEEN RECENT)
+ - 27 stalled for 57 secs in command: 4 APPEND "INBOX" "23-Sep-2002 20:42:43 +0200" {2141+}
+ - 73 stalled for 33 secs in command: 2 LIST "" *
+ - 59 stalled for 33 secs in command: 3 APPEND "INBOX" {1684+}
+ - 71 stalled for 33 secs in command: 2 LIST "" *
+ - 68 stalled for 44 secs in command: 2 STATUS "INBOX" (MESSAGES UNSEEN RECENT)
+ - 74 stalled for 33 secs in command: 2 LIST "" *
+ - 76 stalled for 33 secs in command: 2 SELECT "INBOX" (CONDSTORE)
+ - 64 stalled for 33 secs in command: 3 APPEND "INBOX" (\Flagged \Seen \Draft $Label4 $Label5) {1749+}
+ - 61 stalled for 44 secs in command: 2 LIST "" *
+   1    0    0    0    0    0    0    0    0    5   10  40/ 40
+ - 50 stalled for 45 secs in command: 2 LIST "" *
+ - 44 stalled for 34 secs in command: 4 APPEND "INBOX" {1490+}
+ - 55 stalled for 34 secs in command: 2 STATUS "INBOX" (MESSAGES UNSEEN RECENT)
+ - 54 stalled for 34 secs in command: 5 APPEND "INBOX" (\Flagged $Label4) {2794+}
+ - 57 stalled for 34 secs in command: 3 APPEND "INBOX" "19-Oct-2002 19:27:45 +0200" {1589+}
+ - 47 stalled for 34 secs in command: 5 APPEND "INBOX" "20-Oct-2002 09:38:35 +0200" {2293+}
+ - 58 stalled for 34 secs in command: 4 APPEND "INBOX" (\Flagged \Seen $Label4 $Label5) {2859+}
+ - 56 stalled for 34 secs in command: 4 APPEND "INBOX" (\Answered) "19-Oct-2002 19:11:49 +0200" {2353+}
+ - 65 stalled for 34 secs in command: 4 APPEND "INBOX" (\Draft $Label3 $Label5) {1813+}
+ - 77 stalled for 21 secs in command: 2 STATUS "INBOX" (MESSAGES UNSEEN RECENT)
+ - 27 stalled for 58 secs in command: 4 APPEND "INBOX" "23-Sep-2002 20:42:43 +0200" {2141+}
+ - 73 stalled for 34 secs in command: 2 LIST "" *
+ - 59 stalled for 34 secs in command: 3 APPEND "INBOX" {1684+}
+ - 71 stalled for 34 secs in command: 2 LIST "" *
+ - 68 stalled for 45 secs in command: 2 STATUS "INBOX" (MESSAGES UNSEEN RECENT)
+ - 74 stalled for 34 secs in command: 2 LIST "" *
+ - 76 stalled for 34 secs in command: 2 SELECT "INBOX" (CONDSTORE)
+ - 64 stalled for 34 secs in command: 3 APPEND "INBOX" (\Flagged \Seen \Draft $Label4 $Label5) {1749+}
+ - 61 stalled for 45 secs in command: 2 LIST "" *
+  16   13   18   26    1    2    0    1    0    7   14  40/ 40
+ - 44 stalled for 35 secs in command: 4 APPEND "INBOX" {1490+}
+ - 54 stalled for 35 secs in command: 5 APPEND "INBOX" (\Flagged $Label4) {2794+}
+ - 47 stalled for 35 secs in command: 5 APPEND "INBOX" "20-Oct-2002 09:38:35 +0200" {2293+}
+ - 65 stalled for 35 secs in command: 4 APPEND "INBOX" (\Draft $Label3 $Label5) {1813+}
+ - 27 stalled for 59 secs in command: 4 APPEND "INBOX" "23-Sep-2002 20:42:43 +0200" {2141+}
+
+Totals:
+Logi List Stat Sele Fetc Fet2 Stor Dele Expu Appe Logo 
+100%  50%  50% 100% 100% 100%  50% 100% 100% 100% 100% 
+                          30%                  5%      
+  95   47   51   95    3    4    0    3    3   94  190 
