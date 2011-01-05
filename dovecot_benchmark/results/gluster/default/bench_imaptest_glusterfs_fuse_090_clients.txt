@@ -1,88 +1,2447 @@
 Logi List Stat Sele Fetc Fet2 Stor Dele Expu Appe Logo 
 100%  50%  50% 100% 100% 100%  50% 100% 100% 100% 100% 
                           30%                  5%      
- 122   46   39   94   73  112   16   59   42   37   74  90/ 90
-  43   22   24   48   46   74    5   34   47   38   76  90/ 90
-  58   26   28   55   53   75   11   37   56   59  118  90/ 90
-  58   32   28   56   52   86   11   43   56   58  116  90/ 90
-  60   37   37   70   70   96   12   52   61   61  122  90/ 90
-  25   10    9   23   19   26    4   16   22   27   54  90/ 90
-  57   25   24   52   55   75    6   39   58   55  110  90/ 90
-  65   37   37   70   73  109   14   58   67   63  126  90/ 90
-  57   26   26   55   56   84   16   44   53   58  116  89/ 90
-  55   28   30   59   53   74   12   50   57   58  116  90/ 90
+  11    4    4    7    0    0    0    0    0    1    2  43/ 43 [47%]
+   0    0    0    0    0    0    0    0    0    0    0  43/ 43 [47%]
+  17    0    0    0    0    0    0    0    0    1    2  90/ 90
+   0    0    0    0    0    0    0    0    0    0    0  90/ 90
+   7    0    0    0    0    0    0    0    0    0    0  90/ 90
+   0    0    0    0    0    0    0    0    0    0    0  90/ 90
+   0    0    0    0    0    0    0    0    0    0    0  90/ 90
+   2    0    0    0    0    0    0    0    0    0    0  90/ 90
+   0    0    0    0    0    0    0    0    0    0    0  90/ 90
+   2    0    0    0    0    0    0    0    0    0    0  90/ 90
 Logi List Stat Sele Fetc Fet2 Stor Dele Expu Appe Logo 
 100%  50%  50% 100% 100% 100%  50% 100% 100% 100% 100% 
                           30%                  5%      
-  64   30   29   64   54   74    9   41   58   60  120  90/ 90
-  55   26   24   58   68  104   11   58   63   64  128  86/ 90
-  48   28   23   53   54   75   12   39   52   42   82  90/ 90
-  51   29   23   57   54   73    7   48   47   48   98  90/ 90
-  72   31   28   61   38   53    6   25   55   72  144  90/ 90
-  52   17   19   44   62   81   12   51   57   53  106  90/ 90
-  53   35   38   66   67   87   16   52   59   56  112  90/ 90
-  66   34   27   60   54   75   11   46   56   62  124  90/ 90
-  34   20   14   37   42   63    8   33   34   34   68  90/ 90
-  72   35   26   64   62   87   13   48   78   75  150  90/ 90
+   0    0    0    0    0    0    0    0    0    0    0  90/ 90
+   0    0    0    0    0    0    0    0    0    0    0  90/ 90
+   0    0    0    0    0    0    0    0    0    0    0  90/ 90
+   0    0    0    0    0    0    0    0    0    0    0  90/ 90
+   1    0    0    0    0    0    0    0    0    0    0  90/ 90
+   0    0    0    0    0    0    0    0    0    0    0  90/ 90
+ - 2 stalled for 16 secs in BYE, waiting for disconnect
+ - 41 stalled for 16 secs in BYE, waiting for disconnect
+ - 4 stalled for 16 secs in command: 5 APPEND "INBOX" "05-Aug-2002 19:26:52 +0200" {3838+}
+ - 6 stalled for 16 secs in command: 3 APPEND "INBOX" {1290+}
+ - 7 stalled for 16 secs in BYE, waiting for disconnect
+ - 8 stalled for 16 secs in command: 4 APPEND "INBOX" {1495+}
+ - 9 stalled for 16 secs in command: 5 APPEND "INBOX" {1175+}
+ - 10 stalled for 16 secs in command: 2 SELECT "INBOX" (CONDSTORE)
+ - 11 stalled for 16 secs in command: 2 LIST "" *
+ - 12 stalled for 16 secs in command: 4 APPEND "INBOX" (\Answered \Flagged $Label1 $Label3) {2019+}
+ - 14 stalled for 16 secs in BYE, waiting for disconnect
+ - 15 stalled for 16 secs in command: 2 STATUS "INBOX" (MESSAGES UNSEEN RECENT)
+ - 16 stalled for 16 secs in command: 2 SELECT "INBOX" (CONDSTORE)
+ - 29 stalled for 16 secs in BYE, waiting for disconnect
+ - 31 stalled for 16 secs in BYE, waiting for disconnect
+ - 38 stalled for 16 secs in BYE, waiting for disconnect
+  27    1    0    1    0    0    0    0    0    1    2  90/ 90
+ - 4 stalled for 17 secs in command: 5 APPEND "INBOX" "05-Aug-2002 19:26:52 +0200" {3838+}
+ - 6 stalled for 17 secs in command: 3 APPEND "INBOX" {1290+}
+ - 8 stalled for 17 secs in command: 4 APPEND "INBOX" {1495+}
+ - 10 stalled for 17 secs in command: 2 SELECT "INBOX" (CONDSTORE)
+ - 12 stalled for 17 secs in command: 4 APPEND "INBOX" (\Answered \Flagged $Label1 $Label3) {2019+}
+ - 15 stalled for 17 secs in command: 2 STATUS "INBOX" (MESSAGES UNSEEN RECENT)
+ - 16 stalled for 17 secs in command: 2 SELECT "INBOX" (CONDSTORE)
+   7    0    0    0    0    0    0    0    0    0    0  90/ 90
+ - 4 stalled for 18 secs in command: 5 APPEND "INBOX" "05-Aug-2002 19:26:52 +0200" {3838+}
+ - 6 stalled for 18 secs in command: 3 APPEND "INBOX" {1290+}
+ - 8 stalled for 18 secs in command: 4 APPEND "INBOX" {1495+}
+ - 10 stalled for 18 secs in command: 2 SELECT "INBOX" (CONDSTORE)
+ - 12 stalled for 18 secs in command: 4 APPEND "INBOX" (\Answered \Flagged $Label1 $Label3) {2019+}
+ - 15 stalled for 18 secs in command: 2 STATUS "INBOX" (MESSAGES UNSEEN RECENT)
+ - 16 stalled for 18 secs in command: 2 SELECT "INBOX" (CONDSTORE)
+ - 17 stalled for 16 secs in command: 2 SELECT "INBOX" (CONDSTORE)
+ - 18 stalled for 16 secs in command: 2 LIST "" *
+ - 20 stalled for 16 secs in command: 2 LIST "" *
+ - 21 stalled for 16 secs in command: 2 LIST "" *
+ - 22 stalled for 16 secs in command: 2 LIST "" *
+ - 25 stalled for 16 secs in command: 2 SELECT "INBOX" (CONDSTORE)
+ - 27 stalled for 16 secs in command: 2 LIST "" *
+ - 32 stalled for 16 secs in command: 2 LIST "" *
+ - 33 stalled for 16 secs in command: 2 LIST "" *
+ - 34 stalled for 16 secs in command: 2 SELECT "INBOX" (CONDSTORE)
+ - 35 stalled for 16 secs in command: 2 SELECT "INBOX" (CONDSTORE)
+ - 36 stalled for 16 secs in command: 2 LIST "" *
+ - 40 stalled for 16 secs in command: 2 STATUS "INBOX" (MESSAGES UNSEEN RECENT)
+ - 46 stalled for 16 secs in BYE, waiting for disconnect
+ - 47 stalled for 16 secs in BYE, waiting for disconnect
+ - 48 stalled for 16 secs in BYE, waiting for disconnect
+ - 50 stalled for 16 secs in BYE, waiting for disconnect
+ - 56 stalled for 16 secs in BYE, waiting for disconnect
+ - 61 stalled for 16 secs in BYE, waiting for disconnect
+ - 62 stalled for 16 secs in BYE, waiting for disconnect
+ - 63 stalled for 16 secs in BYE, waiting for disconnect
+ - 64 stalled for 16 secs in BYE, waiting for disconnect
+ - 66 stalled for 16 secs in BYE, waiting for disconnect
+ - 69 stalled for 16 secs in BYE, waiting for disconnect
+ - 73 stalled for 16 secs in BYE, waiting for disconnect
+ - 77 stalled for 16 secs in BYE, waiting for disconnect
+ - 79 stalled for 16 secs in BYE, waiting for disconnect
+   0    0    0    0    0    0    0    0    0    0    0  90/ 90
+ - 4 stalled for 19 secs in command: 5 APPEND "INBOX" "05-Aug-2002 19:26:52 +0200" {3838+}
+ - 6 stalled for 19 secs in command: 3 APPEND "INBOX" {1290+}
+ - 8 stalled for 19 secs in command: 4 APPEND "INBOX" {1495+}
+ - 10 stalled for 19 secs in command: 2 SELECT "INBOX" (CONDSTORE)
+ - 12 stalled for 19 secs in command: 4 APPEND "INBOX" (\Answered \Flagged $Label1 $Label3) {2019+}
+ - 13 stalled for 16 secs in command: 2 LIST "" *
+ - 15 stalled for 19 secs in command: 2 STATUS "INBOX" (MESSAGES UNSEEN RECENT)
+ - 16 stalled for 19 secs in command: 2 SELECT "INBOX" (CONDSTORE)
+ - 17 stalled for 17 secs in command: 2 SELECT "INBOX" (CONDSTORE)
+ - 18 stalled for 17 secs in command: 2 LIST "" *
+ - 20 stalled for 17 secs in command: 2 LIST "" *
+ - 21 stalled for 17 secs in command: 2 LIST "" *
+ - 22 stalled for 17 secs in command: 2 LIST "" *
+ - 23 stalled for 16 secs in command: 2 LIST "" *
+ - 25 stalled for 17 secs in command: 2 SELECT "INBOX" (CONDSTORE)
+ - 27 stalled for 17 secs in command: 2 LIST "" *
+ - 28 stalled for 16 secs in command: 2 LIST "" *
+ - 30 stalled for 16 secs in command: 2 LIST "" *
+ - 32 stalled for 17 secs in command: 2 LIST "" *
+ - 33 stalled for 17 secs in command: 2 LIST "" *
+ - 34 stalled for 17 secs in command: 2 SELECT "INBOX" (CONDSTORE)
+ - 35 stalled for 17 secs in command: 2 SELECT "INBOX" (CONDSTORE)
+ - 36 stalled for 17 secs in command: 2 LIST "" *
+ - 40 stalled for 17 secs in command: 2 STATUS "INBOX" (MESSAGES UNSEEN RECENT)
+ - 46 stalled for 17 secs in BYE, waiting for disconnect
+ - 47 stalled for 17 secs in BYE, waiting for disconnect
+ - 48 stalled for 17 secs in BYE, waiting for disconnect
+ - 50 stalled for 17 secs in BYE, waiting for disconnect
+ - 56 stalled for 17 secs in BYE, waiting for disconnect
+ - 61 stalled for 17 secs in BYE, waiting for disconnect
+ - 62 stalled for 17 secs in BYE, waiting for disconnect
+ - 63 stalled for 17 secs in BYE, waiting for disconnect
+ - 64 stalled for 17 secs in BYE, waiting for disconnect
+ - 66 stalled for 17 secs in BYE, waiting for disconnect
+ - 69 stalled for 17 secs in BYE, waiting for disconnect
+ - 73 stalled for 17 secs in BYE, waiting for disconnect
+ - 77 stalled for 17 secs in BYE, waiting for disconnect
+ - 79 stalled for 17 secs in BYE, waiting for disconnect
+ - 87 stalled for 16 secs in BYE, waiting for disconnect
+ - 88 stalled for 16 secs in BYE, waiting for disconnect
+ - 90 stalled for 16 secs in BYE, waiting for disconnect
+ - 92 stalled for 16 secs in BYE, waiting for disconnect
+   0    0    0    0    0    0    0    0    0    0    0  90/ 90
+ - 4 stalled for 20 secs in command: 5 APPEND "INBOX" "05-Aug-2002 19:26:52 +0200" {3838+}
+ - 6 stalled for 20 secs in command: 3 APPEND "INBOX" {1290+}
+ - 8 stalled for 20 secs in command: 4 APPEND "INBOX" {1495+}
+ - 10 stalled for 20 secs in command: 2 SELECT "INBOX" (CONDSTORE)
+ - 12 stalled for 20 secs in command: 4 APPEND "INBOX" (\Answered \Flagged $Label1 $Label3) {2019+}
+ - 13 stalled for 17 secs in command: 2 LIST "" *
+ - 15 stalled for 20 secs in command: 2 STATUS "INBOX" (MESSAGES UNSEEN RECENT)
+ - 16 stalled for 20 secs in command: 2 SELECT "INBOX" (CONDSTORE)
+ - 17 stalled for 18 secs in command: 2 SELECT "INBOX" (CONDSTORE)
+ - 18 stalled for 18 secs in command: 2 LIST "" *
+ - 20 stalled for 18 secs in command: 2 LIST "" *
+ - 21 stalled for 18 secs in command: 2 LIST "" *
+ - 22 stalled for 18 secs in command: 2 LIST "" *
+ - 23 stalled for 17 secs in command: 2 LIST "" *
+ - 25 stalled for 18 secs in command: 2 SELECT "INBOX" (CONDSTORE)
+ - 27 stalled for 18 secs in command: 2 LIST "" *
+ - 28 stalled for 17 secs in command: 2 LIST "" *
+ - 30 stalled for 17 secs in command: 2 LIST "" *
+ - 32 stalled for 18 secs in command: 2 LIST "" *
+ - 33 stalled for 18 secs in command: 2 LIST "" *
+ - 34 stalled for 18 secs in command: 2 SELECT "INBOX" (CONDSTORE)
+ - 35 stalled for 18 secs in command: 2 SELECT "INBOX" (CONDSTORE)
+ - 36 stalled for 18 secs in command: 2 LIST "" *
+ - 40 stalled for 18 secs in command: 2 STATUS "INBOX" (MESSAGES UNSEEN RECENT)
+ - 46 stalled for 18 secs in BYE, waiting for disconnect
+ - 47 stalled for 18 secs in BYE, waiting for disconnect
+ - 48 stalled for 18 secs in BYE, waiting for disconnect
+ - 50 stalled for 18 secs in BYE, waiting for disconnect
+ - 56 stalled for 18 secs in BYE, waiting for disconnect
+ - 61 stalled for 18 secs in BYE, waiting for disconnect
+ - 62 stalled for 18 secs in BYE, waiting for disconnect
+ - 63 stalled for 18 secs in BYE, waiting for disconnect
+ - 64 stalled for 18 secs in BYE, waiting for disconnect
+ - 66 stalled for 18 secs in BYE, waiting for disconnect
+ - 69 stalled for 18 secs in BYE, waiting for disconnect
+ - 73 stalled for 18 secs in BYE, waiting for disconnect
+ - 77 stalled for 18 secs in BYE, waiting for disconnect
+ - 79 stalled for 18 secs in BYE, waiting for disconnect
+ - 87 stalled for 17 secs in BYE, waiting for disconnect
+ - 88 stalled for 17 secs in BYE, waiting for disconnect
+ - 90 stalled for 17 secs in BYE, waiting for disconnect
+ - 92 stalled for 17 secs in BYE, waiting for disconnect
 Logi List Stat Sele Fetc Fet2 Stor Dele Expu Appe Logo 
 100%  50%  50% 100% 100% 100%  50% 100% 100% 100% 100% 
                           30%                  5%      
-  57   34   28   65   59   81   11   45   53   56  112  90/ 90
-  64   30   27   60   58   88    7   46   64   65  130  90/ 90
-  49   32   28   56   49   77    7   39   44   47   94  90/ 90
-  67   27   27   57   70   87   16   63   69   72  144  88/ 90
-  40   30   24   51   42   59    2   39   46   40   80  90/ 90
-  61   26   30   59   65   88   14   49   53   59  118  90/ 90
-  28   17   11   33   34   46    6   29   32   29   58  90/ 90
-  45   19   24   42   37   65   10   27   36   43   86  90/ 90
-   3    9    4   10   11   27    2    4    0    0    0  90/ 90
-  48   13   16   37   42   56   13   41   69   72  144  88/ 90
+  10    0    0    0    0    0    0    0    0    0    0  90/ 90
+ - 1 stalled for 16 secs in command: 2 LIST "" *
+ - 4 stalled for 21 secs in command: 5 APPEND "INBOX" "05-Aug-2002 19:26:52 +0200" {3838+}
+ - 6 stalled for 21 secs in command: 3 APPEND "INBOX" {1290+}
+ - 8 stalled for 21 secs in command: 4 APPEND "INBOX" {1495+}
+ - 10 stalled for 21 secs in command: 2 SELECT "INBOX" (CONDSTORE)
+ - 12 stalled for 21 secs in command: 4 APPEND "INBOX" (\Answered \Flagged $Label1 $Label3) {2019+}
+ - 13 stalled for 18 secs in command: 2 LIST "" *
+ - 15 stalled for 21 secs in command: 2 STATUS "INBOX" (MESSAGES UNSEEN RECENT)
+ - 16 stalled for 21 secs in command: 2 SELECT "INBOX" (CONDSTORE)
+ - 17 stalled for 19 secs in command: 2 SELECT "INBOX" (CONDSTORE)
+ - 18 stalled for 19 secs in command: 2 LIST "" *
+ - 19 stalled for 16 secs in command: 2 STATUS "INBOX" (MESSAGES UNSEEN RECENT)
+ - 20 stalled for 19 secs in command: 2 LIST "" *
+ - 21 stalled for 19 secs in command: 2 LIST "" *
+ - 22 stalled for 19 secs in command: 2 LIST "" *
+ - 23 stalled for 18 secs in command: 2 LIST "" *
+ - 24 stalled for 16 secs in command: 2 LIST "" *
+ - 25 stalled for 19 secs in command: 2 SELECT "INBOX" (CONDSTORE)
+ - 26 stalled for 16 secs in command: 2 LIST "" *
+ - 27 stalled for 19 secs in command: 2 LIST "" *
+ - 28 stalled for 18 secs in command: 2 LIST "" *
+ - 30 stalled for 18 secs in command: 2 LIST "" *
+ - 32 stalled for 19 secs in command: 2 LIST "" *
+ - 33 stalled for 19 secs in command: 2 LIST "" *
+ - 34 stalled for 19 secs in command: 2 SELECT "INBOX" (CONDSTORE)
+ - 35 stalled for 19 secs in command: 2 SELECT "INBOX" (CONDSTORE)
+ - 36 stalled for 19 secs in command: 2 LIST "" *
+ - 37 stalled for 16 secs in command: 2 LIST "" *
+ - 39 stalled for 16 secs in command: 2 LIST "" *
+ - 40 stalled for 19 secs in command: 2 STATUS "INBOX" (MESSAGES UNSEEN RECENT)
+ - 47 stalled for 19 secs in BYE, waiting for disconnect
+ - 48 stalled for 19 secs in BYE, waiting for disconnect
+ - 50 stalled for 19 secs in BYE, waiting for disconnect
+ - 57 stalled for 16 secs in command: 2 SELECT "INBOX" (CONDSTORE)
+ - 62 stalled for 19 secs in BYE, waiting for disconnect
+ - 69 stalled for 19 secs in BYE, waiting for disconnect
+ - 77 stalled for 19 secs in BYE, waiting for disconnect
+ - 79 stalled for 19 secs in BYE, waiting for disconnect
+ - 90 stalled for 18 secs in BYE, waiting for disconnect
+   0    0    0    0    0    0    0    0    0    0    0  90/ 90
+ - 1 stalled for 17 secs in command: 2 LIST "" *
+ - 4 stalled for 22 secs in command: 5 APPEND "INBOX" "05-Aug-2002 19:26:52 +0200" {3838+}
+ - 6 stalled for 22 secs in command: 3 APPEND "INBOX" {1290+}
+ - 8 stalled for 22 secs in command: 4 APPEND "INBOX" {1495+}
+ - 10 stalled for 22 secs in command: 2 SELECT "INBOX" (CONDSTORE)
+ - 12 stalled for 22 secs in command: 4 APPEND "INBOX" (\Answered \Flagged $Label1 $Label3) {2019+}
+ - 13 stalled for 19 secs in command: 2 LIST "" *
+ - 15 stalled for 22 secs in command: 2 STATUS "INBOX" (MESSAGES UNSEEN RECENT)
+ - 16 stalled for 22 secs in command: 2 SELECT "INBOX" (CONDSTORE)
+ - 17 stalled for 20 secs in command: 2 SELECT "INBOX" (CONDSTORE)
+ - 18 stalled for 20 secs in command: 2 LIST "" *
+ - 19 stalled for 17 secs in command: 2 STATUS "INBOX" (MESSAGES UNSEEN RECENT)
+ - 20 stalled for 20 secs in command: 2 LIST "" *
+ - 21 stalled for 20 secs in command: 2 LIST "" *
+ - 22 stalled for 20 secs in command: 2 LIST "" *
+ - 23 stalled for 19 secs in command: 2 LIST "" *
+ - 24 stalled for 17 secs in command: 2 LIST "" *
+ - 25 stalled for 20 secs in command: 2 SELECT "INBOX" (CONDSTORE)
+ - 26 stalled for 17 secs in command: 2 LIST "" *
+ - 27 stalled for 20 secs in command: 2 LIST "" *
+ - 28 stalled for 19 secs in command: 2 LIST "" *
+ - 30 stalled for 19 secs in command: 2 LIST "" *
+ - 32 stalled for 20 secs in command: 2 LIST "" *
+ - 33 stalled for 20 secs in command: 2 LIST "" *
+ - 34 stalled for 20 secs in command: 2 SELECT "INBOX" (CONDSTORE)
+ - 35 stalled for 20 secs in command: 2 SELECT "INBOX" (CONDSTORE)
+ - 36 stalled for 20 secs in command: 2 LIST "" *
+ - 37 stalled for 17 secs in command: 2 LIST "" *
+ - 39 stalled for 17 secs in command: 2 LIST "" *
+ - 40 stalled for 20 secs in command: 2 STATUS "INBOX" (MESSAGES UNSEEN RECENT)
+ - 47 stalled for 20 secs in BYE, waiting for disconnect
+ - 48 stalled for 20 secs in BYE, waiting for disconnect
+ - 50 stalled for 20 secs in BYE, waiting for disconnect
+ - 57 stalled for 17 secs in command: 2 SELECT "INBOX" (CONDSTORE)
+ - 62 stalled for 20 secs in BYE, waiting for disconnect
+ - 69 stalled for 20 secs in BYE, waiting for disconnect
+ - 77 stalled for 20 secs in BYE, waiting for disconnect
+ - 79 stalled for 20 secs in BYE, waiting for disconnect
+ - 90 stalled for 19 secs in BYE, waiting for disconnect
+   0    0    0    0    0    0    0    0    0    0    0  90/ 90
+ - 1 stalled for 18 secs in command: 2 LIST "" *
+ - 4 stalled for 23 secs in command: 5 APPEND "INBOX" "05-Aug-2002 19:26:52 +0200" {3838+}
+ - 6 stalled for 23 secs in command: 3 APPEND "INBOX" {1290+}
+ - 8 stalled for 23 secs in command: 4 APPEND "INBOX" {1495+}
+ - 10 stalled for 23 secs in command: 2 SELECT "INBOX" (CONDSTORE)
+ - 12 stalled for 23 secs in command: 4 APPEND "INBOX" (\Answered \Flagged $Label1 $Label3) {2019+}
+ - 13 stalled for 20 secs in command: 2 LIST "" *
+ - 15 stalled for 23 secs in command: 2 STATUS "INBOX" (MESSAGES UNSEEN RECENT)
+ - 16 stalled for 23 secs in command: 2 SELECT "INBOX" (CONDSTORE)
+ - 17 stalled for 21 secs in command: 2 SELECT "INBOX" (CONDSTORE)
+ - 18 stalled for 21 secs in command: 2 LIST "" *
+ - 19 stalled for 18 secs in command: 2 STATUS "INBOX" (MESSAGES UNSEEN RECENT)
+ - 20 stalled for 21 secs in command: 2 LIST "" *
+ - 21 stalled for 21 secs in command: 2 LIST "" *
+ - 22 stalled for 21 secs in command: 2 LIST "" *
+ - 23 stalled for 20 secs in command: 2 LIST "" *
+ - 24 stalled for 18 secs in command: 2 LIST "" *
+ - 25 stalled for 21 secs in command: 2 SELECT "INBOX" (CONDSTORE)
+ - 26 stalled for 18 secs in command: 2 LIST "" *
+ - 27 stalled for 21 secs in command: 2 LIST "" *
+ - 28 stalled for 20 secs in command: 2 LIST "" *
+ - 30 stalled for 20 secs in command: 2 LIST "" *
+ - 32 stalled for 21 secs in command: 2 LIST "" *
+ - 33 stalled for 21 secs in command: 2 LIST "" *
+ - 34 stalled for 21 secs in command: 2 SELECT "INBOX" (CONDSTORE)
+ - 35 stalled for 21 secs in command: 2 SELECT "INBOX" (CONDSTORE)
+ - 36 stalled for 21 secs in command: 2 LIST "" *
+ - 37 stalled for 18 secs in command: 2 LIST "" *
+ - 39 stalled for 18 secs in command: 2 LIST "" *
+ - 40 stalled for 21 secs in command: 2 STATUS "INBOX" (MESSAGES UNSEEN RECENT)
+ - 47 stalled for 21 secs in BYE, waiting for disconnect
+ - 48 stalled for 21 secs in BYE, waiting for disconnect
+ - 50 stalled for 21 secs in BYE, waiting for disconnect
+ - 57 stalled for 18 secs in command: 2 SELECT "INBOX" (CONDSTORE)
+ - 62 stalled for 21 secs in BYE, waiting for disconnect
+ - 69 stalled for 21 secs in BYE, waiting for disconnect
+ - 77 stalled for 21 secs in BYE, waiting for disconnect
+ - 79 stalled for 21 secs in BYE, waiting for disconnect
+ - 90 stalled for 20 secs in BYE, waiting for disconnect
+   1    0    0    0    0    0    0    0    0    0    0  90/ 90
+ - 1 stalled for 19 secs in command: 2 LIST "" *
+ - 4 stalled for 24 secs in command: 5 APPEND "INBOX" "05-Aug-2002 19:26:52 +0200" {3838+}
+ - 6 stalled for 24 secs in command: 3 APPEND "INBOX" {1290+}
+ - 8 stalled for 24 secs in command: 4 APPEND "INBOX" {1495+}
+ - 10 stalled for 24 secs in command: 2 SELECT "INBOX" (CONDSTORE)
+ - 12 stalled for 24 secs in command: 4 APPEND "INBOX" (\Answered \Flagged $Label1 $Label3) {2019+}
+ - 13 stalled for 21 secs in command: 2 LIST "" *
+ - 15 stalled for 24 secs in command: 2 STATUS "INBOX" (MESSAGES UNSEEN RECENT)
+ - 16 stalled for 24 secs in command: 2 SELECT "INBOX" (CONDSTORE)
+ - 17 stalled for 22 secs in command: 2 SELECT "INBOX" (CONDSTORE)
+ - 18 stalled for 22 secs in command: 2 LIST "" *
+ - 19 stalled for 19 secs in command: 2 STATUS "INBOX" (MESSAGES UNSEEN RECENT)
+ - 20 stalled for 22 secs in command: 2 LIST "" *
+ - 21 stalled for 22 secs in command: 2 LIST "" *
+ - 22 stalled for 22 secs in command: 2 LIST "" *
+ - 23 stalled for 21 secs in command: 2 LIST "" *
+ - 24 stalled for 19 secs in command: 2 LIST "" *
+ - 25 stalled for 22 secs in command: 2 SELECT "INBOX" (CONDSTORE)
+ - 26 stalled for 19 secs in command: 2 LIST "" *
+ - 27 stalled for 22 secs in command: 2 LIST "" *
+ - 28 stalled for 21 secs in command: 2 LIST "" *
+ - 30 stalled for 21 secs in command: 2 LIST "" *
+ - 32 stalled for 22 secs in command: 2 LIST "" *
+ - 33 stalled for 22 secs in command: 2 LIST "" *
+ - 34 stalled for 22 secs in command: 2 SELECT "INBOX" (CONDSTORE)
+ - 35 stalled for 22 secs in command: 2 SELECT "INBOX" (CONDSTORE)
+ - 36 stalled for 22 secs in command: 2 LIST "" *
+ - 37 stalled for 19 secs in command: 2 LIST "" *
+ - 39 stalled for 19 secs in command: 2 LIST "" *
+ - 40 stalled for 22 secs in command: 2 STATUS "INBOX" (MESSAGES UNSEEN RECENT)
+ - 47 stalled for 22 secs in BYE, waiting for disconnect
+ - 48 stalled for 22 secs in BYE, waiting for disconnect
+ - 49 stalled for 16 secs in command: 2 SELECT "INBOX" (CONDSTORE)
+ - 50 stalled for 22 secs in BYE, waiting for disconnect
+ - 57 stalled for 19 secs in command: 2 SELECT "INBOX" (CONDSTORE)
+ - 69 stalled for 22 secs in BYE, waiting for disconnect
+ - 71 stalled for 16 secs in command: 2 STATUS "INBOX" (MESSAGES UNSEEN RECENT)
+ - 77 stalled for 22 secs in BYE, waiting for disconnect
+ - 79 stalled for 22 secs in BYE, waiting for disconnect
+ - 90 stalled for 21 secs in BYE, waiting for disconnect
+   0    0    0    0    0    0    0    0    0    0    0  90/ 90
+ - 1 stalled for 20 secs in command: 2 LIST "" *
+ - 4 stalled for 25 secs in command: 5 APPEND "INBOX" "05-Aug-2002 19:26:52 +0200" {3838+}
+ - 6 stalled for 25 secs in command: 3 APPEND "INBOX" {1290+}
+ - 8 stalled for 25 secs in command: 4 APPEND "INBOX" {1495+}
+ - 10 stalled for 25 secs in command: 2 SELECT "INBOX" (CONDSTORE)
+ - 12 stalled for 25 secs in command: 4 APPEND "INBOX" (\Answered \Flagged $Label1 $Label3) {2019+}
+ - 13 stalled for 22 secs in command: 2 LIST "" *
+ - 15 stalled for 25 secs in command: 2 STATUS "INBOX" (MESSAGES UNSEEN RECENT)
+ - 16 stalled for 25 secs in command: 2 SELECT "INBOX" (CONDSTORE)
+ - 17 stalled for 23 secs in command: 2 SELECT "INBOX" (CONDSTORE)
+ - 18 stalled for 23 secs in command: 2 LIST "" *
+ - 19 stalled for 20 secs in command: 2 STATUS "INBOX" (MESSAGES UNSEEN RECENT)
+ - 20 stalled for 23 secs in command: 2 LIST "" *
+ - 21 stalled for 23 secs in command: 2 LIST "" *
+ - 22 stalled for 23 secs in command: 2 LIST "" *
+ - 23 stalled for 22 secs in command: 2 LIST "" *
+ - 24 stalled for 20 secs in command: 2 LIST "" *
+ - 25 stalled for 23 secs in command: 2 SELECT "INBOX" (CONDSTORE)
+ - 26 stalled for 20 secs in command: 2 LIST "" *
+ - 27 stalled for 23 secs in command: 2 LIST "" *
+ - 28 stalled for 22 secs in command: 2 LIST "" *
+ - 30 stalled for 22 secs in command: 2 LIST "" *
+ - 32 stalled for 23 secs in command: 2 LIST "" *
+ - 33 stalled for 23 secs in command: 2 LIST "" *
+ - 34 stalled for 23 secs in command: 2 SELECT "INBOX" (CONDSTORE)
+ - 35 stalled for 23 secs in command: 2 SELECT "INBOX" (CONDSTORE)
+ - 36 stalled for 23 secs in command: 2 LIST "" *
+ - 37 stalled for 20 secs in command: 2 LIST "" *
+ - 39 stalled for 20 secs in command: 2 LIST "" *
+ - 40 stalled for 23 secs in command: 2 STATUS "INBOX" (MESSAGES UNSEEN RECENT)
+ - 42 stalled for 16 secs in command: 2 SELECT "INBOX" (CONDSTORE)
+ - 44 stalled for 16 secs in command: 2 LIST "" *
+ - 47 stalled for 23 secs in BYE, waiting for disconnect
+ - 48 stalled for 23 secs in BYE, waiting for disconnect
+ - 49 stalled for 17 secs in command: 2 SELECT "INBOX" (CONDSTORE)
+ - 50 stalled for 23 secs in BYE, waiting for disconnect
+ - 57 stalled for 20 secs in command: 2 SELECT "INBOX" (CONDSTORE)
+ - 69 stalled for 23 secs in BYE, waiting for disconnect
+ - 71 stalled for 17 secs in command: 2 STATUS "INBOX" (MESSAGES UNSEEN RECENT)
+ - 77 stalled for 23 secs in BYE, waiting for disconnect
+ - 79 stalled for 23 secs in BYE, waiting for disconnect
+ - 90 stalled for 22 secs in BYE, waiting for disconnect
+   0    0    0    0    0    0    0    0    0    0    0  90/ 90
+ - 1 stalled for 21 secs in command: 2 LIST "" *
+ - 4 stalled for 26 secs in command: 5 APPEND "INBOX" "05-Aug-2002 19:26:52 +0200" {3838+}
+ - 6 stalled for 26 secs in command: 3 APPEND "INBOX" {1290+}
+ - 8 stalled for 26 secs in command: 4 APPEND "INBOX" {1495+}
+ - 10 stalled for 26 secs in command: 2 SELECT "INBOX" (CONDSTORE)
+ - 12 stalled for 26 secs in command: 4 APPEND "INBOX" (\Answered \Flagged $Label1 $Label3) {2019+}
+ - 13 stalled for 23 secs in command: 2 LIST "" *
+ - 15 stalled for 26 secs in command: 2 STATUS "INBOX" (MESSAGES UNSEEN RECENT)
+ - 16 stalled for 26 secs in command: 2 SELECT "INBOX" (CONDSTORE)
+ - 17 stalled for 24 secs in command: 2 SELECT "INBOX" (CONDSTORE)
+ - 18 stalled for 24 secs in command: 2 LIST "" *
+ - 19 stalled for 21 secs in command: 2 STATUS "INBOX" (MESSAGES UNSEEN RECENT)
+ - 20 stalled for 24 secs in command: 2 LIST "" *
+ - 21 stalled for 24 secs in command: 2 LIST "" *
+ - 22 stalled for 24 secs in command: 2 LIST "" *
+ - 23 stalled for 23 secs in command: 2 LIST "" *
+ - 24 stalled for 21 secs in command: 2 LIST "" *
+ - 25 stalled for 24 secs in command: 2 SELECT "INBOX" (CONDSTORE)
+ - 26 stalled for 21 secs in command: 2 LIST "" *
+ - 27 stalled for 24 secs in command: 2 LIST "" *
+ - 28 stalled for 23 secs in command: 2 LIST "" *
+ - 30 stalled for 23 secs in command: 2 LIST "" *
+ - 32 stalled for 24 secs in command: 2 LIST "" *
+ - 33 stalled for 24 secs in command: 2 LIST "" *
+ - 34 stalled for 24 secs in command: 2 SELECT "INBOX" (CONDSTORE)
+ - 35 stalled for 24 secs in command: 2 SELECT "INBOX" (CONDSTORE)
+ - 36 stalled for 24 secs in command: 2 LIST "" *
+ - 37 stalled for 21 secs in command: 2 LIST "" *
+ - 39 stalled for 21 secs in command: 2 LIST "" *
+ - 40 stalled for 24 secs in command: 2 STATUS "INBOX" (MESSAGES UNSEEN RECENT)
+ - 42 stalled for 17 secs in command: 2 SELECT "INBOX" (CONDSTORE)
+ - 44 stalled for 17 secs in command: 2 LIST "" *
+ - 47 stalled for 24 secs in BYE, waiting for disconnect
+ - 48 stalled for 24 secs in BYE, waiting for disconnect
+ - 49 stalled for 18 secs in command: 2 SELECT "INBOX" (CONDSTORE)
+ - 50 stalled for 24 secs in BYE, waiting for disconnect
+ - 57 stalled for 21 secs in command: 2 SELECT "INBOX" (CONDSTORE)
+ - 69 stalled for 24 secs in BYE, waiting for disconnect
+ - 71 stalled for 18 secs in command: 2 STATUS "INBOX" (MESSAGES UNSEEN RECENT)
+ - 77 stalled for 24 secs in BYE, waiting for disconnect
+ - 79 stalled for 24 secs in BYE, waiting for disconnect
+ - 90 stalled for 23 secs in BYE, waiting for disconnect
+   0    0    0    0    0    0    0    0    0    0    0  90/ 90
+ - 1 stalled for 22 secs in command: 2 LIST "" *
+ - 4 stalled for 27 secs in command: 5 APPEND "INBOX" "05-Aug-2002 19:26:52 +0200" {3838+}
+ - 6 stalled for 27 secs in command: 3 APPEND "INBOX" {1290+}
+ - 8 stalled for 27 secs in command: 4 APPEND "INBOX" {1495+}
+ - 10 stalled for 27 secs in command: 2 SELECT "INBOX" (CONDSTORE)
+ - 12 stalled for 27 secs in command: 4 APPEND "INBOX" (\Answered \Flagged $Label1 $Label3) {2019+}
+ - 13 stalled for 24 secs in command: 2 LIST "" *
+ - 15 stalled for 27 secs in command: 2 STATUS "INBOX" (MESSAGES UNSEEN RECENT)
+ - 16 stalled for 27 secs in command: 2 SELECT "INBOX" (CONDSTORE)
+ - 17 stalled for 25 secs in command: 2 SELECT "INBOX" (CONDSTORE)
+ - 18 stalled for 25 secs in command: 2 LIST "" *
+ - 19 stalled for 22 secs in command: 2 STATUS "INBOX" (MESSAGES UNSEEN RECENT)
+ - 20 stalled for 25 secs in command: 2 LIST "" *
+ - 21 stalled for 25 secs in command: 2 LIST "" *
+ - 22 stalled for 25 secs in command: 2 LIST "" *
+ - 23 stalled for 24 secs in command: 2 LIST "" *
+ - 24 stalled for 22 secs in command: 2 LIST "" *
+ - 25 stalled for 25 secs in command: 2 SELECT "INBOX" (CONDSTORE)
+ - 26 stalled for 22 secs in command: 2 LIST "" *
+ - 27 stalled for 25 secs in command: 2 LIST "" *
+ - 28 stalled for 24 secs in command: 2 LIST "" *
+ - 30 stalled for 24 secs in command: 2 LIST "" *
+ - 32 stalled for 25 secs in command: 2 LIST "" *
+ - 33 stalled for 25 secs in command: 2 LIST "" *
+ - 34 stalled for 25 secs in command: 2 SELECT "INBOX" (CONDSTORE)
+ - 35 stalled for 25 secs in command: 2 SELECT "INBOX" (CONDSTORE)
+ - 36 stalled for 25 secs in command: 2 LIST "" *
+ - 37 stalled for 22 secs in command: 2 LIST "" *
+ - 39 stalled for 22 secs in command: 2 LIST "" *
+ - 40 stalled for 25 secs in command: 2 STATUS "INBOX" (MESSAGES UNSEEN RECENT)
+ - 42 stalled for 18 secs in command: 2 SELECT "INBOX" (CONDSTORE)
+ - 44 stalled for 18 secs in command: 2 LIST "" *
+ - 47 stalled for 25 secs in BYE, waiting for disconnect
+ - 48 stalled for 25 secs in BYE, waiting for disconnect
+ - 49 stalled for 19 secs in command: 2 SELECT "INBOX" (CONDSTORE)
+ - 50 stalled for 25 secs in BYE, waiting for disconnect
+ - 57 stalled for 22 secs in command: 2 SELECT "INBOX" (CONDSTORE)
+ - 69 stalled for 25 secs in BYE, waiting for disconnect
+ - 71 stalled for 19 secs in command: 2 STATUS "INBOX" (MESSAGES UNSEEN RECENT)
+ - 77 stalled for 25 secs in BYE, waiting for disconnect
+ - 79 stalled for 25 secs in BYE, waiting for disconnect
+ - 90 stalled for 24 secs in BYE, waiting for disconnect
+   0    0    0    0    0    0    0    0    0    0    0  90/ 90
+ - 1 stalled for 23 secs in command: 2 LIST "" *
+ - 4 stalled for 28 secs in command: 5 APPEND "INBOX" "05-Aug-2002 19:26:52 +0200" {3838+}
+ - 6 stalled for 28 secs in command: 3 APPEND "INBOX" {1290+}
+ - 8 stalled for 28 secs in command: 4 APPEND "INBOX" {1495+}
+ - 10 stalled for 28 secs in command: 2 SELECT "INBOX" (CONDSTORE)
+ - 12 stalled for 28 secs in command: 4 APPEND "INBOX" (\Answered \Flagged $Label1 $Label3) {2019+}
+ - 13 stalled for 25 secs in command: 2 LIST "" *
+ - 15 stalled for 28 secs in command: 2 STATUS "INBOX" (MESSAGES UNSEEN RECENT)
+ - 16 stalled for 28 secs in command: 2 SELECT "INBOX" (CONDSTORE)
+ - 17 stalled for 26 secs in command: 2 SELECT "INBOX" (CONDSTORE)
+ - 18 stalled for 26 secs in command: 2 LIST "" *
+ - 19 stalled for 23 secs in command: 2 STATUS "INBOX" (MESSAGES UNSEEN RECENT)
+ - 20 stalled for 26 secs in command: 2 LIST "" *
+ - 21 stalled for 26 secs in command: 2 LIST "" *
+ - 22 stalled for 26 secs in command: 2 LIST "" *
+ - 23 stalled for 25 secs in command: 2 LIST "" *
+ - 24 stalled for 23 secs in command: 2 LIST "" *
+ - 25 stalled for 26 secs in command: 2 SELECT "INBOX" (CONDSTORE)
+ - 26 stalled for 23 secs in command: 2 LIST "" *
+ - 27 stalled for 26 secs in command: 2 LIST "" *
+ - 28 stalled for 25 secs in command: 2 LIST "" *
+ - 30 stalled for 25 secs in command: 2 LIST "" *
+ - 32 stalled for 26 secs in command: 2 LIST "" *
+ - 33 stalled for 26 secs in command: 2 LIST "" *
+ - 34 stalled for 26 secs in command: 2 SELECT "INBOX" (CONDSTORE)
+ - 35 stalled for 26 secs in command: 2 SELECT "INBOX" (CONDSTORE)
+ - 36 stalled for 26 secs in command: 2 LIST "" *
+ - 37 stalled for 23 secs in command: 2 LIST "" *
+ - 39 stalled for 23 secs in command: 2 LIST "" *
+ - 40 stalled for 26 secs in command: 2 STATUS "INBOX" (MESSAGES UNSEEN RECENT)
+ - 42 stalled for 19 secs in command: 2 SELECT "INBOX" (CONDSTORE)
+ - 44 stalled for 19 secs in command: 2 LIST "" *
+ - 47 stalled for 26 secs in BYE, waiting for disconnect
+ - 48 stalled for 26 secs in BYE, waiting for disconnect
+ - 49 stalled for 20 secs in command: 2 SELECT "INBOX" (CONDSTORE)
+ - 50 stalled for 26 secs in BYE, waiting for disconnect
+ - 57 stalled for 23 secs in command: 2 SELECT "INBOX" (CONDSTORE)
+ - 69 stalled for 26 secs in BYE, waiting for disconnect
+ - 71 stalled for 20 secs in command: 2 STATUS "INBOX" (MESSAGES UNSEEN RECENT)
+ - 77 stalled for 26 secs in BYE, waiting for disconnect
+ - 79 stalled for 26 secs in BYE, waiting for disconnect
+ - 90 stalled for 25 secs in BYE, waiting for disconnect
+   8    0    1    1    0    0    0    0    0    1    2  90/ 90
+ - 1 stalled for 24 secs in command: 2 LIST "" *
+ - 4 stalled for 29 secs in command: 5 APPEND "INBOX" "05-Aug-2002 19:26:52 +0200" {3838+}
+ - 8 stalled for 29 secs in command: 4 APPEND "INBOX" {1495+}
+ - 10 stalled for 29 secs in command: 2 SELECT "INBOX" (CONDSTORE)
+ - 12 stalled for 29 secs in command: 4 APPEND "INBOX" (\Answered \Flagged $Label1 $Label3) {2019+}
+ - 13 stalled for 26 secs in command: 2 LIST "" *
+ - 16 stalled for 29 secs in command: 2 SELECT "INBOX" (CONDSTORE)
+ - 17 stalled for 27 secs in command: 2 SELECT "INBOX" (CONDSTORE)
+ - 18 stalled for 27 secs in command: 2 LIST "" *
+ - 19 stalled for 24 secs in command: 2 STATUS "INBOX" (MESSAGES UNSEEN RECENT)
+ - 20 stalled for 27 secs in command: 2 LIST "" *
+ - 21 stalled for 27 secs in command: 2 LIST "" *
+ - 22 stalled for 27 secs in command: 2 LIST "" *
+ - 23 stalled for 26 secs in command: 2 LIST "" *
+ - 24 stalled for 24 secs in command: 2 LIST "" *
+ - 25 stalled for 27 secs in command: 2 SELECT "INBOX" (CONDSTORE)
+ - 26 stalled for 24 secs in command: 2 LIST "" *
+ - 27 stalled for 27 secs in command: 2 LIST "" *
+ - 28 stalled for 26 secs in command: 2 LIST "" *
+ - 30 stalled for 26 secs in command: 2 LIST "" *
+ - 32 stalled for 27 secs in command: 2 LIST "" *
+ - 33 stalled for 27 secs in command: 2 LIST "" *
+ - 34 stalled for 27 secs in command: 2 SELECT "INBOX" (CONDSTORE)
+ - 35 stalled for 27 secs in command: 2 SELECT "INBOX" (CONDSTORE)
+ - 36 stalled for 27 secs in command: 2 LIST "" *
+ - 37 stalled for 24 secs in command: 2 LIST "" *
+ - 39 stalled for 24 secs in command: 2 LIST "" *
+ - 40 stalled for 27 secs in command: 2 STATUS "INBOX" (MESSAGES UNSEEN RECENT)
+ - 42 stalled for 20 secs in command: 2 SELECT "INBOX" (CONDSTORE)
+ - 44 stalled for 20 secs in command: 2 LIST "" *
+ - 49 stalled for 21 secs in command: 2 SELECT "INBOX" (CONDSTORE)
+ - 57 stalled for 24 secs in command: 2 SELECT "INBOX" (CONDSTORE)
+ - 71 stalled for 21 secs in command: 2 STATUS "INBOX" (MESSAGES UNSEEN RECENT)
+   0    0    0    0    0    0    0    0    0    0    0  90/ 90
+ - 1 stalled for 25 secs in command: 2 LIST "" *
+ - 4 stalled for 30 secs in command: 5 APPEND "INBOX" "05-Aug-2002 19:26:52 +0200" {3838+}
+ - 8 stalled for 30 secs in command: 4 APPEND "INBOX" {1495+}
+ - 10 stalled for 30 secs in command: 2 SELECT "INBOX" (CONDSTORE)
+ - 12 stalled for 30 secs in command: 4 APPEND "INBOX" (\Answered \Flagged $Label1 $Label3) {2019+}
+ - 13 stalled for 27 secs in command: 2 LIST "" *
+ - 16 stalled for 30 secs in command: 2 SELECT "INBOX" (CONDSTORE)
+ - 17 stalled for 28 secs in command: 2 SELECT "INBOX" (CONDSTORE)
+ - 18 stalled for 28 secs in command: 2 LIST "" *
+ - 19 stalled for 25 secs in command: 2 STATUS "INBOX" (MESSAGES UNSEEN RECENT)
+ - 20 stalled for 28 secs in command: 2 LIST "" *
+ - 21 stalled for 28 secs in command: 2 LIST "" *
+ - 22 stalled for 28 secs in command: 2 LIST "" *
+ - 23 stalled for 27 secs in command: 2 LIST "" *
+ - 24 stalled for 25 secs in command: 2 LIST "" *
+ - 25 stalled for 28 secs in command: 2 SELECT "INBOX" (CONDSTORE)
+ - 26 stalled for 25 secs in command: 2 LIST "" *
+ - 27 stalled for 28 secs in command: 2 LIST "" *
+ - 28 stalled for 27 secs in command: 2 LIST "" *
+ - 30 stalled for 27 secs in command: 2 LIST "" *
+ - 32 stalled for 28 secs in command: 2 LIST "" *
+ - 33 stalled for 28 secs in command: 2 LIST "" *
+ - 34 stalled for 28 secs in command: 2 SELECT "INBOX" (CONDSTORE)
+ - 35 stalled for 28 secs in command: 2 SELECT "INBOX" (CONDSTORE)
+ - 36 stalled for 28 secs in command: 2 LIST "" *
+ - 37 stalled for 25 secs in command: 2 LIST "" *
+ - 39 stalled for 25 secs in command: 2 LIST "" *
+ - 40 stalled for 28 secs in command: 2 STATUS "INBOX" (MESSAGES UNSEEN RECENT)
+ - 42 stalled for 21 secs in command: 2 SELECT "INBOX" (CONDSTORE)
+ - 43 stalled for 16 secs in command: 2 LIST "" *
+ - 44 stalled for 21 secs in command: 2 LIST "" *
+ - 49 stalled for 22 secs in command: 2 SELECT "INBOX" (CONDSTORE)
+ - 57 stalled for 25 secs in command: 2 SELECT "INBOX" (CONDSTORE)
+ - 71 stalled for 22 secs in command: 2 STATUS "INBOX" (MESSAGES UNSEEN RECENT)
 Logi List Stat Sele Fetc Fet2 Stor Dele Expu Appe Logo 
 100%  50%  50% 100% 100% 100%  50% 100% 100% 100% 100% 
                           30%                  5%      
-  45   26   20   49   48   77    7   33   35   26   52  90/ 90
-  63   17   33   57   49   66    5   41   66   62  124  90/ 90
-  33   16   23   37   39   55    9   27   32   37   74  89/ 90
-  60   29   31   60   55   76   11   44   46   56  110  88/ 90
-  50   33   20   54   47   58    6   49   54   49  100  90/ 90
-  37   16   21   33   41   63    6   28   39   43   86  90/ 90
-  47   26   19   46   47   59    4   42   48   46   92  90/ 90
-  46   22   14   48   39   53    8   35   35   39   78  90/ 90
-  38   18   18   41   40   61    4   33   42   43   86  90/ 90
-  32    9   15   24   32   48    5   21   30   29   58  90/ 90
+   0    0    0    0    0    0    0    0    0    0    0  90/ 90
+ - 1 stalled for 26 secs in command: 2 LIST "" *
+ - 4 stalled for 31 secs in command: 5 APPEND "INBOX" "05-Aug-2002 19:26:52 +0200" {3838+}
+ - 8 stalled for 31 secs in command: 4 APPEND "INBOX" {1495+}
+ - 10 stalled for 31 secs in command: 2 SELECT "INBOX" (CONDSTORE)
+ - 12 stalled for 31 secs in command: 4 APPEND "INBOX" (\Answered \Flagged $Label1 $Label3) {2019+}
+ - 13 stalled for 28 secs in command: 2 LIST "" *
+ - 16 stalled for 31 secs in command: 2 SELECT "INBOX" (CONDSTORE)
+ - 17 stalled for 29 secs in command: 2 SELECT "INBOX" (CONDSTORE)
+ - 18 stalled for 29 secs in command: 2 LIST "" *
+ - 19 stalled for 26 secs in command: 2 STATUS "INBOX" (MESSAGES UNSEEN RECENT)
+ - 20 stalled for 29 secs in command: 2 LIST "" *
+ - 21 stalled for 29 secs in command: 2 LIST "" *
+ - 22 stalled for 29 secs in command: 2 LIST "" *
+ - 23 stalled for 28 secs in command: 2 LIST "" *
+ - 24 stalled for 26 secs in command: 2 LIST "" *
+ - 25 stalled for 29 secs in command: 2 SELECT "INBOX" (CONDSTORE)
+ - 26 stalled for 26 secs in command: 2 LIST "" *
+ - 27 stalled for 29 secs in command: 2 LIST "" *
+ - 28 stalled for 28 secs in command: 2 LIST "" *
+ - 30 stalled for 28 secs in command: 2 LIST "" *
+ - 32 stalled for 29 secs in command: 2 LIST "" *
+ - 33 stalled for 29 secs in command: 2 LIST "" *
+ - 34 stalled for 29 secs in command: 2 SELECT "INBOX" (CONDSTORE)
+ - 35 stalled for 29 secs in command: 2 SELECT "INBOX" (CONDSTORE)
+ - 36 stalled for 29 secs in command: 2 LIST "" *
+ - 37 stalled for 26 secs in command: 2 LIST "" *
+ - 39 stalled for 26 secs in command: 2 LIST "" *
+ - 40 stalled for 29 secs in command: 2 STATUS "INBOX" (MESSAGES UNSEEN RECENT)
+ - 42 stalled for 22 secs in command: 2 SELECT "INBOX" (CONDSTORE)
+ - 43 stalled for 17 secs in command: 2 LIST "" *
+ - 44 stalled for 22 secs in command: 2 LIST "" *
+ - 49 stalled for 23 secs in command: 2 SELECT "INBOX" (CONDSTORE)
+ - 57 stalled for 26 secs in command: 2 SELECT "INBOX" (CONDSTORE)
+ - 71 stalled for 23 secs in command: 2 STATUS "INBOX" (MESSAGES UNSEEN RECENT)
+   0    0    0    0    0    0    0    0    0    0    0  90/ 90
+ - 1 stalled for 27 secs in command: 2 LIST "" *
+ - 2 stalled for 16 secs in command: 2 SELECT "INBOX" (CONDSTORE)
+ - 4 stalled for 32 secs in command: 5 APPEND "INBOX" "05-Aug-2002 19:26:52 +0200" {3838+}
+ - 7 stalled for 16 secs in command: 2 LIST "" *
+ - 8 stalled for 32 secs in command: 4 APPEND "INBOX" {1495+}
+ - 10 stalled for 32 secs in command: 2 SELECT "INBOX" (CONDSTORE)
+ - 12 stalled for 32 secs in command: 4 APPEND "INBOX" (\Answered \Flagged $Label1 $Label3) {2019+}
+ - 13 stalled for 29 secs in command: 2 LIST "" *
+ - 16 stalled for 32 secs in command: 2 SELECT "INBOX" (CONDSTORE)
+ - 17 stalled for 30 secs in command: 2 SELECT "INBOX" (CONDSTORE)
+ - 18 stalled for 30 secs in command: 2 LIST "" *
+ - 19 stalled for 27 secs in command: 2 STATUS "INBOX" (MESSAGES UNSEEN RECENT)
+ - 20 stalled for 30 secs in command: 2 LIST "" *
+ - 21 stalled for 30 secs in command: 2 LIST "" *
+ - 22 stalled for 30 secs in command: 2 LIST "" *
+ - 23 stalled for 29 secs in command: 2 LIST "" *
+ - 24 stalled for 27 secs in command: 2 LIST "" *
+ - 25 stalled for 30 secs in command: 2 SELECT "INBOX" (CONDSTORE)
+ - 26 stalled for 27 secs in command: 2 LIST "" *
+ - 27 stalled for 30 secs in command: 2 LIST "" *
+ - 28 stalled for 29 secs in command: 2 LIST "" *
+ - 30 stalled for 29 secs in command: 2 LIST "" *
+ - 31 stalled for 16 secs in command: 2 STATUS "INBOX" (MESSAGES UNSEEN RECENT)
+ - 32 stalled for 30 secs in command: 2 LIST "" *
+ - 33 stalled for 30 secs in command: 2 LIST "" *
+ - 34 stalled for 30 secs in command: 2 SELECT "INBOX" (CONDSTORE)
+ - 35 stalled for 30 secs in command: 2 SELECT "INBOX" (CONDSTORE)
+ - 36 stalled for 30 secs in command: 2 LIST "" *
+ - 37 stalled for 27 secs in command: 2 LIST "" *
+ - 38 stalled for 16 secs in command: 2 STATUS "INBOX" (MESSAGES UNSEEN RECENT)
+ - 39 stalled for 27 secs in command: 2 LIST "" *
+ - 40 stalled for 30 secs in command: 2 STATUS "INBOX" (MESSAGES UNSEEN RECENT)
+ - 42 stalled for 23 secs in command: 2 SELECT "INBOX" (CONDSTORE)
+ - 43 stalled for 18 secs in command: 2 LIST "" *
+ - 44 stalled for 23 secs in command: 2 LIST "" *
+ - 45 stalled for 16 secs in command: 2 LIST "" *
+ - 49 stalled for 24 secs in command: 2 SELECT "INBOX" (CONDSTORE)
+ - 51 stalled for 16 secs in command: 2 LIST "" *
+ - 52 stalled for 16 secs in command: 2 SELECT "INBOX" (CONDSTORE)
+ - 53 stalled for 16 secs in command: 2 LIST "" *
+ - 54 stalled for 16 secs in command: 2 STATUS "INBOX" (MESSAGES UNSEEN RECENT)
+ - 55 stalled for 16 secs in command: 2 LIST "" *
+ - 57 stalled for 27 secs in command: 2 SELECT "INBOX" (CONDSTORE)
+ - 58 stalled for 16 secs in command: 2 LIST "" *
+ - 60 stalled for 16 secs in command: 2 LIST "" *
+ - 65 stalled for 16 secs in command: 2 LIST "" *
+ - 67 stalled for 16 secs in command: 2 LIST "" *
+ - 68 stalled for 16 secs in command: 2 LIST "" *
+ - 70 stalled for 16 secs in command: 2 SELECT "INBOX" (CONDSTORE)
+ - 71 stalled for 24 secs in command: 2 STATUS "INBOX" (MESSAGES UNSEEN RECENT)
+ - 72 stalled for 16 secs in command: 2 LIST "" *
+ - 75 stalled for 16 secs in command: 2 LIST "" *
+   0    0    0    0    0    0    0    0    0    0    0  90/ 90
+ - 1 stalled for 28 secs in command: 2 LIST "" *
+ - 2 stalled for 17 secs in command: 2 SELECT "INBOX" (CONDSTORE)
+ - 41 stalled for 16 secs in command: 2 LIST "" *
+ - 4 stalled for 33 secs in command: 5 APPEND "INBOX" "05-Aug-2002 19:26:52 +0200" {3838+}
+ - 81 stalled for 16 secs in command: 2 LIST "" *
+ - 7 stalled for 17 secs in command: 2 LIST "" *
+ - 8 stalled for 33 secs in command: 4 APPEND "INBOX" {1495+}
+ - 10 stalled for 33 secs in command: 2 SELECT "INBOX" (CONDSTORE)
+ - 11 stalled for 16 secs in command: 4 APPEND "INBOX" "07-Aug-2002 06:58:27 +0200" {1468+}
+ - 12 stalled for 33 secs in command: 4 APPEND "INBOX" (\Answered \Flagged $Label1 $Label3) {2019+}
+ - 13 stalled for 30 secs in command: 2 LIST "" *
+ - 14 stalled for 16 secs in command: 2 LIST "" *
+ - 16 stalled for 33 secs in command: 2 SELECT "INBOX" (CONDSTORE)
+ - 17 stalled for 31 secs in command: 2 SELECT "INBOX" (CONDSTORE)
+ - 18 stalled for 31 secs in command: 2 LIST "" *
+ - 19 stalled for 28 secs in command: 2 STATUS "INBOX" (MESSAGES UNSEEN RECENT)
+ - 20 stalled for 31 secs in command: 2 LIST "" *
+ - 21 stalled for 31 secs in command: 2 LIST "" *
+ - 22 stalled for 31 secs in command: 2 LIST "" *
+ - 23 stalled for 30 secs in command: 2 LIST "" *
+ - 24 stalled for 28 secs in command: 2 LIST "" *
+ - 25 stalled for 31 secs in command: 2 SELECT "INBOX" (CONDSTORE)
+ - 26 stalled for 28 secs in command: 2 LIST "" *
+ - 27 stalled for 31 secs in command: 2 LIST "" *
+ - 28 stalled for 30 secs in command: 2 LIST "" *
+ - 29 stalled for 16 secs in command: 2 LIST "" *
+ - 30 stalled for 30 secs in command: 2 LIST "" *
+ - 31 stalled for 17 secs in command: 2 STATUS "INBOX" (MESSAGES UNSEEN RECENT)
+ - 32 stalled for 31 secs in command: 2 LIST "" *
+ - 33 stalled for 31 secs in command: 2 LIST "" *
+ - 34 stalled for 31 secs in command: 2 SELECT "INBOX" (CONDSTORE)
+ - 35 stalled for 31 secs in command: 2 SELECT "INBOX" (CONDSTORE)
+ - 36 stalled for 31 secs in command: 2 LIST "" *
+ - 37 stalled for 28 secs in command: 2 LIST "" *
+ - 38 stalled for 17 secs in command: 2 STATUS "INBOX" (MESSAGES UNSEEN RECENT)
+ - 39 stalled for 28 secs in command: 2 LIST "" *
+ - 40 stalled for 31 secs in command: 2 STATUS "INBOX" (MESSAGES UNSEEN RECENT)
+ - 42 stalled for 24 secs in command: 2 SELECT "INBOX" (CONDSTORE)
+ - 43 stalled for 19 secs in command: 2 LIST "" *
+ - 44 stalled for 24 secs in command: 2 LIST "" *
+ - 45 stalled for 17 secs in command: 2 LIST "" *
+ - 49 stalled for 25 secs in command: 2 SELECT "INBOX" (CONDSTORE)
+ - 51 stalled for 17 secs in command: 2 LIST "" *
+ - 52 stalled for 17 secs in command: 2 SELECT "INBOX" (CONDSTORE)
+ - 53 stalled for 17 secs in command: 2 LIST "" *
+ - 54 stalled for 17 secs in command: 2 STATUS "INBOX" (MESSAGES UNSEEN RECENT)
+ - 55 stalled for 17 secs in command: 2 LIST "" *
+ - 57 stalled for 28 secs in command: 2 SELECT "INBOX" (CONDSTORE)
+ - 58 stalled for 17 secs in command: 2 LIST "" *
+ - 59 stalled for 16 secs in command: 2 SELECT "INBOX" (CONDSTORE)
+ - 60 stalled for 17 secs in command: 2 LIST "" *
+ - 65 stalled for 17 secs in command: 2 LIST "" *
+ - 67 stalled for 17 secs in command: 2 LIST "" *
+ - 68 stalled for 17 secs in command: 2 LIST "" *
+ - 70 stalled for 17 secs in command: 2 SELECT "INBOX" (CONDSTORE)
+ - 71 stalled for 25 secs in command: 2 STATUS "INBOX" (MESSAGES UNSEEN RECENT)
+ - 72 stalled for 17 secs in command: 2 LIST "" *
+ - 74 stalled for 16 secs in command: 2 SELECT "INBOX" (CONDSTORE)
+ - 75 stalled for 17 secs in command: 2 LIST "" *
+ - 78 stalled for 16 secs in command: 2 LIST "" *
+ - 80 stalled for 16 secs in command: 2 STATUS "INBOX" (MESSAGES UNSEEN RECENT)
+ - 82 stalled for 16 secs in command: 2 LIST "" *
+ - 83 stalled for 16 secs in command: 2 SELECT "INBOX" (CONDSTORE)
+ - 91 stalled for 16 secs in command: 2 LIST "" *
+   0    0    0    0    0    0    0    0    0    0    0  90/ 90
+ - 1 stalled for 29 secs in command: 2 LIST "" *
+ - 2 stalled for 18 secs in command: 2 SELECT "INBOX" (CONDSTORE)
+ - 41 stalled for 17 secs in command: 2 LIST "" *
+ - 4 stalled for 34 secs in command: 5 APPEND "INBOX" "05-Aug-2002 19:26:52 +0200" {3838+}
+ - 81 stalled for 17 secs in command: 2 LIST "" *
+ - 7 stalled for 18 secs in command: 2 LIST "" *
+ - 8 stalled for 34 secs in command: 4 APPEND "INBOX" {1495+}
+ - 10 stalled for 34 secs in command: 2 SELECT "INBOX" (CONDSTORE)
+ - 11 stalled for 17 secs in command: 4 APPEND "INBOX" "07-Aug-2002 06:58:27 +0200" {1468+}
+ - 12 stalled for 34 secs in command: 4 APPEND "INBOX" (\Answered \Flagged $Label1 $Label3) {2019+}
+ - 13 stalled for 31 secs in command: 2 LIST "" *
+ - 14 stalled for 17 secs in command: 2 LIST "" *
+ - 16 stalled for 34 secs in command: 2 SELECT "INBOX" (CONDSTORE)
+ - 17 stalled for 32 secs in command: 2 SELECT "INBOX" (CONDSTORE)
+ - 18 stalled for 32 secs in command: 2 LIST "" *
+ - 19 stalled for 29 secs in command: 2 STATUS "INBOX" (MESSAGES UNSEEN RECENT)
+ - 20 stalled for 32 secs in command: 2 LIST "" *
+ - 21 stalled for 32 secs in command: 2 LIST "" *
+ - 22 stalled for 32 secs in command: 2 LIST "" *
+ - 23 stalled for 31 secs in command: 2 LIST "" *
+ - 24 stalled for 29 secs in command: 2 LIST "" *
+ - 25 stalled for 32 secs in command: 2 SELECT "INBOX" (CONDSTORE)
+ - 26 stalled for 29 secs in command: 2 LIST "" *
+ - 27 stalled for 32 secs in command: 2 LIST "" *
+ - 28 stalled for 31 secs in command: 2 LIST "" *
+ - 29 stalled for 17 secs in command: 2 LIST "" *
+ - 30 stalled for 31 secs in command: 2 LIST "" *
+ - 31 stalled for 18 secs in command: 2 STATUS "INBOX" (MESSAGES UNSEEN RECENT)
+ - 32 stalled for 32 secs in command: 2 LIST "" *
+ - 33 stalled for 32 secs in command: 2 LIST "" *
+ - 34 stalled for 32 secs in command: 2 SELECT "INBOX" (CONDSTORE)
+ - 35 stalled for 32 secs in command: 2 SELECT "INBOX" (CONDSTORE)
+ - 36 stalled for 32 secs in command: 2 LIST "" *
+ - 37 stalled for 29 secs in command: 2 LIST "" *
+ - 38 stalled for 18 secs in command: 2 STATUS "INBOX" (MESSAGES UNSEEN RECENT)
+ - 39 stalled for 29 secs in command: 2 LIST "" *
+ - 40 stalled for 32 secs in command: 2 STATUS "INBOX" (MESSAGES UNSEEN RECENT)
+ - 42 stalled for 25 secs in command: 2 SELECT "INBOX" (CONDSTORE)
+ - 43 stalled for 20 secs in command: 2 LIST "" *
+ - 44 stalled for 25 secs in command: 2 LIST "" *
+ - 45 stalled for 18 secs in command: 2 LIST "" *
+ - 49 stalled for 26 secs in command: 2 SELECT "INBOX" (CONDSTORE)
+ - 51 stalled for 18 secs in command: 2 LIST "" *
+ - 52 stalled for 18 secs in command: 2 SELECT "INBOX" (CONDSTORE)
+ - 53 stalled for 18 secs in command: 2 LIST "" *
+ - 54 stalled for 18 secs in command: 2 STATUS "INBOX" (MESSAGES UNSEEN RECENT)
+ - 55 stalled for 18 secs in command: 2 LIST "" *
+ - 57 stalled for 29 secs in command: 2 SELECT "INBOX" (CONDSTORE)
+ - 58 stalled for 18 secs in command: 2 LIST "" *
+ - 59 stalled for 17 secs in command: 2 SELECT "INBOX" (CONDSTORE)
+ - 60 stalled for 18 secs in command: 2 LIST "" *
+ - 65 stalled for 18 secs in command: 2 LIST "" *
+ - 67 stalled for 18 secs in command: 2 LIST "" *
+ - 68 stalled for 18 secs in command: 2 LIST "" *
+ - 70 stalled for 18 secs in command: 2 SELECT "INBOX" (CONDSTORE)
+ - 71 stalled for 26 secs in command: 2 STATUS "INBOX" (MESSAGES UNSEEN RECENT)
+ - 72 stalled for 18 secs in command: 2 LIST "" *
+ - 74 stalled for 17 secs in command: 2 SELECT "INBOX" (CONDSTORE)
+ - 75 stalled for 18 secs in command: 2 LIST "" *
+ - 76 stalled for 16 secs in command: 2 LIST "" *
+ - 78 stalled for 17 secs in command: 2 LIST "" *
+ - 80 stalled for 17 secs in command: 2 STATUS "INBOX" (MESSAGES UNSEEN RECENT)
+ - 82 stalled for 17 secs in command: 2 LIST "" *
+ - 83 stalled for 17 secs in command: 2 SELECT "INBOX" (CONDSTORE)
+ - 84 stalled for 16 secs in command: 2 STATUS "INBOX" (MESSAGES UNSEEN RECENT)
+ - 85 stalled for 16 secs in command: 2 LIST "" *
+ - 86 stalled for 16 secs in command: 2 LIST "" *
+ - 89 stalled for 16 secs in command: 2 LIST "" *
+ - 91 stalled for 17 secs in command: 2 LIST "" *
+   0    0    0    0    0    0    0    0    0    0    0  90/ 90
+ - 1 stalled for 30 secs in command: 2 LIST "" *
+ - 2 stalled for 19 secs in command: 2 SELECT "INBOX" (CONDSTORE)
+ - 41 stalled for 18 secs in command: 2 LIST "" *
+ - 4 stalled for 35 secs in command: 5 APPEND "INBOX" "05-Aug-2002 19:26:52 +0200" {3838+}
+ - 81 stalled for 18 secs in command: 2 LIST "" *
+ - 7 stalled for 19 secs in command: 2 LIST "" *
+ - 8 stalled for 35 secs in command: 4 APPEND "INBOX" {1495+}
+ - 10 stalled for 35 secs in command: 2 SELECT "INBOX" (CONDSTORE)
+ - 11 stalled for 18 secs in command: 4 APPEND "INBOX" "07-Aug-2002 06:58:27 +0200" {1468+}
+ - 12 stalled for 35 secs in command: 4 APPEND "INBOX" (\Answered \Flagged $Label1 $Label3) {2019+}
+ - 13 stalled for 32 secs in command: 2 LIST "" *
+ - 14 stalled for 18 secs in command: 2 LIST "" *
+ - 16 stalled for 35 secs in command: 2 SELECT "INBOX" (CONDSTORE)
+ - 17 stalled for 33 secs in command: 2 SELECT "INBOX" (CONDSTORE)
+ - 18 stalled for 33 secs in command: 2 LIST "" *
+ - 19 stalled for 30 secs in command: 2 STATUS "INBOX" (MESSAGES UNSEEN RECENT)
+ - 20 stalled for 33 secs in command: 2 LIST "" *
+ - 21 stalled for 33 secs in command: 2 LIST "" *
+ - 22 stalled for 33 secs in command: 2 LIST "" *
+ - 23 stalled for 32 secs in command: 2 LIST "" *
+ - 24 stalled for 30 secs in command: 2 LIST "" *
+ - 25 stalled for 33 secs in command: 2 SELECT "INBOX" (CONDSTORE)
+ - 26 stalled for 30 secs in command: 2 LIST "" *
+ - 27 stalled for 33 secs in command: 2 LIST "" *
+ - 28 stalled for 32 secs in command: 2 LIST "" *
+ - 29 stalled for 18 secs in command: 2 LIST "" *
+ - 30 stalled for 32 secs in command: 2 LIST "" *
+ - 31 stalled for 19 secs in command: 2 STATUS "INBOX" (MESSAGES UNSEEN RECENT)
+ - 32 stalled for 33 secs in command: 2 LIST "" *
+ - 33 stalled for 33 secs in command: 2 LIST "" *
+ - 34 stalled for 33 secs in command: 2 SELECT "INBOX" (CONDSTORE)
+ - 35 stalled for 33 secs in command: 2 SELECT "INBOX" (CONDSTORE)
+ - 36 stalled for 33 secs in command: 2 LIST "" *
+ - 37 stalled for 30 secs in command: 2 LIST "" *
+ - 38 stalled for 19 secs in command: 2 STATUS "INBOX" (MESSAGES UNSEEN RECENT)
+ - 39 stalled for 30 secs in command: 2 LIST "" *
+ - 40 stalled for 33 secs in command: 2 STATUS "INBOX" (MESSAGES UNSEEN RECENT)
+ - 42 stalled for 26 secs in command: 2 SELECT "INBOX" (CONDSTORE)
+ - 43 stalled for 21 secs in command: 2 LIST "" *
+ - 44 stalled for 26 secs in command: 2 LIST "" *
+ - 45 stalled for 19 secs in command: 2 LIST "" *
+ - 49 stalled for 27 secs in command: 2 SELECT "INBOX" (CONDSTORE)
+ - 51 stalled for 19 secs in command: 2 LIST "" *
+ - 52 stalled for 19 secs in command: 2 SELECT "INBOX" (CONDSTORE)
+ - 53 stalled for 19 secs in command: 2 LIST "" *
+ - 54 stalled for 19 secs in command: 2 STATUS "INBOX" (MESSAGES UNSEEN RECENT)
+ - 55 stalled for 19 secs in command: 2 LIST "" *
+ - 57 stalled for 30 secs in command: 2 SELECT "INBOX" (CONDSTORE)
+ - 58 stalled for 19 secs in command: 2 LIST "" *
+ - 59 stalled for 18 secs in command: 2 SELECT "INBOX" (CONDSTORE)
+ - 60 stalled for 19 secs in command: 2 LIST "" *
+ - 65 stalled for 19 secs in command: 2 LIST "" *
+ - 67 stalled for 19 secs in command: 2 LIST "" *
+ - 68 stalled for 19 secs in command: 2 LIST "" *
+ - 70 stalled for 19 secs in command: 2 SELECT "INBOX" (CONDSTORE)
+ - 71 stalled for 27 secs in command: 2 STATUS "INBOX" (MESSAGES UNSEEN RECENT)
+ - 72 stalled for 19 secs in command: 2 LIST "" *
+ - 74 stalled for 18 secs in command: 2 SELECT "INBOX" (CONDSTORE)
+ - 75 stalled for 19 secs in command: 2 LIST "" *
+ - 76 stalled for 17 secs in command: 2 LIST "" *
+ - 78 stalled for 18 secs in command: 2 LIST "" *
+ - 80 stalled for 18 secs in command: 2 STATUS "INBOX" (MESSAGES UNSEEN RECENT)
+ - 82 stalled for 18 secs in command: 2 LIST "" *
+ - 83 stalled for 18 secs in command: 2 SELECT "INBOX" (CONDSTORE)
+ - 84 stalled for 17 secs in command: 2 STATUS "INBOX" (MESSAGES UNSEEN RECENT)
+ - 85 stalled for 17 secs in command: 2 LIST "" *
+ - 86 stalled for 17 secs in command: 2 LIST "" *
+ - 89 stalled for 17 secs in command: 2 LIST "" *
+ - 91 stalled for 18 secs in command: 2 LIST "" *
+   0    0    0    0    0    0    0    0    0    0    0  90/ 90
+ - 1 stalled for 31 secs in command: 2 LIST "" *
+ - 2 stalled for 20 secs in command: 2 SELECT "INBOX" (CONDSTORE)
+ - 41 stalled for 19 secs in command: 2 LIST "" *
+ - 4 stalled for 36 secs in command: 5 APPEND "INBOX" "05-Aug-2002 19:26:52 +0200" {3838+}
+ - 81 stalled for 19 secs in command: 2 LIST "" *
+ - 7 stalled for 20 secs in command: 2 LIST "" *
+ - 8 stalled for 36 secs in command: 4 APPEND "INBOX" {1495+}
+ - 10 stalled for 36 secs in command: 2 SELECT "INBOX" (CONDSTORE)
+ - 11 stalled for 19 secs in command: 4 APPEND "INBOX" "07-Aug-2002 06:58:27 +0200" {1468+}
+ - 12 stalled for 36 secs in command: 4 APPEND "INBOX" (\Answered \Flagged $Label1 $Label3) {2019+}
+ - 13 stalled for 33 secs in command: 2 LIST "" *
+ - 14 stalled for 19 secs in command: 2 LIST "" *
+ - 16 stalled for 36 secs in command: 2 SELECT "INBOX" (CONDSTORE)
+ - 17 stalled for 34 secs in command: 2 SELECT "INBOX" (CONDSTORE)
+ - 18 stalled for 34 secs in command: 2 LIST "" *
+ - 19 stalled for 31 secs in command: 2 STATUS "INBOX" (MESSAGES UNSEEN RECENT)
+ - 20 stalled for 34 secs in command: 2 LIST "" *
+ - 21 stalled for 34 secs in command: 2 LIST "" *
+ - 22 stalled for 34 secs in command: 2 LIST "" *
+ - 23 stalled for 33 secs in command: 2 LIST "" *
+ - 24 stalled for 31 secs in command: 2 LIST "" *
+ - 25 stalled for 34 secs in command: 2 SELECT "INBOX" (CONDSTORE)
+ - 26 stalled for 31 secs in command: 2 LIST "" *
+ - 27 stalled for 34 secs in command: 2 LIST "" *
+ - 28 stalled for 33 secs in command: 2 LIST "" *
+ - 29 stalled for 19 secs in command: 2 LIST "" *
+ - 30 stalled for 33 secs in command: 2 LIST "" *
+ - 31 stalled for 20 secs in command: 2 STATUS "INBOX" (MESSAGES UNSEEN RECENT)
+ - 32 stalled for 34 secs in command: 2 LIST "" *
+ - 33 stalled for 34 secs in command: 2 LIST "" *
+ - 34 stalled for 34 secs in command: 2 SELECT "INBOX" (CONDSTORE)
+ - 35 stalled for 34 secs in command: 2 SELECT "INBOX" (CONDSTORE)
+ - 36 stalled for 34 secs in command: 2 LIST "" *
+ - 37 stalled for 31 secs in command: 2 LIST "" *
+ - 38 stalled for 20 secs in command: 2 STATUS "INBOX" (MESSAGES UNSEEN RECENT)
+ - 39 stalled for 31 secs in command: 2 LIST "" *
+ - 40 stalled for 34 secs in command: 2 STATUS "INBOX" (MESSAGES UNSEEN RECENT)
+ - 42 stalled for 27 secs in command: 2 SELECT "INBOX" (CONDSTORE)
+ - 43 stalled for 22 secs in command: 2 LIST "" *
+ - 44 stalled for 27 secs in command: 2 LIST "" *
+ - 45 stalled for 20 secs in command: 2 LIST "" *
+ - 46 stalled for 16 secs in command: 2 LIST "" *
+ - 49 stalled for 28 secs in command: 2 SELECT "INBOX" (CONDSTORE)
+ - 51 stalled for 20 secs in command: 2 LIST "" *
+ - 52 stalled for 20 secs in command: 2 SELECT "INBOX" (CONDSTORE)
+ - 53 stalled for 20 secs in command: 2 LIST "" *
+ - 54 stalled for 20 secs in command: 2 STATUS "INBOX" (MESSAGES UNSEEN RECENT)
+ - 55 stalled for 20 secs in command: 2 LIST "" *
+ - 56 stalled for 16 secs in command: 2 STATUS "INBOX" (MESSAGES UNSEEN RECENT)
+ - 57 stalled for 31 secs in command: 2 SELECT "INBOX" (CONDSTORE)
+ - 58 stalled for 20 secs in command: 2 LIST "" *
+ - 59 stalled for 19 secs in command: 2 SELECT "INBOX" (CONDSTORE)
+ - 60 stalled for 20 secs in command: 2 LIST "" *
+ - 61 stalled for 16 secs in command: 2 LIST "" *
+ - 63 stalled for 16 secs in command: 2 STATUS "INBOX" (MESSAGES UNSEEN RECENT)
+ - 64 stalled for 16 secs in command: 2 LIST "" *
+ - 65 stalled for 20 secs in command: 2 LIST "" *
+ - 66 stalled for 16 secs in command: 2 SELECT "INBOX" (CONDSTORE)
+ - 67 stalled for 20 secs in command: 2 LIST "" *
+ - 68 stalled for 20 secs in command: 2 LIST "" *
+ - 70 stalled for 20 secs in command: 2 SELECT "INBOX" (CONDSTORE)
+ - 71 stalled for 28 secs in command: 2 STATUS "INBOX" (MESSAGES UNSEEN RECENT)
+ - 72 stalled for 20 secs in command: 2 LIST "" *
+ - 73 stalled for 16 secs in command: 2 SELECT "INBOX" (CONDSTORE)
+ - 74 stalled for 19 secs in command: 2 SELECT "INBOX" (CONDSTORE)
+ - 75 stalled for 20 secs in command: 2 LIST "" *
+ - 76 stalled for 18 secs in command: 2 LIST "" *
+ - 78 stalled for 19 secs in command: 2 LIST "" *
+ - 80 stalled for 19 secs in command: 2 STATUS "INBOX" (MESSAGES UNSEEN RECENT)
+ - 82 stalled for 19 secs in command: 2 LIST "" *
+ - 83 stalled for 19 secs in command: 2 SELECT "INBOX" (CONDSTORE)
+ - 84 stalled for 18 secs in command: 2 STATUS "INBOX" (MESSAGES UNSEEN RECENT)
+ - 85 stalled for 18 secs in command: 2 LIST "" *
+ - 86 stalled for 18 secs in command: 2 LIST "" *
+ - 87 stalled for 16 secs in command: 2 LIST "" *
+ - 88 stalled for 16 secs in command: 2 SELECT "INBOX" (CONDSTORE)
+ - 89 stalled for 18 secs in command: 2 LIST "" *
+ - 91 stalled for 19 secs in command: 2 LIST "" *
+ - 92 stalled for 16 secs in command: 2 SELECT "INBOX" (CONDSTORE)
+   0    0    0    0    0    0    0    0    0    0    0  90/ 90
+ - 1 stalled for 32 secs in command: 2 LIST "" *
+ - 2 stalled for 21 secs in command: 2 SELECT "INBOX" (CONDSTORE)
+ - 41 stalled for 20 secs in command: 2 LIST "" *
+ - 4 stalled for 37 secs in command: 5 APPEND "INBOX" "05-Aug-2002 19:26:52 +0200" {3838+}
+ - 81 stalled for 20 secs in command: 2 LIST "" *
+ - 7 stalled for 21 secs in command: 2 LIST "" *
+ - 8 stalled for 37 secs in command: 4 APPEND "INBOX" {1495+}
+ - 10 stalled for 37 secs in command: 2 SELECT "INBOX" (CONDSTORE)
+ - 11 stalled for 20 secs in command: 4 APPEND "INBOX" "07-Aug-2002 06:58:27 +0200" {1468+}
+ - 12 stalled for 37 secs in command: 4 APPEND "INBOX" (\Answered \Flagged $Label1 $Label3) {2019+}
+ - 13 stalled for 34 secs in command: 2 LIST "" *
+ - 14 stalled for 20 secs in command: 2 LIST "" *
+ - 16 stalled for 37 secs in command: 2 SELECT "INBOX" (CONDSTORE)
+ - 17 stalled for 35 secs in command: 2 SELECT "INBOX" (CONDSTORE)
+ - 18 stalled for 35 secs in command: 2 LIST "" *
+ - 19 stalled for 32 secs in command: 2 STATUS "INBOX" (MESSAGES UNSEEN RECENT)
+ - 20 stalled for 35 secs in command: 2 LIST "" *
+ - 21 stalled for 35 secs in command: 2 LIST "" *
+ - 22 stalled for 35 secs in command: 2 LIST "" *
+ - 23 stalled for 34 secs in command: 2 LIST "" *
+ - 24 stalled for 32 secs in command: 2 LIST "" *
+ - 25 stalled for 35 secs in command: 2 SELECT "INBOX" (CONDSTORE)
+ - 26 stalled for 32 secs in command: 2 LIST "" *
+ - 27 stalled for 35 secs in command: 2 LIST "" *
+ - 28 stalled for 34 secs in command: 2 LIST "" *
+ - 29 stalled for 20 secs in command: 2 LIST "" *
+ - 30 stalled for 34 secs in command: 2 LIST "" *
+ - 31 stalled for 21 secs in command: 2 STATUS "INBOX" (MESSAGES UNSEEN RECENT)
+ - 32 stalled for 35 secs in command: 2 LIST "" *
+ - 33 stalled for 35 secs in command: 2 LIST "" *
+ - 34 stalled for 35 secs in command: 2 SELECT "INBOX" (CONDSTORE)
+ - 35 stalled for 35 secs in command: 2 SELECT "INBOX" (CONDSTORE)
+ - 36 stalled for 35 secs in command: 2 LIST "" *
+ - 37 stalled for 32 secs in command: 2 LIST "" *
+ - 38 stalled for 21 secs in command: 2 STATUS "INBOX" (MESSAGES UNSEEN RECENT)
+ - 39 stalled for 32 secs in command: 2 LIST "" *
+ - 40 stalled for 35 secs in command: 2 STATUS "INBOX" (MESSAGES UNSEEN RECENT)
+ - 42 stalled for 28 secs in command: 2 SELECT "INBOX" (CONDSTORE)
+ - 43 stalled for 23 secs in command: 2 LIST "" *
+ - 44 stalled for 28 secs in command: 2 LIST "" *
+ - 45 stalled for 21 secs in command: 2 LIST "" *
+ - 46 stalled for 17 secs in command: 2 LIST "" *
+ - 49 stalled for 29 secs in command: 2 SELECT "INBOX" (CONDSTORE)
+ - 51 stalled for 21 secs in command: 2 LIST "" *
+ - 52 stalled for 21 secs in command: 2 SELECT "INBOX" (CONDSTORE)
+ - 53 stalled for 21 secs in command: 2 LIST "" *
+ - 54 stalled for 21 secs in command: 2 STATUS "INBOX" (MESSAGES UNSEEN RECENT)
+ - 55 stalled for 21 secs in command: 2 LIST "" *
+ - 56 stalled for 17 secs in command: 2 STATUS "INBOX" (MESSAGES UNSEEN RECENT)
+ - 57 stalled for 32 secs in command: 2 SELECT "INBOX" (CONDSTORE)
+ - 58 stalled for 21 secs in command: 2 LIST "" *
+ - 59 stalled for 20 secs in command: 2 SELECT "INBOX" (CONDSTORE)
+ - 60 stalled for 21 secs in command: 2 LIST "" *
+ - 61 stalled for 17 secs in command: 2 LIST "" *
+ - 63 stalled for 17 secs in command: 2 STATUS "INBOX" (MESSAGES UNSEEN RECENT)
+ - 64 stalled for 17 secs in command: 2 LIST "" *
+ - 65 stalled for 21 secs in command: 2 LIST "" *
+ - 66 stalled for 17 secs in command: 2 SELECT "INBOX" (CONDSTORE)
+ - 67 stalled for 21 secs in command: 2 LIST "" *
+ - 68 stalled for 21 secs in command: 2 LIST "" *
+ - 70 stalled for 21 secs in command: 2 SELECT "INBOX" (CONDSTORE)
+ - 71 stalled for 29 secs in command: 2 STATUS "INBOX" (MESSAGES UNSEEN RECENT)
+ - 72 stalled for 21 secs in command: 2 LIST "" *
+ - 73 stalled for 17 secs in command: 2 SELECT "INBOX" (CONDSTORE)
+ - 74 stalled for 20 secs in command: 2 SELECT "INBOX" (CONDSTORE)
+ - 75 stalled for 21 secs in command: 2 LIST "" *
+ - 76 stalled for 19 secs in command: 2 LIST "" *
+ - 78 stalled for 20 secs in command: 2 LIST "" *
+ - 80 stalled for 20 secs in command: 2 STATUS "INBOX" (MESSAGES UNSEEN RECENT)
+ - 82 stalled for 20 secs in command: 2 LIST "" *
+ - 83 stalled for 20 secs in command: 2 SELECT "INBOX" (CONDSTORE)
+ - 84 stalled for 19 secs in command: 2 STATUS "INBOX" (MESSAGES UNSEEN RECENT)
+ - 85 stalled for 19 secs in command: 2 LIST "" *
+ - 86 stalled for 19 secs in command: 2 LIST "" *
+ - 87 stalled for 17 secs in command: 2 LIST "" *
+ - 88 stalled for 17 secs in command: 2 SELECT "INBOX" (CONDSTORE)
+ - 89 stalled for 19 secs in command: 2 LIST "" *
+ - 91 stalled for 20 secs in command: 2 LIST "" *
+ - 92 stalled for 17 secs in command: 2 SELECT "INBOX" (CONDSTORE)
+   0    0    0    0    0    0    0    0    0    0    0  90/ 90
+ - 1 stalled for 33 secs in command: 2 LIST "" *
+ - 2 stalled for 22 secs in command: 2 SELECT "INBOX" (CONDSTORE)
+ - 41 stalled for 21 secs in command: 2 LIST "" *
+ - 4 stalled for 38 secs in command: 5 APPEND "INBOX" "05-Aug-2002 19:26:52 +0200" {3838+}
+ - 81 stalled for 21 secs in command: 2 LIST "" *
+ - 7 stalled for 22 secs in command: 2 LIST "" *
+ - 8 stalled for 38 secs in command: 4 APPEND "INBOX" {1495+}
+ - 10 stalled for 38 secs in command: 2 SELECT "INBOX" (CONDSTORE)
+ - 11 stalled for 21 secs in command: 4 APPEND "INBOX" "07-Aug-2002 06:58:27 +0200" {1468+}
+ - 12 stalled for 38 secs in command: 4 APPEND "INBOX" (\Answered \Flagged $Label1 $Label3) {2019+}
+ - 13 stalled for 35 secs in command: 2 LIST "" *
+ - 14 stalled for 21 secs in command: 2 LIST "" *
+ - 16 stalled for 38 secs in command: 2 SELECT "INBOX" (CONDSTORE)
+ - 17 stalled for 36 secs in command: 2 SELECT "INBOX" (CONDSTORE)
+ - 18 stalled for 36 secs in command: 2 LIST "" *
+ - 19 stalled for 33 secs in command: 2 STATUS "INBOX" (MESSAGES UNSEEN RECENT)
+ - 20 stalled for 36 secs in command: 2 LIST "" *
+ - 21 stalled for 36 secs in command: 2 LIST "" *
+ - 22 stalled for 36 secs in command: 2 LIST "" *
+ - 23 stalled for 35 secs in command: 2 LIST "" *
+ - 24 stalled for 33 secs in command: 2 LIST "" *
+ - 25 stalled for 36 secs in command: 2 SELECT "INBOX" (CONDSTORE)
+ - 26 stalled for 33 secs in command: 2 LIST "" *
+ - 27 stalled for 36 secs in command: 2 LIST "" *
+ - 28 stalled for 35 secs in command: 2 LIST "" *
+ - 29 stalled for 21 secs in command: 2 LIST "" *
+ - 30 stalled for 35 secs in command: 2 LIST "" *
+ - 31 stalled for 22 secs in command: 2 STATUS "INBOX" (MESSAGES UNSEEN RECENT)
+ - 32 stalled for 36 secs in command: 2 LIST "" *
+ - 33 stalled for 36 secs in command: 2 LIST "" *
+ - 34 stalled for 36 secs in command: 2 SELECT "INBOX" (CONDSTORE)
+ - 35 stalled for 36 secs in command: 2 SELECT "INBOX" (CONDSTORE)
+ - 36 stalled for 36 secs in command: 2 LIST "" *
+ - 37 stalled for 33 secs in command: 2 LIST "" *
+ - 38 stalled for 22 secs in command: 2 STATUS "INBOX" (MESSAGES UNSEEN RECENT)
+ - 39 stalled for 33 secs in command: 2 LIST "" *
+ - 40 stalled for 36 secs in command: 2 STATUS "INBOX" (MESSAGES UNSEEN RECENT)
+ - 42 stalled for 29 secs in command: 2 SELECT "INBOX" (CONDSTORE)
+ - 43 stalled for 24 secs in command: 2 LIST "" *
+ - 44 stalled for 29 secs in command: 2 LIST "" *
+ - 45 stalled for 22 secs in command: 2 LIST "" *
+ - 46 stalled for 18 secs in command: 2 LIST "" *
+ - 49 stalled for 30 secs in command: 2 SELECT "INBOX" (CONDSTORE)
+ - 51 stalled for 22 secs in command: 2 LIST "" *
+ - 52 stalled for 22 secs in command: 2 SELECT "INBOX" (CONDSTORE)
+ - 53 stalled for 22 secs in command: 2 LIST "" *
+ - 54 stalled for 22 secs in command: 2 STATUS "INBOX" (MESSAGES UNSEEN RECENT)
+ - 55 stalled for 22 secs in command: 2 LIST "" *
+ - 56 stalled for 18 secs in command: 2 STATUS "INBOX" (MESSAGES UNSEEN RECENT)
+ - 57 stalled for 33 secs in command: 2 SELECT "INBOX" (CONDSTORE)
+ - 58 stalled for 22 secs in command: 2 LIST "" *
+ - 59 stalled for 21 secs in command: 2 SELECT "INBOX" (CONDSTORE)
+ - 60 stalled for 22 secs in command: 2 LIST "" *
+ - 61 stalled for 18 secs in command: 2 LIST "" *
+ - 63 stalled for 18 secs in command: 2 STATUS "INBOX" (MESSAGES UNSEEN RECENT)
+ - 64 stalled for 18 secs in command: 2 LIST "" *
+ - 65 stalled for 22 secs in command: 2 LIST "" *
+ - 66 stalled for 18 secs in command: 2 SELECT "INBOX" (CONDSTORE)
+ - 67 stalled for 22 secs in command: 2 LIST "" *
+ - 68 stalled for 22 secs in command: 2 LIST "" *
+ - 70 stalled for 22 secs in command: 2 SELECT "INBOX" (CONDSTORE)
+ - 71 stalled for 30 secs in command: 2 STATUS "INBOX" (MESSAGES UNSEEN RECENT)
+ - 72 stalled for 22 secs in command: 2 LIST "" *
+ - 73 stalled for 18 secs in command: 2 SELECT "INBOX" (CONDSTORE)
+ - 74 stalled for 21 secs in command: 2 SELECT "INBOX" (CONDSTORE)
+ - 75 stalled for 22 secs in command: 2 LIST "" *
+ - 76 stalled for 20 secs in command: 2 LIST "" *
+ - 78 stalled for 21 secs in command: 2 LIST "" *
+ - 80 stalled for 21 secs in command: 2 STATUS "INBOX" (MESSAGES UNSEEN RECENT)
+ - 82 stalled for 21 secs in command: 2 LIST "" *
+ - 83 stalled for 21 secs in command: 2 SELECT "INBOX" (CONDSTORE)
+ - 84 stalled for 20 secs in command: 2 STATUS "INBOX" (MESSAGES UNSEEN RECENT)
+ - 85 stalled for 20 secs in command: 2 LIST "" *
+ - 86 stalled for 20 secs in command: 2 LIST "" *
+ - 87 stalled for 18 secs in command: 2 LIST "" *
+ - 88 stalled for 18 secs in command: 2 SELECT "INBOX" (CONDSTORE)
+ - 89 stalled for 20 secs in command: 2 LIST "" *
+ - 91 stalled for 21 secs in command: 2 LIST "" *
+ - 92 stalled for 18 secs in command: 2 SELECT "INBOX" (CONDSTORE)
+   0    0    0    0    0    0    0    0    0    3    6  90/ 90
+ - 1 stalled for 34 secs in command: 2 LIST "" *
+ - 2 stalled for 23 secs in command: 2 SELECT "INBOX" (CONDSTORE)
+ - 41 stalled for 22 secs in command: 2 LIST "" *
+ - 81 stalled for 22 secs in command: 2 LIST "" *
+ - 7 stalled for 23 secs in command: 2 LIST "" *
+ - 8 stalled for 39 secs in command: 4 APPEND "INBOX" {1495+}
+ - 10 stalled for 39 secs in command: 2 SELECT "INBOX" (CONDSTORE)
+ - 13 stalled for 36 secs in command: 2 LIST "" *
+ - 14 stalled for 22 secs in command: 2 LIST "" *
+ - 16 stalled for 39 secs in command: 2 SELECT "INBOX" (CONDSTORE)
+ - 17 stalled for 37 secs in command: 2 SELECT "INBOX" (CONDSTORE)
+ - 18 stalled for 37 secs in command: 2 LIST "" *
+ - 19 stalled for 34 secs in command: 2 STATUS "INBOX" (MESSAGES UNSEEN RECENT)
+ - 20 stalled for 37 secs in command: 2 LIST "" *
+ - 21 stalled for 37 secs in command: 2 LIST "" *
+ - 22 stalled for 37 secs in command: 2 LIST "" *
+ - 23 stalled for 36 secs in command: 2 LIST "" *
+ - 24 stalled for 34 secs in command: 2 LIST "" *
+ - 25 stalled for 37 secs in command: 2 SELECT "INBOX" (CONDSTORE)
+ - 26 stalled for 34 secs in command: 2 LIST "" *
+ - 27 stalled for 37 secs in command: 2 LIST "" *
+ - 28 stalled for 36 secs in command: 2 LIST "" *
+ - 29 stalled for 22 secs in command: 2 LIST "" *
+ - 30 stalled for 36 secs in command: 2 LIST "" *
+ - 31 stalled for 23 secs in command: 2 STATUS "INBOX" (MESSAGES UNSEEN RECENT)
+ - 32 stalled for 37 secs in command: 2 LIST "" *
+ - 33 stalled for 37 secs in command: 2 LIST "" *
+ - 34 stalled for 37 secs in command: 2 SELECT "INBOX" (CONDSTORE)
+ - 35 stalled for 37 secs in command: 2 SELECT "INBOX" (CONDSTORE)
+ - 36 stalled for 37 secs in command: 2 LIST "" *
+ - 37 stalled for 34 secs in command: 2 LIST "" *
+ - 38 stalled for 23 secs in command: 2 STATUS "INBOX" (MESSAGES UNSEEN RECENT)
+ - 39 stalled for 34 secs in command: 2 LIST "" *
+ - 40 stalled for 37 secs in command: 2 STATUS "INBOX" (MESSAGES UNSEEN RECENT)
+ - 42 stalled for 30 secs in command: 2 SELECT "INBOX" (CONDSTORE)
+ - 43 stalled for 25 secs in command: 2 LIST "" *
+ - 44 stalled for 30 secs in command: 2 LIST "" *
+ - 45 stalled for 23 secs in command: 2 LIST "" *
+ - 46 stalled for 19 secs in command: 2 LIST "" *
+ - 49 stalled for 31 secs in command: 2 SELECT "INBOX" (CONDSTORE)
+ - 51 stalled for 23 secs in command: 2 LIST "" *
+ - 52 stalled for 23 secs in command: 2 SELECT "INBOX" (CONDSTORE)
+ - 53 stalled for 23 secs in command: 2 LIST "" *
+ - 54 stalled for 23 secs in command: 2 STATUS "INBOX" (MESSAGES UNSEEN RECENT)
+ - 55 stalled for 23 secs in command: 2 LIST "" *
+ - 56 stalled for 19 secs in command: 2 STATUS "INBOX" (MESSAGES UNSEEN RECENT)
+ - 57 stalled for 34 secs in command: 2 SELECT "INBOX" (CONDSTORE)
+ - 58 stalled for 23 secs in command: 2 LIST "" *
+ - 59 stalled for 22 secs in command: 2 SELECT "INBOX" (CONDSTORE)
+ - 60 stalled for 23 secs in command: 2 LIST "" *
+ - 61 stalled for 19 secs in command: 2 LIST "" *
+ - 62 stalled for 16 secs in command: 2 STATUS "INBOX" (MESSAGES UNSEEN RECENT)
+ - 63 stalled for 19 secs in command: 2 STATUS "INBOX" (MESSAGES UNSEEN RECENT)
+ - 64 stalled for 19 secs in command: 2 LIST "" *
+ - 65 stalled for 23 secs in command: 2 LIST "" *
+ - 66 stalled for 19 secs in command: 2 SELECT "INBOX" (CONDSTORE)
+ - 67 stalled for 23 secs in command: 2 LIST "" *
+ - 68 stalled for 23 secs in command: 2 LIST "" *
+ - 70 stalled for 23 secs in command: 2 SELECT "INBOX" (CONDSTORE)
+ - 71 stalled for 31 secs in command: 2 STATUS "INBOX" (MESSAGES UNSEEN RECENT)
+ - 72 stalled for 23 secs in command: 2 LIST "" *
+ - 73 stalled for 19 secs in command: 2 SELECT "INBOX" (CONDSTORE)
+ - 74 stalled for 22 secs in command: 2 SELECT "INBOX" (CONDSTORE)
+ - 75 stalled for 23 secs in command: 2 LIST "" *
+ - 76 stalled for 21 secs in command: 2 LIST "" *
+ - 78 stalled for 22 secs in command: 2 LIST "" *
+ - 80 stalled for 22 secs in command: 2 STATUS "INBOX" (MESSAGES UNSEEN RECENT)
+ - 82 stalled for 22 secs in command: 2 LIST "" *
+ - 83 stalled for 22 secs in command: 2 SELECT "INBOX" (CONDSTORE)
+ - 84 stalled for 21 secs in command: 2 STATUS "INBOX" (MESSAGES UNSEEN RECENT)
+ - 85 stalled for 21 secs in command: 2 LIST "" *
+ - 86 stalled for 21 secs in command: 2 LIST "" *
+ - 87 stalled for 19 secs in command: 2 LIST "" *
+ - 88 stalled for 19 secs in command: 2 SELECT "INBOX" (CONDSTORE)
+ - 89 stalled for 21 secs in command: 2 LIST "" *
+ - 91 stalled for 22 secs in command: 2 LIST "" *
+ - 92 stalled for 19 secs in command: 2 SELECT "INBOX" (CONDSTORE)
+   0    0    0    0    0    0    0    0    0    0    0  90/ 90
+ - 1 stalled for 35 secs in command: 2 LIST "" *
+ - 2 stalled for 24 secs in command: 2 SELECT "INBOX" (CONDSTORE)
+ - 41 stalled for 23 secs in command: 2 LIST "" *
+ - 81 stalled for 23 secs in command: 2 LIST "" *
+ - 7 stalled for 24 secs in command: 2 LIST "" *
+ - 8 stalled for 40 secs in command: 4 APPEND "INBOX" {1495+}
+ - 10 stalled for 40 secs in command: 2 SELECT "INBOX" (CONDSTORE)
+ - 13 stalled for 37 secs in command: 2 LIST "" *
+ - 14 stalled for 23 secs in command: 2 LIST "" *
+ - 16 stalled for 40 secs in command: 2 SELECT "INBOX" (CONDSTORE)
+ - 17 stalled for 38 secs in command: 2 SELECT "INBOX" (CONDSTORE)
+ - 18 stalled for 38 secs in command: 2 LIST "" *
+ - 19 stalled for 35 secs in command: 2 STATUS "INBOX" (MESSAGES UNSEEN RECENT)
+ - 20 stalled for 38 secs in command: 2 LIST "" *
+ - 21 stalled for 38 secs in command: 2 LIST "" *
+ - 22 stalled for 38 secs in command: 2 LIST "" *
+ - 23 stalled for 37 secs in command: 2 LIST "" *
+ - 24 stalled for 35 secs in command: 2 LIST "" *
+ - 25 stalled for 38 secs in command: 2 SELECT "INBOX" (CONDSTORE)
+ - 26 stalled for 35 secs in command: 2 LIST "" *
+ - 27 stalled for 38 secs in command: 2 LIST "" *
+ - 28 stalled for 37 secs in command: 2 LIST "" *
+ - 29 stalled for 23 secs in command: 2 LIST "" *
+ - 30 stalled for 37 secs in command: 2 LIST "" *
+ - 31 stalled for 24 secs in command: 2 STATUS "INBOX" (MESSAGES UNSEEN RECENT)
+ - 32 stalled for 38 secs in command: 2 LIST "" *
+ - 33 stalled for 38 secs in command: 2 LIST "" *
+ - 34 stalled for 38 secs in command: 2 SELECT "INBOX" (CONDSTORE)
+ - 35 stalled for 38 secs in command: 2 SELECT "INBOX" (CONDSTORE)
+ - 36 stalled for 38 secs in command: 2 LIST "" *
+ - 37 stalled for 35 secs in command: 2 LIST "" *
+ - 38 stalled for 24 secs in command: 2 STATUS "INBOX" (MESSAGES UNSEEN RECENT)
+ - 39 stalled for 35 secs in command: 2 LIST "" *
+ - 40 stalled for 38 secs in command: 2 STATUS "INBOX" (MESSAGES UNSEEN RECENT)
+ - 42 stalled for 31 secs in command: 2 SELECT "INBOX" (CONDSTORE)
+ - 43 stalled for 26 secs in command: 2 LIST "" *
+ - 44 stalled for 31 secs in command: 2 LIST "" *
+ - 45 stalled for 24 secs in command: 2 LIST "" *
+ - 46 stalled for 20 secs in command: 2 LIST "" *
+ - 49 stalled for 32 secs in command: 2 SELECT "INBOX" (CONDSTORE)
+ - 51 stalled for 24 secs in command: 2 LIST "" *
+ - 52 stalled for 24 secs in command: 2 SELECT "INBOX" (CONDSTORE)
+ - 53 stalled for 24 secs in command: 2 LIST "" *
+ - 54 stalled for 24 secs in command: 2 STATUS "INBOX" (MESSAGES UNSEEN RECENT)
+ - 55 stalled for 24 secs in command: 2 LIST "" *
+ - 56 stalled for 20 secs in command: 2 STATUS "INBOX" (MESSAGES UNSEEN RECENT)
+ - 57 stalled for 35 secs in command: 2 SELECT "INBOX" (CONDSTORE)
+ - 58 stalled for 24 secs in command: 2 LIST "" *
+ - 59 stalled for 23 secs in command: 2 SELECT "INBOX" (CONDSTORE)
+ - 60 stalled for 24 secs in command: 2 LIST "" *
+ - 61 stalled for 20 secs in command: 2 LIST "" *
+ - 62 stalled for 17 secs in command: 2 STATUS "INBOX" (MESSAGES UNSEEN RECENT)
+ - 63 stalled for 20 secs in command: 2 STATUS "INBOX" (MESSAGES UNSEEN RECENT)
+ - 64 stalled for 20 secs in command: 2 LIST "" *
+ - 65 stalled for 24 secs in command: 2 LIST "" *
+ - 66 stalled for 20 secs in command: 2 SELECT "INBOX" (CONDSTORE)
+ - 67 stalled for 24 secs in command: 2 LIST "" *
+ - 68 stalled for 24 secs in command: 2 LIST "" *
+ - 70 stalled for 24 secs in command: 2 SELECT "INBOX" (CONDSTORE)
+ - 71 stalled for 32 secs in command: 2 STATUS "INBOX" (MESSAGES UNSEEN RECENT)
+ - 72 stalled for 24 secs in command: 2 LIST "" *
+ - 73 stalled for 20 secs in command: 2 SELECT "INBOX" (CONDSTORE)
+ - 74 stalled for 23 secs in command: 2 SELECT "INBOX" (CONDSTORE)
+ - 75 stalled for 24 secs in command: 2 LIST "" *
+ - 76 stalled for 22 secs in command: 2 LIST "" *
+ - 78 stalled for 23 secs in command: 2 LIST "" *
+ - 80 stalled for 23 secs in command: 2 STATUS "INBOX" (MESSAGES UNSEEN RECENT)
+ - 82 stalled for 23 secs in command: 2 LIST "" *
+ - 83 stalled for 23 secs in command: 2 SELECT "INBOX" (CONDSTORE)
+ - 84 stalled for 22 secs in command: 2 STATUS "INBOX" (MESSAGES UNSEEN RECENT)
+ - 85 stalled for 22 secs in command: 2 LIST "" *
+ - 86 stalled for 22 secs in command: 2 LIST "" *
+ - 87 stalled for 20 secs in command: 2 LIST "" *
+ - 88 stalled for 20 secs in command: 2 SELECT "INBOX" (CONDSTORE)
+ - 89 stalled for 22 secs in command: 2 LIST "" *
+ - 91 stalled for 23 secs in command: 2 LIST "" *
+ - 92 stalled for 20 secs in command: 2 SELECT "INBOX" (CONDSTORE)
 Logi List Stat Sele Fetc Fet2 Stor Dele Expu Appe Logo 
 100%  50%  50% 100% 100% 100%  50% 100% 100% 100% 100% 
                           30%                  5%      
-  25    8   15   29   24   36    2   21   31   29   58  90/ 90
-  50   19   21   46   48   71    5   39   49   55  110  90/ 90
-  58   29   24   55   57   78    7   48   66   62  122  86/ 90
-  53   25   32   51   35   48    3   37   28   38   78  90/ 90
-  34   24   16   42   42   58    4   30   37   36   72  90/ 90
-  47   31   30   49   52   87    5   34   46   47   94  90/ 90
-  79   38   37   71   76   96   14   55   88   80  160  90/ 90
-  32   29   22   46   34   48    9   32   19   29   58  90/ 90
-  46   12   18   43   45   64   12   37   47   45   90  90/ 90
-  85   40   36   81   68   90   16   58   84   92  184  90/ 90
+   0    0    0    0    0    0    0    0    0    0    0  90/ 90
+ - 1 stalled for 36 secs in command: 2 LIST "" *
+ - 2 stalled for 25 secs in command: 2 SELECT "INBOX" (CONDSTORE)
+ - 41 stalled for 24 secs in command: 2 LIST "" *
+ - 81 stalled for 24 secs in command: 2 LIST "" *
+ - 7 stalled for 25 secs in command: 2 LIST "" *
+ - 8 stalled for 41 secs in command: 4 APPEND "INBOX" {1495+}
+ - 10 stalled for 41 secs in command: 2 SELECT "INBOX" (CONDSTORE)
+ - 13 stalled for 38 secs in command: 2 LIST "" *
+ - 14 stalled for 24 secs in command: 2 LIST "" *
+ - 16 stalled for 41 secs in command: 2 SELECT "INBOX" (CONDSTORE)
+ - 17 stalled for 39 secs in command: 2 SELECT "INBOX" (CONDSTORE)
+ - 18 stalled for 39 secs in command: 2 LIST "" *
+ - 19 stalled for 36 secs in command: 2 STATUS "INBOX" (MESSAGES UNSEEN RECENT)
+ - 20 stalled for 39 secs in command: 2 LIST "" *
+ - 21 stalled for 39 secs in command: 2 LIST "" *
+ - 22 stalled for 39 secs in command: 2 LIST "" *
+ - 23 stalled for 38 secs in command: 2 LIST "" *
+ - 24 stalled for 36 secs in command: 2 LIST "" *
+ - 25 stalled for 39 secs in command: 2 SELECT "INBOX" (CONDSTORE)
+ - 26 stalled for 36 secs in command: 2 LIST "" *
+ - 27 stalled for 39 secs in command: 2 LIST "" *
+ - 28 stalled for 38 secs in command: 2 LIST "" *
+ - 29 stalled for 24 secs in command: 2 LIST "" *
+ - 30 stalled for 38 secs in command: 2 LIST "" *
+ - 31 stalled for 25 secs in command: 2 STATUS "INBOX" (MESSAGES UNSEEN RECENT)
+ - 32 stalled for 39 secs in command: 2 LIST "" *
+ - 33 stalled for 39 secs in command: 2 LIST "" *
+ - 34 stalled for 39 secs in command: 2 SELECT "INBOX" (CONDSTORE)
+ - 35 stalled for 39 secs in command: 2 SELECT "INBOX" (CONDSTORE)
+ - 36 stalled for 39 secs in command: 2 LIST "" *
+ - 37 stalled for 36 secs in command: 2 LIST "" *
+ - 38 stalled for 25 secs in command: 2 STATUS "INBOX" (MESSAGES UNSEEN RECENT)
+ - 39 stalled for 36 secs in command: 2 LIST "" *
+ - 40 stalled for 39 secs in command: 2 STATUS "INBOX" (MESSAGES UNSEEN RECENT)
+ - 42 stalled for 32 secs in command: 2 SELECT "INBOX" (CONDSTORE)
+ - 43 stalled for 27 secs in command: 2 LIST "" *
+ - 44 stalled for 32 secs in command: 2 LIST "" *
+ - 45 stalled for 25 secs in command: 2 LIST "" *
+ - 46 stalled for 21 secs in command: 2 LIST "" *
+ - 49 stalled for 33 secs in command: 2 SELECT "INBOX" (CONDSTORE)
+ - 51 stalled for 25 secs in command: 2 LIST "" *
+ - 52 stalled for 25 secs in command: 2 SELECT "INBOX" (CONDSTORE)
+ - 53 stalled for 25 secs in command: 2 LIST "" *
+ - 54 stalled for 25 secs in command: 2 STATUS "INBOX" (MESSAGES UNSEEN RECENT)
+ - 55 stalled for 25 secs in command: 2 LIST "" *
+ - 56 stalled for 21 secs in command: 2 STATUS "INBOX" (MESSAGES UNSEEN RECENT)
+ - 57 stalled for 36 secs in command: 2 SELECT "INBOX" (CONDSTORE)
+ - 58 stalled for 25 secs in command: 2 LIST "" *
+ - 59 stalled for 24 secs in command: 2 SELECT "INBOX" (CONDSTORE)
+ - 60 stalled for 25 secs in command: 2 LIST "" *
+ - 61 stalled for 21 secs in command: 2 LIST "" *
+ - 62 stalled for 18 secs in command: 2 STATUS "INBOX" (MESSAGES UNSEEN RECENT)
+ - 63 stalled for 21 secs in command: 2 STATUS "INBOX" (MESSAGES UNSEEN RECENT)
+ - 64 stalled for 21 secs in command: 2 LIST "" *
+ - 65 stalled for 25 secs in command: 2 LIST "" *
+ - 66 stalled for 21 secs in command: 2 SELECT "INBOX" (CONDSTORE)
+ - 67 stalled for 25 secs in command: 2 LIST "" *
+ - 68 stalled for 25 secs in command: 2 LIST "" *
+ - 70 stalled for 25 secs in command: 2 SELECT "INBOX" (CONDSTORE)
+ - 71 stalled for 33 secs in command: 2 STATUS "INBOX" (MESSAGES UNSEEN RECENT)
+ - 72 stalled for 25 secs in command: 2 LIST "" *
+ - 73 stalled for 21 secs in command: 2 SELECT "INBOX" (CONDSTORE)
+ - 74 stalled for 24 secs in command: 2 SELECT "INBOX" (CONDSTORE)
+ - 75 stalled for 25 secs in command: 2 LIST "" *
+ - 76 stalled for 23 secs in command: 2 LIST "" *
+ - 78 stalled for 24 secs in command: 2 LIST "" *
+ - 80 stalled for 24 secs in command: 2 STATUS "INBOX" (MESSAGES UNSEEN RECENT)
+ - 82 stalled for 24 secs in command: 2 LIST "" *
+ - 83 stalled for 24 secs in command: 2 SELECT "INBOX" (CONDSTORE)
+ - 84 stalled for 23 secs in command: 2 STATUS "INBOX" (MESSAGES UNSEEN RECENT)
+ - 85 stalled for 23 secs in command: 2 LIST "" *
+ - 86 stalled for 23 secs in command: 2 LIST "" *
+ - 87 stalled for 21 secs in command: 2 LIST "" *
+ - 88 stalled for 21 secs in command: 2 SELECT "INBOX" (CONDSTORE)
+ - 89 stalled for 23 secs in command: 2 LIST "" *
+ - 91 stalled for 24 secs in command: 2 LIST "" *
+ - 92 stalled for 21 secs in command: 2 SELECT "INBOX" (CONDSTORE)
+   0    0    0    0    0    0    0    0    0    0    0  90/ 90
+ - 1 stalled for 37 secs in command: 2 LIST "" *
+ - 2 stalled for 26 secs in command: 2 SELECT "INBOX" (CONDSTORE)
+ - 41 stalled for 25 secs in command: 2 LIST "" *
+ - 81 stalled for 25 secs in command: 2 LIST "" *
+ - 7 stalled for 26 secs in command: 2 LIST "" *
+ - 8 stalled for 42 secs in command: 4 APPEND "INBOX" {1495+}
+ - 10 stalled for 42 secs in command: 2 SELECT "INBOX" (CONDSTORE)
+ - 13 stalled for 39 secs in command: 2 LIST "" *
+ - 14 stalled for 25 secs in command: 2 LIST "" *
+ - 16 stalled for 42 secs in command: 2 SELECT "INBOX" (CONDSTORE)
+ - 17 stalled for 40 secs in command: 2 SELECT "INBOX" (CONDSTORE)
+ - 18 stalled for 40 secs in command: 2 LIST "" *
+ - 19 stalled for 37 secs in command: 2 STATUS "INBOX" (MESSAGES UNSEEN RECENT)
+ - 20 stalled for 40 secs in command: 2 LIST "" *
+ - 21 stalled for 40 secs in command: 2 LIST "" *
+ - 22 stalled for 40 secs in command: 2 LIST "" *
+ - 23 stalled for 39 secs in command: 2 LIST "" *
+ - 24 stalled for 37 secs in command: 2 LIST "" *
+ - 25 stalled for 40 secs in command: 2 SELECT "INBOX" (CONDSTORE)
+ - 26 stalled for 37 secs in command: 2 LIST "" *
+ - 27 stalled for 40 secs in command: 2 LIST "" *
+ - 28 stalled for 39 secs in command: 2 LIST "" *
+ - 29 stalled for 25 secs in command: 2 LIST "" *
+ - 30 stalled for 39 secs in command: 2 LIST "" *
+ - 31 stalled for 26 secs in command: 2 STATUS "INBOX" (MESSAGES UNSEEN RECENT)
+ - 32 stalled for 40 secs in command: 2 LIST "" *
+ - 33 stalled for 40 secs in command: 2 LIST "" *
+ - 34 stalled for 40 secs in command: 2 SELECT "INBOX" (CONDSTORE)
+ - 35 stalled for 40 secs in command: 2 SELECT "INBOX" (CONDSTORE)
+ - 36 stalled for 40 secs in command: 2 LIST "" *
+ - 37 stalled for 37 secs in command: 2 LIST "" *
+ - 38 stalled for 26 secs in command: 2 STATUS "INBOX" (MESSAGES UNSEEN RECENT)
+ - 39 stalled for 37 secs in command: 2 LIST "" *
+ - 40 stalled for 40 secs in command: 2 STATUS "INBOX" (MESSAGES UNSEEN RECENT)
+ - 42 stalled for 33 secs in command: 2 SELECT "INBOX" (CONDSTORE)
+ - 43 stalled for 28 secs in command: 2 LIST "" *
+ - 44 stalled for 33 secs in command: 2 LIST "" *
+ - 45 stalled for 26 secs in command: 2 LIST "" *
+ - 46 stalled for 22 secs in command: 2 LIST "" *
+ - 49 stalled for 34 secs in command: 2 SELECT "INBOX" (CONDSTORE)
+ - 51 stalled for 26 secs in command: 2 LIST "" *
+ - 52 stalled for 26 secs in command: 2 SELECT "INBOX" (CONDSTORE)
+ - 53 stalled for 26 secs in command: 2 LIST "" *
+ - 54 stalled for 26 secs in command: 2 STATUS "INBOX" (MESSAGES UNSEEN RECENT)
+ - 55 stalled for 26 secs in command: 2 LIST "" *
+ - 56 stalled for 22 secs in command: 2 STATUS "INBOX" (MESSAGES UNSEEN RECENT)
+ - 57 stalled for 37 secs in command: 2 SELECT "INBOX" (CONDSTORE)
+ - 58 stalled for 26 secs in command: 2 LIST "" *
+ - 59 stalled for 25 secs in command: 2 SELECT "INBOX" (CONDSTORE)
+ - 60 stalled for 26 secs in command: 2 LIST "" *
+ - 61 stalled for 22 secs in command: 2 LIST "" *
+ - 62 stalled for 19 secs in command: 2 STATUS "INBOX" (MESSAGES UNSEEN RECENT)
+ - 63 stalled for 22 secs in command: 2 STATUS "INBOX" (MESSAGES UNSEEN RECENT)
+ - 64 stalled for 22 secs in command: 2 LIST "" *
+ - 65 stalled for 26 secs in command: 2 LIST "" *
+ - 66 stalled for 22 secs in command: 2 SELECT "INBOX" (CONDSTORE)
+ - 67 stalled for 26 secs in command: 2 LIST "" *
+ - 68 stalled for 26 secs in command: 2 LIST "" *
+ - 70 stalled for 26 secs in command: 2 SELECT "INBOX" (CONDSTORE)
+ - 71 stalled for 34 secs in command: 2 STATUS "INBOX" (MESSAGES UNSEEN RECENT)
+ - 72 stalled for 26 secs in command: 2 LIST "" *
+ - 73 stalled for 22 secs in command: 2 SELECT "INBOX" (CONDSTORE)
+ - 74 stalled for 25 secs in command: 2 SELECT "INBOX" (CONDSTORE)
+ - 75 stalled for 26 secs in command: 2 LIST "" *
+ - 76 stalled for 24 secs in command: 2 LIST "" *
+ - 78 stalled for 25 secs in command: 2 LIST "" *
+ - 80 stalled for 25 secs in command: 2 STATUS "INBOX" (MESSAGES UNSEEN RECENT)
+ - 82 stalled for 25 secs in command: 2 LIST "" *
+ - 83 stalled for 25 secs in command: 2 SELECT "INBOX" (CONDSTORE)
+ - 84 stalled for 24 secs in command: 2 STATUS "INBOX" (MESSAGES UNSEEN RECENT)
+ - 85 stalled for 24 secs in command: 2 LIST "" *
+ - 86 stalled for 24 secs in command: 2 LIST "" *
+ - 87 stalled for 22 secs in command: 2 LIST "" *
+ - 88 stalled for 22 secs in command: 2 SELECT "INBOX" (CONDSTORE)
+ - 89 stalled for 24 secs in command: 2 LIST "" *
+ - 91 stalled for 25 secs in command: 2 LIST "" *
+ - 92 stalled for 22 secs in command: 2 SELECT "INBOX" (CONDSTORE)
+   2    0    0    2    0    0    0    0    0    0    0  90/ 90
+ - 1 stalled for 38 secs in command: 2 LIST "" *
+ - 2 stalled for 27 secs in command: 2 SELECT "INBOX" (CONDSTORE)
+ - 41 stalled for 26 secs in command: 2 LIST "" *
+ - 81 stalled for 26 secs in command: 2 LIST "" *
+ - 7 stalled for 27 secs in command: 2 LIST "" *
+ - 8 stalled for 43 secs in command: 4 APPEND "INBOX" {1495+}
+ - 10 stalled for 43 secs in command: 2 SELECT "INBOX" (CONDSTORE)
+ - 13 stalled for 40 secs in command: 2 LIST "" *
+ - 14 stalled for 26 secs in command: 2 LIST "" *
+ - 17 stalled for 41 secs in command: 2 SELECT "INBOX" (CONDSTORE)
+ - 18 stalled for 41 secs in command: 2 LIST "" *
+ - 19 stalled for 38 secs in command: 2 STATUS "INBOX" (MESSAGES UNSEEN RECENT)
+ - 20 stalled for 41 secs in command: 2 LIST "" *
+ - 21 stalled for 41 secs in command: 2 LIST "" *
+ - 22 stalled for 41 secs in command: 2 LIST "" *
+ - 23 stalled for 40 secs in command: 2 LIST "" *
+ - 24 stalled for 38 secs in command: 2 LIST "" *
+ - 25 stalled for 41 secs in command: 2 SELECT "INBOX" (CONDSTORE)
+ - 26 stalled for 38 secs in command: 2 LIST "" *
+ - 27 stalled for 41 secs in command: 2 LIST "" *
+ - 28 stalled for 40 secs in command: 2 LIST "" *
+ - 29 stalled for 26 secs in command: 2 LIST "" *
+ - 30 stalled for 40 secs in command: 2 LIST "" *
+ - 31 stalled for 27 secs in command: 2 STATUS "INBOX" (MESSAGES UNSEEN RECENT)
+ - 32 stalled for 41 secs in command: 2 LIST "" *
+ - 33 stalled for 41 secs in command: 2 LIST "" *
+ - 35 stalled for 41 secs in command: 2 SELECT "INBOX" (CONDSTORE)
+ - 36 stalled for 41 secs in command: 2 LIST "" *
+ - 37 stalled for 38 secs in command: 2 LIST "" *
+ - 38 stalled for 27 secs in command: 2 STATUS "INBOX" (MESSAGES UNSEEN RECENT)
+ - 39 stalled for 38 secs in command: 2 LIST "" *
+ - 40 stalled for 41 secs in command: 2 STATUS "INBOX" (MESSAGES UNSEEN RECENT)
+ - 42 stalled for 34 secs in command: 2 SELECT "INBOX" (CONDSTORE)
+ - 43 stalled for 29 secs in command: 2 LIST "" *
+ - 44 stalled for 34 secs in command: 2 LIST "" *
+ - 45 stalled for 27 secs in command: 2 LIST "" *
+ - 46 stalled for 23 secs in command: 2 LIST "" *
+ - 49 stalled for 35 secs in command: 2 SELECT "INBOX" (CONDSTORE)
+ - 51 stalled for 27 secs in command: 2 LIST "" *
+ - 52 stalled for 27 secs in command: 2 SELECT "INBOX" (CONDSTORE)
+ - 53 stalled for 27 secs in command: 2 LIST "" *
+ - 54 stalled for 27 secs in command: 2 STATUS "INBOX" (MESSAGES UNSEEN RECENT)
+ - 55 stalled for 27 secs in command: 2 LIST "" *
+ - 56 stalled for 23 secs in command: 2 STATUS "INBOX" (MESSAGES UNSEEN RECENT)
+ - 57 stalled for 38 secs in command: 2 SELECT "INBOX" (CONDSTORE)
+ - 58 stalled for 27 secs in command: 2 LIST "" *
+ - 59 stalled for 26 secs in command: 2 SELECT "INBOX" (CONDSTORE)
+ - 60 stalled for 27 secs in command: 2 LIST "" *
+ - 61 stalled for 23 secs in command: 2 LIST "" *
+ - 62 stalled for 20 secs in command: 2 STATUS "INBOX" (MESSAGES UNSEEN RECENT)
+ - 63 stalled for 23 secs in command: 2 STATUS "INBOX" (MESSAGES UNSEEN RECENT)
+ - 64 stalled for 23 secs in command: 2 LIST "" *
+ - 65 stalled for 27 secs in command: 2 LIST "" *
+ - 66 stalled for 23 secs in command: 2 SELECT "INBOX" (CONDSTORE)
+ - 67 stalled for 27 secs in command: 2 LIST "" *
+ - 68 stalled for 27 secs in command: 2 LIST "" *
+ - 70 stalled for 27 secs in command: 2 SELECT "INBOX" (CONDSTORE)
+ - 71 stalled for 35 secs in command: 2 STATUS "INBOX" (MESSAGES UNSEEN RECENT)
+ - 72 stalled for 27 secs in command: 2 LIST "" *
+ - 73 stalled for 23 secs in command: 2 SELECT "INBOX" (CONDSTORE)
+ - 74 stalled for 26 secs in command: 2 SELECT "INBOX" (CONDSTORE)
+ - 75 stalled for 27 secs in command: 2 LIST "" *
+ - 76 stalled for 25 secs in command: 2 LIST "" *
+ - 78 stalled for 26 secs in command: 2 LIST "" *
+ - 80 stalled for 26 secs in command: 2 STATUS "INBOX" (MESSAGES UNSEEN RECENT)
+ - 82 stalled for 26 secs in command: 2 LIST "" *
+ - 83 stalled for 26 secs in command: 2 SELECT "INBOX" (CONDSTORE)
+ - 84 stalled for 25 secs in command: 2 STATUS "INBOX" (MESSAGES UNSEEN RECENT)
+ - 85 stalled for 25 secs in command: 2 LIST "" *
+ - 86 stalled for 25 secs in command: 2 LIST "" *
+ - 87 stalled for 23 secs in command: 2 LIST "" *
+ - 88 stalled for 23 secs in command: 2 SELECT "INBOX" (CONDSTORE)
+ - 89 stalled for 25 secs in command: 2 LIST "" *
+ - 91 stalled for 26 secs in command: 2 LIST "" *
+ - 92 stalled for 23 secs in command: 2 SELECT "INBOX" (CONDSTORE)
+   0    0    0    0    0    0    0    0    0    0    0  90/ 90
+ - 1 stalled for 39 secs in command: 2 LIST "" *
+ - 2 stalled for 28 secs in command: 2 SELECT "INBOX" (CONDSTORE)
+ - 41 stalled for 27 secs in command: 2 LIST "" *
+ - 81 stalled for 27 secs in command: 2 LIST "" *
+ - 7 stalled for 28 secs in command: 2 LIST "" *
+ - 8 stalled for 44 secs in command: 4 APPEND "INBOX" {1495+}
+ - 10 stalled for 44 secs in command: 2 SELECT "INBOX" (CONDSTORE)
+ - 13 stalled for 41 secs in command: 2 LIST "" *
+ - 14 stalled for 27 secs in command: 2 LIST "" *
+ - 17 stalled for 42 secs in command: 2 SELECT "INBOX" (CONDSTORE)
+ - 18 stalled for 42 secs in command: 2 LIST "" *
+ - 19 stalled for 39 secs in command: 2 STATUS "INBOX" (MESSAGES UNSEEN RECENT)
+ - 20 stalled for 42 secs in command: 2 LIST "" *
+ - 21 stalled for 42 secs in command: 2 LIST "" *
+ - 22 stalled for 42 secs in command: 2 LIST "" *
+ - 23 stalled for 41 secs in command: 2 LIST "" *
+ - 24 stalled for 39 secs in command: 2 LIST "" *
+ - 25 stalled for 42 secs in command: 2 SELECT "INBOX" (CONDSTORE)
+ - 26 stalled for 39 secs in command: 2 LIST "" *
+ - 27 stalled for 42 secs in command: 2 LIST "" *
+ - 28 stalled for 41 secs in command: 2 LIST "" *
+ - 29 stalled for 27 secs in command: 2 LIST "" *
+ - 30 stalled for 41 secs in command: 2 LIST "" *
+ - 31 stalled for 28 secs in command: 2 STATUS "INBOX" (MESSAGES UNSEEN RECENT)
+ - 32 stalled for 42 secs in command: 2 LIST "" *
+ - 33 stalled for 42 secs in command: 2 LIST "" *
+ - 35 stalled for 42 secs in command: 2 SELECT "INBOX" (CONDSTORE)
+ - 36 stalled for 42 secs in command: 2 LIST "" *
+ - 37 stalled for 39 secs in command: 2 LIST "" *
+ - 38 stalled for 28 secs in command: 2 STATUS "INBOX" (MESSAGES UNSEEN RECENT)
+ - 39 stalled for 39 secs in command: 2 LIST "" *
+ - 40 stalled for 42 secs in command: 2 STATUS "INBOX" (MESSAGES UNSEEN RECENT)
+ - 42 stalled for 35 secs in command: 2 SELECT "INBOX" (CONDSTORE)
+ - 43 stalled for 30 secs in command: 2 LIST "" *
+ - 44 stalled for 35 secs in command: 2 LIST "" *
+ - 45 stalled for 28 secs in command: 2 LIST "" *
+ - 46 stalled for 24 secs in command: 2 LIST "" *
+ - 47 stalled for 16 secs in command: 2 LIST "" *
+ - 48 stalled for 16 secs in command: 2 STATUS "INBOX" (MESSAGES UNSEEN RECENT)
+ - 49 stalled for 36 secs in command: 2 SELECT "INBOX" (CONDSTORE)
+ - 50 stalled for 16 secs in command: 2 LIST "" *
+ - 51 stalled for 28 secs in command: 2 LIST "" *
+ - 52 stalled for 28 secs in command: 2 SELECT "INBOX" (CONDSTORE)
+ - 53 stalled for 28 secs in command: 2 LIST "" *
+ - 54 stalled for 28 secs in command: 2 STATUS "INBOX" (MESSAGES UNSEEN RECENT)
+ - 55 stalled for 28 secs in command: 2 LIST "" *
+ - 56 stalled for 24 secs in command: 2 STATUS "INBOX" (MESSAGES UNSEEN RECENT)
+ - 57 stalled for 39 secs in command: 2 SELECT "INBOX" (CONDSTORE)
+ - 58 stalled for 28 secs in command: 2 LIST "" *
+ - 59 stalled for 27 secs in command: 2 SELECT "INBOX" (CONDSTORE)
+ - 60 stalled for 28 secs in command: 2 LIST "" *
+ - 61 stalled for 24 secs in command: 2 LIST "" *
+ - 62 stalled for 21 secs in command: 2 STATUS "INBOX" (MESSAGES UNSEEN RECENT)
+ - 63 stalled for 24 secs in command: 2 STATUS "INBOX" (MESSAGES UNSEEN RECENT)
+ - 64 stalled for 24 secs in command: 2 LIST "" *
+ - 65 stalled for 28 secs in command: 2 LIST "" *
+ - 66 stalled for 24 secs in command: 2 SELECT "INBOX" (CONDSTORE)
+ - 67 stalled for 28 secs in command: 2 LIST "" *
+ - 68 stalled for 28 secs in command: 2 LIST "" *
+ - 69 stalled for 16 secs in command: 2 SELECT "INBOX" (CONDSTORE)
+ - 70 stalled for 28 secs in command: 2 SELECT "INBOX" (CONDSTORE)
+ - 71 stalled for 36 secs in command: 2 STATUS "INBOX" (MESSAGES UNSEEN RECENT)
+ - 72 stalled for 28 secs in command: 2 LIST "" *
+ - 73 stalled for 24 secs in command: 2 SELECT "INBOX" (CONDSTORE)
+ - 74 stalled for 27 secs in command: 2 SELECT "INBOX" (CONDSTORE)
+ - 75 stalled for 28 secs in command: 2 LIST "" *
+ - 76 stalled for 26 secs in command: 2 LIST "" *
+ - 77 stalled for 16 secs in command: 2 LIST "" *
+ - 78 stalled for 27 secs in command: 2 LIST "" *
+ - 79 stalled for 16 secs in command: 2 SELECT "INBOX" (CONDSTORE)
+ - 80 stalled for 27 secs in command: 2 STATUS "INBOX" (MESSAGES UNSEEN RECENT)
+ - 82 stalled for 27 secs in command: 2 LIST "" *
+ - 83 stalled for 27 secs in command: 2 SELECT "INBOX" (CONDSTORE)
+ - 84 stalled for 26 secs in command: 2 STATUS "INBOX" (MESSAGES UNSEEN RECENT)
+ - 85 stalled for 26 secs in command: 2 LIST "" *
+ - 86 stalled for 26 secs in command: 2 LIST "" *
+ - 87 stalled for 24 secs in command: 2 LIST "" *
+ - 88 stalled for 24 secs in command: 2 SELECT "INBOX" (CONDSTORE)
+ - 89 stalled for 26 secs in command: 2 LIST "" *
+ - 90 stalled for 16 secs in command: 2 SELECT "INBOX" (CONDSTORE)
+ - 91 stalled for 27 secs in command: 2 LIST "" *
+ - 92 stalled for 24 secs in command: 2 SELECT "INBOX" (CONDSTORE)
+   0    0    0    0    0    0    0    0    0    0    0  90/ 90
+ - 1 stalled for 40 secs in command: 2 LIST "" *
+ - 2 stalled for 29 secs in command: 2 SELECT "INBOX" (CONDSTORE)
+ - 41 stalled for 28 secs in command: 2 LIST "" *
+ - 81 stalled for 28 secs in command: 2 LIST "" *
+ - 7 stalled for 29 secs in command: 2 LIST "" *
+ - 8 stalled for 45 secs in command: 4 APPEND "INBOX" {1495+}
+ - 93 stalled for 16 secs in command: 2 SELECT "INBOX" (CONDSTORE)
+ - 10 stalled for 45 secs in command: 2 SELECT "INBOX" (CONDSTORE)
+ - 13 stalled for 42 secs in command: 2 LIST "" *
+ - 14 stalled for 28 secs in command: 2 LIST "" *
+ - 15 stalled for 16 secs in command: 4 APPEND "INBOX" {1514+}
+ - 17 stalled for 43 secs in command: 2 SELECT "INBOX" (CONDSTORE)
+ - 18 stalled for 43 secs in command: 2 LIST "" *
+ - 19 stalled for 40 secs in command: 2 STATUS "INBOX" (MESSAGES UNSEEN RECENT)
+ - 20 stalled for 43 secs in command: 2 LIST "" *
+ - 21 stalled for 43 secs in command: 2 LIST "" *
+ - 22 stalled for 43 secs in command: 2 LIST "" *
+ - 23 stalled for 42 secs in command: 2 LIST "" *
+ - 24 stalled for 40 secs in command: 2 LIST "" *
+ - 25 stalled for 43 secs in command: 2 SELECT "INBOX" (CONDSTORE)
+ - 26 stalled for 40 secs in command: 2 LIST "" *
+ - 27 stalled for 43 secs in command: 2 LIST "" *
+ - 28 stalled for 42 secs in command: 2 LIST "" *
+ - 29 stalled for 28 secs in command: 2 LIST "" *
+ - 30 stalled for 42 secs in command: 2 LIST "" *
+ - 31 stalled for 29 secs in command: 2 STATUS "INBOX" (MESSAGES UNSEEN RECENT)
+ - 32 stalled for 43 secs in command: 2 LIST "" *
+ - 33 stalled for 43 secs in command: 2 LIST "" *
+ - 35 stalled for 43 secs in command: 2 SELECT "INBOX" (CONDSTORE)
+ - 36 stalled for 43 secs in command: 2 LIST "" *
+ - 37 stalled for 40 secs in command: 2 LIST "" *
+ - 38 stalled for 29 secs in command: 2 STATUS "INBOX" (MESSAGES UNSEEN RECENT)
+ - 39 stalled for 40 secs in command: 2 LIST "" *
+ - 40 stalled for 43 secs in command: 2 STATUS "INBOX" (MESSAGES UNSEEN RECENT)
+ - 42 stalled for 36 secs in command: 2 SELECT "INBOX" (CONDSTORE)
+ - 43 stalled for 31 secs in command: 2 LIST "" *
+ - 44 stalled for 36 secs in command: 2 LIST "" *
+ - 45 stalled for 29 secs in command: 2 LIST "" *
+ - 46 stalled for 25 secs in command: 2 LIST "" *
+ - 47 stalled for 17 secs in command: 2 LIST "" *
+ - 48 stalled for 17 secs in command: 2 STATUS "INBOX" (MESSAGES UNSEEN RECENT)
+ - 49 stalled for 37 secs in command: 2 SELECT "INBOX" (CONDSTORE)
+ - 50 stalled for 17 secs in command: 2 LIST "" *
+ - 51 stalled for 29 secs in command: 2 LIST "" *
+ - 52 stalled for 29 secs in command: 2 SELECT "INBOX" (CONDSTORE)
+ - 53 stalled for 29 secs in command: 2 LIST "" *
+ - 54 stalled for 29 secs in command: 2 STATUS "INBOX" (MESSAGES UNSEEN RECENT)
+ - 55 stalled for 29 secs in command: 2 LIST "" *
+ - 56 stalled for 25 secs in command: 2 STATUS "INBOX" (MESSAGES UNSEEN RECENT)
+ - 57 stalled for 40 secs in command: 2 SELECT "INBOX" (CONDSTORE)
+ - 58 stalled for 29 secs in command: 2 LIST "" *
+ - 59 stalled for 28 secs in command: 2 SELECT "INBOX" (CONDSTORE)
+ - 60 stalled for 29 secs in command: 2 LIST "" *
+ - 61 stalled for 25 secs in command: 2 LIST "" *
+ - 62 stalled for 22 secs in command: 2 STATUS "INBOX" (MESSAGES UNSEEN RECENT)
+ - 63 stalled for 25 secs in command: 2 STATUS "INBOX" (MESSAGES UNSEEN RECENT)
+ - 64 stalled for 25 secs in command: 2 LIST "" *
+ - 65 stalled for 29 secs in command: 2 LIST "" *
+ - 66 stalled for 25 secs in command: 2 SELECT "INBOX" (CONDSTORE)
+ - 67 stalled for 29 secs in command: 2 LIST "" *
+ - 68 stalled for 29 secs in command: 2 LIST "" *
+ - 69 stalled for 17 secs in command: 2 SELECT "INBOX" (CONDSTORE)
+ - 70 stalled for 29 secs in command: 2 SELECT "INBOX" (CONDSTORE)
+ - 71 stalled for 37 secs in command: 2 STATUS "INBOX" (MESSAGES UNSEEN RECENT)
+ - 72 stalled for 29 secs in command: 2 LIST "" *
+ - 73 stalled for 25 secs in command: 2 SELECT "INBOX" (CONDSTORE)
+ - 74 stalled for 28 secs in command: 2 SELECT "INBOX" (CONDSTORE)
+ - 75 stalled for 29 secs in command: 2 LIST "" *
+ - 76 stalled for 27 secs in command: 2 LIST "" *
+ - 77 stalled for 17 secs in command: 2 LIST "" *
+ - 78 stalled for 28 secs in command: 2 LIST "" *
+ - 79 stalled for 17 secs in command: 2 SELECT "INBOX" (CONDSTORE)
+ - 80 stalled for 28 secs in command: 2 STATUS "INBOX" (MESSAGES UNSEEN RECENT)
+ - 82 stalled for 28 secs in command: 2 LIST "" *
+ - 83 stalled for 28 secs in command: 2 SELECT "INBOX" (CONDSTORE)
+ - 84 stalled for 27 secs in command: 2 STATUS "INBOX" (MESSAGES UNSEEN RECENT)
+ - 85 stalled for 27 secs in command: 2 LIST "" *
+ - 86 stalled for 27 secs in command: 2 LIST "" *
+ - 87 stalled for 25 secs in command: 2 LIST "" *
+ - 88 stalled for 25 secs in command: 2 SELECT "INBOX" (CONDSTORE)
+ - 89 stalled for 27 secs in command: 2 LIST "" *
+ - 90 stalled for 17 secs in command: 2 SELECT "INBOX" (CONDSTORE)
+ - 91 stalled for 28 secs in command: 2 LIST "" *
+ - 92 stalled for 25 secs in command: 2 SELECT "INBOX" (CONDSTORE)
+   0    0    0    0    0    0    0    0    0    0    0  90/ 90
+ - 1 stalled for 41 secs in command: 2 LIST "" *
+ - 2 stalled for 30 secs in command: 2 SELECT "INBOX" (CONDSTORE)
+ - 41 stalled for 29 secs in command: 2 LIST "" *
+ - 81 stalled for 29 secs in command: 2 LIST "" *
+ - 7 stalled for 30 secs in command: 2 LIST "" *
+ - 8 stalled for 46 secs in command: 4 APPEND "INBOX" {1495+}
+ - 93 stalled for 17 secs in command: 2 SELECT "INBOX" (CONDSTORE)
+ - 10 stalled for 46 secs in command: 2 SELECT "INBOX" (CONDSTORE)
+ - 13 stalled for 43 secs in command: 2 LIST "" *
+ - 14 stalled for 29 secs in command: 2 LIST "" *
+ - 15 stalled for 17 secs in command: 4 APPEND "INBOX" {1514+}
+ - 17 stalled for 44 secs in command: 2 SELECT "INBOX" (CONDSTORE)
+ - 18 stalled for 44 secs in command: 2 LIST "" *
+ - 19 stalled for 41 secs in command: 2 STATUS "INBOX" (MESSAGES UNSEEN RECENT)
+ - 20 stalled for 44 secs in command: 2 LIST "" *
+ - 21 stalled for 44 secs in command: 2 LIST "" *
+ - 22 stalled for 44 secs in command: 2 LIST "" *
+ - 23 stalled for 43 secs in command: 2 LIST "" *
+ - 24 stalled for 41 secs in command: 2 LIST "" *
+ - 25 stalled for 44 secs in command: 2 SELECT "INBOX" (CONDSTORE)
+ - 26 stalled for 41 secs in command: 2 LIST "" *
+ - 27 stalled for 44 secs in command: 2 LIST "" *
+ - 28 stalled for 43 secs in command: 2 LIST "" *
+ - 29 stalled for 29 secs in command: 2 LIST "" *
+ - 30 stalled for 43 secs in command: 2 LIST "" *
+ - 31 stalled for 30 secs in command: 2 STATUS "INBOX" (MESSAGES UNSEEN RECENT)
+ - 32 stalled for 44 secs in command: 2 LIST "" *
+ - 33 stalled for 44 secs in command: 2 LIST "" *
+ - 35 stalled for 44 secs in command: 2 SELECT "INBOX" (CONDSTORE)
+ - 36 stalled for 44 secs in command: 2 LIST "" *
+ - 37 stalled for 41 secs in command: 2 LIST "" *
+ - 38 stalled for 30 secs in command: 2 STATUS "INBOX" (MESSAGES UNSEEN RECENT)
+ - 39 stalled for 41 secs in command: 2 LIST "" *
+ - 40 stalled for 44 secs in command: 2 STATUS "INBOX" (MESSAGES UNSEEN RECENT)
+ - 42 stalled for 37 secs in command: 2 SELECT "INBOX" (CONDSTORE)
+ - 43 stalled for 32 secs in command: 2 LIST "" *
+ - 44 stalled for 37 secs in command: 2 LIST "" *
+ - 45 stalled for 30 secs in command: 2 LIST "" *
+ - 46 stalled for 26 secs in command: 2 LIST "" *
+ - 47 stalled for 18 secs in command: 2 LIST "" *
+ - 48 stalled for 18 secs in command: 2 STATUS "INBOX" (MESSAGES UNSEEN RECENT)
+ - 49 stalled for 38 secs in command: 2 SELECT "INBOX" (CONDSTORE)
+ - 50 stalled for 18 secs in command: 2 LIST "" *
+ - 51 stalled for 30 secs in command: 2 LIST "" *
+ - 52 stalled for 30 secs in command: 2 SELECT "INBOX" (CONDSTORE)
+ - 53 stalled for 30 secs in command: 2 LIST "" *
+ - 54 stalled for 30 secs in command: 2 STATUS "INBOX" (MESSAGES UNSEEN RECENT)
+ - 55 stalled for 30 secs in command: 2 LIST "" *
+ - 56 stalled for 26 secs in command: 2 STATUS "INBOX" (MESSAGES UNSEEN RECENT)
+ - 57 stalled for 41 secs in command: 2 SELECT "INBOX" (CONDSTORE)
+ - 58 stalled for 30 secs in command: 2 LIST "" *
+ - 59 stalled for 29 secs in command: 2 SELECT "INBOX" (CONDSTORE)
+ - 60 stalled for 30 secs in command: 2 LIST "" *
+ - 61 stalled for 26 secs in command: 2 LIST "" *
+ - 62 stalled for 23 secs in command: 2 STATUS "INBOX" (MESSAGES UNSEEN RECENT)
+ - 63 stalled for 26 secs in command: 2 STATUS "INBOX" (MESSAGES UNSEEN RECENT)
+ - 64 stalled for 26 secs in command: 2 LIST "" *
+ - 65 stalled for 30 secs in command: 2 LIST "" *
+ - 66 stalled for 26 secs in command: 2 SELECT "INBOX" (CONDSTORE)
+ - 67 stalled for 30 secs in command: 2 LIST "" *
+ - 68 stalled for 30 secs in command: 2 LIST "" *
+ - 69 stalled for 18 secs in command: 2 SELECT "INBOX" (CONDSTORE)
+ - 70 stalled for 30 secs in command: 2 SELECT "INBOX" (CONDSTORE)
+ - 71 stalled for 38 secs in command: 2 STATUS "INBOX" (MESSAGES UNSEEN RECENT)
+ - 72 stalled for 30 secs in command: 2 LIST "" *
+ - 73 stalled for 26 secs in command: 2 SELECT "INBOX" (CONDSTORE)
+ - 74 stalled for 29 secs in command: 2 SELECT "INBOX" (CONDSTORE)
+ - 75 stalled for 30 secs in command: 2 LIST "" *
+ - 76 stalled for 28 secs in command: 2 LIST "" *
+ - 77 stalled for 18 secs in command: 2 LIST "" *
+ - 78 stalled for 29 secs in command: 2 LIST "" *
+ - 79 stalled for 18 secs in command: 2 SELECT "INBOX" (CONDSTORE)
+ - 80 stalled for 29 secs in command: 2 STATUS "INBOX" (MESSAGES UNSEEN RECENT)
+ - 82 stalled for 29 secs in command: 2 LIST "" *
+ - 83 stalled for 29 secs in command: 2 SELECT "INBOX" (CONDSTORE)
+ - 84 stalled for 28 secs in command: 2 STATUS "INBOX" (MESSAGES UNSEEN RECENT)
+ - 85 stalled for 28 secs in command: 2 LIST "" *
+ - 86 stalled for 28 secs in command: 2 LIST "" *
+ - 87 stalled for 26 secs in command: 2 LIST "" *
+ - 88 stalled for 26 secs in command: 2 SELECT "INBOX" (CONDSTORE)
+ - 89 stalled for 28 secs in command: 2 LIST "" *
+ - 90 stalled for 18 secs in command: 2 SELECT "INBOX" (CONDSTORE)
+ - 91 stalled for 29 secs in command: 2 LIST "" *
+ - 92 stalled for 26 secs in command: 2 SELECT "INBOX" (CONDSTORE)
+   0    0    0    0    0    0    0    0    0    0    0  90/ 90
+ - 1 stalled for 42 secs in command: 2 LIST "" *
+ - 2 stalled for 31 secs in command: 2 SELECT "INBOX" (CONDSTORE)
+ - 41 stalled for 30 secs in command: 2 LIST "" *
+ - 81 stalled for 30 secs in command: 2 LIST "" *
+ - 7 stalled for 31 secs in command: 2 LIST "" *
+ - 8 stalled for 47 secs in command: 4 APPEND "INBOX" {1495+}
+ - 93 stalled for 18 secs in command: 2 SELECT "INBOX" (CONDSTORE)
+ - 10 stalled for 47 secs in command: 2 SELECT "INBOX" (CONDSTORE)
+ - 13 stalled for 44 secs in command: 2 LIST "" *
+ - 14 stalled for 30 secs in command: 2 LIST "" *
+ - 15 stalled for 18 secs in command: 4 APPEND "INBOX" {1514+}
+ - 17 stalled for 45 secs in command: 2 SELECT "INBOX" (CONDSTORE)
+ - 18 stalled for 45 secs in command: 2 LIST "" *
+ - 19 stalled for 42 secs in command: 2 STATUS "INBOX" (MESSAGES UNSEEN RECENT)
+ - 20 stalled for 45 secs in command: 2 LIST "" *
+ - 21 stalled for 45 secs in command: 2 LIST "" *
+ - 22 stalled for 45 secs in command: 2 LIST "" *
+ - 23 stalled for 44 secs in command: 2 LIST "" *
+ - 24 stalled for 42 secs in command: 2 LIST "" *
+ - 25 stalled for 45 secs in command: 2 SELECT "INBOX" (CONDSTORE)
+ - 26 stalled for 42 secs in command: 2 LIST "" *
+ - 27 stalled for 45 secs in command: 2 LIST "" *
+ - 28 stalled for 44 secs in command: 2 LIST "" *
+ - 29 stalled for 30 secs in command: 2 LIST "" *
+ - 30 stalled for 44 secs in command: 2 LIST "" *
+ - 31 stalled for 31 secs in command: 2 STATUS "INBOX" (MESSAGES UNSEEN RECENT)
+ - 32 stalled for 45 secs in command: 2 LIST "" *
+ - 33 stalled for 45 secs in command: 2 LIST "" *
+ - 35 stalled for 45 secs in command: 2 SELECT "INBOX" (CONDSTORE)
+ - 36 stalled for 45 secs in command: 2 LIST "" *
+ - 37 stalled for 42 secs in command: 2 LIST "" *
+ - 38 stalled for 31 secs in command: 2 STATUS "INBOX" (MESSAGES UNSEEN RECENT)
+ - 39 stalled for 42 secs in command: 2 LIST "" *
+ - 40 stalled for 45 secs in command: 2 STATUS "INBOX" (MESSAGES UNSEEN RECENT)
+ - 42 stalled for 38 secs in command: 2 SELECT "INBOX" (CONDSTORE)
+ - 43 stalled for 33 secs in command: 2 LIST "" *
+ - 44 stalled for 38 secs in command: 2 LIST "" *
+ - 45 stalled for 31 secs in command: 2 LIST "" *
+ - 46 stalled for 27 secs in command: 2 LIST "" *
+ - 47 stalled for 19 secs in command: 2 LIST "" *
+ - 48 stalled for 19 secs in command: 2 STATUS "INBOX" (MESSAGES UNSEEN RECENT)
+ - 49 stalled for 39 secs in command: 2 SELECT "INBOX" (CONDSTORE)
+ - 50 stalled for 19 secs in command: 2 LIST "" *
+ - 51 stalled for 31 secs in command: 2 LIST "" *
+ - 52 stalled for 31 secs in command: 2 SELECT "INBOX" (CONDSTORE)
+ - 53 stalled for 31 secs in command: 2 LIST "" *
+ - 54 stalled for 31 secs in command: 2 STATUS "INBOX" (MESSAGES UNSEEN RECENT)
+ - 55 stalled for 31 secs in command: 2 LIST "" *
+ - 56 stalled for 27 secs in command: 2 STATUS "INBOX" (MESSAGES UNSEEN RECENT)
+ - 57 stalled for 42 secs in command: 2 SELECT "INBOX" (CONDSTORE)
+ - 58 stalled for 31 secs in command: 2 LIST "" *
+ - 59 stalled for 30 secs in command: 2 SELECT "INBOX" (CONDSTORE)
+ - 60 stalled for 31 secs in command: 2 LIST "" *
+ - 61 stalled for 27 secs in command: 2 LIST "" *
+ - 62 stalled for 24 secs in command: 2 STATUS "INBOX" (MESSAGES UNSEEN RECENT)
+ - 63 stalled for 27 secs in command: 2 STATUS "INBOX" (MESSAGES UNSEEN RECENT)
+ - 64 stalled for 27 secs in command: 2 LIST "" *
+ - 65 stalled for 31 secs in command: 2 LIST "" *
+ - 66 stalled for 27 secs in command: 2 SELECT "INBOX" (CONDSTORE)
+ - 67 stalled for 31 secs in command: 2 LIST "" *
+ - 68 stalled for 31 secs in command: 2 LIST "" *
+ - 69 stalled for 19 secs in command: 2 SELECT "INBOX" (CONDSTORE)
+ - 70 stalled for 31 secs in command: 2 SELECT "INBOX" (CONDSTORE)
+ - 71 stalled for 39 secs in command: 2 STATUS "INBOX" (MESSAGES UNSEEN RECENT)
+ - 72 stalled for 31 secs in command: 2 LIST "" *
+ - 73 stalled for 27 secs in command: 2 SELECT "INBOX" (CONDSTORE)
+ - 74 stalled for 30 secs in command: 2 SELECT "INBOX" (CONDSTORE)
+ - 75 stalled for 31 secs in command: 2 LIST "" *
+ - 76 stalled for 29 secs in command: 2 LIST "" *
+ - 77 stalled for 19 secs in command: 2 LIST "" *
+ - 78 stalled for 30 secs in command: 2 LIST "" *
+ - 79 stalled for 19 secs in command: 2 SELECT "INBOX" (CONDSTORE)
+ - 80 stalled for 30 secs in command: 2 STATUS "INBOX" (MESSAGES UNSEEN RECENT)
+ - 82 stalled for 30 secs in command: 2 LIST "" *
+ - 83 stalled for 30 secs in command: 2 SELECT "INBOX" (CONDSTORE)
+ - 84 stalled for 29 secs in command: 2 STATUS "INBOX" (MESSAGES UNSEEN RECENT)
+ - 85 stalled for 29 secs in command: 2 LIST "" *
+ - 86 stalled for 29 secs in command: 2 LIST "" *
+ - 87 stalled for 27 secs in command: 2 LIST "" *
+ - 88 stalled for 27 secs in command: 2 SELECT "INBOX" (CONDSTORE)
+ - 89 stalled for 29 secs in command: 2 LIST "" *
+ - 90 stalled for 19 secs in command: 2 SELECT "INBOX" (CONDSTORE)
+ - 91 stalled for 30 secs in command: 2 LIST "" *
+ - 92 stalled for 27 secs in command: 2 SELECT "INBOX" (CONDSTORE)
+   0    0    0    0    0    0    0    0    0    0    0  90/ 90
+ - 1 stalled for 43 secs in command: 2 LIST "" *
+ - 2 stalled for 32 secs in command: 2 SELECT "INBOX" (CONDSTORE)
+ - 41 stalled for 31 secs in command: 2 LIST "" *
+ - 81 stalled for 31 secs in command: 2 LIST "" *
+ - 7 stalled for 32 secs in command: 2 LIST "" *
+ - 8 stalled for 48 secs in command: 4 APPEND "INBOX" {1495+}
+ - 93 stalled for 19 secs in command: 2 SELECT "INBOX" (CONDSTORE)
+ - 10 stalled for 48 secs in command: 2 SELECT "INBOX" (CONDSTORE)
+ - 13 stalled for 45 secs in command: 2 LIST "" *
+ - 14 stalled for 31 secs in command: 2 LIST "" *
+ - 15 stalled for 19 secs in command: 4 APPEND "INBOX" {1514+}
+ - 17 stalled for 46 secs in command: 2 SELECT "INBOX" (CONDSTORE)
+ - 18 stalled for 46 secs in command: 2 LIST "" *
+ - 19 stalled for 43 secs in command: 2 STATUS "INBOX" (MESSAGES UNSEEN RECENT)
+ - 20 stalled for 46 secs in command: 2 LIST "" *
+ - 21 stalled for 46 secs in command: 2 LIST "" *
+ - 22 stalled for 46 secs in command: 2 LIST "" *
+ - 23 stalled for 45 secs in command: 2 LIST "" *
+ - 24 stalled for 43 secs in command: 2 LIST "" *
+ - 25 stalled for 46 secs in command: 2 SELECT "INBOX" (CONDSTORE)
+ - 26 stalled for 43 secs in command: 2 LIST "" *
+ - 27 stalled for 46 secs in command: 2 LIST "" *
+ - 28 stalled for 45 secs in command: 2 LIST "" *
+ - 29 stalled for 31 secs in command: 2 LIST "" *
+ - 30 stalled for 45 secs in command: 2 LIST "" *
+ - 31 stalled for 32 secs in command: 2 STATUS "INBOX" (MESSAGES UNSEEN RECENT)
+ - 32 stalled for 46 secs in command: 2 LIST "" *
+ - 33 stalled for 46 secs in command: 2 LIST "" *
+ - 35 stalled for 46 secs in command: 2 SELECT "INBOX" (CONDSTORE)
+ - 36 stalled for 46 secs in command: 2 LIST "" *
+ - 37 stalled for 43 secs in command: 2 LIST "" *
+ - 38 stalled for 32 secs in command: 2 STATUS "INBOX" (MESSAGES UNSEEN RECENT)
+ - 39 stalled for 43 secs in command: 2 LIST "" *
+ - 40 stalled for 46 secs in command: 2 STATUS "INBOX" (MESSAGES UNSEEN RECENT)
+ - 42 stalled for 39 secs in command: 2 SELECT "INBOX" (CONDSTORE)
+ - 43 stalled for 34 secs in command: 2 LIST "" *
+ - 44 stalled for 39 secs in command: 2 LIST "" *
+ - 45 stalled for 32 secs in command: 2 LIST "" *
+ - 46 stalled for 28 secs in command: 2 LIST "" *
+ - 47 stalled for 20 secs in command: 2 LIST "" *
+ - 48 stalled for 20 secs in command: 2 STATUS "INBOX" (MESSAGES UNSEEN RECENT)
+ - 49 stalled for 40 secs in command: 2 SELECT "INBOX" (CONDSTORE)
+ - 50 stalled for 20 secs in command: 2 LIST "" *
+ - 51 stalled for 32 secs in command: 2 LIST "" *
+ - 52 stalled for 32 secs in command: 2 SELECT "INBOX" (CONDSTORE)
+ - 53 stalled for 32 secs in command: 2 LIST "" *
+ - 54 stalled for 32 secs in command: 2 STATUS "INBOX" (MESSAGES UNSEEN RECENT)
+ - 55 stalled for 32 secs in command: 2 LIST "" *
+ - 56 stalled for 28 secs in command: 2 STATUS "INBOX" (MESSAGES UNSEEN RECENT)
+ - 57 stalled for 43 secs in command: 2 SELECT "INBOX" (CONDSTORE)
+ - 58 stalled for 32 secs in command: 2 LIST "" *
+ - 59 stalled for 31 secs in command: 2 SELECT "INBOX" (CONDSTORE)
+ - 60 stalled for 32 secs in command: 2 LIST "" *
+ - 61 stalled for 28 secs in command: 2 LIST "" *
+ - 62 stalled for 25 secs in command: 2 STATUS "INBOX" (MESSAGES UNSEEN RECENT)
+ - 63 stalled for 28 secs in command: 2 STATUS "INBOX" (MESSAGES UNSEEN RECENT)
+ - 64 stalled for 28 secs in command: 2 LIST "" *
+ - 65 stalled for 32 secs in command: 2 LIST "" *
+ - 66 stalled for 28 secs in command: 2 SELECT "INBOX" (CONDSTORE)
+ - 67 stalled for 32 secs in command: 2 LIST "" *
+ - 68 stalled for 32 secs in command: 2 LIST "" *
+ - 69 stalled for 20 secs in command: 2 SELECT "INBOX" (CONDSTORE)
+ - 70 stalled for 32 secs in command: 2 SELECT "INBOX" (CONDSTORE)
+ - 71 stalled for 40 secs in command: 2 STATUS "INBOX" (MESSAGES UNSEEN RECENT)
+ - 72 stalled for 32 secs in command: 2 LIST "" *
+ - 73 stalled for 28 secs in command: 2 SELECT "INBOX" (CONDSTORE)
+ - 74 stalled for 31 secs in command: 2 SELECT "INBOX" (CONDSTORE)
+ - 75 stalled for 32 secs in command: 2 LIST "" *
+ - 76 stalled for 30 secs in command: 2 LIST "" *
+ - 77 stalled for 20 secs in command: 2 LIST "" *
+ - 78 stalled for 31 secs in command: 2 LIST "" *
+ - 79 stalled for 20 secs in command: 2 SELECT "INBOX" (CONDSTORE)
+ - 80 stalled for 31 secs in command: 2 STATUS "INBOX" (MESSAGES UNSEEN RECENT)
+ - 82 stalled for 31 secs in command: 2 LIST "" *
+ - 83 stalled for 31 secs in command: 2 SELECT "INBOX" (CONDSTORE)
+ - 84 stalled for 30 secs in command: 2 STATUS "INBOX" (MESSAGES UNSEEN RECENT)
+ - 85 stalled for 30 secs in command: 2 LIST "" *
+ - 86 stalled for 30 secs in command: 2 LIST "" *
+ - 87 stalled for 28 secs in command: 2 LIST "" *
+ - 88 stalled for 28 secs in command: 2 SELECT "INBOX" (CONDSTORE)
+ - 89 stalled for 30 secs in command: 2 LIST "" *
+ - 90 stalled for 20 secs in command: 2 SELECT "INBOX" (CONDSTORE)
+ - 91 stalled for 31 secs in command: 2 LIST "" *
+ - 92 stalled for 28 secs in command: 2 SELECT "INBOX" (CONDSTORE)
+   0    0    0    0    0    0    0    0    0    0    0  90/ 90
+ - 1 stalled for 44 secs in command: 2 LIST "" *
+ - 2 stalled for 33 secs in command: 2 SELECT "INBOX" (CONDSTORE)
+ - 41 stalled for 32 secs in command: 2 LIST "" *
+ - 81 stalled for 32 secs in command: 2 LIST "" *
+ - 7 stalled for 33 secs in command: 2 LIST "" *
+ - 8 stalled for 49 secs in command: 4 APPEND "INBOX" {1495+}
+ - 93 stalled for 20 secs in command: 2 SELECT "INBOX" (CONDSTORE)
+ - 10 stalled for 49 secs in command: 2 SELECT "INBOX" (CONDSTORE)
+ - 13 stalled for 46 secs in command: 2 LIST "" *
+ - 14 stalled for 32 secs in command: 2 LIST "" *
+ - 15 stalled for 20 secs in command: 4 APPEND "INBOX" {1514+}
+ - 17 stalled for 47 secs in command: 2 SELECT "INBOX" (CONDSTORE)
+ - 18 stalled for 47 secs in command: 2 LIST "" *
+ - 19 stalled for 44 secs in command: 2 STATUS "INBOX" (MESSAGES UNSEEN RECENT)
+ - 20 stalled for 47 secs in command: 2 LIST "" *
+ - 21 stalled for 47 secs in command: 2 LIST "" *
+ - 22 stalled for 47 secs in command: 2 LIST "" *
+ - 23 stalled for 46 secs in command: 2 LIST "" *
+ - 24 stalled for 44 secs in command: 2 LIST "" *
+ - 25 stalled for 47 secs in command: 2 SELECT "INBOX" (CONDSTORE)
+ - 26 stalled for 44 secs in command: 2 LIST "" *
+ - 27 stalled for 47 secs in command: 2 LIST "" *
+ - 28 stalled for 46 secs in command: 2 LIST "" *
+ - 29 stalled for 32 secs in command: 2 LIST "" *
+ - 30 stalled for 46 secs in command: 2 LIST "" *
+ - 31 stalled for 33 secs in command: 2 STATUS "INBOX" (MESSAGES UNSEEN RECENT)
+ - 32 stalled for 47 secs in command: 2 LIST "" *
+ - 33 stalled for 47 secs in command: 2 LIST "" *
+ - 35 stalled for 47 secs in command: 2 SELECT "INBOX" (CONDSTORE)
+ - 36 stalled for 47 secs in command: 2 LIST "" *
+ - 37 stalled for 44 secs in command: 2 LIST "" *
+ - 38 stalled for 33 secs in command: 2 STATUS "INBOX" (MESSAGES UNSEEN RECENT)
+ - 39 stalled for 44 secs in command: 2 LIST "" *
+ - 40 stalled for 47 secs in command: 2 STATUS "INBOX" (MESSAGES UNSEEN RECENT)
+ - 42 stalled for 40 secs in command: 2 SELECT "INBOX" (CONDSTORE)
+ - 43 stalled for 35 secs in command: 2 LIST "" *
+ - 44 stalled for 40 secs in command: 2 LIST "" *
+ - 45 stalled for 33 secs in command: 2 LIST "" *
+ - 46 stalled for 29 secs in command: 2 LIST "" *
+ - 47 stalled for 21 secs in command: 2 LIST "" *
+ - 48 stalled for 21 secs in command: 2 STATUS "INBOX" (MESSAGES UNSEEN RECENT)
+ - 49 stalled for 41 secs in command: 2 SELECT "INBOX" (CONDSTORE)
+ - 50 stalled for 21 secs in command: 2 LIST "" *
+ - 51 stalled for 33 secs in command: 2 LIST "" *
+ - 52 stalled for 33 secs in command: 2 SELECT "INBOX" (CONDSTORE)
+ - 53 stalled for 33 secs in command: 2 LIST "" *
+ - 54 stalled for 33 secs in command: 2 STATUS "INBOX" (MESSAGES UNSEEN RECENT)
+ - 55 stalled for 33 secs in command: 2 LIST "" *
+ - 56 stalled for 29 secs in command: 2 STATUS "INBOX" (MESSAGES UNSEEN RECENT)
+ - 57 stalled for 44 secs in command: 2 SELECT "INBOX" (CONDSTORE)
+ - 58 stalled for 33 secs in command: 2 LIST "" *
+ - 59 stalled for 32 secs in command: 2 SELECT "INBOX" (CONDSTORE)
+ - 60 stalled for 33 secs in command: 2 LIST "" *
+ - 61 stalled for 29 secs in command: 2 LIST "" *
+ - 62 stalled for 26 secs in command: 2 STATUS "INBOX" (MESSAGES UNSEEN RECENT)
+ - 63 stalled for 29 secs in command: 2 STATUS "INBOX" (MESSAGES UNSEEN RECENT)
+ - 64 stalled for 29 secs in command: 2 LIST "" *
+ - 65 stalled for 33 secs in command: 2 LIST "" *
+ - 66 stalled for 29 secs in command: 2 SELECT "INBOX" (CONDSTORE)
+ - 67 stalled for 33 secs in command: 2 LIST "" *
+ - 68 stalled for 33 secs in command: 2 LIST "" *
+ - 69 stalled for 21 secs in command: 2 SELECT "INBOX" (CONDSTORE)
+ - 70 stalled for 33 secs in command: 2 SELECT "INBOX" (CONDSTORE)
+ - 71 stalled for 41 secs in command: 2 STATUS "INBOX" (MESSAGES UNSEEN RECENT)
+ - 72 stalled for 33 secs in command: 2 LIST "" *
+ - 73 stalled for 29 secs in command: 2 SELECT "INBOX" (CONDSTORE)
+ - 74 stalled for 32 secs in command: 2 SELECT "INBOX" (CONDSTORE)
+ - 75 stalled for 33 secs in command: 2 LIST "" *
+ - 76 stalled for 31 secs in command: 2 LIST "" *
+ - 77 stalled for 21 secs in command: 2 LIST "" *
+ - 78 stalled for 32 secs in command: 2 LIST "" *
+ - 79 stalled for 21 secs in command: 2 SELECT "INBOX" (CONDSTORE)
+ - 80 stalled for 32 secs in command: 2 STATUS "INBOX" (MESSAGES UNSEEN RECENT)
+ - 82 stalled for 32 secs in command: 2 LIST "" *
+ - 83 stalled for 32 secs in command: 2 SELECT "INBOX" (CONDSTORE)
+ - 84 stalled for 31 secs in command: 2 STATUS "INBOX" (MESSAGES UNSEEN RECENT)
+ - 85 stalled for 31 secs in command: 2 LIST "" *
+ - 86 stalled for 31 secs in command: 2 LIST "" *
+ - 87 stalled for 29 secs in command: 2 LIST "" *
+ - 88 stalled for 29 secs in command: 2 SELECT "INBOX" (CONDSTORE)
+ - 89 stalled for 31 secs in command: 2 LIST "" *
+ - 90 stalled for 21 secs in command: 2 SELECT "INBOX" (CONDSTORE)
+ - 91 stalled for 32 secs in command: 2 LIST "" *
+ - 92 stalled for 29 secs in command: 2 SELECT "INBOX" (CONDSTORE)
+   0    0    0    0    0    0    0    0    0    0    0  90/ 90
+ - 1 stalled for 45 secs in command: 2 LIST "" *
+ - 2 stalled for 34 secs in command: 2 SELECT "INBOX" (CONDSTORE)
+ - 41 stalled for 33 secs in command: 2 LIST "" *
+ - 81 stalled for 33 secs in command: 2 LIST "" *
+ - 7 stalled for 34 secs in command: 2 LIST "" *
+ - 8 stalled for 50 secs in command: 4 APPEND "INBOX" {1495+}
+ - 93 stalled for 21 secs in command: 2 SELECT "INBOX" (CONDSTORE)
+ - 10 stalled for 50 secs in command: 2 SELECT "INBOX" (CONDSTORE)
+ - 13 stalled for 47 secs in command: 2 LIST "" *
+ - 14 stalled for 33 secs in command: 2 LIST "" *
+ - 15 stalled for 21 secs in command: 4 APPEND "INBOX" {1514+}
+ - 17 stalled for 48 secs in command: 2 SELECT "INBOX" (CONDSTORE)
+ - 18 stalled for 48 secs in command: 2 LIST "" *
+ - 19 stalled for 45 secs in command: 2 STATUS "INBOX" (MESSAGES UNSEEN RECENT)
+ - 20 stalled for 48 secs in command: 2 LIST "" *
+ - 21 stalled for 48 secs in command: 2 LIST "" *
+ - 22 stalled for 48 secs in command: 2 LIST "" *
+ - 23 stalled for 47 secs in command: 2 LIST "" *
+ - 24 stalled for 45 secs in command: 2 LIST "" *
+ - 25 stalled for 48 secs in command: 2 SELECT "INBOX" (CONDSTORE)
+ - 26 stalled for 45 secs in command: 2 LIST "" *
+ - 27 stalled for 48 secs in command: 2 LIST "" *
+ - 28 stalled for 47 secs in command: 2 LIST "" *
+ - 29 stalled for 33 secs in command: 2 LIST "" *
+ - 30 stalled for 47 secs in command: 2 LIST "" *
+ - 31 stalled for 34 secs in command: 2 STATUS "INBOX" (MESSAGES UNSEEN RECENT)
+ - 32 stalled for 48 secs in command: 2 LIST "" *
+ - 33 stalled for 48 secs in command: 2 LIST "" *
+ - 35 stalled for 48 secs in command: 2 SELECT "INBOX" (CONDSTORE)
+ - 36 stalled for 48 secs in command: 2 LIST "" *
+ - 37 stalled for 45 secs in command: 2 LIST "" *
+ - 38 stalled for 34 secs in command: 2 STATUS "INBOX" (MESSAGES UNSEEN RECENT)
+ - 39 stalled for 45 secs in command: 2 LIST "" *
+ - 40 stalled for 48 secs in command: 2 STATUS "INBOX" (MESSAGES UNSEEN RECENT)
+ - 42 stalled for 41 secs in command: 2 SELECT "INBOX" (CONDSTORE)
+ - 43 stalled for 36 secs in command: 2 LIST "" *
+ - 44 stalled for 41 secs in command: 2 LIST "" *
+ - 45 stalled for 34 secs in command: 2 LIST "" *
+ - 46 stalled for 30 secs in command: 2 LIST "" *
+ - 47 stalled for 22 secs in command: 2 LIST "" *
+ - 48 stalled for 22 secs in command: 2 STATUS "INBOX" (MESSAGES UNSEEN RECENT)
+ - 49 stalled for 42 secs in command: 2 SELECT "INBOX" (CONDSTORE)
+ - 50 stalled for 22 secs in command: 2 LIST "" *
+ - 51 stalled for 34 secs in command: 2 LIST "" *
+ - 52 stalled for 34 secs in command: 2 SELECT "INBOX" (CONDSTORE)
+ - 53 stalled for 34 secs in command: 2 LIST "" *
+ - 54 stalled for 34 secs in command: 2 STATUS "INBOX" (MESSAGES UNSEEN RECENT)
+ - 55 stalled for 34 secs in command: 2 LIST "" *
+ - 56 stalled for 30 secs in command: 2 STATUS "INBOX" (MESSAGES UNSEEN RECENT)
+ - 57 stalled for 45 secs in command: 2 SELECT "INBOX" (CONDSTORE)
+ - 58 stalled for 34 secs in command: 2 LIST "" *
+ - 59 stalled for 33 secs in command: 2 SELECT "INBOX" (CONDSTORE)
+ - 60 stalled for 34 secs in command: 2 LIST "" *
+ - 61 stalled for 30 secs in command: 2 LIST "" *
+ - 62 stalled for 27 secs in command: 2 STATUS "INBOX" (MESSAGES UNSEEN RECENT)
+ - 63 stalled for 30 secs in command: 2 STATUS "INBOX" (MESSAGES UNSEEN RECENT)
+ - 64 stalled for 30 secs in command: 2 LIST "" *
+ - 65 stalled for 34 secs in command: 2 LIST "" *
+ - 66 stalled for 30 secs in command: 2 SELECT "INBOX" (CONDSTORE)
+ - 67 stalled for 34 secs in command: 2 LIST "" *
+ - 68 stalled for 34 secs in command: 2 LIST "" *
+ - 69 stalled for 22 secs in command: 2 SELECT "INBOX" (CONDSTORE)
+ - 70 stalled for 34 secs in command: 2 SELECT "INBOX" (CONDSTORE)
+ - 71 stalled for 42 secs in command: 2 STATUS "INBOX" (MESSAGES UNSEEN RECENT)
+ - 72 stalled for 34 secs in command: 2 LIST "" *
+ - 73 stalled for 30 secs in command: 2 SELECT "INBOX" (CONDSTORE)
+ - 74 stalled for 33 secs in command: 2 SELECT "INBOX" (CONDSTORE)
+ - 75 stalled for 34 secs in command: 2 LIST "" *
+ - 76 stalled for 32 secs in command: 2 LIST "" *
+ - 77 stalled for 22 secs in command: 2 LIST "" *
+ - 78 stalled for 33 secs in command: 2 LIST "" *
+ - 79 stalled for 22 secs in command: 2 SELECT "INBOX" (CONDSTORE)
+ - 80 stalled for 33 secs in command: 2 STATUS "INBOX" (MESSAGES UNSEEN RECENT)
+ - 82 stalled for 33 secs in command: 2 LIST "" *
+ - 83 stalled for 33 secs in command: 2 SELECT "INBOX" (CONDSTORE)
+ - 84 stalled for 32 secs in command: 2 STATUS "INBOX" (MESSAGES UNSEEN RECENT)
+ - 85 stalled for 32 secs in command: 2 LIST "" *
+ - 86 stalled for 32 secs in command: 2 LIST "" *
+ - 87 stalled for 30 secs in command: 2 LIST "" *
+ - 88 stalled for 30 secs in command: 2 SELECT "INBOX" (CONDSTORE)
+ - 89 stalled for 32 secs in command: 2 LIST "" *
+ - 90 stalled for 22 secs in command: 2 SELECT "INBOX" (CONDSTORE)
+ - 91 stalled for 33 secs in command: 2 LIST "" *
+ - 92 stalled for 30 secs in command: 2 SELECT "INBOX" (CONDSTORE)
 Logi List Stat Sele Fetc Fet2 Stor Dele Expu Appe Logo 
 100%  50%  50% 100% 100% 100%  50% 100% 100% 100% 100% 
                           30%                  5%      
-  61   26   24   51   54   72   10   43   58   57  114  90/ 90
-  48   25   27   53   64   91    9   50   44   49   98  90/ 90
-  68   37   46   76   74  105   10   73   74   68  136  90/ 90
-  71   23   32   60   51   79   13   44   64   74  148  90/ 90
-  47   32   32   56   60   88   12   43   45   41   82  90/ 90
-  38   19   21   39   35   57    6   27   41   37   74  90/ 90
-  67   27   27   60   58   83   14   43   58   67  134  90/ 90
-  68   45   29   76   76   96   17   65   77   77  154  88/ 90
-  45   21   19   42   49   64    7   39   51   41   82  90/ 90
-  62   29   29   59   61   84   13   50   57   62  144  75/ 75
+   3   16   20   46    0    0    0    0    0    2    4  90/ 90
+ - 41 stalled for 34 secs in command: 2 LIST "" *
+ - 81 stalled for 34 secs in command: 2 LIST "" *
+ - 93 stalled for 22 secs in command: 2 SELECT "INBOX" (CONDSTORE)
+ - 14 stalled for 34 secs in command: 2 LIST "" *
+ - 17 stalled for 49 secs in command: 2 SELECT "INBOX" (CONDSTORE)
+ - 26 stalled for 46 secs in command: 2 LIST "" *
+ - 27 stalled for 49 secs in command: 2 LIST "" *
+ - 29 stalled for 34 secs in command: 2 LIST "" *
+ - 43 stalled for 37 secs in command: 2 LIST "" *
+ - 44 stalled for 42 secs in command: 2 LIST "" *
+ - 45 stalled for 35 secs in command: 2 LIST "" *
+ - 46 stalled for 31 secs in command: 2 LIST "" *
+ - 47 stalled for 23 secs in command: 2 LIST "" *
+ - 49 stalled for 43 secs in command: 2 SELECT "INBOX" (CONDSTORE)
+ - 50 stalled for 23 secs in command: 2 LIST "" *
+ - 51 stalled for 35 secs in command: 2 LIST "" *
+ - 52 stalled for 35 secs in command: 2 SELECT "INBOX" (CONDSTORE)
+ - 53 stalled for 35 secs in command: 2 LIST "" *
+ - 55 stalled for 35 secs in command: 2 LIST "" *
+ - 58 stalled for 35 secs in command: 2 LIST "" *
+ - 60 stalled for 35 secs in command: 2 LIST "" *
+ - 61 stalled for 31 secs in command: 2 LIST "" *
+ - 64 stalled for 31 secs in command: 2 LIST "" *
+ - 65 stalled for 35 secs in command: 2 LIST "" *
+ - 67 stalled for 35 secs in command: 2 LIST "" *
+ - 68 stalled for 35 secs in command: 2 LIST "" *
+ - 72 stalled for 35 secs in command: 2 LIST "" *
+ - 75 stalled for 35 secs in command: 2 LIST "" *
+ - 76 stalled for 33 secs in command: 2 LIST "" *
+ - 77 stalled for 23 secs in command: 2 LIST "" *
+ - 78 stalled for 34 secs in command: 2 LIST "" *
+ - 82 stalled for 34 secs in command: 2 LIST "" *
+ - 85 stalled for 33 secs in command: 2 LIST "" *
+ - 86 stalled for 33 secs in command: 2 LIST "" *
+ - 87 stalled for 31 secs in command: 2 LIST "" *
+ - 89 stalled for 33 secs in command: 2 LIST "" *
+ - 91 stalled for 34 secs in command: 2 LIST "" *
+   1    1    0    1    0    0    0    0    0    0    0  90/ 90
+ - 41 stalled for 35 secs in command: 2 LIST "" *
+ - 81 stalled for 35 secs in command: 2 LIST "" *
+ - 93 stalled for 23 secs in command: 2 SELECT "INBOX" (CONDSTORE)
+ - 14 stalled for 35 secs in command: 2 LIST "" *
+ - 17 stalled for 50 secs in command: 2 SELECT "INBOX" (CONDSTORE)
+ - 26 stalled for 47 secs in command: 2 LIST "" *
+ - 27 stalled for 50 secs in command: 2 LIST "" *
+ - 29 stalled for 35 secs in command: 2 LIST "" *
+ - 43 stalled for 38 secs in command: 2 LIST "" *
+ - 44 stalled for 43 secs in command: 2 LIST "" *
+ - 45 stalled for 36 secs in command: 2 LIST "" *
+ - 46 stalled for 32 secs in command: 2 LIST "" *
+ - 47 stalled for 24 secs in command: 2 LIST "" *
+ - 49 stalled for 44 secs in command: 2 SELECT "INBOX" (CONDSTORE)
+ - 50 stalled for 24 secs in command: 2 LIST "" *
+ - 51 stalled for 36 secs in command: 2 LIST "" *
+ - 52 stalled for 36 secs in command: 2 SELECT "INBOX" (CONDSTORE)
+ - 53 stalled for 36 secs in command: 2 LIST "" *
+ - 55 stalled for 36 secs in command: 2 LIST "" *
+ - 58 stalled for 36 secs in command: 2 LIST "" *
+ - 60 stalled for 36 secs in command: 2 LIST "" *
+ - 61 stalled for 32 secs in command: 2 LIST "" *
+ - 64 stalled for 32 secs in command: 2 LIST "" *
+ - 65 stalled for 36 secs in command: 2 LIST "" *
+ - 67 stalled for 36 secs in command: 2 LIST "" *
+ - 68 stalled for 36 secs in command: 2 LIST "" *
+ - 72 stalled for 36 secs in command: 2 LIST "" *
+ - 75 stalled for 36 secs in command: 2 LIST "" *
+ - 76 stalled for 34 secs in command: 2 LIST "" *
+ - 77 stalled for 24 secs in command: 2 LIST "" *
+ - 78 stalled for 35 secs in command: 2 LIST "" *
+ - 82 stalled for 35 secs in command: 2 LIST "" *
+ - 85 stalled for 34 secs in command: 2 LIST "" *
+ - 86 stalled for 34 secs in command: 2 LIST "" *
+ - 87 stalled for 32 secs in command: 2 LIST "" *
+ - 89 stalled for 34 secs in command: 2 LIST "" *
+   0    0    0    0    0    0    0    0    0    0    0  90/ 90
+ - 41 stalled for 36 secs in command: 2 LIST "" *
+ - 81 stalled for 36 secs in command: 2 LIST "" *
+ - 93 stalled for 24 secs in command: 2 SELECT "INBOX" (CONDSTORE)
+ - 14 stalled for 36 secs in command: 2 LIST "" *
+ - 17 stalled for 51 secs in command: 2 SELECT "INBOX" (CONDSTORE)
+ - 26 stalled for 48 secs in command: 2 LIST "" *
+ - 27 stalled for 51 secs in command: 2 LIST "" *
+ - 29 stalled for 36 secs in command: 2 LIST "" *
+ - 43 stalled for 39 secs in command: 2 LIST "" *
+ - 44 stalled for 44 secs in command: 2 LIST "" *
+ - 45 stalled for 37 secs in command: 2 LIST "" *
+ - 46 stalled for 33 secs in command: 2 LIST "" *
+ - 47 stalled for 25 secs in command: 2 LIST "" *
+ - 49 stalled for 45 secs in command: 2 SELECT "INBOX" (CONDSTORE)
+ - 50 stalled for 25 secs in command: 2 LIST "" *
+ - 51 stalled for 37 secs in command: 2 LIST "" *
+ - 52 stalled for 37 secs in command: 2 SELECT "INBOX" (CONDSTORE)
+ - 53 stalled for 37 secs in command: 2 LIST "" *
+ - 55 stalled for 37 secs in command: 2 LIST "" *
+ - 58 stalled for 37 secs in command: 2 LIST "" *
+ - 60 stalled for 37 secs in command: 2 LIST "" *
+ - 61 stalled for 33 secs in command: 2 LIST "" *
+ - 64 stalled for 33 secs in command: 2 LIST "" *
+ - 65 stalled for 37 secs in command: 2 LIST "" *
+ - 67 stalled for 37 secs in command: 2 LIST "" *
+ - 68 stalled for 37 secs in command: 2 LIST "" *
+ - 72 stalled for 37 secs in command: 2 LIST "" *
+ - 75 stalled for 37 secs in command: 2 LIST "" *
+ - 76 stalled for 35 secs in command: 2 LIST "" *
+ - 77 stalled for 25 secs in command: 2 LIST "" *
+ - 78 stalled for 36 secs in command: 2 LIST "" *
+ - 82 stalled for 36 secs in command: 2 LIST "" *
+ - 85 stalled for 35 secs in command: 2 LIST "" *
+ - 86 stalled for 35 secs in command: 2 LIST "" *
+ - 87 stalled for 33 secs in command: 2 LIST "" *
+ - 89 stalled for 35 secs in command: 2 LIST "" *
+   0    0    0    0    0    0    0    0    0    0    0  90/ 90
+ - 41 stalled for 37 secs in command: 2 LIST "" *
+ - 81 stalled for 37 secs in command: 2 LIST "" *
+ - 93 stalled for 25 secs in command: 2 SELECT "INBOX" (CONDSTORE)
+ - 14 stalled for 37 secs in command: 2 LIST "" *
+ - 17 stalled for 52 secs in command: 2 SELECT "INBOX" (CONDSTORE)
+ - 26 stalled for 49 secs in command: 2 LIST "" *
+ - 27 stalled for 52 secs in command: 2 LIST "" *
+ - 29 stalled for 37 secs in command: 2 LIST "" *
+ - 43 stalled for 40 secs in command: 2 LIST "" *
+ - 44 stalled for 45 secs in command: 2 LIST "" *
+ - 45 stalled for 38 secs in command: 2 LIST "" *
+ - 46 stalled for 34 secs in command: 2 LIST "" *
+ - 47 stalled for 26 secs in command: 2 LIST "" *
+ - 49 stalled for 46 secs in command: 2 SELECT "INBOX" (CONDSTORE)
+ - 50 stalled for 26 secs in command: 2 LIST "" *
+ - 51 stalled for 38 secs in command: 2 LIST "" *
+ - 52 stalled for 38 secs in command: 2 SELECT "INBOX" (CONDSTORE)
+ - 53 stalled for 38 secs in command: 2 LIST "" *
+ - 55 stalled for 38 secs in command: 2 LIST "" *
+ - 58 stalled for 38 secs in command: 2 LIST "" *
+ - 60 stalled for 38 secs in command: 2 LIST "" *
+ - 61 stalled for 34 secs in command: 2 LIST "" *
+ - 64 stalled for 34 secs in command: 2 LIST "" *
+ - 65 stalled for 38 secs in command: 2 LIST "" *
+ - 67 stalled for 38 secs in command: 2 LIST "" *
+ - 68 stalled for 38 secs in command: 2 LIST "" *
+ - 72 stalled for 38 secs in command: 2 LIST "" *
+ - 75 stalled for 38 secs in command: 2 LIST "" *
+ - 76 stalled for 36 secs in command: 2 LIST "" *
+ - 77 stalled for 26 secs in command: 2 LIST "" *
+ - 78 stalled for 37 secs in command: 2 LIST "" *
+ - 82 stalled for 37 secs in command: 2 LIST "" *
+ - 85 stalled for 36 secs in command: 2 LIST "" *
+ - 86 stalled for 36 secs in command: 2 LIST "" *
+ - 87 stalled for 34 secs in command: 2 LIST "" *
+ - 89 stalled for 36 secs in command: 2 LIST "" *
+   3   23    7   27    0    0    0    0    0    8   16  90/ 90
+ - 29 stalled for 38 secs in command: 2 LIST "" *
+ - 46 stalled for 35 secs in command: 2 LIST "" *
+ - 50 stalled for 27 secs in command: 2 LIST "" *
+ - 51 stalled for 39 secs in command: 2 LIST "" *
+ - 67 stalled for 39 secs in command: 2 LIST "" *
+ - 68 stalled for 39 secs in command: 2 LIST "" *
+ - 76 stalled for 37 secs in command: 2 LIST "" *
+ - 86 stalled for 37 secs in command: 2 LIST "" *
+ - 89 stalled for 37 secs in command: 2 LIST "" *
+   5   10   13   14    0    0    0    0    0    6   12  90/ 90
+   0    0    0    0    0    0    0    0    0    0    0  90/ 90
+   0    0    0    0    0    0    0    0    0    0    0  90/ 90
+   0    0    0    0    0    0    0    0    0    0    0  90/ 90
+ - 16 stalled for 16 secs in command: 3 APPEND "INBOX" {2130+}
+   0    0    0    0    0    0    0    0    0    0    0  90/ 90
+ - 16 stalled for 17 secs in command: 3 APPEND "INBOX" {2130+}
 Logi List Stat Sele Fetc Fet2 Stor Dele Expu Appe Logo 
 100%  50%  50% 100% 100% 100%  50% 100% 100% 100% 100% 
                           30%                  5%      
-   0    8    6    8   11   13    2   14   36   52  120  15/ 15
+   0    0    0    0    0    0    0    0    0    0    0  90/ 90
+ - 16 stalled for 18 secs in command: 3 APPEND "INBOX" {2130+}
+   1    0    0    0    0    0    0    0    0    6   14  83/ 83
+ - 16 stalled for 19 secs in command: 3 APPEND "INBOX" {2130+}
+   0    0    0    0    0    0    0    0    0    0    0  83/ 83
+ - 16 stalled for 20 secs in command: 3 APPEND "INBOX" {2130+}
+   0    0    0    0    0    0    0    0    0    0    0  83/ 83
+ - 16 stalled for 21 secs in command: 3 APPEND "INBOX" {2130+}
+   0    0    0    0    0    0    0    0    0    0    0  83/ 83
+ - 16 stalled for 22 secs in command: 3 APPEND "INBOX" {2130+}
+   0    0    0    0    0    0    0    0    0    0    0  83/ 83
+ - 2 stalled for 16 secs in command: 3 APPEND "INBOX" (\Seen $Label1 $Label2) {1330+}
+ - 10 stalled for 16 secs in command: 3 APPEND "INBOX" {2105+}
+ - 16 stalled for 23 secs in command: 3 APPEND "INBOX" {2130+}
+ - 18 stalled for 16 secs in command: 5 APPEND "INBOX" (\Answered \Draft $Label1 $Label2) {1863+}
+ - 19 stalled for 16 secs in command: 4 APPEND "INBOX" "10-Oct-2002 04:40:09 +0200" {1868+}
+ - 23 stalled for 16 secs in command: 4 APPEND "INBOX" "12-Oct-2002 20:42:41 +0200" {1900+}
+ - 28 stalled for 16 secs in command: 4 APPEND "INBOX" (\Seen \Draft $Label3 $Label5) "15-Sep-2002 00:50:10 +0200" {1692+}
+ - 33 stalled for 16 secs in command: 5 APPEND "INBOX" {1797+}
+ - 37 stalled for 16 secs in command: 4 APPEND "INBOX" "09-Aug-2002 07:03:02 +0200" {2493+}
+ - 54 stalled for 16 secs in command: 4 APPEND "INBOX" {2473+}
+ - 59 stalled for 16 secs in command: 3 APPEND "INBOX" {1745+}
+ - 63 stalled for 16 secs in command: 4 APPEND "INBOX" (\Seen \Draft $Label3 $Label5) "08-Aug-2002 19:00:00 +0200" {2170+}
+ - 70 stalled for 16 secs in command: 3 APPEND "INBOX" (\Flagged \Seen $Label3) "12-Aug-2002 01:09:37 +0200" {1394+}
+ - 71 stalled for 16 secs in command: 4 APPEND "INBOX" {3359+}
+ - 73 stalled for 16 secs in command: 3 APPEND "INBOX" "30-Sep-2002 23:53:10 +0200" {2200+}
+ - 92 stalled for 16 secs in command: 3 APPEND "INBOX" (\Answered \Flagged \Seen) {1241+}
+   2    1    0    1    0    0    0    0    0    4   14  76/ 76
+ - 2 stalled for 17 secs in command: 3 APPEND "INBOX" (\Seen $Label1 $Label2) {1330+}
+ - 7 stalled for 16 secs in command: 5 APPEND "INBOX" (\Flagged \Seen $Label2 $Label3 $Label4) "19-Oct-2002 19:59:22 +0200" {1684+}
+ - 98 stalled for 16 secs in command: 3 APPEND "INBOX" (\Flagged \Seen) "19-Oct-2002 20:17:48 +0200" {1710+}
+ - 10 stalled for 17 secs in command: 3 APPEND "INBOX" {2105+}
+ - 16 stalled for 24 secs in command: 3 APPEND "INBOX" {2130+}
+ - 18 stalled for 17 secs in command: 5 APPEND "INBOX" (\Answered \Draft $Label1 $Label2) {1863+}
+ - 19 stalled for 17 secs in command: 4 APPEND "INBOX" "10-Oct-2002 04:40:09 +0200" {1868+}
+ - 23 stalled for 17 secs in command: 4 APPEND "INBOX" "12-Oct-2002 20:42:41 +0200" {1900+}
+ - 28 stalled for 17 secs in command: 4 APPEND "INBOX" (\Seen \Draft $Label3 $Label5) "15-Sep-2002 00:50:10 +0200" {1692+}
+ - 32 stalled for 16 secs in command: 4 APPEND "INBOX" "19-Oct-2002 18:53:44 +0200" {6121+}
+ - 35 stalled for 16 secs in command: 3 APPEND "INBOX" (\Answered \Flagged \Draft $Label1 $Label2 $Label3) "19-Oct-2002 19:24:01 +0200" {1716+}
+ - 37 stalled for 17 secs in command: 4 APPEND "INBOX" "09-Aug-2002 07:03:02 +0200" {2493+}
+ - 40 stalled for 16 secs in command: 4 APPEND "INBOX" (\Flagged $Label4) {1749+}
+ - 54 stalled for 17 secs in command: 4 APPEND "INBOX" {2473+}
+ - 57 stalled for 16 secs in command: 3 APPEND "INBOX" (\Answered \Flagged \Draft $Label2 $Label4) "20-Oct-2002 16:47:50 +0200" {2859+}
+ - 59 stalled for 17 secs in command: 3 APPEND "INBOX" {1745+}
+ - 63 stalled for 17 secs in command: 4 APPEND "INBOX" (\Seen \Draft $Label3 $Label5) "08-Aug-2002 19:00:00 +0200" {2170+}
+ - 70 stalled for 17 secs in command: 3 APPEND "INBOX" (\Flagged \Seen $Label3) "12-Aug-2002 01:09:37 +0200" {1394+}
+ - 71 stalled for 17 secs in command: 4 APPEND "INBOX" {3359+}
+ - 73 stalled for 17 secs in command: 3 APPEND "INBOX" "30-Sep-2002 23:53:10 +0200" {2200+}
+ - 74 stalled for 16 secs in command: 3 APPEND "INBOX" (\Answered \Draft) "19-Oct-2002 20:08:34 +0200" {1490+}
+ - 80 stalled for 16 secs in command: 4 APPEND "INBOX" {2353+}
+ - 90 stalled for 16 secs in command: 3 APPEND "INBOX" (\Seen \Draft $Label1 $Label4) "19-Oct-2002 15:39:57 +0200" {9605+}
+ - 91 stalled for 16 secs in command: 4 APPEND "INBOX" "21-Oct-2002 14:53:07 +0200" {2794+}
+ - 92 stalled for 17 secs in command: 3 APPEND "INBOX" (\Answered \Flagged \Seen) {1241+}
+   3    0    0    0    0    0    0    0    0   32   70  41/ 41
+ - 98 stalled for 17 secs in command: 3 APPEND "INBOX" (\Flagged \Seen) "19-Oct-2002 20:17:48 +0200" {1710+}
+ - 99 stalled for 16 secs in command: 2 LIST "" *
+ - 35 stalled for 17 secs in command: 3 APPEND "INBOX" (\Answered \Flagged \Draft $Label1 $Label2 $Label3) "19-Oct-2002 19:24:01 +0200" {1716+}
+ - 37 stalled for 18 secs in command: 4 APPEND "INBOX" "09-Aug-2002 07:03:02 +0200" {2493+}
+ - 40 stalled for 17 secs in command: 4 APPEND "INBOX" (\Flagged $Label4) {1749+}
+ - 57 stalled for 17 secs in command: 3 APPEND "INBOX" (\Answered \Flagged \Draft $Label2 $Label4) "20-Oct-2002 16:47:50 +0200" {2859+}
+ - 63 stalled for 18 secs in command: 4 APPEND "INBOX" (\Seen \Draft $Label3 $Label5) "08-Aug-2002 19:00:00 +0200" {2170+}
+ - 71 stalled for 18 secs in command: 4 APPEND "INBOX" {3359+}
+ - 74 stalled for 17 secs in command: 3 APPEND "INBOX" (\Answered \Draft) "19-Oct-2002 20:08:34 +0200" {1490+}
+ - 91 stalled for 17 secs in command: 4 APPEND "INBOX" "21-Oct-2002 14:53:07 +0200" {2794+}
+   0    0    0    0    0    0    0    0    0    0    0  41/ 41
+ - 98 stalled for 18 secs in command: 3 APPEND "INBOX" (\Flagged \Seen) "19-Oct-2002 20:17:48 +0200" {1710+}
+ - 99 stalled for 17 secs in command: 2 LIST "" *
+ - 35 stalled for 18 secs in command: 3 APPEND "INBOX" (\Answered \Flagged \Draft $Label1 $Label2 $Label3) "19-Oct-2002 19:24:01 +0200" {1716+}
+ - 37 stalled for 19 secs in command: 4 APPEND "INBOX" "09-Aug-2002 07:03:02 +0200" {2493+}
+ - 40 stalled for 18 secs in command: 4 APPEND "INBOX" (\Flagged $Label4) {1749+}
+ - 57 stalled for 18 secs in command: 3 APPEND "INBOX" (\Answered \Flagged \Draft $Label2 $Label4) "20-Oct-2002 16:47:50 +0200" {2859+}
+ - 63 stalled for 19 secs in command: 4 APPEND "INBOX" (\Seen \Draft $Label3 $Label5) "08-Aug-2002 19:00:00 +0200" {2170+}
+ - 71 stalled for 19 secs in command: 4 APPEND "INBOX" {3359+}
+ - 74 stalled for 18 secs in command: 3 APPEND "INBOX" (\Answered \Draft) "19-Oct-2002 20:08:34 +0200" {1490+}
+ - 91 stalled for 18 secs in command: 4 APPEND "INBOX" "21-Oct-2002 14:53:07 +0200" {2794+}
+   0    0    0    0    0    0    0    0    0    1    2  40/ 40
+ - 98 stalled for 19 secs in command: 3 APPEND "INBOX" (\Flagged \Seen) "19-Oct-2002 20:17:48 +0200" {1710+}
+ - 99 stalled for 18 secs in command: 2 LIST "" *
+ - 35 stalled for 19 secs in command: 3 APPEND "INBOX" (\Answered \Flagged \Draft $Label1 $Label2 $Label3) "19-Oct-2002 19:24:01 +0200" {1716+}
+ - 37 stalled for 20 secs in command: 4 APPEND "INBOX" "09-Aug-2002 07:03:02 +0200" {2493+}
+ - 40 stalled for 19 secs in command: 4 APPEND "INBOX" (\Flagged $Label4) {1749+}
+ - 57 stalled for 19 secs in command: 3 APPEND "INBOX" (\Answered \Flagged \Draft $Label2 $Label4) "20-Oct-2002 16:47:50 +0200" {2859+}
+ - 63 stalled for 20 secs in command: 4 APPEND "INBOX" (\Seen \Draft $Label3 $Label5) "08-Aug-2002 19:00:00 +0200" {2170+}
+ - 71 stalled for 20 secs in command: 4 APPEND "INBOX" {3359+}
+ - 74 stalled for 19 secs in command: 3 APPEND "INBOX" (\Answered \Draft) "19-Oct-2002 20:08:34 +0200" {1490+}
+ - 91 stalled for 19 secs in command: 4 APPEND "INBOX" "21-Oct-2002 14:53:07 +0200" {2794+}
+Logi List Stat Sele Fetc Fet2 Stor Dele Expu Appe Logo 
+100%  50%  50% 100% 100% 100%  50% 100% 100% 100% 100% 
+                          30%                  5%      
+   0    0    0    0    0    0    0    0    0   16   32  24/ 24
+ - 81 stalled for 16 secs in command: 4 APPEND "INBOX" (\Answered \Flagged \Seen) "22-Oct-2002 21:51:09 +0200" {3746+}
+ - 98 stalled for 20 secs in command: 3 APPEND "INBOX" (\Flagged \Seen) "19-Oct-2002 20:17:48 +0200" {1710+}
+ - 95 stalled for 16 secs in command: 4 APPEND "INBOX" (\Seen $Label5) {2458+}
+ - 99 stalled for 19 secs in command: 2 LIST "" *
+ - 104 stalled for 16 secs in command: 2 STATUS "INBOX" (MESSAGES UNSEEN RECENT)
+ - 26 stalled for 16 secs in command: 4 APPEND "INBOX" ($Label5) {2576+}
+ - 37 stalled for 21 secs in command: 4 APPEND "INBOX" "09-Aug-2002 07:03:02 +0200" {2493+}
+ - 100 stalled for 16 secs in command: 2 LIST "" *
+ - 49 stalled for 16 secs in command: 3 APPEND "INBOX" "21-Oct-2002 16:15:30 +0200" {2402+}
+ - 52 stalled for 16 secs in command: 3 APPEND "INBOX" "21-Oct-2002 17:49:30 +0200" {3193+}
+ - 61 stalled for 16 secs in command: 5 APPEND "INBOX" {2620+}
+ - 71 stalled for 21 secs in command: 4 APPEND "INBOX" {3359+}
+ - 74 stalled for 20 secs in command: 3 APPEND "INBOX" (\Answered \Draft) "19-Oct-2002 20:08:34 +0200" {1490+}
+ - 102 stalled for 16 secs in command: 2 LIST "" *
+ - 107 stalled for 16 secs in command: 2 LIST "" *
+ - 101 stalled for 16 secs in command: 2 LIST "" *
+ - 91 stalled for 20 secs in command: 4 APPEND "INBOX" "21-Oct-2002 14:53:07 +0200" {2794+}
+   0    1    1    1    0    0    0    0    0    1    4  22/ 22
+ - 96 stalled for 16 secs in command: 5 APPEND "INBOX" {2003+}
+ - 81 stalled for 17 secs in command: 4 APPEND "INBOX" (\Answered \Flagged \Seen) "22-Oct-2002 21:51:09 +0200" {3746+}
+ - 98 stalled for 21 secs in command: 3 APPEND "INBOX" (\Flagged \Seen) "19-Oct-2002 20:17:48 +0200" {1710+}
+ - 95 stalled for 17 secs in command: 4 APPEND "INBOX" (\Seen $Label5) {2458+}
+ - 104 stalled for 17 secs in command: 2 STATUS "INBOX" (MESSAGES UNSEEN RECENT)
+ - 29 stalled for 16 secs in command: 5 APPEND "INBOX" (\Flagged $Label1 $Label3 $Label5) "24-Nov-2002 21:01:37 +0100" {2676+}
+ - 106 stalled for 16 secs in command: 4 APPEND "INBOX" "27-Nov-2002 00:17:10 +0100" {2703+}
+ - 37 stalled for 22 secs in command: 4 APPEND "INBOX" "09-Aug-2002 07:03:02 +0200" {2493+}
+ - 100 stalled for 17 secs in command: 2 LIST "" *
+ - 49 stalled for 17 secs in command: 3 APPEND "INBOX" "21-Oct-2002 16:15:30 +0200" {2402+}
+ - 50 stalled for 16 secs in command: 5 APPEND "INBOX" {1965+}
+ - 52 stalled for 17 secs in command: 3 APPEND "INBOX" "21-Oct-2002 17:49:30 +0200" {3193+}
+ - 61 stalled for 17 secs in command: 5 APPEND "INBOX" {2620+}
+ - 67 stalled for 16 secs in command: 5 APPEND "INBOX" (\Answered \Flagged \Seen \Draft) {2151+}
+ - 71 stalled for 22 secs in command: 4 APPEND "INBOX" {3359+}
+ - 74 stalled for 21 secs in command: 3 APPEND "INBOX" (\Answered \Draft) "19-Oct-2002 20:08:34 +0200" {1490+}
+ - 76 stalled for 16 secs in command: 5 APPEND "INBOX" (\Answered \Draft) {1950+}
+ - 102 stalled for 17 secs in command: 2 LIST "" *
+ - 107 stalled for 17 secs in command: 2 LIST "" *
+ - 101 stalled for 17 secs in command: 2 LIST "" *
+ - 89 stalled for 16 secs in command: 5 APPEND "INBOX" {1743+}
+ - 91 stalled for 21 secs in command: 4 APPEND "INBOX" "21-Oct-2002 14:53:07 +0200" {2794+}
+   0    0    0    0    0    0    0    0    0    1    2  21/ 21
+ - 96 stalled for 17 secs in command: 5 APPEND "INBOX" {2003+}
+ - 81 stalled for 18 secs in command: 4 APPEND "INBOX" (\Answered \Flagged \Seen) "22-Oct-2002 21:51:09 +0200" {3746+}
+ - 98 stalled for 22 secs in command: 3 APPEND "INBOX" (\Flagged \Seen) "19-Oct-2002 20:17:48 +0200" {1710+}
+ - 95 stalled for 18 secs in command: 4 APPEND "INBOX" (\Seen $Label5) {2458+}
+ - 104 stalled for 18 secs in command: 2 STATUS "INBOX" (MESSAGES UNSEEN RECENT)
+ - 29 stalled for 17 secs in command: 5 APPEND "INBOX" (\Flagged $Label1 $Label3 $Label5) "24-Nov-2002 21:01:37 +0100" {2676+}
+ - 106 stalled for 17 secs in command: 4 APPEND "INBOX" "27-Nov-2002 00:17:10 +0100" {2703+}
+ - 37 stalled for 23 secs in command: 4 APPEND "INBOX" "09-Aug-2002 07:03:02 +0200" {2493+}
+ - 100 stalled for 18 secs in command: 2 LIST "" *
+ - 49 stalled for 18 secs in command: 3 APPEND "INBOX" "21-Oct-2002 16:15:30 +0200" {2402+}
+ - 50 stalled for 17 secs in command: 5 APPEND "INBOX" {1965+}
+ - 52 stalled for 18 secs in command: 3 APPEND "INBOX" "21-Oct-2002 17:49:30 +0200" {3193+}
+ - 61 stalled for 18 secs in command: 5 APPEND "INBOX" {2620+}
+ - 67 stalled for 17 secs in command: 5 APPEND "INBOX" (\Answered \Flagged \Seen \Draft) {2151+}
+ - 74 stalled for 22 secs in command: 3 APPEND "INBOX" (\Answered \Draft) "19-Oct-2002 20:08:34 +0200" {1490+}
+ - 76 stalled for 17 secs in command: 5 APPEND "INBOX" (\Answered \Draft) {1950+}
+ - 102 stalled for 18 secs in command: 2 LIST "" *
+ - 107 stalled for 18 secs in command: 2 LIST "" *
+ - 101 stalled for 18 secs in command: 2 LIST "" *
+ - 89 stalled for 17 secs in command: 5 APPEND "INBOX" {1743+}
+ - 91 stalled for 22 secs in command: 4 APPEND "INBOX" "21-Oct-2002 14:53:07 +0200" {2794+}
+   0    0    0    0    0    0    0    0    0    0    0  21/ 21
+ - 96 stalled for 18 secs in command: 5 APPEND "INBOX" {2003+}
+ - 81 stalled for 19 secs in command: 4 APPEND "INBOX" (\Answered \Flagged \Seen) "22-Oct-2002 21:51:09 +0200" {3746+}
+ - 98 stalled for 23 secs in command: 3 APPEND "INBOX" (\Flagged \Seen) "19-Oct-2002 20:17:48 +0200" {1710+}
+ - 95 stalled for 19 secs in command: 4 APPEND "INBOX" (\Seen $Label5) {2458+}
+ - 104 stalled for 19 secs in command: 2 STATUS "INBOX" (MESSAGES UNSEEN RECENT)
+ - 29 stalled for 18 secs in command: 5 APPEND "INBOX" (\Flagged $Label1 $Label3 $Label5) "24-Nov-2002 21:01:37 +0100" {2676+}
+ - 106 stalled for 18 secs in command: 4 APPEND "INBOX" "27-Nov-2002 00:17:10 +0100" {2703+}
+ - 37 stalled for 24 secs in command: 4 APPEND "INBOX" "09-Aug-2002 07:03:02 +0200" {2493+}
+ - 100 stalled for 19 secs in command: 2 LIST "" *
+ - 49 stalled for 19 secs in command: 3 APPEND "INBOX" "21-Oct-2002 16:15:30 +0200" {2402+}
+ - 50 stalled for 18 secs in command: 5 APPEND "INBOX" {1965+}
+ - 52 stalled for 19 secs in command: 3 APPEND "INBOX" "21-Oct-2002 17:49:30 +0200" {3193+}
+ - 61 stalled for 19 secs in command: 5 APPEND "INBOX" {2620+}
+ - 67 stalled for 18 secs in command: 5 APPEND "INBOX" (\Answered \Flagged \Seen \Draft) {2151+}
+ - 74 stalled for 23 secs in command: 3 APPEND "INBOX" (\Answered \Draft) "19-Oct-2002 20:08:34 +0200" {1490+}
+ - 76 stalled for 18 secs in command: 5 APPEND "INBOX" (\Answered \Draft) {1950+}
+ - 102 stalled for 19 secs in command: 2 LIST "" *
+ - 107 stalled for 19 secs in command: 2 LIST "" *
+ - 101 stalled for 19 secs in command: 2 LIST "" *
+ - 89 stalled for 18 secs in command: 5 APPEND "INBOX" {1743+}
+ - 91 stalled for 23 secs in command: 4 APPEND "INBOX" "21-Oct-2002 14:53:07 +0200" {2794+}
+   0    4    3    5    0    0    0    0    0   14   38   2/  2
+ - 81 stalled for 20 secs in command: 4 APPEND "INBOX" (\Answered \Flagged \Seen) "22-Oct-2002 21:51:09 +0200" {3746+}
+ - 29 stalled for 19 secs in command: 5 APPEND "INBOX" (\Flagged $Label1 $Label3 $Label5) "24-Nov-2002 21:01:37 +0100" {2676+}
 
 Totals:
 Logi List Stat Sele Fetc Fet2 Stor Dele Expu Appe Logo 
 100%  50%  50% 100% 100% 100%  50% 100% 100% 100% 100% 
                           30%                  5%      
-3164 1570 1509 3158 3084 4383  555 2491 3084 3146 6328 
+ 113   61   49  106    0    0    0    0    0  100  226 
