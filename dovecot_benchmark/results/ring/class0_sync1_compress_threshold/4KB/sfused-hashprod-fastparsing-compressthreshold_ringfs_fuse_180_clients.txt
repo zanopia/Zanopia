@@ -1,0 +1,113 @@
+Logi List Stat Sele Fetc Fet2 Stor Dele Expu Appe Logo 
+100%  50%  50% 100% 100% 100%  50% 100% 100% 100% 100% 
+                          30%                  5%      
+ 181   55   46  108    0    0    0    0    0    1    2 180/180
+  12   42   36   76    0    0    0    0    0   13   26 180/180
+  30   10    7   21    4    8    1    3    0   45   90 180/180
+  22    6    4   14   11   20    0    7    3   43   86 180/180
+  93   28   28   50   15   26    1   12    6   60  120 180/180
+  12    9   10   22    9    9    1    9    6   14   28 180/180
+  45   21   15   35   10   16    0    9   21   43   86 180/180
+  19   27   28   63   11   11    0   11    4   15   30 180/180
+  35   16   23   34   12   14    0    9   12   35   70 180/180
+  62   15   15   33   12   18    2    7   14   69  138 180/180
+Logi List Stat Sele Fetc Fet2 Stor Dele Expu Appe Logo 
+100%  50%  50% 100% 100% 100%  50% 100% 100% 100% 100% 
+                          30%                  5%      
+  34   23   19   44   19   24    2   17   11   30   60 180/180
+  18    2    4    9    2    2    0    3    5   15   30 180/180
+  28   30   35   70   29   41    2   23   18   28   56 180/180
+   9    0    0    1    1    1    0    1    3    9   18 180/180
+  29    8   14   26   21   24    2   23   15   30   60 180/180
+   4    1    0    1    0    0    0    0    0    3    6 180/180
+  78   40   36   74   35   57    3   22   32   79  158 180/180
+   0    0    0    0    0    0    0    0    0    0    0 180/180
+  25   21   23   37   45   62    2   36   32   33   66 180/180
+  38   20   19   37   22   43    2   12   20   53  106 180/180
+Logi List Stat Sele Fetc Fet2 Stor Dele Expu Appe Logo 
+100%  50%  50% 100% 100% 100%  50% 100% 100% 100% 100% 
+                          30%                  5%      
+   0    0    0    0    0    0    0    0    0    0    0 180/180
+   0    0    0    0    0    0    0    0    0    0    0 180/180
+  23    7    9   13    0    0    0    0    0    2    4 180/180
+   3    1    1    1   12   12    0   12    5    0    0 180/180
+   5   16   18   28   20   20    0   20   13    5   10 180/180
+ - 300 stalled for 16 secs in command: 4 APPEND "INBOX" (\Flagged \Seen \Draft) "20-Mar-2003 11:38:16 +0100" {1787+}
+ - 281 stalled for 16 secs in command: 5 APPEND "INBOX" {4197+}
+ - 407 stalled for 16 secs in command: 5 APPEND "INBOX" () "20-Mar-2003 13:22:28 +0100" {3844+}
+ - 252 stalled for 16 secs in command: 3 APPEND "INBOX" (\Answered \Flagged \Seen) {2997+}
+   0    0    0    0    0    0    0    0    0    0    0 180/180
+ - 300 stalled for 17 secs in command: 4 APPEND "INBOX" (\Flagged \Seen \Draft) "20-Mar-2003 11:38:16 +0100" {1787+}
+ - 281 stalled for 17 secs in command: 5 APPEND "INBOX" {4197+}
+ - 407 stalled for 17 secs in command: 5 APPEND "INBOX" () "20-Mar-2003 13:22:28 +0100" {3844+}
+ - 252 stalled for 17 secs in command: 3 APPEND "INBOX" (\Answered \Flagged \Seen) {2997+}
+  67   17   14   35   22   45    5   16   46   67  134 180/180
+ - 300 stalled for 18 secs in command: 4 APPEND "INBOX" (\Flagged \Seen \Draft) "20-Mar-2003 11:38:16 +0100" {1787+}
+ - 281 stalled for 18 secs in command: 5 APPEND "INBOX" {4197+}
+ - 407 stalled for 18 secs in command: 5 APPEND "INBOX" () "20-Mar-2003 13:22:28 +0100" {3844+}
+ - 252 stalled for 18 secs in command: 3 APPEND "INBOX" (\Answered \Flagged \Seen) {2997+}
+  64   35   35   67   26   44    3   17   31   64  128 180/180
+ - 300 stalled for 19 secs in command: 4 APPEND "INBOX" (\Flagged \Seen \Draft) "20-Mar-2003 11:38:16 +0100" {1787+}
+ - 281 stalled for 19 secs in command: 5 APPEND "INBOX" {4197+}
+ - 407 stalled for 19 secs in command: 5 APPEND "INBOX" () "20-Mar-2003 13:22:28 +0100" {3844+}
+ - 252 stalled for 19 secs in command: 3 APPEND "INBOX" (\Answered \Flagged \Seen) {2997+}
+   0    0    0    0    0    0    0    0    0    0    0 180/180
+ - 300 stalled for 20 secs in command: 4 APPEND "INBOX" (\Flagged \Seen \Draft) "20-Mar-2003 11:38:16 +0100" {1787+}
+ - 281 stalled for 20 secs in command: 5 APPEND "INBOX" {4197+}
+ - 407 stalled for 20 secs in command: 5 APPEND "INBOX" () "20-Mar-2003 13:22:28 +0100" {3844+}
+ - 252 stalled for 20 secs in command: 3 APPEND "INBOX" (\Answered \Flagged \Seen) {2997+}
+  19   22   22   38   37   51    2   34   24   19   38 180/180
+Logi List Stat Sele Fetc Fet2 Stor Dele Expu Appe Logo 
+100%  50%  50% 100% 100% 100%  50% 100% 100% 100% 100% 
+                          30%                  5%      
+   1    0    1    1    2    3    0    2    2    1    2 180/180
+  65   35   35   68   43   64    4   34   45   65  130 180/180
+  11    0    4    4    4    4    0    4    6   12   24 180/180
+  39   14   19   45   52   67    6   40   44   44   88 180/180
+  46   20   19   43   27   47    2   20   28   49   98 180/180
+  21   12   17   24   12   23    2    6    8   22   44 180/180
+  11    0    0    1    1    2    1    0    0    1    2 180/180
+   0    0    0    0    1    1    0    1    0    0    0 180/180
+   4    7    6   18   39   42    0   39   18    4    8 180/180
+  28   16   14   32   24   34    1   18   24   28   56 180/180
+Logi List Stat Sele Fetc Fet2 Stor Dele Expu Appe Logo 
+100%  50%  50% 100% 100% 100%  50% 100% 100% 100% 100% 
+                          30%                  5%      
+  37    8    8   14   11   16    3   10   29   37   74 180/180
+  58   33   33   72   35   58    6   29   43   58  116 180/180
+  42   26   21   45   59   78    3   51   40   44   88 180/180
+  51   21   13   42   29   47    5   22   32   50  100 180/180
+  18    8    9   17   10   14    0    6   10   17   34 180/180
+   0    0    0    0    1    1    0    1    1    0    0 180/180
+  11    4    6    8    6    8    0    5    9   11   22 180/180
+  15    9   13   18   26   33    0   26   22   15   30 180/180
+  71   37   39   76   49   80    9   33   54   71  142 180/180
+   0    0    0    0    0    0    0    0    0    0    0 180/180
+Logi List Stat Sele Fetc Fet2 Stor Dele Expu Appe Logo 
+100%  50%  50% 100% 100% 100%  50% 100% 100% 100% 100% 
+                          30%                  5%      
+  48   28   33   54   60   85    6   50   49   48   96 180/180
+   0    0    0    0    3    3    0    3    0    0    0 180/180
+  29    8    5   13   18   23    1   16   22   29   58 180/180
+  62   35   27   69   49   84    4   35   60   62  124 180/180
+  20    3    6   15    4    5    1    3   11   20   40 180/180
+  33   23   19   45   52   76    4   47   43   35   68 180/180
+   7    4    1    4    1    6    0    2    5    6   12 180/180
+  19    3    7    7    5    6    1    2   11   18   38 180/180
+  48   26   27   57   54   79    4   41   46   49   98 180/180
+  37   20   17   39   29   46    9   25   26   36   72 180/180
+Logi List Stat Sele Fetc Fet2 Stor Dele Expu Appe Logo 
+100%  50%  50% 100% 100% 100%  50% 100% 100% 100% 100% 
+                          30%                  5%      
+   0    0    0    0    5    5    1    4    3    1    2 179/179
+   0    0    0    0    5    5    0    4    5    3    6 176/176
+   0    4    7   12   39   41    1   37   29   23   70 141/141
+   0    2    1    3    5    9    0    8   48   61  128  77/ 77
+   0    0    0    0    1    2    0    3   38   65  130  12/ 12
+   0    0    0    0    0    0    0    0    1    2    4  10/ 10
+
+Totals:
+Logi List Stat Sele Fetc Fet2 Stor Dele Expu Appe Logo 
+100%  50%  50% 100% 100% 100%  50% 100% 100% 100% 100% 
+                          30%                  5%      
+1787  878  868 1783 1139 1648  102  930 1139 1772 3574 
